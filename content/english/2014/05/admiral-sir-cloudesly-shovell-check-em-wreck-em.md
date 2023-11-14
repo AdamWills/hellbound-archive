@@ -1,9 +1,10 @@
 ---
 title: "Admiral Sir Cloudesly Shovell – Check ‘em Before You Wreck ‘em"
+edited: false
 date: "2014-05-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "70s"
   - "admiral-sir-cloudesly-shovell"
   - "iggy-pop"

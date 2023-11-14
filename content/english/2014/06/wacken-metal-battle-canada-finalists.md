@@ -1,10 +1,11 @@
 ---
 title: "Wacken Metal Battle Canada 2014: who are the final combatants?"
+edited: false
 date: "2014-06-03"
-categories: 
+categories:
   - "interviews"
   - "psa"
-tags: 
+tags:
   - "burning-the-day"
   - "exit-strategy"
   - "mutank"

@@ -1,9 +1,10 @@
 ---
 title: "Grime – Circle of Molesters"
+edited: false
 date: "2015-09-01"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blackened-sludge"
   - "death-doom"

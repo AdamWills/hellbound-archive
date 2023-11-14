@@ -1,7 +1,8 @@
 ---
 title: "Smokin' Green's 2010 fundraiser is tonite!"
+edited: false
 date: "2010-11-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

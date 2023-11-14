@@ -1,10 +1,11 @@
 ---
 title: "Ben Miller Band – Choke Cherry Tree LP"
+edited: false
 date: "2018-03-07"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "americana"
   - "ben-miller-band"
   - "country"

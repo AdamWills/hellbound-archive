@@ -1,11 +1,12 @@
 ---
 title: "Motorhead – Aftershock"
+edited: false
 date: "2013-10-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "lemmy"
   - "motorhead"

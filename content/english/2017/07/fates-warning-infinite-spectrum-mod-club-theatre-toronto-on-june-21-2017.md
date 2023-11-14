@@ -1,9 +1,10 @@
 ---
 title: "Fates Warning + Infinite Spectrum @ Mod Club Theatre, Toronto on June 21, 2017"
+edited: false
 date: "2017-07-07"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "fates-warning"
   - "infinite-spectrum"

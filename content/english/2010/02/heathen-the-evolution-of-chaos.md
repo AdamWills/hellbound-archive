@@ -1,11 +1,12 @@
 ---
 title: "Heathen – The Evolution of Chaos"
+edited: false
 date: "2010-02-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "combat"
   - "death-angel"
   - "exodus"

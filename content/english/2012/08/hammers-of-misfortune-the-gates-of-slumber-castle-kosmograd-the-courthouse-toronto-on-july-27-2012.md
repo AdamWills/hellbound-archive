@@ -1,11 +1,12 @@
 ---
 title: "Hammers of Misfortune / The Gates of Slumber / Castle / Kosmograd @ The Courthouse, Toronto ON, July 27, 2012"
+edited: false
 date: "2012-08-22"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "blood-ceremony"
   - "castle"

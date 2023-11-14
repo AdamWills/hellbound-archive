@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogation #4 - Ola Mazzuca"
+edited: false
 date: "2011-06-06"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "anvil"
   - "arch-enemy"
   - "canada-day"

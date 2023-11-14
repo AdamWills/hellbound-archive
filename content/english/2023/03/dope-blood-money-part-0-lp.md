@@ -1,10 +1,11 @@
 ---
 title: "Dope - Blood Money Part 0 LP"
+edited: false
 date: "2023-03-29"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "band"
   - "blood"
   - "dope"

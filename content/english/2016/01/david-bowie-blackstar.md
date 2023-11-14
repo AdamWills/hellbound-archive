@@ -1,7 +1,8 @@
 ---
 title: "David Bowie – Blackstar"
+edited: false
 date: "2016-01-15"
-categories: 
+categories:
   - "reviews-audio"
 ---
 

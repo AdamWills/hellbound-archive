@@ -1,11 +1,12 @@
 ---
 title: "Introducing Blasphemous Meals: A heavy metal culinary lesson through Annick Giroux’s <em>Hellbent For Cooking</em>"
+edited: false
 date: "2011-01-19"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "annick-giroux"
   - "anthrax"
   - "bazillion-points"

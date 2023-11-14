@@ -1,9 +1,10 @@
 ---
 title: "Valkyrie - Shadows"
+edited: false
 date: "2015-07-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "budgie"
   - "doom-metal"

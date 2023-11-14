@@ -1,10 +1,11 @@
 ---
 title: "Deathcrawl – Acceptable Level of Misery"
+edited: false
 date: "2017-11-10"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blackened-sludge"
   - "death-metal"
   - "deathcrawl"

@@ -1,11 +1,12 @@
 ---
 title: "Charred Walls of the Damned/ Piledriver/ Ash Lee Blade @ The Opera House, Toronto ON July 4, 2010"
+edited: false
 date: "2010-07-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "ash-lee-blade"
   - "charred-walls-of-the-damned"
   - "concert-review"

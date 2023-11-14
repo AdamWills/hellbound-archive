@@ -1,9 +1,10 @@
 ---
 title: "Blues from Laurel Canyon: My Life as a Bluesman"
+edited: false
 date: "2020-01-07"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "blues"
   - "book-review"
   - "review"

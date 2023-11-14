@@ -1,11 +1,12 @@
 ---
 title: "Baptists—s/t 7-inch"
+edited: false
 date: "2011-06-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "baptists"
   - "jesus-lizard"
   - "noise-rock"

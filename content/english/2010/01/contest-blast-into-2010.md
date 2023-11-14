@@ -1,11 +1,12 @@
 ---
 title: "CONTEST: Blast Into 2010! Huge 40 CD+ Giveaway!"
+edited: false
 date: "2010-01-01"
-categories: 
+categories:
   - "blogs"
   - "headline"
   - "editors_blog"
-tags: 
+tags:
   - "afm"
   - "augury"
   - "best-of-2009"

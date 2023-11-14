@@ -1,9 +1,10 @@
 ---
 title: "Orange Goblin – Back from the Abyss"
+edited: false
 date: "2014-10-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "clutch"
   - "doom"

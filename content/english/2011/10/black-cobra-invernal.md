@@ -1,11 +1,12 @@
 ---
 title: "Black Cobra – Invernal"
+edited: false
 date: "2011-10-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atlas-moth"
   - "baroness"
   - "black-cobra"

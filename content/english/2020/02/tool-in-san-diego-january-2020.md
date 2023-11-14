@@ -1,9 +1,10 @@
 ---
 title: "Tool in San Diego, January 2020"
+edited: false
 date: "2020-02-04"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "live"
   - "review"
   - "tool"
@@ -30,38 +31,38 @@ After playing eleven songs, they finally took a needed intermission. The tassel 
 Walking out of the venue, people were talking about how amazing the show was and how great Tool did. These fans have shown time and time again that Tool is a band to go see if they are ever in your area. Tool has been around for three decades, and I’m sure they are going for another. When they come around again, you can bet I’ll do my best to see them.
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/16-IMG_1795.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/12-B46A6854.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/11-B46A6843.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/10-B46A6841.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/5-B46A6780.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/9-B46A6827.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/3-B46A6759.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/1-B46A6748.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/13-B46A6867.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/18-IMG_1842.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/14-B46A6872.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/15-B46A6921.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/17-IMG_1833.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/4-B46A6777.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/6-B46A6783.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/7-B46A6795.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/02/2-B46A6757.jpeg)
-    
+
 
 _“Everything revolves around music when it comes to Tool.” – Maynard James Keenan_

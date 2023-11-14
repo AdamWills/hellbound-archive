@@ -1,7 +1,8 @@
 ---
 title: "Dark Tranquillity in Saarbrücken, April 2018"
+edited: false
 date: "2018-05-10"
-categories: 
+categories:
   - "reviews-live"
 ---
 

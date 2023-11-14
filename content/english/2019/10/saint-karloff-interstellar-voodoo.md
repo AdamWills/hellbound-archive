@@ -1,10 +1,11 @@
 ---
 title: "Saint Karloff – Interstellar Voodoo"
+edited: false
 date: "2019-10-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "post-rock"

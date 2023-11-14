@@ -1,9 +1,10 @@
 ---
 title: "Old Corpse Road – Of Campfires and Evening Mists"
+edited: false
 date: "2016-09-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "old-corpse-road"
   - "review"

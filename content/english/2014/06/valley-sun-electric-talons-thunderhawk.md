@@ -1,9 +1,10 @@
 ---
 title: "Valley of the Sun – Electric Talons of the Thunderhawk"
+edited: false
 date: "2014-06-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "desert-rock"
   - "fuzz-metal"

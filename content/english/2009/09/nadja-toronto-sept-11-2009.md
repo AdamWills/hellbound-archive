@@ -1,11 +1,12 @@
 ---
 title: "Nadja/Picastro @ the Tranzac, Toronto, ON, September 11, 2009"
+edited: false
 date: "2009-09-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "live"
   - "live-review"
   - "nadja"

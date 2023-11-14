@@ -1,9 +1,10 @@
 ---
 title: "Interview with Mike Hill of Tombs"
+edited: false
 date: "2014-06-10"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "interview"
   - "mike-hill"
   - "relapse"

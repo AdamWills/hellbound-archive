@@ -1,11 +1,12 @@
 ---
 title: "Rotten Sound - Species At War"
+edited: false
 date: "2013-01-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "grind"
   - "matt-hinch"
   - "relapse-records"

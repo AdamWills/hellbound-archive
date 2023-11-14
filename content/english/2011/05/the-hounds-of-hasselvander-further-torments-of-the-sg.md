@@ -1,11 +1,12 @@
 ---
 title: "The Hounds of Hasselvander - Further Torments of the SG 12\""
+edited: false
 date: "2011-05-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "doom"
   - "exciter"
   - "humble-pie"

@@ -1,10 +1,11 @@
 ---
 title: "Comet Control – Center of the Maze"
+edited: false
 date: "2016-06-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canuck-metal"
   - "comet-control"
   - "psych-pop"

@@ -1,11 +1,12 @@
 ---
 title: "Skyclad: In The...All Together"
+edited: false
 date: "2009-08-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "folk-metal"
   - "scarlet"
   - "skyclad"

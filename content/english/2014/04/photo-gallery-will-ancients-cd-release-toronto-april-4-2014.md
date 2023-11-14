@@ -1,9 +1,10 @@
 ---
 title: "Photo gallery: Will of the Ancients CD release, Toronto, April 4, 2014"
+edited: false
 date: "2014-04-18"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "cd-release"
   - "danielle-griscti"
   - "live-metal"

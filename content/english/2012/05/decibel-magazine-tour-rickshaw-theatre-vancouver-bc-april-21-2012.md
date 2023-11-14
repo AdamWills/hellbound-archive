@@ -1,11 +1,12 @@
 ---
 title: "Decibel Magazine Tour @ Rickshaw Theatre, Vancouver BC, April 21, 2012"
+edited: false
 date: "2012-05-04"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "behemoth"
   - "blasphemy"
   - "decibel-magazine"

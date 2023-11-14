@@ -1,10 +1,11 @@
 ---
 title: "Gozu – Revival"
+edited: false
 date: "2016-05-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gozu"
   - "heavy-rock"
   - "review"

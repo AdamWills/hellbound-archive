@@ -1,10 +1,11 @@
 ---
 title: "Horehound – Holocene"
+edited: false
 date: "2018-08-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doom-metal"
   - "horehound"

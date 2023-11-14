@@ -1,11 +1,12 @@
 ---
 title: "This Small Stone showcase is tonite!  (It's also in Boston...)"
+edited: false
 date: "2012-11-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "boston"
   - "detroit"
   - "freedom-hawk"

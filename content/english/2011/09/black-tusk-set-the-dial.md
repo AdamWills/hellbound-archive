@@ -1,11 +1,12 @@
 ---
 title: "Black Tusk – Set the Dial"
+edited: false
 date: "2011-09-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "black-tusk"
   - "glenn-danzig"

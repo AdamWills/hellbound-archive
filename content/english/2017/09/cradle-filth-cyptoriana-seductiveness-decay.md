@@ -1,9 +1,10 @@
 ---
 title: "Cradle of Filth – Cyptoriana: The Seductiveness of Decay"
+edited: false
 date: "2017-09-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "cradle-of-filth"
   - "dark-metal"
   - "gothic-metal"

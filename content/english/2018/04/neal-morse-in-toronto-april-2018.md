@@ -1,9 +1,10 @@
 ---
 title: "Neal Morse in Toronto, April 2018"
+edited: false
 date: "2018-04-30"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "live"
   - "neal-morse"

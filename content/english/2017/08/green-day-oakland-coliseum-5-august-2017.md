@@ -1,9 +1,10 @@
 ---
 title: "Green Day, Oakland Coliseum, 5 August 2017"
+edited: false
 date: "2017-08-08"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "green-day"
   - "live"
   - "oakland"

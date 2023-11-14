@@ -1,11 +1,12 @@
 ---
 title: "Postcards From Natalie Zed, Part 2"
+edited: false
 date: "2010-03-26"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "byzantine"
   - "darkane"

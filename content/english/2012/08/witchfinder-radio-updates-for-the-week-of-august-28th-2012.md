@@ -1,7 +1,8 @@
 ---
 title: "Witchfinder Radio Updates For the Week of August 28th, 2012"
+edited: false
 date: "2012-08-31"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"

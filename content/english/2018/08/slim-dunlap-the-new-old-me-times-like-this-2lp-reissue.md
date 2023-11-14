@@ -1,9 +1,10 @@
 ---
 title: "Slim Dunlap – The New Old Me / Times Like This (2LP reissue)"
+edited: false
 date: "2018-08-10"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
   - "slim-dunlap"
   - "vinyl"

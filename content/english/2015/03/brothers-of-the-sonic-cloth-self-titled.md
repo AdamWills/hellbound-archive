@@ -1,9 +1,10 @@
 ---
 title: "Brothers of the Sonic Cloth – self-titled"
+edited: false
 date: "2015-03-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "brothers-of-the-sonic-cloth"
   - "doom"

@@ -1,11 +1,12 @@
 ---
 title: "Mike Dean of Corrosion of Conformity: The Hellbound Audio Interview"
+edited: false
 date: "2012-01-20"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "candlelight-records"
   - "corrosion-of-conformity"
   - "metal"

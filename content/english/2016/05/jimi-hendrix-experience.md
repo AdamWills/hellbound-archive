@@ -1,9 +1,10 @@
 ---
 title: "Jimi Hendrix Experience – Smash Hits LP"
+edited: false
 date: "2016-05-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "jimi-hendrix"
   - "review"
   - "vinyl"

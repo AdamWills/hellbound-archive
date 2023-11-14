@@ -1,9 +1,10 @@
 ---
 title: "Horrendous – Anareta"
+edited: false
 date: "2015-11-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "death-metal"
   - "horrendous"

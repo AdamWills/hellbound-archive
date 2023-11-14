@@ -1,11 +1,12 @@
 ---
 title: "Mares of Thrace/ Spitfist/ Drunk Hussy @ Rancho Relaxo, Toronto ON, August 14, 2010"
+edited: false
 date: "2010-09-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "canada"
   - "doom-metal"
   - "drunk-hussy"

@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Graveyard/Biblical/Low Orbit @ The Garrison, May 22, 2015"
+edited: false
 date: "2015-05-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "biblical"
   - "graveyard"
   - "low-orbit"

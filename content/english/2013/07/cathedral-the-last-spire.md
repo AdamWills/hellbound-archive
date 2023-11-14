@@ -1,11 +1,12 @@
 ---
 title: "Cathedral - The Last Spire"
+edited: false
 date: "2013-07-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "autopsy"
   - "cathedral"
   - "doom"

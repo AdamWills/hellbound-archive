@@ -1,7 +1,8 @@
 ---
 title: "Freedom to rock?  Apparently not..."
+edited: false
 date: "2010-05-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

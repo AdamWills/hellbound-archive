@@ -1,9 +1,10 @@
 ---
 title: "Hellbound vs Professor Pizza – The Axeslasher Interview"
+edited: false
 date: "2014-09-22"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "axeslasher"
   - "denver-black-sky"
   - "horror"

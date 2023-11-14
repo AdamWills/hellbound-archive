@@ -1,11 +1,12 @@
 ---
 title: "Lifeless - Godconstruct"
+edited: false
 date: "2013-03-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "dismember"
   - "fda-rekotz"

@@ -1,11 +1,12 @@
 ---
 title: "Southern Cross: Down Below"
+edited: false
 date: "2009-12-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "progressive-metal"
   - "progressive-rock"

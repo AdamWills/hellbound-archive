@@ -1,9 +1,10 @@
 ---
 title: "Enslaved and Yob in Toronto - March 19, 2015"
+edited: false
 date: "2015-04-20"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "concert-photos"
   - "concert-review"

@@ -1,11 +1,12 @@
 ---
 title: "Varg Vikernes of Burzum: The Hellbound Interview"
+edited: false
 date: "2011-03-09"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "burzum"
   - "hellbound-interview"
   - "interview"

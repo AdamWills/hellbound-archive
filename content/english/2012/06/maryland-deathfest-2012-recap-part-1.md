@@ -1,12 +1,13 @@
 ---
 title: "Hellbound invades Maryland Deathfest 2012, Part 1"
+edited: false
 date: "2012-06-19"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "absu"
   - "agalloch"
   - "astronauts"

@@ -1,12 +1,13 @@
 ---
 title: "Motörhead/ Clutch @ Vogue Theater, Vancouver BC, February 7, 2011"
+edited: false
 date: "2011-02-14"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "clutch"
   - "kyle-harcott"
   - "motorhead"

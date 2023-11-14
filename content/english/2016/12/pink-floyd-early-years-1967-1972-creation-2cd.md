@@ -1,9 +1,10 @@
 ---
 title: "Pink Floyd – The Early Years, 1967-1972, Cre/ation (2CD)"
+edited: false
 date: "2016-12-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "pink-floyd"
   - "progressive-rock"
   - "psychedelic-rock"

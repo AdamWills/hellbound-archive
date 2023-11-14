@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: BLACK TUSK/Whores/WhiteNails @ Lee's Palace, August 20, 2018"
+edited: false
 date: "2018-08-22"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-tusk"
   - "concert-photography"
   - "concert-photos"

@@ -1,11 +1,12 @@
 ---
 title: "16 – Deep Cuts from Dark Clouds"
+edited: false
 date: "2012-04-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "16"
   - "crowbar"
   - "eyeategod"

@@ -1,11 +1,12 @@
 ---
 title: "Ulver: The Norwegian National Opera DVD"
+edited: false
 date: "2012-02-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "craig-haze"
   - "dvd"
   - "kscope"

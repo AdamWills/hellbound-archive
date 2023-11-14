@@ -1,9 +1,10 @@
 ---
 title: "Fucked and Bound – Suffrage LP"
+edited: false
 date: "2018-04-13"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "fucked-and-bound"
   - "grind"
   - "hardcore"

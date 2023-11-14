@@ -1,11 +1,12 @@
 ---
 title: "Trouble: Plastic Green Head (reissue)"
+edited: false
 date: "2010-03-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "american"
   - "century-media"
   - "doom"

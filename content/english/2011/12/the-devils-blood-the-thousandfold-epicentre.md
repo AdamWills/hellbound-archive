@@ -1,11 +1,12 @@
 ---
 title: "The Devil’s Blood – The Thousandfold Epicentre"
+edited: false
 date: "2011-12-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blood-ceremony"
   - "ghost"
   - "gruesome-greg"

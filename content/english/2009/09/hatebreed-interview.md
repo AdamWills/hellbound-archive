@@ -1,10 +1,11 @@
 ---
 title: "Hatebreed: Interview With Jamey Jasta"
+edited: false
 date: "2009-09-30"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "e1-records"
   - "hardcore"
   - "hatebreed"

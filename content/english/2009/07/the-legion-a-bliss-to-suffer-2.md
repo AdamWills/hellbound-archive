@@ -1,11 +1,12 @@
 ---
 title: "The Legion: A Bliss To Suffer"
+edited: false
 date: "2009-07-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blackmetal"
   - "listenable-records"
   - "sweden"

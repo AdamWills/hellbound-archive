@@ -1,10 +1,11 @@
 ---
 title: "mssv - Human Reaction LP"
+edited: false
 date: "2023-10-08"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "baggetta"
   - "big"
   - "ego"

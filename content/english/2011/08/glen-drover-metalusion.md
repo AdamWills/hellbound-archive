@@ -1,11 +1,12 @@
 ---
 title: "Glen Drover - Metalusion"
+edited: false
 date: "2011-08-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "frank-zappa"
   - "glen-drover"
   - "instrumental"

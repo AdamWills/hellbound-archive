@@ -1,9 +1,10 @@
 ---
 title: "Art Bergmann – The Apostate LP"
+edited: false
 date: "2018-04-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-rock"
   - "art-bergmann"
   - "folk-rock"

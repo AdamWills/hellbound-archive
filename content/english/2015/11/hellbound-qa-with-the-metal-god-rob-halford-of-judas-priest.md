@@ -1,9 +1,10 @@
 ---
 title: "Hellbound Q&A with the Metal God: Rob Halford of Judas Priest"
+edited: false
 date: "2015-11-12"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "interview"
   - "judas-priest"
   - "redeemer-of-souls"

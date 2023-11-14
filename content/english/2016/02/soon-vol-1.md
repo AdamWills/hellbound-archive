@@ -1,10 +1,11 @@
 ---
 title: "Soon – Vol 1"
+edited: false
 date: "2016-02-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy"
   - "metal"

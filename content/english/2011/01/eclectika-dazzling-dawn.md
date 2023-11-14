@@ -1,11 +1,12 @@
 ---
 title: "Eclectika – <em>Dazzling Dawn</em>"
+edited: false
 date: "2011-01-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "eclectika"
   - "morbid-angel"

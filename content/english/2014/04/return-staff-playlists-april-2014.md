@@ -1,10 +1,11 @@
 ---
 title: "Return of the staff playlists: April 2014"
+edited: false
 date: "2014-04-10"
-categories: 
+categories:
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "adam-wills"
   - "gruesome-greg"
   - "jonathan-smith"

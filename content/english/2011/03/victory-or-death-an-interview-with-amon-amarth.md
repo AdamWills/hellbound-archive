@@ -1,12 +1,13 @@
 ---
 title: "Victory or Death! An Interview With Amon Amarth"
+edited: false
 date: "2011-03-11"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "70000-tons-of-metal"
   - "adrien-begrand"
   - "amon-amarth"

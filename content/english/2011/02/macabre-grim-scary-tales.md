@@ -1,11 +1,12 @@
 ---
 title: "Macabre – Grim Scary Tales"
+edited: false
 date: "2011-02-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gruesome-greg"
   - "macabre"
   - "venom"

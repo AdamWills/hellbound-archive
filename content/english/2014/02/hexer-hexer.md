@@ -1,11 +1,12 @@
 ---
 title: "Hexer – Hexer"
+edited: false
 date: "2014-02-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "gilead-media"

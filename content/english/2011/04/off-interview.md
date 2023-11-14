@@ -1,11 +1,12 @@
 ---
 title: "It's Time To Go OFF!: One-on-one with OFF!'s Keith Morris"
+edited: false
 date: "2011-04-12"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "circle-jerks"
   - "epitaph"
   - "keith-morris"

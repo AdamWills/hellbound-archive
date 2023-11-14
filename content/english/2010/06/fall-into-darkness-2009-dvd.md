@@ -1,11 +1,12 @@
 ---
 title: "Fall Into Darkness 2009 DVD"
+edited: false
 date: "2010-06-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "agalloch"
   - "agolloch"
   - "amber-asylum"

@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: CULT OF LUNA/Whores @ Mod Club, August 22, 2017"
+edited: false
 date: "2017-08-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "cult-of-luna"

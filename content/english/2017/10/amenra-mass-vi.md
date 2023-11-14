@@ -1,10 +1,11 @@
 ---
 title: "Amenra – Mass VI"
+edited: false
 date: "2017-10-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "amenra"
   - "heavy"

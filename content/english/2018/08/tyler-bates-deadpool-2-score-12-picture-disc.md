@@ -1,9 +1,10 @@
 ---
 title: "Tyler Bates – Deadpool 2 score (12\" picture disc)"
+edited: false
 date: "2018-08-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "deadpool"
   - "film-score"
   - "review"

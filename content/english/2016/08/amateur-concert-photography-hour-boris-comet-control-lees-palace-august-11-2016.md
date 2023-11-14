@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: BORIS/Comet Control @ Lee's Palace, August 11, 2016"
+edited: false
 date: "2016-08-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "boris"
   - "comet-control"
   - "concert-photography"

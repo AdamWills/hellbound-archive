@@ -1,9 +1,10 @@
 ---
 title: "Destruction + Jungle Rot + Warbringer @ The Mod Club Theatre, Toronto, May 30, 2017"
+edited: false
 date: "2017-06-02"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "destruction"
   - "jungle-rot"

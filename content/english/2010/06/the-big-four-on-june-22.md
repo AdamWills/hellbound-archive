@@ -1,12 +1,13 @@
 ---
 title: "Metallica, Slayer, Megadeth, Anthrax Are Coming To a Canadian Theater Near You June 22nd!"
+edited: false
 date: "2010-06-09"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "reviews-live"
-tags: 
+tags:
   - "anthrax"
   - "contest"
   - "megadeth"

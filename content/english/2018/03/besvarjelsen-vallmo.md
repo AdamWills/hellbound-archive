@@ -1,10 +1,11 @@
 ---
 title: "Besvärjelsen – Vallmo"
+edited: false
 date: "2018-03-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "besvarjelsen"
   - "doom"

@@ -1,11 +1,12 @@
 ---
 title: "Revitalizing the El Mocambo through Rock and Doc"
+edited: false
 date: "2013-02-20"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "el-mocambo"
   - "film"
   - "ola-mazzuca"

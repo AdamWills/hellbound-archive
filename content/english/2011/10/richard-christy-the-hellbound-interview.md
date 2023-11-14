@@ -1,11 +1,12 @@
 ---
 title: "Richard Christy: The Hellbound Interview"
+edited: false
 date: "2011-10-19"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "brian-slagel"
   - "cannibal-corpse"
   - "charred-walls-of-the-damned"

@@ -1,7 +1,8 @@
 ---
 title: "A tale of two cities (and their overambitious musicfests this evening)"
+edited: false
 date: "2010-08-14"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

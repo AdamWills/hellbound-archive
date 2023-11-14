@@ -1,9 +1,10 @@
 ---
 title: "The Jon Spencer Blues Explosion: Freedom Tower – No Wave Dance Party 2015"
+edited: false
 date: "2015-03-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "jon-spencer-blues-explosion"
   - "rock"

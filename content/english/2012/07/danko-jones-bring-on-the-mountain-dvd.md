@@ -1,11 +1,12 @@
 ---
 title: "Danko Jones - Bring On The Mountain DVD"
+edited: false
 date: "2012-07-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "danko-jones"
   - "guns-n-roses"
   - "kiss"

@@ -1,10 +1,11 @@
 ---
 title: "High Spirits: 4 song demo 2009"
+edited: false
 date: "2009-06-03"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "demo"
   - "high-spirits"
   - "nwobhm"

@@ -1,9 +1,10 @@
 ---
 title: "Cancer Bats – The Spark That Moves LP"
+edited: false
 date: "2019-01-29"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hardcore"
   - "metal"
   - "punk"

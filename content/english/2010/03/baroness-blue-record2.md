@@ -1,11 +1,12 @@
 ---
 title: "Baroness – Blue Record"
+edited: false
 date: "2010-03-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "metal"
   - "relapse"

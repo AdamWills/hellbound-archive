@@ -1,9 +1,10 @@
 ---
 title: "Interview: Todd Stern of PSYCROPTIC"
+edited: false
 date: "2019-05-02"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "interview"
   - "metal"
@@ -17,13 +18,13 @@ Interview recorded April 25, 2019 at the Metro Opera House in Oakland, Californi
 
 **Psycroptic is:**
 
-• Dave Haley - drums  
-• Joe Haley - guitar  
-• Jason Peppiatt - vocals  
+• Dave Haley - drums
+• Joe Haley - guitar
+• Jason Peppiatt - vocals
 • Todd Stern - bass guitar
 
-[facebook.com/psycroptic](http://facebook.com/psycroptic)  
-[twitter.com/psycroptic](http://twitter.com/psycroptic)  
+[facebook.com/psycroptic](http://facebook.com/psycroptic)
+[twitter.com/psycroptic](http://twitter.com/psycroptic)
 [instagram.com/psycroptic\_official](http://instagram.com/psycroptic_official)
 
 ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Psycroptic-tour-2019.jpg)

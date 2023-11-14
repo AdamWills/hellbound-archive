@@ -1,10 +1,11 @@
 ---
 title: "WACKEN METAL BATTLE CANADA returns"
+edited: false
 date: "2017-11-17"
-categories: 
+categories:
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "competition"
   - "festival"
   - "heavy-metal"

@@ -1,11 +1,12 @@
 ---
 title: "UNLEASH THE ARCHERS, WHO KNOW NO REINS"
+edited: false
 date: "2018-01-19"
-categories: 
+categories:
   - "blogs"
   - "canadian-metal"
   - "features"
-tags: 
+tags:
   - "canadian-metal"
   - "heavy-metal"
   - "unleash-the-archers"

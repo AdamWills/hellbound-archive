@@ -1,11 +1,12 @@
 ---
 title: "COUGH / THE WOUNDED KINGS: An Introduction To The Black Arts"
+edited: false
 date: "2011-02-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "buried-at-sea"
   - "buzzoven"
   - "cough"

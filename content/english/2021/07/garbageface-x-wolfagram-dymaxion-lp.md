@@ -1,9 +1,10 @@
 ---
 title: "Garbageface x Wolfagram - Dymaxion LP"
+edited: false
 date: "2021-07-30"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "dymaxion"
   - "garbageface"
   - "rap-will-eat-itself-records"

@@ -1,9 +1,10 @@
 ---
 title: "Harangue CD release show Friday, June 27th @ The Garrison, Toronto"
+edited: false
 date: "2014-07-17"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "album-release-show"
   - "concert-photos"
   - "death-metal"

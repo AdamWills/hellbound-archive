@@ -1,11 +1,12 @@
 ---
 title: "Scorpions - Comeblack"
+edited: false
 date: "2012-02-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blackout"
   - "comeblack"
   - "cover-album"

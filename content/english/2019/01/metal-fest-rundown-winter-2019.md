@@ -1,11 +1,12 @@
 ---
 title: "Metal Fest Rundown - Winter 2019"
+edited: false
 date: "2019-01-25"
-categories: 
+categories:
   - "features"
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "festivals"
   - "metal"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Today Is the Day – Animal Mother"
+edited: false
 date: "2014-10-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "post-hardcore"
   - "post-sludge"

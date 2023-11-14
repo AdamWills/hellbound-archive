@@ -1,10 +1,11 @@
 ---
 title: "Superjoint – Caught Up in the Gears of Application"
+edited: false
 date: "2016-11-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "metal"
   - "review"

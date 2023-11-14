@@ -1,11 +1,12 @@
 ---
 title: "Decibel Magazine Tour @ Amos Southend, Charlotte, NC, May 4, 2012"
+edited: false
 date: "2012-08-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "angel-witch"
   - "behemoth"
   - "blackened-death-metal"

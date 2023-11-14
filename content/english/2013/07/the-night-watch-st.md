@@ -1,11 +1,12 @@
 ---
 title: "The Night Watch - s/t"
+edited: false
 date: "2013-07-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "canada"
   - "canadian-metal"

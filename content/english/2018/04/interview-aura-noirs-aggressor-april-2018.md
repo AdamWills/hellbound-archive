@@ -1,10 +1,11 @@
 ---
 title: "INTERVIEW: AURA NOIR'S AGGRESSOR, APRIL 2018"
+edited: false
 date: "2018-04-20"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "2018"
   - "aggressor"
   - "aura-noir"

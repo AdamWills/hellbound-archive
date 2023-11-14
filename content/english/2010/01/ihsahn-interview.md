@@ -1,11 +1,12 @@
 ---
 title: "Bringing New Energy Back to the Barren Lands: An Interview With Ihsahn"
+edited: false
 date: "2010-01-25"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-metal"
   - "candlelight-usa"
   - "dream-theater"

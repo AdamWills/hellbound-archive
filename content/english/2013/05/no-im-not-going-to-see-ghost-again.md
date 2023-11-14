@@ -1,11 +1,12 @@
 ---
 title: "No, I'm not going to see Ghost again..."
+edited: false
 date: "2013-05-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gene-simmons"
   - "ghost"
   - "ghost-b-c"

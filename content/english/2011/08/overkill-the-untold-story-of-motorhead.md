@@ -1,11 +1,12 @@
 ---
 title: "Overkill: The Untold Story of Motorhead By Joel McIver"
+edited: false
 date: "2011-08-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "black-sabbath"
   - "glenn-hughes"
   - "hawkwind"

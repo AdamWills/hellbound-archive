@@ -1,11 +1,12 @@
 ---
 title: "Just got back from Calgary–and boy, is my wallet tired! Pt 2"
+edited: false
 date: "2011-07-09"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "calgary"
   - "faith-no-more"
   - "gruesome-greg"

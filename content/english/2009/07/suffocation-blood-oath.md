@@ -1,11 +1,12 @@
 ---
 title: "Suffocation: Blood Oath"
+edited: false
 date: "2009-07-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "nuclear-blast"
   - "suffocation"

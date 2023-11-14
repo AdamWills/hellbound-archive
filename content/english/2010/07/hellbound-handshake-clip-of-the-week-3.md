@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Handshake Clip Of The Week: PUTRESCENCE Live at MDF 2010"
+edited: false
 date: "2010-07-03"
-categories: 
+categories:
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "canada"
   - "death-metal"
   - "grindcore"

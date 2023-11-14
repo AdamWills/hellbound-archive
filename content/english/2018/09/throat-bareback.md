@@ -1,9 +1,10 @@
 ---
 title: "Throat - Bareback"
+edited: false
 date: "2018-09-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "indie-rock"
   - "noise-rock"
   - "post-hardcore"

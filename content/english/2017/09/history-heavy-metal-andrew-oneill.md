@@ -1,9 +1,10 @@
 ---
 title: "A History of Heavy Metal by Andrew O’Neill"
+edited: false
 date: "2017-09-15"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "heavy-metal"
   - "history"

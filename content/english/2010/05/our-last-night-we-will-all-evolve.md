@@ -1,11 +1,12 @@
 ---
 title: "Our Last Night - We Will All Evolve"
+edited: false
 date: "2010-05-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "epitaph"
   - "metal"
   - "metalcore"

@@ -1,10 +1,11 @@
 ---
 title: "Spitting Image - Full Sun LP"
+edited: false
 date: "2023-07-27"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "full-sun"
   - "rock"
   - "slovenly-recordings"

@@ -1,9 +1,10 @@
 ---
 title: "Secret Cutter – Self Titled"
+edited: false
 date: "2014-08-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bandcamp"
   - "discharge"

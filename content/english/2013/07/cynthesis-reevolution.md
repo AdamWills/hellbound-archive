@@ -1,11 +1,12 @@
 ---
 title: "Cynthesis - ReEvolution"
+edited: false
 date: "2013-07-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cynthesis"
   - "enchant"
   - "hellbound-ca-hellbound-metal"

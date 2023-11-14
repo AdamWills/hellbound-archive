@@ -1,11 +1,12 @@
 ---
 title: "Dethklok/Mastodon @ Sound Academy, Toronto ON, October 23, 2009"
+edited: false
 date: "2009-11-02"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "converge"
   - "dethklok"

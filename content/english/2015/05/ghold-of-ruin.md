@@ -1,9 +1,10 @@
 ---
 title: "Ghold – Of Ruin"
+edited: false
 date: "2015-05-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "death-doom"
   - "doom"

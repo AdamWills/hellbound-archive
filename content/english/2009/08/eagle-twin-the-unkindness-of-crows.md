@@ -1,11 +1,12 @@
 ---
 title: "Eagle Twin: The Unkindness of Crows"
+edited: false
 date: "2009-08-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "eagle-twin"
   - "southern-lord"

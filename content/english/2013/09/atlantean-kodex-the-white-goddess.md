@@ -1,11 +1,12 @@
 ---
 title: "Atlantean Kodex – The White Goddess"
+edited: false
 date: "2013-09-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "20-buck-spin"
   - "argus"
   - "atlantean-kodex"

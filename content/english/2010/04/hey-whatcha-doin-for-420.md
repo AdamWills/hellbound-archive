@@ -1,7 +1,8 @@
 ---
 title: "Hey, whatcha doin' for 4/20?"
+edited: false
 date: "2010-04-17"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

@@ -1,9 +1,10 @@
 ---
 title: "Hammer Complete by Howard Maxford"
+edited: false
 date: "2019-03-14"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "cinema"

@@ -1,7 +1,8 @@
 ---
 title: "Sex Pistols - Never Mind The Bollocks..."
+edited: false
 date: "2020-06-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

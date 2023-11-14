@@ -1,11 +1,12 @@
 ---
 title: "Saturday nite in Montreal--my liver is doomed!"
+edited: false
 date: "2010-12-11"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blood-ceremony"
   - "cauchemar"
   - "gruesome-greg"

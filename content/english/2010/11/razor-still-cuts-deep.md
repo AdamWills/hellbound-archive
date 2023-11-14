@@ -1,11 +1,12 @@
 ---
 title: "Razor still cuts deep!"
+edited: false
 date: "2010-11-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "anvil"
   - "black-metal"
   - "cauldron"

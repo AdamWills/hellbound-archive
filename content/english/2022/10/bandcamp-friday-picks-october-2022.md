@@ -1,12 +1,13 @@
 ---
 title: "Bandcamp Friday Picks - October 2022"
+edited: false
 date: "2022-10-07"
-categories: 
+categories:
   - "blogs"
   - "psa"
   - "reviews-audio"
   - "staff_picks"
-tags: 
+tags:
   - "artist-support"
   - "bandcamp"
   - "bandcamp-friday"

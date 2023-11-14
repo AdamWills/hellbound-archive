@@ -1,9 +1,10 @@
 ---
 title: "Hitler’s Invasion of East Anglia 1940. An Historical Cover Up?"
+edited: false
 date: "2020-01-22"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "history"

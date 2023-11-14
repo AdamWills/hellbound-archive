@@ -1,12 +1,13 @@
 ---
 title: "Watch Monster Truck live from Download Festival 2013"
+edited: false
 date: "2013-07-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "canada"
   - "download-festival"
   - "hamilton"

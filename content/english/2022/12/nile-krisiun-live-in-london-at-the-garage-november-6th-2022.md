@@ -1,12 +1,13 @@
 ---
 title: "Nile & Krisiun Live in London at The Garage, November 6th 2022"
+edited: false
 date: "2022-12-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "reviews-live"
-tags: 
+tags:
   - "krisiun"
   - "live-review"
   - "nile"

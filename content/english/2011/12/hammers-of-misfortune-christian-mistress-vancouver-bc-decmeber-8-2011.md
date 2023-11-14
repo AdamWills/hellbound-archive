@@ -1,11 +1,12 @@
 ---
 title: "Hammers Of Misfortune / Christian Mistress @ Bitmore Cabaret, Vancouver BC, Decmeber 8, 2011"
+edited: false
 date: "2011-12-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "bison-bc"
   - "christian-mistress"
   - "hammers-of-misfortune"

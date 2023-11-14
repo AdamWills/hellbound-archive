@@ -1,7 +1,8 @@
 ---
 title: "Taake + Helheim @ Velvet Underground, Toronto"
+edited: false
 date: "2017-07-03"
-categories: 
+categories:
   - "reviews-live"
 ---
 

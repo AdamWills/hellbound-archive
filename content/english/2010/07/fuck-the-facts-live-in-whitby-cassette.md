@@ -1,11 +1,12 @@
 ---
 title: "Fuck The Facts – Live In Whitby cassette"
+edited: false
 date: "2010-07-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "cassette"
   - "fuck-the-facts"

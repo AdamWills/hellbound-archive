@@ -1,9 +1,10 @@
 ---
 title: "Tylor Dory Trio – Carried Away"
+edited: false
 date: "2015-11-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "alternative-rock"
   - "edmonton"

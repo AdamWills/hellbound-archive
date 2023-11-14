@@ -1,9 +1,10 @@
 ---
 title: "Lord of the Lost | 04.10.2018 | Frankfurt"
+edited: false
 date: "2018-10-09"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "dark-metal"
   - "live"

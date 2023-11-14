@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: October 24th, 2010 Playlist"
+edited: false
 date: "2010-10-27"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "absu"
   - "agalloch"
   - "albert-mansour"

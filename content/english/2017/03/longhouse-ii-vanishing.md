@@ -1,10 +1,11 @@
 ---
 title: "Longhouse – II: Vanishing"
+edited: false
 date: "2017-03-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "longhouse"
   - "post-metal"

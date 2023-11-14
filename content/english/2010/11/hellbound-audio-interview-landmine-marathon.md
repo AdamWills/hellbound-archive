@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Audio Interview: Landmine Marathon"
+edited: false
 date: "2010-11-29"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "club-absinthe"
   - "hamilton"
   - "interview"

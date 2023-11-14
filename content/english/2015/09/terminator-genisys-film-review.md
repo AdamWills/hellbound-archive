@@ -1,9 +1,10 @@
 ---
 title: "Terminator Genisys (film review)"
+edited: false
 date: "2015-09-19"
-categories: 
+categories:
   - "reviews-visual"
-tags: 
+tags:
   - "film-review"
   - "science-fiction"
   - "terminator"

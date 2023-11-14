@@ -1,11 +1,12 @@
 ---
 title: "Fatality: 3-song demo"
+edited: false
 date: "2009-07-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "demo"
   - "fatality"
@@ -14,7 +15,7 @@ tags:
 
 [![fatality](http://www.hellbound.ca/wp-content/uploads/2009/07/fatality-300x199.jpg "fatality")](http://www.hellbound.ca/wp-content/uploads/2009/07/fatality.jpg)
 
-_By Albert Mansour  
+_By Albert Mansour
 _
 
 Here is a three track demo release from Toronto’s FATALITY, a thrash metal band with plenty of aggressive, melodic technical hooks, blasting beats and soaring roaring vocals, complete with fast, intricate solos. As a demo this is executed with decent production, with a great deal of influence from bands like Metallica, Pantera, and Megadeth. The first track “no use for the living” starts with a real raw recording and a strong reflection of the thrash metal style of the 80s - not just in this track but in every track presented here.

@@ -1,9 +1,10 @@
 ---
 title: "Blues Pills – Self-Titled"
+edited: false
 date: "2014-08-01"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "blues"
   - "deep-purple"
   - "etta-james"

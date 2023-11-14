@@ -1,11 +1,12 @@
 ---
 title: "My Dying Bride: For Lies I Sire"
+edited: false
 date: "2009-07-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "gothic-metal"
   - "my-dying-bride"

@@ -1,9 +1,10 @@
 ---
 title: "Arcania – Dreams are Dead"
+edited: false
 date: "2015-02-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "arcania"
   - "great-dane-records"

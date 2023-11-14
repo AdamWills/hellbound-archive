@@ -1,10 +1,11 @@
 ---
 title: "Stephen Pearcy – Under My Skin"
+edited: false
 date: "2011-01-27"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "great-american-music-company"
   - "hard-rock"
   - "jason-wellwood"

@@ -1,11 +1,12 @@
 ---
 title: "Melvins @ The Opera House, Toronto ON, September 1st, 2010"
+edited: false
 date: "2010-09-07"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "laina-dawes"
   - "live-review"

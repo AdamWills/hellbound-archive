@@ -1,7 +1,8 @@
 ---
 title: "Dilly Dally – Sore LP"
+edited: false
 date: "2016-02-04"
-categories: 
+categories:
   - "reviews-vinyl"
 ---
 

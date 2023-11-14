@@ -1,11 +1,12 @@
 ---
 title: "Drawers – Drawers"
+edited: false
 date: "2014-02-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "drawers"
   - "gruesome-greg"

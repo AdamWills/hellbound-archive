@@ -1,10 +1,11 @@
 ---
 title: "Friendship – Hatred"
+edited: false
 date: "2017-10-13"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "crust"
   - "friendship"

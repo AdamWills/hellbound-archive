@@ -1,11 +1,12 @@
 ---
 title: "Motörhead - The Wörld Is Yours"
+edited: false
 date: "2011-02-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "emi"
   - "kyle-harcott"
   - "lemmy"

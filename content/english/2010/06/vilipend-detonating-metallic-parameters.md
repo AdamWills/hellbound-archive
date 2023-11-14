@@ -1,11 +1,12 @@
 ---
 title: "Vilipend - Detonating Metallic Parameters"
+edited: false
 date: "2010-06-14"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "botch"
   - "buzzoven"
   - "canada"

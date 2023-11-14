@@ -1,9 +1,10 @@
 ---
 title: "Crypt Sermon – Out of the Garden"
+edited: false
 date: "2015-01-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "candlemass"
   - "dio"

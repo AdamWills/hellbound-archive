@@ -1,11 +1,12 @@
 ---
 title: "ORANSSI PAZUZU announce first NA Tour"
+edited: false
 date: "2019-07-11"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "psa"
-tags: 
+tags:
   - "2019"
   - "insect-ark"
   - "live"

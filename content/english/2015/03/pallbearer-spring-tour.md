@@ -1,10 +1,11 @@
 ---
 title: "Pallbearer spring tour"
+edited: false
 date: "2015-03-19"
-categories: 
+categories:
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "at-the-gates"
   - "converge"
   - "decibel"

@@ -1,9 +1,10 @@
 ---
 title: "Mick Ronson – Only After Dark: The Complete Mainman Recordings"
+edited: false
 date: "2019-12-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "review"
   - "rock"
 ---

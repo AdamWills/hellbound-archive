@@ -1,9 +1,10 @@
 ---
 title: "Genocide Pact – Order of Torment"
+edited: false
 date: "2018-01-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "extreme-metal"
   - "genocide-pact"

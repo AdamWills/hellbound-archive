@@ -1,12 +1,13 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Woodhawk/Mountain Dust/Hawkeyes/Low Orbit @ Bovine Sex Club, March 30, 2018"
+edited: false
 date: "2018-03-31"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
   - "reviews-live"
-tags: 
+tags:
   - "bovine-sex-club"
   - "concert-photography"
   - "concert-photos"

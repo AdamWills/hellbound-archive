@@ -1,11 +1,12 @@
 ---
 title: "Dark Celebration: Phlegeton: The Transcendence of Demon Lords"
+edited: false
 date: "2009-07-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "brazil"
   - "dark-celebration"
   - "death-metal"

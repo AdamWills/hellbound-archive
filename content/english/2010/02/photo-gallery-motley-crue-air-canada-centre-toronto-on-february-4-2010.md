@@ -1,11 +1,12 @@
 ---
 title: "Photo gallery: Motley Crue @ Air Canada Centre, Toronto ON, February 4, 2010"
+edited: false
 date: "2010-02-11"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "air-canada-centre"
   - "motley-crue"

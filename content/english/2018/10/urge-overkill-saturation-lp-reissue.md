@@ -1,10 +1,11 @@
 ---
 title: "Urge Overkill – Saturation LP (reissue)"
+edited: false
 date: "2018-10-23"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-rock"
   - "alternative"
   - "classic"

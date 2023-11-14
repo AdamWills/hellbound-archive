@@ -1,11 +1,12 @@
 ---
 title: "Skeletonwitch/ Withered/ Landmine Marathon @ Club Absinthe, Hamilton, ON, November 25, 2010"
+edited: false
 date: "2010-12-01"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "club-absinthe"
   - "hamilton"

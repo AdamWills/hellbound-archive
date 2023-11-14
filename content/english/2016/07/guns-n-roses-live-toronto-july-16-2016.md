@@ -1,9 +1,10 @@
 ---
 title: "Guns N' Roses live in Toronto – July 16, 2016"
+edited: false
 date: "2016-07-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "axl-rose"
   - "concert-review"
   - "guns-n-roses"

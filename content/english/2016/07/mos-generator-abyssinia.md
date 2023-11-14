@@ -1,10 +1,11 @@
 ---
 title: "Mos Generator – Abyssinia"
+edited: false
 date: "2016-07-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "headbanging"
   - "heavy-metal"

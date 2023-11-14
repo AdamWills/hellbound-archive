@@ -1,9 +1,10 @@
 ---
 title: "Mortuary Drape / Volahn in Toronto, 21 July 2018"
+edited: false
 date: "2018-07-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "black-twilight-circle"
   - "concert"

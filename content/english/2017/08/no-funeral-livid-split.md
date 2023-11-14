@@ -1,10 +1,11 @@
 ---
 title: "No Funeral / Livid split"
+edited: false
 date: "2017-08-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "bleak"
   - "death-metal"

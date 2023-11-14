@@ -1,12 +1,13 @@
 ---
 title: "Blackened Brews: Beau's Lug Tread Lagered Ale"
+edited: false
 date: "2011-08-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jonathan_smith"
   - "reviews"
-tags: 
+tags:
   - "beaus-ale"
   - "beer"
   - "beer-review"

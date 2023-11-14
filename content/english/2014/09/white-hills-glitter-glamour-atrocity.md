@@ -1,9 +1,10 @@
 ---
 title: "White Hills – Glitter Glamour Atrocity"
+edited: false
 date: "2014-09-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "dead-meadow"
   - "hawkwind"
   - "heavy-psych"

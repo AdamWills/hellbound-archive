@@ -1,11 +1,12 @@
 ---
 title: "Hellbound staff picks, January 2018"
+edited: false
 date: "2018-01-26"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "staff-picks"

@@ -1,11 +1,12 @@
 ---
 title: "Vinyl review: Agoraphobic Nosebleed/The Endless Blockade split 7\""
+edited: false
 date: "2009-07-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "agoraphobic-nosebleed"
   - "canada"
   - "relapse"

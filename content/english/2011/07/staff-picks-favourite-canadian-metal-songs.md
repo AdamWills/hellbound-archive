@@ -1,12 +1,13 @@
 ---
 title: "Staff Picks: Favourite Canadian Metal Songs"
+edited: false
 date: "2011-07-01"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "reviews"
-tags: 
+tags:
   - "bison-bc"
   - "cryptopsy"
   - "dayglo-abortions"

@@ -1,12 +1,13 @@
 ---
 title: "Blasphemous Meals #9: Slaughter of the Bowl"
+edited: false
 date: "2014-02-05"
-categories: 
+categories:
   - "articles"
   - "blasphemyblog"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "amebix"
   - "andreas-kisser"
   - "annick-giroux"

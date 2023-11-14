@@ -1,11 +1,12 @@
 ---
 title: "Clutch @ The Odeon, Saskatoon SK, August 2, 2009"
+edited: false
 date: "2009-08-06"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "clutch"
   - "live-review"
   - "stoner-rock"

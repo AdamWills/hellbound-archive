@@ -1,9 +1,10 @@
 ---
 title: "Suede Razors – Razor Stomp 12-inch EP"
+edited: false
 date: "2018-01-23"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "mod"
   - "punk"
   - "review"

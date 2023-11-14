@@ -1,11 +1,12 @@
 ---
 title: "Black Moor - Lethal Waters"
+edited: false
 date: "2012-08-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-moor"
   - "diminished-fifth"
   - "graf-orlock"

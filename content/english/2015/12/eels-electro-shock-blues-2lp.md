@@ -1,9 +1,10 @@
 ---
 title: "Eels – Electro-Shock Blues 2LP"
+edited: false
 date: "2015-12-22"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "alt-rock"
   - "eels"

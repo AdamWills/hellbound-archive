@@ -1,11 +1,12 @@
 ---
 title: "Zodiac Mindwarp: The Hellbound Interview, Part 1"
+edited: false
 date: "2010-10-13"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "interview"
   - "iron-maiden"
   - "jason-wellwood"

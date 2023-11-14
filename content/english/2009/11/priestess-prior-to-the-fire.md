@@ -1,11 +1,12 @@
 ---
 title: "Priestess: Prior To The Fire"
+edited: false
 date: "2009-11-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "indica"
   - "priestess"

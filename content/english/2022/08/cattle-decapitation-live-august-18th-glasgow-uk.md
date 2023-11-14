@@ -1,14 +1,15 @@
 ---
 title: "Cattle Decapitation - Live - August 18th, Glasgow, UK"
+edited: false
 date: "2022-08-30"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "reviews"
   - "reviews-audio"
   - "reviews-live"
-tags: 
+tags:
   - "cattle-decapitation"
 ---
 

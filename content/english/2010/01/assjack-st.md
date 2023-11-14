@@ -1,11 +1,12 @@
 ---
 title: "Assjack: s/t"
+edited: false
 date: "2010-01-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "assjack"
   - "curb"
   - "down"

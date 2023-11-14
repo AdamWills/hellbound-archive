@@ -1,11 +1,12 @@
 ---
 title: "Children of Bodom/ Eluveitie/ Revocation/ Threat Signal @ Sound Academy, Toronto ON, February 27, 2012"
+edited: false
 date: "2012-03-16"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "alexi-laiho"
   - "children-of-bodom"

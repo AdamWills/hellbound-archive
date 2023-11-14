@@ -1,9 +1,10 @@
 ---
 title: "Season of the Witch: How The Occult Saved Rock and Roll by Peter Bebergal"
+edited: false
 date: "2015-02-06"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "arik-roper"
   - "arthur-brown"
   - "black-sabbath"

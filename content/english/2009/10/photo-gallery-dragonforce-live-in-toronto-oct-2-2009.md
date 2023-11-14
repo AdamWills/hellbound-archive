@@ -1,11 +1,12 @@
 ---
 title: "Photo gallery: DragonForce Live In Toronto, Oct 2, 2009"
+edited: false
 date: "2009-10-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "dragonforce"
   - "photo-gallery"

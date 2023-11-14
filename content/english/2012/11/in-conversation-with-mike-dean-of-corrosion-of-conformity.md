@@ -1,11 +1,12 @@
 ---
 title: "In Conversation With.... Mike Dean of Corrosion Of Conformity"
+edited: false
 date: "2012-11-05"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "asg"
   - "black-flag"
   - "black-sabbath"

@@ -1,9 +1,10 @@
 ---
 title: "Book reviews by Steve Earles: Rise Up, Women"
+edited: false
 date: "2018-03-12"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "civil-rights"
   - "gender"

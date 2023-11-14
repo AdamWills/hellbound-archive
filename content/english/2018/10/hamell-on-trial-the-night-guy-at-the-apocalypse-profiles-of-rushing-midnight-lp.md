@@ -1,9 +1,10 @@
 ---
 title: "Hamell On Trial – The Night Guy at The Apocalypse, Profiles of Rushing Midnight (LP)"
+edited: false
 date: "2018-10-29"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "acoustic-guitar"
   - "hamell-on-trial"
   - "lp"

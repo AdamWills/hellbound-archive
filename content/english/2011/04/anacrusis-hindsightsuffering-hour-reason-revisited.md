@@ -1,11 +1,12 @@
 ---
 title: "Anacrusis - Hindsight:Suffering Hour & Reason Revisited"
+edited: false
 date: "2011-04-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anacrusis"
   - "kevin-stewart-panko"
   - "killing-joke"

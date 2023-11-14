@@ -1,10 +1,11 @@
 ---
 title: "Coffin Torture – Dismal Planet"
+edited: false
 date: "2018-01-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "coffin-torture"
   - "death-metal"
   - "fuzz"

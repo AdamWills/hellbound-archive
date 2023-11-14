@@ -1,11 +1,12 @@
 ---
 title: "Utopium - Conceptive Prescience"
+edited: false
 date: "2010-05-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "entombed"
   - "grindcore"
   - "napalm-death"

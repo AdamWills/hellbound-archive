@@ -1,11 +1,12 @@
 ---
 title: "A fond farewell to Quest For Fire..."
+edited: false
 date: "2013-02-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "amenra"
   - "blood-ceremony"
   - "earthless"

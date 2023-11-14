@@ -1,11 +1,12 @@
 ---
 title: "Finntroll - Nifelvind"
+edited: false
 date: "2010-04-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "finland"
   - "finntroll"

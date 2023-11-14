@@ -1,7 +1,8 @@
 ---
 title: "Gone fishing... See You Tuesday!"
+edited: false
 date: "2009-09-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"

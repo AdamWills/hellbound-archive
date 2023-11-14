@@ -1,9 +1,10 @@
 ---
 title: "Hard Rock Hell: HRH Prog VIII Sheffield @ 02 Academy"
+edited: false
 date: "2019-02-17"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "festival"
   - "metal"
   - "prog"

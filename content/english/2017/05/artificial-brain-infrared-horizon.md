@@ -1,11 +1,12 @@
 ---
 title: "Artificial Brain – Infrared Horizon"
+edited: false
 date: "2017-05-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "artificial-brain"
   - "death-metal"
   - "garren-ustel"

@@ -1,10 +1,11 @@
 ---
 title: "Wrong War - On Further Reflection EP"
+edited: false
 date: "2023-10-16"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "7"
   - "council-records"
   - "hardcore-punk"

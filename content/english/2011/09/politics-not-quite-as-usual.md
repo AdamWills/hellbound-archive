@@ -1,11 +1,12 @@
 ---
 title: "Politics not quite as usual: Jedrzej Wijas’ Polish death metal campaign ad strays from the norm"
+edited: false
 date: "2011-09-30"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "death-metal"
   - "poland"
   - "politics"

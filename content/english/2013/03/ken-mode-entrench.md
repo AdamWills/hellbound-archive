@@ -1,11 +1,12 @@
 ---
 title: "KEN Mode - Entrench"
+edited: false
 date: "2013-03-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ken-mode"
   - "matt-hinch"
   - "season-of-mist"

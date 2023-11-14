@@ -1,11 +1,12 @@
 ---
 title: "Haken - Aquarius"
+edited: false
 date: "2010-05-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dream-theater"
   - "england"
   - "haken"

@@ -1,11 +1,12 @@
 ---
 title: "Accept – Stalingrad"
+edited: false
 date: "2012-04-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "gruesome-greg"
   - "mark-tornillo"

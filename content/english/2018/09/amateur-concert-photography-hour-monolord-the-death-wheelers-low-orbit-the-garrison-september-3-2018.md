@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: MONOLORD/The Death Wheelers/Low Orbit @ The Garrison, September 3, 2018"
+edited: false
 date: "2018-09-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "low-orbit"

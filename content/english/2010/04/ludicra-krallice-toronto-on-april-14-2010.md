@@ -1,12 +1,13 @@
 ---
 title: "Ludicra / Krallice / Empyrean Plague @ Rancho Relaxo, Toronto ON, April 14, 2010"
+edited: false
 date: "2010-04-16"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "alternative-tentacles"
   - "black-metal"

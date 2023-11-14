@@ -1,11 +1,12 @@
 ---
 title: "Kreator, Voivod, Nachtmystium, Evile @ Opera House, Toronto, ON, March 9, 2010"
+edited: false
 date: "2010-03-12"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "canada"
   - "century-media"

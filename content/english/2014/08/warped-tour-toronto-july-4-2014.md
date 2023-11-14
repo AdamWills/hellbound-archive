@@ -1,9 +1,10 @@
 ---
 title: "Warped Tour in Toronto, July 4, 2014"
+edited: false
 date: "2014-08-13"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "chelsea-grin"
   - "courage-my-love"
   - "i-fight-dragons"

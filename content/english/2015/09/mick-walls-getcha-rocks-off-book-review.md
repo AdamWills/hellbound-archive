@@ -1,9 +1,10 @@
 ---
 title: "Mick Wall's Getcha Rocks Off (book review)"
+edited: false
 date: "2015-09-26"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "jimmy-page"
   - "led-zeppelin"

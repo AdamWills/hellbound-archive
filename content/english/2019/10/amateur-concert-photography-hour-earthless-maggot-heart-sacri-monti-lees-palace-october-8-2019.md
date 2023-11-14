@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: EARTHLESS/Maggot Heart/Sacri Monti @ Lee's Palace, October 8, 2019"
+edited: false
 date: "2019-10-09"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "earthless"

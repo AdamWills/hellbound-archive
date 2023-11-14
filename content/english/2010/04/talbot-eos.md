@@ -1,11 +1,12 @@
 ---
 title: "Talbot - EOS"
+edited: false
 date: "2010-04-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "16"
   - "crust"
   - "doom"

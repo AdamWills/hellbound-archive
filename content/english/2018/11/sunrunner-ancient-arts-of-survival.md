@@ -1,9 +1,10 @@
 ---
 title: "Sunrunner – Ancient Arts of Survival"
+edited: false
 date: "2018-11-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "minotauro"

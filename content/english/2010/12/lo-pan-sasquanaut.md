@@ -1,11 +1,12 @@
 ---
 title: "Lo-Pan – Sasquanaut"
+edited: false
 date: "2010-12-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "a-perfect-circle"
   - "blood-ceremony"
   - "clutch"

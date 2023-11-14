@@ -1,10 +1,11 @@
 ---
 title: "Petyr – self-titled"
+edited: false
 date: "2017-05-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "heavy-psych"
   - "heavy-rock"

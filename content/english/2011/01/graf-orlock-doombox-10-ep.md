@@ -1,11 +1,12 @@
 ---
 title: "Graf Orlock - Doombox 10\" EP"
+edited: false
 date: "2011-01-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "graf-orlock"
   - "grind"
   - "matt-lewis"

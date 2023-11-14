@@ -1,11 +1,12 @@
 ---
 title: "Vancouver's SCRAPE RECORDS Launches Record Label, Signs Zimmer's Hole"
+edited: false
 date: "2017-11-02"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "century-media-records"
   - "scrape-records"
   - "sean-palmerston"

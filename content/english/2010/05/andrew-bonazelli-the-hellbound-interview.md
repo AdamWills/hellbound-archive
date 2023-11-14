@@ -1,11 +1,12 @@
 ---
 title: "Andrew Bonazelli: The Hellbound Interview"
+edited: false
 date: "2010-05-17"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "andrew-bonazelli"
   - "book"
   - "decibel-magazine"

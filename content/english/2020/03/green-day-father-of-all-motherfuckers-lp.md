@@ -1,7 +1,8 @@
 ---
 title: "Green Day – Father of All Motherfuckers LP"
+edited: false
 date: "2020-03-19"
-categories: 
+categories:
   - "reviews-vinyl"
 ---
 

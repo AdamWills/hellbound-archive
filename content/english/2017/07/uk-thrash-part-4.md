@@ -1,11 +1,12 @@
 ---
 title: "UK Thrash: Part 4"
+edited: false
 date: "2017-07-20"
-categories: 
+categories:
   - "articles"
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "arbitrater"
   - "cancer"
   - "concrete-sox"

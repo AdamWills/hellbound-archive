@@ -1,11 +1,12 @@
 ---
 title: "The Secret: Channeling Frustration Into Fury"
+edited: false
 date: "2010-10-15"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "cursed"
   - "goodfellow"
   - "hardcore"

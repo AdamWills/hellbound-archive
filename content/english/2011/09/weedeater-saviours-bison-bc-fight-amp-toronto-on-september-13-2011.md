@@ -1,12 +1,13 @@
 ---
 title: "Weedeater / Saviours / Bison B.C. / Fight Amp @ Lee’s Palace, Toronto ON, September 13, 2011"
+edited: false
 date: "2011-09-27"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "bison-b-c"
   - "fight-amp"
   - "laina-dawes"

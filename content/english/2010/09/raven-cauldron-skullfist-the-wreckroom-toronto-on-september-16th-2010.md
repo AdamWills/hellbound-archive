@@ -1,11 +1,12 @@
 ---
 title: "Raven / Cauldron / Skullfist @ The Wreckroom, Toronto ON, September 16th, 2010"
+edited: false
 date: "2010-09-23"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "canada"
   - "cauldron"

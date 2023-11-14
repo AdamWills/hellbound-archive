@@ -1,10 +1,11 @@
 ---
 title: "Steve Earle and the Dukes - JT LP"
+edited: false
 date: "2021-07-30"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "dukes"
   - "earle"
   - "jt"

@@ -1,10 +1,11 @@
 ---
 title: "Kepi and Friends - Full Moon Forever LP"
+edited: false
 date: "2023-04-19"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "covers"
   - "forever"
   - "full"

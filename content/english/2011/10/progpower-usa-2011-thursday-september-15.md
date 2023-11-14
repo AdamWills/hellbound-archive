@@ -1,11 +1,12 @@
 ---
 title: "ProgPower USA 2011 - review of Thursday, September 15"
+edited: false
 date: "2011-10-18"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "everygrey"
   - "justin-richardson"
   - "powerglove"

@@ -1,7 +1,8 @@
 ---
 title: "Extreme Noise Terror + Napalm Raid @ Coalition, Toronto, 27 June 2017"
+edited: false
 date: "2017-07-13"
-categories: 
+categories:
   - "reviews-live"
 ---
 

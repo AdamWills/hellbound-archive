@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Staff Interrogation #8: Kevin Stewart-Panko"
+edited: false
 date: "2011-06-10"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "albert-mansour"
   - "alestorm"
   - "anacrusis"

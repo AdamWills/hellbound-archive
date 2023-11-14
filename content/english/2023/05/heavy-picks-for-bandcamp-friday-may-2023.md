@@ -1,12 +1,13 @@
 ---
 title: "Heavy Picks for Bandcamp Friday - May 2023"
+edited: false
 date: "2023-05-04"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "all-hell"
   - "bandcamp-friday"
   - "black-metal"

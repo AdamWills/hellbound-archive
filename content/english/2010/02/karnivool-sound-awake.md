@@ -1,11 +1,12 @@
 ---
 title: "Karnivool - Sound Awake"
+edited: false
 date: "2010-02-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "australia"
   - "karnivool"
   - "progressive-metal"

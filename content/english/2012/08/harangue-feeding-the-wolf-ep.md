@@ -1,11 +1,12 @@
 ---
 title: "Harangue - Feeding The Wolf EP"
+edited: false
 date: "2012-08-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "earth-crisis"
   - "harangue"
   - "hard-luck-bar"

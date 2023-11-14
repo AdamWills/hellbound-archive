@@ -1,10 +1,11 @@
 ---
 title: "Tom Petty and The Heartbreakers – Hard Promises"
+edited: false
 date: "2017-08-14"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "classic-rock"
   - "heartbreakers"
   - "review"

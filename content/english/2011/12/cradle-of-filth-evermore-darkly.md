@@ -1,11 +1,12 @@
 ---
 title: "Cradle of Filth – Evermore Darkly"
+edited: false
 date: "2011-12-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cradle-of-filth"
   - "nuclear-blast"
   - "ola-mazzuca"

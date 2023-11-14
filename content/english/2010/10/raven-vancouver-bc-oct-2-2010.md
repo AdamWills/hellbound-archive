@@ -1,11 +1,12 @@
 ---
 title: "Raven / Entropia / Magnus Rising / Striker @ The Red Room, Vancouver BC, Oct 2, 2010"
+edited: false
 date: "2010-10-08"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "banzai"
   - "entropia"
   - "kyle-harcott"

@@ -1,11 +1,12 @@
 ---
 title: "Forest Stream: The Crown Of Winter"
+edited: false
 date: "2009-08-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "candlelight-usa"
   - "forest-stream"

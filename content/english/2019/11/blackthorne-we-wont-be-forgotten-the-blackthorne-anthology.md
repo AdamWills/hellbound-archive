@@ -1,9 +1,10 @@
 ---
 title: "Blackthorne – We Won’t Be Forgotten: The Blackthorne Anthology"
+edited: false
 date: "2019-11-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "heavy-metal"
   - "review"

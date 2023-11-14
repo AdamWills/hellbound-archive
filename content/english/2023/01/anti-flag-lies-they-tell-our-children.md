@@ -1,9 +1,10 @@
 ---
 title: "Anti-Flag - Lies They Tell Our Children"
+edited: false
 date: "2023-01-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "anti-flag"
   - "cd-review"
   - "lies-they-tell-our-children"

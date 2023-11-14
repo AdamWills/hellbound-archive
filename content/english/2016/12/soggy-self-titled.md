@@ -1,10 +1,11 @@
 ---
 title: "Soggy – self-titled"
+edited: false
 date: "2016-12-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "heavy-metal"
   - "nwobhm"

@@ -1,11 +1,12 @@
 ---
 title: "Antigama: Warning"
+edited: false
 date: "2009-06-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "antigama"
   - "death-metal"
   - "grind"

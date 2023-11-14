@@ -1,7 +1,8 @@
 ---
 title: "All Them Witches - Nothing As The Ideal"
+edited: false
 date: "2020-09-10"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

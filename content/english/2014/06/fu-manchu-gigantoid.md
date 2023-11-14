@@ -1,9 +1,10 @@
 ---
 title: "Fu Manchu – Gigantoid"
+edited: false
 date: "2014-06-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "at-the-dojo"
   - "doom"

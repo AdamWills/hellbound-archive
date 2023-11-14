@@ -1,10 +1,11 @@
 ---
 title: "Akitso – Credo"
+edited: false
 date: "2018-10-22"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "akitsa"
   - "black-metal"
   - "quebec"

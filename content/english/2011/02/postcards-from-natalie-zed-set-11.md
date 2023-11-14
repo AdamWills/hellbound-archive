@@ -1,12 +1,13 @@
 ---
 title: "Postcards from Natalie Zed: Set #11"
+edited: false
 date: "2011-02-18"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "reviews-audio"
-tags: 
+tags:
   - "bolero"
   - "cauldron"
   - "century-media"

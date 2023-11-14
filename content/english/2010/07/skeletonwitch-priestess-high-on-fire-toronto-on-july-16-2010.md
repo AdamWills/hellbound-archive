@@ -1,11 +1,12 @@
 ---
 title: "Skeletonwitch/ Priestess/ High On Fire @ The Opera House, Toronto ON, July 16, 2010"
+edited: false
 date: "2010-07-20"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "e1-metal"
   - "high-on-fire"
   - "inertia-entertainment"

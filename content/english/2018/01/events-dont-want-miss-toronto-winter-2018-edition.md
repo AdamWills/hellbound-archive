@@ -1,10 +1,11 @@
 ---
 title: "Events You Don't Want to Miss, Toronto - Winter 2018 edition"
+edited: false
 date: "2018-01-29"
-categories: 
+categories:
   - "blogs"
   - "psa"
-tags: 
+tags:
   - "concerts"
   - "events"
   - "live"

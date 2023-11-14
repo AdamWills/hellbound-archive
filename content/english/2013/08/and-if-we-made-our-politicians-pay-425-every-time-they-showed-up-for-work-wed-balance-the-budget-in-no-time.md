@@ -1,11 +1,12 @@
 ---
 title: "And if we made our politicians pay $425 every time they showed up for work, we'd balance the budget in no time!"
+edited: false
 date: "2013-08-31"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "calgary"
   - "canada"
   - "canadian-government"

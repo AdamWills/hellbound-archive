@@ -1,9 +1,10 @@
 ---
 title: "Amnesia Rockfest: outdoing themselves one year at a time"
+edited: false
 date: "2014-06-20"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "alice-in-chains"
   - "all-that-remains"
   - "amnesia-rockfest"

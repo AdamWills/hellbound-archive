@@ -1,11 +1,12 @@
 ---
 title: "Voices From Valhalla: A Godreah Tribute To Bathory"
+edited: false
 date: "2012-06-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bathory"
   - "black-metal"
   - "cathderal"

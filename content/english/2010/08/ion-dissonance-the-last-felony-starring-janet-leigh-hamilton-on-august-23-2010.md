@@ -1,11 +1,12 @@
 ---
 title: "Ion Dissonance/ The Last Felony/ Starring Janet Leigh @ Club Absinthe, Hamilton ON, August 23, 2010"
+edited: false
 date: "2010-08-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "century-media"
   - "ion-dissonance"
   - "ironclad"

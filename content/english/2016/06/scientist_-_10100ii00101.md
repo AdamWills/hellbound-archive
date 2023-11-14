@@ -1,10 +1,11 @@
 ---
 title: "Scientist – 10100II00101"
+edited: false
 date: "2016-06-16"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "post-sludge"
   - "review"

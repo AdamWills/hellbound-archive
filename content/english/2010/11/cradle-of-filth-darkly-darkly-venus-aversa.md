@@ -1,11 +1,12 @@
 ---
 title: "Cradle of Filth – Darkly, Darkly, Venus Aversa"
+edited: false
 date: "2010-11-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "abigail-williams"
   - "adrien-begrand"
   - "cradle-of-filth"

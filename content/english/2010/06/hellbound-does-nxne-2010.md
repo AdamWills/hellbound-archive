@@ -1,11 +1,12 @@
 ---
 title: "Hellbound does NXNE 2010"
+edited: false
 date: "2010-06-25"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "iggy-and-the-stooges"
   - "live-review"
   - "mudhoney"

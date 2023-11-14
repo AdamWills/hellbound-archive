@@ -1,11 +1,12 @@
 ---
 title: "Harangue - Battle Not With Monsters"
+edited: false
 date: "2013-04-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "harangue"
   - "hardcore"
   - "helmet"

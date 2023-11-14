@@ -1,11 +1,12 @@
 ---
 title: "Manilla Road – After Midnight Live"
+edited: false
 date: "2010-08-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "manilla-road"
   - "shadow-kingdom-records"

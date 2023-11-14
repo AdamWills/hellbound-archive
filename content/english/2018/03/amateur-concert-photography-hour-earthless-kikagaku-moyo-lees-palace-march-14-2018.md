@@ -1,10 +1,11 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Earthless/Kikagaku Moyo @ Lee's Palace, March 14, 2018"
+edited: false
 date: "2018-03-16"
-categories: 
+categories:
   - "blogs"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "earthless"

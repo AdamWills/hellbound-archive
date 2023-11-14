@@ -1,10 +1,11 @@
 ---
 title: "Freedom Hawk – Sunlight"
+edited: false
 date: "2017-01-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "freedom-hawk"
   - "fuzz"
   - "groove"

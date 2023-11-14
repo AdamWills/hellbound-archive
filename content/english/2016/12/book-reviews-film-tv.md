@@ -1,9 +1,10 @@
 ---
 title: "Book reviews: film & TV"
+edited: false
 date: "2016-12-12"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "cult"
   - "film"

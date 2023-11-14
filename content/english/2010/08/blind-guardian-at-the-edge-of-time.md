@@ -1,11 +1,12 @@
 ---
 title: "Blind Guardian – At The Edge of Time"
+edited: false
 date: "2010-08-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blind-guardian"
   - "germany"
   - "nuclear-blast"

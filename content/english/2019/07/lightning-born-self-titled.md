@@ -1,10 +1,11 @@
 ---
 title: "Lightning Born – self-titled"
+edited: false
 date: "2019-07-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy"
   - "review"

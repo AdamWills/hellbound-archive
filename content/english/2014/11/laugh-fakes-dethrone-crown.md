@@ -1,9 +1,10 @@
 ---
 title: "Laugh At The Fakes – Dethrone The Crown"
+edited: false
 date: "2014-11-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "cd-release-party"
   - "heavy-metal"

@@ -1,9 +1,10 @@
 ---
 title: "Kataklysm  - Of Gods and Ghosts"
+edited: false
 date: "2015-07-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "death-metal"
   - "groove-metal"

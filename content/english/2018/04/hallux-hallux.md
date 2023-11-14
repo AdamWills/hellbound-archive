@@ -1,10 +1,11 @@
 ---
 title: "Hallux – Hallux"
+edited: false
 date: "2018-04-27"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "crust"
   - "hallux"
   - "metal"

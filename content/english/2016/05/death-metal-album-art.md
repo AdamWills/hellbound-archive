@@ -1,9 +1,10 @@
 ---
 title: "Slowly We Rot: The Resounding Influence of Death Metal Album Art"
+edited: false
 date: "2016-05-03"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "album-art"
   - "album-covers"
   - "death-metal"

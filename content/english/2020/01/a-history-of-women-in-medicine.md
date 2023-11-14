@@ -1,9 +1,10 @@
 ---
 title: "A History of Women In Medicine"
+edited: false
 date: "2020-01-04"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "history"
   - "review"

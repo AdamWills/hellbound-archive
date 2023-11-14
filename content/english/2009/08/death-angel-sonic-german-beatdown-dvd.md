@@ -1,11 +1,12 @@
 ---
 title: "Death Angel: Sonic German Beatdown DVD"
+edited: false
 date: "2009-08-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "death-angel"
   - "nuclear-blast"
   - "thrash-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Nachtmystium - Addicts: Black Meddle Part II"
+edited: false
 date: "2010-05-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "century-media"
   - "experimental"

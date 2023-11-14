@@ -1,11 +1,12 @@
 ---
 title: "This figures to be the female-fronted tour of the summer, folks..."
+edited: false
 date: "2013-03-31"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blood-ceremony"
   - "concert"
   - "gruesome-greg"

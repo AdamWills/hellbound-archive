@@ -1,11 +1,12 @@
 ---
 title: "Hellbound @ Hellfest: The Review - Day One"
+edited: false
 date: "2011-07-11"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "belphegor"
   - "church-of-misery"

@@ -1,9 +1,10 @@
 ---
 title: "Gruesome Interview: Matt Harvey in Oakland, 6 May 2017"
+edited: false
 date: "2017-05-11"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "death"
   - "death-metal"
   - "gruesome"

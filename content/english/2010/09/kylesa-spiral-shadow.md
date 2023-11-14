@@ -1,10 +1,11 @@
 ---
 title: "KYLESA - Spiral Shadow"
+edited: false
 date: "2010-09-08"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "kyle-harcott"
   - "kylesa"
   - "neurosis"

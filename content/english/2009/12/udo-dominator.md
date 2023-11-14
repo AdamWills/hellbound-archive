@@ -1,11 +1,12 @@
 ---
 title: "U.D.O.: Dominator"
+edited: false
 date: "2009-12-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "afm"
   - "afm-records"

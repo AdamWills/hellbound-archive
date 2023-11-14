@@ -1,10 +1,11 @@
 ---
 title: "The Limehouse Golem"
+edited: false
 date: "2017-10-30"
-categories: 
+categories:
   - "hellbound-horror"
   - "reviews-visual"
-tags: 
+tags:
   - "film"
   - "horror"
   - "movie"

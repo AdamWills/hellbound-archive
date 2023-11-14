@@ -1,11 +1,12 @@
 ---
 title: "Textures – Dualism"
+edited: false
 date: "2011-10-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "nuclear-blast"
   - "ola-mazzuca"
   - "textures"

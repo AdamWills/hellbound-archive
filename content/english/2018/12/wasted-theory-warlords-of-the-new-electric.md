@@ -1,10 +1,11 @@
 ---
 title: "Wasted Theory – Warlords of the New Electric"
+edited: false
 date: "2018-12-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "grunge"
   - "hard-rock"
   - "heavy-rock"

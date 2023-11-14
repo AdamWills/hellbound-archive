@@ -1,11 +1,12 @@
 ---
 title: "The Flatliners - New Ruin LP"
+edited: false
 date: "2022-11-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "dine-alone"
   - "fat-wreck"
   - "flatliners"

@@ -1,11 +1,12 @@
 ---
 title: "Witchfinder Radio Happenings For The Week of April 22nd, 2013"
+edited: false
 date: "2013-04-26"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "102-7-fm"
   - "blowing-up-the-lakehead"
   - "cilu"

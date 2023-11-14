@@ -1,11 +1,12 @@
 ---
 title: "Toronto is Doomed?  Not anytime soon!"
+edited: false
 date: "2012-05-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "all-that-is-heavy-ii"
   - "annick-giroux"
   - "blood-ceremony"

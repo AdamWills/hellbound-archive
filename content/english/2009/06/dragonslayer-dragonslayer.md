@@ -1,10 +1,11 @@
 ---
 title: "Dragonslayer: Dragonslayer"
+edited: false
 date: "2009-06-16"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "dragonslayer"
   - "nwobhm"
   - "shadow-kingdom-records"

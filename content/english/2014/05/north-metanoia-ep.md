@@ -1,9 +1,10 @@
 ---
 title: "North – Metanoia EP"
+edited: false
 date: "2014-05-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "arizona"
   - "doom"
   - "ep"

@@ -1,11 +1,12 @@
 ---
 title: "Thrall - Vermin To The Earth"
+edited: false
 date: "2011-11-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "darkthrone"
   - "kyle-harcott"
   - "moribund"

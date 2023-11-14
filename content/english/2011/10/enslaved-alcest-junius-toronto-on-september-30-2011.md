@@ -1,12 +1,13 @@
 ---
 title: "Enslaved / Alcest / Junius @ The Opera House, Toronto ON, September 30, 2011"
+edited: false
 date: "2011-10-07"
-categories: 
+categories:
   - "features"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "alcest"
   - "dimmu-borgir"

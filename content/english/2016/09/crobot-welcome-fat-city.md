@@ -1,10 +1,11 @@
 ---
 title: "Crobot – Welcome to Fat City"
+edited: false
 date: "2016-09-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "crobot"
   - "groove"
   - "hard-rock"

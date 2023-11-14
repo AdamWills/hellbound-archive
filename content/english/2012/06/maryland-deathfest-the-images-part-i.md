@@ -1,12 +1,13 @@
 ---
 title: "Maryland Deathfest 2012 - The Images - Part I"
+edited: false
 date: "2012-06-20"
-categories: 
+categories:
   - "albert_mansour"
   - "articles"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "absu"
   - "albert-mansour"
   - "dying-fetus"

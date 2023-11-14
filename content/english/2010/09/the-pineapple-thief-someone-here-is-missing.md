@@ -1,11 +1,12 @@
 ---
 title: "The Pineapple Thief – Someone Here Is Missing"
+edited: false
 date: "2010-09-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anathema"
   - "behold-the-arctopus"
   - "england"

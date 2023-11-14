@@ -1,11 +1,12 @@
 ---
 title: "Heavy metal in 2017 by Gene A. Gaona"
+edited: false
 date: "2017-12-18"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "end-of-year"
   - "heavy-metal"

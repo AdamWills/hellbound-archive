@@ -1,9 +1,10 @@
 ---
 title: "Orange Goblin – The Wolf Bites Back"
+edited: false
 date: "2018-07-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "orange-goblin"
   - "review"

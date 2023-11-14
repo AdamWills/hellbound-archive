@@ -1,10 +1,11 @@
 ---
 title: "Gateway to Hell – Clovers"
+edited: false
 date: "2017-07-26"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "gates-of-hell"
   - "metal"

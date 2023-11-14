@@ -1,12 +1,13 @@
 ---
 title: "The Witchfinder Radio Interview With Author Laina Dawes"
+edited: false
 date: "2013-10-10"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "audio-interview"
   - "bazillion-points"
   - "bazillion-points-books"

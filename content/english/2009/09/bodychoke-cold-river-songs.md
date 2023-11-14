@@ -1,11 +1,12 @@
 ---
 title: "Bodychoke: Cold River Songs"
+edited: false
 date: "2009-09-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bodychoke"
   - "noise-rock"
   - "relapse"

@@ -1,9 +1,10 @@
 ---
 title: "The Ratchets – First Light LP"
+edited: false
 date: "2019-05-15"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
   - "vinyl"
 ---

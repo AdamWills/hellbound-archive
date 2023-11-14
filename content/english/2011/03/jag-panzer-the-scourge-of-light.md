@@ -1,11 +1,12 @@
 ---
 title: "Jag Panzer - The Scourge of Light"
+edited: false
 date: "2011-03-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "jag-panzer"
   - "megadeth"
   - "power-metal"

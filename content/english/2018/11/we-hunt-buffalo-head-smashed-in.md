@@ -1,11 +1,12 @@
 ---
 title: "We Hunt Buffalo – Head Smashed In"
+edited: false
 date: "2018-11-13"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fuzz-rock"
   - "heavy-metal"
   - "heavy-rock"

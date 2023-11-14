@@ -1,11 +1,12 @@
 ---
 title: "Hell - Human Remains"
+edited: false
 date: "2011-05-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "andy-sneap"
   - "hell"
   - "nuclear-blast"

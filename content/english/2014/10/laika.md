@@ -1,9 +1,10 @@
 ---
 title: "Laika – Somnia"
+edited: false
 date: "2014-10-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "amon-amarth"
   - "children-of-bodom"

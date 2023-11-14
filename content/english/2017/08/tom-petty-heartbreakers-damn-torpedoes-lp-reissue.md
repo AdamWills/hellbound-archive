@@ -1,10 +1,11 @@
 ---
 title: "Tom Petty and the Heartbreakers – Damn The Torpedoes LP (reissue)"
+edited: false
 date: "2017-08-11"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "classic-rock"
   - "heartbreakers"
   - "review"

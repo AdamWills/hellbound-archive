@@ -1,9 +1,10 @@
 ---
 title: "PREVIEW: Damnation Festival, 3 November 2018"
+edited: false
 date: "2018-10-01"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "concert"
   - "damnation-festival"
   - "festival"

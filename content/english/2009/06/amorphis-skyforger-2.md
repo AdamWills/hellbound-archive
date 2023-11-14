@@ -1,10 +1,11 @@
 ---
 title: "Amorphis: Skyforger"
+edited: false
 date: "2009-06-15"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "amorphis"
   - "finland"
   - "nuclear-blast"

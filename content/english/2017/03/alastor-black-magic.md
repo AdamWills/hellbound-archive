@@ -1,10 +1,11 @@
 ---
 title: "Alastor – Black Magic"
+edited: false
 date: "2017-03-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-psych"
   - "heavy-rock"

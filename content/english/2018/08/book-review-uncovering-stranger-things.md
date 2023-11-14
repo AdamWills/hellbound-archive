@@ -1,9 +1,10 @@
 ---
 title: "BOOK REVIEW: Uncovering Stranger Things"
+edited: false
 date: "2018-08-14"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "fantasy"
   - "horror"

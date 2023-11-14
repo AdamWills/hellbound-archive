@@ -1,11 +1,12 @@
 ---
 title: "Northumbria 'Bring Down the Sky' to hold release show - Dec 11 @ the Garrison in Toronto"
+edited: false
 date: "2014-12-05"
-categories: 
+categories:
   - "features"
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "dirty-inputs"
   - "drone"
   - "experimental"

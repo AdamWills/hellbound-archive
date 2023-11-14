@@ -1,9 +1,10 @@
 ---
 title: "NEEDLES//PINS - s/t LP"
+edited: false
 date: "2021-09-26"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "cult"
   - "dirt"
   - "needles-pins"

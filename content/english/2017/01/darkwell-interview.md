@@ -1,9 +1,10 @@
 ---
 title: "Darkwell: interview with Roland Wurzer"
+edited: false
 date: "2017-01-25"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "darkwell"
   - "gothic-metal"
   - "interview"

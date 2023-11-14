@@ -1,11 +1,12 @@
 ---
 title: "A Perfect Circle Begins Its Second Revolution"
+edited: false
 date: "2010-10-06"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "a-perfect-circle"
   - "bill-adams"
   - "tool"

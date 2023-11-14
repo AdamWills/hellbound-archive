@@ -1,10 +1,11 @@
 ---
 title: "Contra – Deny Everything"
+edited: false
 date: "2017-05-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "contra"
   - "doom"
   - "metal"

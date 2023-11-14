@@ -1,10 +1,11 @@
 ---
 title: "Slough Feg: Ape Uprising!"
+edited: false
 date: "2009-06-17"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "classic-metal"
   - "cruz-del-sur-music"
   - "nwobhm"

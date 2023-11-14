@@ -1,11 +1,12 @@
 ---
 title: "A new year, more new (in) metal: 2017, part 1"
+edited: false
 date: "2017-04-05"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "immortal-bird"
   - "mastodon"
@@ -29,23 +30,23 @@ There's too much going on in metal these days to leave all our 'best of' and yea
 
 #### Top Five:
 
-**1\. Pallbearer, Heartless** 
+**1\. Pallbearer, Heartless**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4268244820/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://profoundlorerecords.bandcamp.com/album/heartless">Heartless by PALLBEARER</a></iframe>
 
-**2\. Power Trip, Nightmare Logic** 
+**2\. Power Trip, Nightmare Logic**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1464044653/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://powertripsl.bandcamp.com/album/nightmare-logic">Nightmare Logic by Power Trip</a></iframe>
 
-**3\. Mastodon, Emperor of Sand** 
+**3\. Mastodon, Emperor of Sand**
 
 <iframe src="https://www.youtube.com/embed/Og39iIBeOHI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-4\. Kreator, Gods of Violence 
+4\. Kreator, Gods of Violence
 
 <iframe src="https://www.youtube.com/embed/xeUBJ2Ha-FM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**5\. Midnight, Shox of Violence** 
+**5\. Midnight, Shox of Violence**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1496374896/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://midnight-ohio.bandcamp.com/album/shox-of-violence">Shox of Violence by MIDNIGHT</a></iframe>
 
@@ -57,15 +58,15 @@ There's too much going on in metal these days to leave all our 'best of' and yea
 
 **Withered, Immortal Bird, Vile Creature, and Klarg** - February 29, 2017 at Coalition T.O ([event page](https://www.facebook.com/events/1822390391380114/)). Solid back to back badassery.
 
-**Fen, Winter**. So far _Winter_ is sounding solid, 
+**Fen, Winter**. So far _Winter_ is sounding solid,
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3178363988/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://fenuk.bandcamp.com/album/winter">Winter by Fen</a></iframe>
 
-**Oranssi Pazuzu**: Kosmonument, Farmokologinen, and Muukalainen Puhuu. I can't stop with the [Oranssi Pazuzu re-releases](https://www.20buckspin.com/search?type=product&q=oranssi+pazuzu). 
+**Oranssi Pazuzu**: Kosmonument, Farmokologinen, and Muukalainen Puhuu. I can't stop with the [Oranssi Pazuzu re-releases](https://www.20buckspin.com/search?type=product&q=oranssi+pazuzu).
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3264195909/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://oranssipazuzu.bandcamp.com/album/muukalainen-puhuu">Muukalainen puhuu by Oranssi Pazuzu</a></iframe>
 
-**Craven Idol, Shackles of Mammon**. It was a blind pick and I've been pleasantly surprised. 
+**Craven Idol, Shackles of Mammon**. It was a blind pick and I've been pleasantly surprised.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=150946375/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://darkdescentrecords.bandcamp.com/album/the-shackles-of-mammon">The Shackles of Mammon by Craven Idol</a></iframe>
 
@@ -73,11 +74,11 @@ St. Paddy's Day Doom w/**Völur, Gates, Pale Mare, and Dawn of Tyrants** - Frid
 
 ### Laura Wiebe
 
-**Anathema, "Springfield"** 
+**Anathema, "Springfield"**
 
 <iframe src="https://www.youtube.com/embed/8y1ROzCUpbU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**Longhouse, "No Name, No Marker"** – a track written to raise greater awareness to the history of the Indian Residential School system in Canada 
+**Longhouse, "No Name, No Marker"** – a track written to raise greater awareness to the history of the Indian Residential School system in Canada
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1264694110/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://longhouse1.bandcamp.com/track/no-name-no-marker-2">No Name, No Marker by Longhouse</a></iframe>
 
@@ -89,29 +90,29 @@ Friday, April 21 - **The Rab Bash** at Coalition T.O ([event page](https://www.f
 
 Folks stepping up and helping out when something shitty happens to other folks. Like when Immortal Bird had their van and gear stolen in Brooklyn but were quickly able to crowdfund enough support to keep the tour going. This is also a selfish pick, 'cause this meant Immortal Bird was able to make it to Toronto for their show with Vile Creature and the rest. https://twitter.com/immortalbirdbnd/status/834800839608905728
 
-The main guitar lick and anti-racist message of **Body Count, "No Lives Matter"**... 
+The main guitar lick and anti-racist message of **Body Count, "No Lives Matter"**...
 
 <iframe src="https://www.youtube.com/embed/hlk7o5T56iw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Adam Wills
 
-**Amorphis, Swallow the Sun, and Vesperia** - March 18, 2017 at the Opera House in Toronto ([event page](https://www.facebook.com/events/1165009803537044/)). 
+**Amorphis, Swallow the Sun, and Vesperia** - March 18, 2017 at the Opera House in Toronto ([event page](https://www.facebook.com/events/1165009803537044/)).
 
 <iframe src="https://www.youtube.com/embed/w9eTvV8bnR8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**Pallbearer, Heartless** 
+**Pallbearer, Heartless**
 
 <iframe src="https://www.youtube.com/embed/DNl_18Kr56g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**Mastodon, Emperor of Sand** 
+**Mastodon, Emperor of Sand**
 
 <iframe src="https://www.youtube.com/embed/gUGda7GdZPQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-**Soen, Lykaia** 
+**Soen, Lykaia**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1395941753/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://soen-sweden.bandcamp.com/album/lykaia">Lykaia by Soen</a></iframe>
 
-**Woe, Hope Attrition** 
+**Woe, Hope Attrition**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1793022459/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://woeunholy.bandcamp.com/album/hope-attrition">Hope Attrition by Woe</a></iframe>
 

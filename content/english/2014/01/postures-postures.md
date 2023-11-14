@@ -1,11 +1,12 @@
 ---
 title: "Postures – Postures"
+edited: false
 date: "2014-01-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "postures"

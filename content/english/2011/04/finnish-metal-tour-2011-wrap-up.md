@@ -1,11 +1,12 @@
 ---
 title: "FINNISH METAL TOUR Wrap-Up: March 10, 2011 in Charlotte NC/ March 11, 2011 in Raleigh, NC"
+edited: false
 date: "2011-04-08"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "1349"
   - "amorphis"
   - "barren-earth"

@@ -1,10 +1,11 @@
 ---
 title: "Pentagram – First Daze Here"
+edited: false
 date: "2016-07-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bobby-liebling"
   - "doom"
   - "hard-rock"

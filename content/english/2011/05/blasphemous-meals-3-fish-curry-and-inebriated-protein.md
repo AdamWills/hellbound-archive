@@ -1,11 +1,12 @@
 ---
 title: "Blasphemous Meals #3: Fish, Curry and Inebriated Protein"
+edited: false
 date: "2011-05-17"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "annick-giroux"
   - "armored-saint"
   - "bazillion-points"

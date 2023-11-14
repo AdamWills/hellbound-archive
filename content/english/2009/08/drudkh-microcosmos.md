@@ -1,11 +1,12 @@
 ---
 title: "Drudkh: Microcosmos"
+edited: false
 date: "2009-08-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "drudkh"
   - "season-of-mist"

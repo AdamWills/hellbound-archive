@@ -1,11 +1,12 @@
 ---
 title: "SepticFlesh – The Great Mass"
+edited: false
 date: "2011-04-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "laura-wiebe"
   - "season-of-mist"
   - "septicflesh"

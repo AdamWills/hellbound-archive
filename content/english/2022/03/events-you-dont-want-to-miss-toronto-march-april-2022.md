@@ -1,13 +1,14 @@
 ---
 title: "Events You Don't Want to Miss, Toronto - March/April 2022"
+edited: false
 date: "2022-03-11"
-categories: 
+categories:
   - "blogs"
   - "canadian-metal"
   - "featured"
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "2022"
   - "fundraiser"
   - "live-events"

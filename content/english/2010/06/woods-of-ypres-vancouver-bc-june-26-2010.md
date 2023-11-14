@@ -1,11 +1,12 @@
 ---
 title: "Woods Of Ypres + Guests @ Biltmore Cabaret, Vancouver BC, June 26, 2010"
+edited: false
 date: "2010-06-30"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "canada"
   - "doom"

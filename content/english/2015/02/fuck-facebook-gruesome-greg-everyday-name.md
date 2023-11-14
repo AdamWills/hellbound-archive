@@ -1,11 +1,12 @@
 ---
 title: "Fuck you Facebook, Gruesome Greg IS my everyday name!"
+edited: false
 date: "2015-02-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "facebook"
   - "gruesome-greg"
   - "invasion-of-privacy"

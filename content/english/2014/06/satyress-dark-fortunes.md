@@ -1,9 +1,10 @@
 ---
 title: "Satyress – Dark Fortunes"
+edited: false
 date: "2014-06-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "castle"
   - "doom"

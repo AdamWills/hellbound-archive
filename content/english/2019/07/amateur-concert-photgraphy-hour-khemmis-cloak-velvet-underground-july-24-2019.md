@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTGRAPHY HOUR: Khemmis/Cloak @ Velvet Underground, July 24, 2019"
+edited: false
 date: "2019-07-26"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "cloak"
   - "concert-photography"
   - "concert-photos"

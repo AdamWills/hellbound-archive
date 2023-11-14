@@ -1,11 +1,12 @@
 ---
 title: "Cancer Bats - Dead Set On Living"
+edited: false
 date: "2012-07-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "cancer-bats"
   - "distort"

@@ -1,10 +1,11 @@
 ---
 title: "Primitive Man/Unearthly Trance split"
+edited: false
 date: "2018-08-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "doom"
   - "metal"

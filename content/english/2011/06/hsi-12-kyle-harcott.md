@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Staff Interrogations #12: Kyle Harcott"
+edited: false
 date: "2011-06-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "adam-wills"
   - "black-sabbath"
   - "dead-horse"

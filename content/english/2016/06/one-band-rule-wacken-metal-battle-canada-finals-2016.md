@@ -1,9 +1,10 @@
 ---
 title: "One Band to Rule Them All: Wacken Metal Battle Canada Finals 2016"
+edited: false
 date: "2016-06-07"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "2016"
   - "crimson-shadows"
   - "distorthead"

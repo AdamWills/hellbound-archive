@@ -1,9 +1,10 @@
 ---
 title: "Neal Hefti – Record Store Day (Black Friday) Batman 7'' single"
+edited: false
 date: "2015-12-11"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "batman"
   - "neal-hefti"
   - "review"

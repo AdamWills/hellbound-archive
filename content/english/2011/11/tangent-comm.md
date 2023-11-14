@@ -1,11 +1,12 @@
 ---
 title: "The Tangent - COMM"
+edited: false
 date: "2011-11-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "progressive-rock"
   - "rob-hughes"
   - "spocks-beard"

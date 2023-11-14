@@ -1,12 +1,13 @@
 ---
 title: "Manitoba Metal Fest 2010: Part Two"
+edited: false
 date: "2010-05-14"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "headline"
   - "reviews"
-tags: 
+tags:
   - "blog"
   - "brutal-truth"
   - "canada"

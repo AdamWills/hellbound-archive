@@ -1,11 +1,12 @@
 ---
 title: "Gypsy Chief Goliath – Masters of Space and Time"
+edited: false
 date: "2019-02-12"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "heavy-rock"
   - "review"

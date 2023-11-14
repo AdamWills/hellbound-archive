@@ -1,10 +1,11 @@
 ---
 title: "BEST OF 2014 – our contributors have their say (individual lists)"
+edited: false
 date: "2014-12-31"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "2014"
   - "anathema"
   - "at-the-gates"

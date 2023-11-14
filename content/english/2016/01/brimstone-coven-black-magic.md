@@ -1,7 +1,8 @@
 ---
 title: "Brimstone Coven – Black Magic"
+edited: false
 date: "2016-01-05"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

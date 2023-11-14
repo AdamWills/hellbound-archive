@@ -1,9 +1,10 @@
 ---
 title: "Book reviews by Steve Earles: October 2017"
+edited: false
 date: "2017-10-13"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "crime"
   - "history"

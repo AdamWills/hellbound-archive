@@ -1,11 +1,12 @@
 ---
 title: "Weapon— Embers and Revelations"
+edited: false
 date: "2012-10-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "craig-haze"
   - "melechesh"
   - "relapse"

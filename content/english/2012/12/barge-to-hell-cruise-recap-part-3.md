@@ -1,11 +1,12 @@
 ---
 title: "Barge To Hell Cruise Recap Part 3"
+edited: false
 date: "2012-12-24"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adrien-begrand"
   - "albert-mansour"
   - "at-the-gates"

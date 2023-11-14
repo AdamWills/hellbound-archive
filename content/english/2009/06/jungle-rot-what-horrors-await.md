@@ -1,10 +1,11 @@
 ---
 title: "Jungle Rot: What Horrors Await"
+edited: false
 date: "2009-06-24"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "jungle-rot"
   - "napalm"

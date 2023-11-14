@@ -1,11 +1,12 @@
 ---
 title: "Clamfight – I Vs. the Glacier"
+edited: false
 date: "2013-01-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bison-b-c"
   - "black-tusk"
   - "clamfight"

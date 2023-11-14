@@ -1,11 +1,12 @@
 ---
 title: "Thantifaxath / Vilipend / Sylvus / Eyeswithoutaface @ The Hard Luck Bar, Toronto ON, July 22, 2010"
+edited: false
 date: "2010-07-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "live-review"
   - "natalie-zed"
   - "vilipend"

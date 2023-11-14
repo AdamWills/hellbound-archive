@@ -1,9 +1,10 @@
 ---
 title: "Kuolemanlaakso – Tulijoutsen"
+edited: false
 date: "2014-04-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "jonathan-smith"
   - "kuolemanlaakso"

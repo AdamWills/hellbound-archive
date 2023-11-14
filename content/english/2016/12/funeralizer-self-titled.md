@@ -1,10 +1,11 @@
 ---
 title: "Funeralizer – self-titled"
+edited: false
 date: "2016-12-05"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "funeralizer"
   - "noise-rock"
   - "review"

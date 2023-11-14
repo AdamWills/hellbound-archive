@@ -1,9 +1,10 @@
 ---
 title: "The Meads of Asphodel / Tjolgtjar – Taste The Divine Wrath"
+edited: false
 date: "2015-09-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bizarre-experimental"
   - "black-metal"

@@ -1,9 +1,10 @@
 ---
 title: "Phenomena Reissues"
+edited: false
 date: "2019-01-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "concept-album"
   - "hard-rock"
   - "review"

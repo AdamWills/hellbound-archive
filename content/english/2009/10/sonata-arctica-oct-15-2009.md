@@ -1,11 +1,12 @@
 ---
 title: "Sonata Arctica/Borealis @ The Music Hall, London ON, Oct 15, 2009"
+edited: false
 date: "2009-10-23"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "borealis"
   - "canada"

@@ -1,9 +1,10 @@
 ---
 title: "Cattle Decapitation + more in Toronto, 31 October 2017"
+edited: false
 date: "2017-11-17"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "artificial-brain"
   - "cattle-decapitation"
   - "concert"

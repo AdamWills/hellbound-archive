@@ -1,9 +1,10 @@
 ---
 title: "Venom Inc – Ave"
+edited: false
 date: "2017-09-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "review"

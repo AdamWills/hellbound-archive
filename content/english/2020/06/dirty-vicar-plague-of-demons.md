@@ -1,7 +1,8 @@
 ---
 title: "Dirty Vicar - Plague of Demons"
+edited: false
 date: "2020-06-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

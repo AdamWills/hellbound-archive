@@ -1,11 +1,12 @@
 ---
 title: "Throne of Katarsis: Helvete-Det Iskalde Mørket"
+edited: false
 date: "2009-08-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "candlelight-usa"
   - "norway"

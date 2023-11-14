@@ -1,11 +1,12 @@
 ---
 title: "Ted Nugent - Setlist: The Very Best Of Ted Nugent Live"
+edited: false
 date: "2010-07-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "columbia"
   - "hard-rock"
   - "idiot"

@@ -1,11 +1,12 @@
 ---
 title: "Corrosion of Conformity / Royal Thunder @ Corktown Pub, Hamilton ON, November 14, 2012"
+edited: false
 date: "2012-11-19"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "cauldron"
   - "down"

@@ -1,11 +1,12 @@
 ---
 title: "Do You Have Anything to Declare? By Kevin Stewart-Panko and Justin Smith"
+edited: false
 date: "2013-12-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "brutal-truth"
   - "dillinger-escape-plan"

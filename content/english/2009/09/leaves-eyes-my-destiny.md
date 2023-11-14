@@ -1,11 +1,12 @@
 ---
 title: "Leaves' Eyes: My Destiny"
+edited: false
 date: "2009-09-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "leaves-eyes"
   - "napalm"
   - "symphonic-metal"

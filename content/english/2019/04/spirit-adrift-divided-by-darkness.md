@@ -1,10 +1,11 @@
 ---
 title: "Spirit Adrift – Divided by Darkness"
+edited: false
 date: "2019-04-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "metal"

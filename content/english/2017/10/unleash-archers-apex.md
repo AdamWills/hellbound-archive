@@ -1,9 +1,10 @@
 ---
 title: "Unleash The Archers – Apex"
+edited: false
 date: "2017-10-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "review"

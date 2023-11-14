@@ -1,9 +1,10 @@
 ---
 title: "Pallbearer live in Toronto, 8 May 2018"
+edited: false
 date: "2018-05-30"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "live"
   - "pallbearer"

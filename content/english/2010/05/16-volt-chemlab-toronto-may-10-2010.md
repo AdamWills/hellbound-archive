@@ -1,11 +1,12 @@
 ---
 title: "16 Volt/ Chemlab/ Left Spine Down @ Neu+ral, Toronto, ON, May 10, 2010"
+edited: false
 date: "2010-05-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "16-volt"
   - "canada"
   - "chemlab"

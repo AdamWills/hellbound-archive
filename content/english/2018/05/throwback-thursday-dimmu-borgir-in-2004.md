@@ -1,9 +1,10 @@
 ---
 title: "#Throwback Thursday - Dimmu Borgir in 2004"
+edited: false
 date: "2018-05-10"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "black-metal"
   - "death-metal"
   - "dimmu-borgir"

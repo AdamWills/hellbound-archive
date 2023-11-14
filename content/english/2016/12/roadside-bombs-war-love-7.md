@@ -1,9 +1,10 @@
 ---
 title: "Roadside Bombs – War On Love 7''"
+edited: false
 date: "2016-12-13"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "punk"
   - "punk-rock"
   - "review"

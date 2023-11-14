@@ -1,9 +1,10 @@
 ---
 title: "Preservation Hall Jazz Band – Run, Stop & Drop (The Needle) EP"
+edited: false
 date: "2018-01-30"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "jazz"
   - "preservation-hall-jazz-band"
   - "review"

@@ -1,9 +1,10 @@
 ---
 title: "Mars Red Sky – Stranded in Arcadia"
+edited: false
 date: "2014-07-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "fu-manchu"
   - "fuzz-rock"
   - "ghost"

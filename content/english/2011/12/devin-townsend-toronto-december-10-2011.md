@@ -1,11 +1,12 @@
 ---
 title: "We Are All Puppets: Devin Townsend/Today I Caught The Plague @ The Opera House, Toronto, ON, December 10, 2011"
+edited: false
 date: "2011-12-14"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "devin-townsend"
   - "jonathan-smith"

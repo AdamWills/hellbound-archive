@@ -1,11 +1,12 @@
 ---
 title: "All Else Fails - The Oracle, What Was, Is and Could Have Been"
+edited: false
 date: "2011-10-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alice-in-chains"
   - "all-else-fails"
   - "hardcore"

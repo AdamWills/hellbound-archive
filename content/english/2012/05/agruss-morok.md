@@ -1,11 +1,12 @@
 ---
 title: "Agruss – Morok"
+edited: false
 date: "2012-05-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "agruss"
   - "berneau-van-der-merwe"
   - "black-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Hellbound.ca’s Top 10 Albums of 2012"
+edited: false
 date: "2013-01-07"
-categories: 
+categories:
   - "features"
   - "headline"
   - "reviews"
-tags: 
+tags:
   - "heaven-hell"
   - "adrien-begrand"
   - "anathema"

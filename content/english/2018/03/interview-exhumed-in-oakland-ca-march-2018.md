@@ -1,9 +1,10 @@
 ---
 title: "Interview: EXHUMED in Oakland CA, March 2018"
+edited: false
 date: "2018-03-16"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "exhumed"
   - "extreme-metal"

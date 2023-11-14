@@ -1,11 +1,12 @@
 ---
 title: "MAKING OF A SLUDGE METAL SOLO ALBUM - Step One: Write Lyrics"
+edited: false
 date: "2015-02-21"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "introvert"
   - "sludge"

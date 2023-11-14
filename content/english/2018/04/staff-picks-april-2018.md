@@ -1,11 +1,12 @@
 ---
 title: "Staff Picks, April 2018"
+edited: false
 date: "2018-04-27"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "black-metal"
   - "death-metal"
   - "doom"

@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Radio: August 2, 2009"
+edited: false
 date: "2009-08-04"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "albert-mansour"
   - "hellbound-radio"
   - "kevin-stewart-panko"

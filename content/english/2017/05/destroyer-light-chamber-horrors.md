@@ -1,10 +1,11 @@
 ---
 title: "Destroyer of Light – Chamber of Horrors"
+edited: false
 date: "2017-05-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "destroyer-of-light"
   - "doom"
   - "heavy-music"

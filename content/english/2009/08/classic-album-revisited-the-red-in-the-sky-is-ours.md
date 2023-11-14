@@ -1,11 +1,12 @@
 ---
 title: "Classic Album Revisited: The Red in the Sky is Ours"
+edited: false
 date: "2009-08-04"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-classics"
-tags: 
+tags:
   - "at-the-gates"
   - "classic-album"
   - "death-metal"

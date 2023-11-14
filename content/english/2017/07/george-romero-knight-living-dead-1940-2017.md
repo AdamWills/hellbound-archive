@@ -1,7 +1,8 @@
 ---
 title: "George Romero, Knight of the Living Dead (1940–2017)"
+edited: false
 date: "2017-07-26"
-categories: 
+categories:
   - "features"
   - "hellbound-horror"
 ---

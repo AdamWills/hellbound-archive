@@ -1,9 +1,10 @@
 ---
 title: "The Basketball Diaries by Jim Carroll"
+edited: false
 date: "2015-04-03"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "basketball-diaries"
   - "book-review"
   - "jim-carroll"

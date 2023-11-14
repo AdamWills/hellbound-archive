@@ -1,11 +1,12 @@
 ---
 title: "Man, Electric Magma's still got it, man..."
+edited: false
 date: "2012-06-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "bovine-sex-club"
   - "diablo-red"
   - "electric-magma"

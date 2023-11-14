@@ -1,11 +1,12 @@
 ---
 title: "Twisted Sister – Live At Wacken: The Reunion"
+edited: false
 date: "2011-01-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "dvd"
   - "eagle-vision"
   - "jason-wellwood"

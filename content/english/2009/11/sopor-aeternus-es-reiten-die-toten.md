@@ -1,11 +1,12 @@
 ---
 title: "Sopor Aeternus & The Ensemble of Shadows: Es reiten die Toten so schnell (or The Vampyre Sucking at his Own Vein)"
+edited: false
 date: "2009-11-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "classical"
   - "germany"
   - "goth"

@@ -1,11 +1,12 @@
 ---
 title: "Deceased - Surreal Overdose"
+edited: false
 date: "2011-07-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "deceased"
   - "king-fowley"
   - "sean-palmerston"

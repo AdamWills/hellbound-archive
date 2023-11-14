@@ -1,11 +1,12 @@
 ---
 title: "Reconsidering MC5’s High Time"
+edited: false
 date: "2009-09-14"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "tate_bengston"
-tags: 
+tags:
   - "high-time"
   - "kick-out-the-jams"
   - "mc5"

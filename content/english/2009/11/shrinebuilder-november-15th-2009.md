@@ -1,11 +1,12 @@
 ---
 title: "Shrinebuilder/Rwake/Liturgy @ Le Poisson Rouge, New York City, November 15th, 2009"
+edited: false
 date: "2009-11-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "ajna-offensive"
   - "liturgy"
   - "live-review"

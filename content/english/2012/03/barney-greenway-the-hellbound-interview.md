@@ -1,11 +1,12 @@
 ---
 title: "Barney Greenway: The Hellbound Interview"
+edited: false
 date: "2012-03-02"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "barney-greenway"
   - "birmingham"
   - "century-media"

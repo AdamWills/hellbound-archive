@@ -1,10 +1,11 @@
 ---
 title: "Electric Würms – Musik, die Schwer zu Twerk"
+edited: false
 date: "2014-11-27"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "audio-review"
   - "dance-music"

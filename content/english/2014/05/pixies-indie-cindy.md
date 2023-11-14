@@ -1,9 +1,10 @@
 ---
 title: "Pixies – Indie Cindy"
+edited: false
 date: "2014-05-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "aggro-indie"
   - "alt-rock"
   - "ground-control-mag"

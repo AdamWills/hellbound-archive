@@ -1,9 +1,10 @@
 ---
 title: "Wildlights – Self-Titled"
+edited: false
 date: "2015-08-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "american"
   - "asg"
   - "baroness"

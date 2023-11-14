@@ -1,9 +1,10 @@
 ---
 title: "The Texas Gentlemen – TX Jelly (LP)"
+edited: false
 date: "2018-02-09"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "country-rock"
   - "review"

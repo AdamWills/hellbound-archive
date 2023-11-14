@@ -1,11 +1,12 @@
 ---
 title: "Head To Head On.... Suicidal Angels - Sanctify The Darkness"
+edited: false
 date: "2010-06-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "greece"
   - "nuclear-blast"
   - "sonic-unyon"

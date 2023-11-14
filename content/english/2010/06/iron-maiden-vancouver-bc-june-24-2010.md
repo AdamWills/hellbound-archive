@@ -1,12 +1,13 @@
 ---
 title: "Iron Maiden @ GM Place, Vancouver BC, June 24, 2010"
+edited: false
 date: "2010-06-28"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "cara-cross"
   - "emi"
   - "iron-maiden"

@@ -1,12 +1,13 @@
 ---
 title: "Nashville Pussy/ Civet @ Crocks, Thunder Bay ON, October 26th, 2010"
+edited: false
 date: "2010-11-05"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "civet"
   - "crocks"
   - "epitaph"

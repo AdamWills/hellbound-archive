@@ -1,10 +1,11 @@
 ---
 title: "Staff playlists, September 2018"
+edited: false
 date: "2018-09-28"
-categories: 
+categories:
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "concerts"
   - "heavy-metal"
   - "heavy-music"

@@ -1,11 +1,12 @@
 ---
 title: "Maaaan, when did Monster Truck get to be so big!?"
+edited: false
 date: "2012-12-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "anvil"
   - "blood-ceremony"
   - "canadian"

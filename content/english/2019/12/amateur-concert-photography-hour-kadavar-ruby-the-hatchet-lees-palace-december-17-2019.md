@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: KADAVAR/Ruby the Hatchet @ Lee's Palace, December 17, 2019"
+edited: false
 date: "2019-12-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "kadavar"

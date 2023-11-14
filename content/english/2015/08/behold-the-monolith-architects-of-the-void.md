@@ -1,9 +1,10 @@
 ---
 title: "Behold! The Monolith – Architects of the Void"
+edited: false
 date: "2015-08-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "behold-the-monolith"
   - "death-doom"

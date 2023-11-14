@@ -1,10 +1,11 @@
 ---
 title: "Heave Blood and Die – Vol II"
+edited: false
 date: "2018-01-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heave-blood-and-die"
   - "heavy"

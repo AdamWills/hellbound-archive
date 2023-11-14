@@ -1,11 +1,12 @@
 ---
 title: "Black Anvil – Triumvirate"
+edited: false
 date: "2010-11-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-anvil"
   - "black-metal"
   - "new-york"

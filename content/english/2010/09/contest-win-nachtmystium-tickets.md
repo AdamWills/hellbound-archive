@@ -1,11 +1,12 @@
 ---
 title: "CONTEST: Win Nachtmystium tickets!!"
+edited: false
 date: "2010-09-08"
-categories: 
+categories:
   - "contests"
   - "featured"
   - "headline"
-tags: 
+tags:
   - "concert"
   - "contest"
   - "nachtmystium"

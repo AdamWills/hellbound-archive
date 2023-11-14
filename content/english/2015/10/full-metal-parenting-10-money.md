@@ -1,9 +1,10 @@
 ---
 title: "Full Metal Parenting #10: Money"
+edited: false
 date: "2015-10-19"
-categories: 
+categories:
   - "featured"
-tags: 
+tags:
   - "fmp"
   - "full-metal-parenting"
   - "metal"

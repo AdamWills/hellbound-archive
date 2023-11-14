@@ -1,10 +1,11 @@
 ---
 title: "Bison BC, Lazarus AD, Barn Burner @ Amigos, Saskatoon, SK, July 14, 2009"
+edited: false
 date: "2009-07-16"
-categories: 
+categories:
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "barn-burner"
   - "bison-bc"
   - "canada"

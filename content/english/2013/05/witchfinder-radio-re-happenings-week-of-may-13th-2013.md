@@ -1,11 +1,12 @@
 ---
 title: "Witchfinder Radio Re-Happenings Week of May 13th, 2013"
+edited: false
 date: "2013-05-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "102-7fm"
   - "blowing-up-the-lakehead"
   - "cilu"

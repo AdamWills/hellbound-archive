@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Chron Goblin/Black Mastiff @ Hard Luck Bar, October 18, 2019"
+edited: false
 date: "2019-10-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-mastiff"
   - "chron-goblin"
   - "concert-photography"

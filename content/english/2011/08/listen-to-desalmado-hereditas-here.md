@@ -1,12 +1,13 @@
 ---
 title: "Listen To Desalmado's Hereditas EP Here!"
+edited: false
 date: "2011-08-17"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "headline"
   - "editors_blog"
-tags: 
+tags:
   - "desalmado"
   - "earsplit-pr"
   - "greyhaze-records"

@@ -1,7 +1,8 @@
 ---
 title: "No Future - Complete Singles Collection"
+edited: false
 date: "2020-08-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

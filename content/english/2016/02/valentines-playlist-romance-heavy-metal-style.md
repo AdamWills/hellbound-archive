@@ -1,11 +1,12 @@
 ---
 title: "A valentine's playlist: romance, heavy metal style?"
+edited: false
 date: "2016-02-14"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "love"
   - "metal"
   - "romance"

@@ -1,10 +1,11 @@
 ---
 title: "Photo Gallery: Demontage with Demona, Valkyrie’s Cry, Cromlech in Toronto, March 8, 2014"
+edited: false
 date: "2014-03-14"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "cromlech"
   - "danielle-griscti"
   - "demona"

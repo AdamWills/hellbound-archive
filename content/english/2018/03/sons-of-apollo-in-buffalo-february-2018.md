@@ -1,9 +1,10 @@
 ---
 title: "Sons of Apollo in Buffalo, February 2018"
+edited: false
 date: "2018-03-06"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "billy-sheehan"
   - "black-country-communion"
   - "buffalo"

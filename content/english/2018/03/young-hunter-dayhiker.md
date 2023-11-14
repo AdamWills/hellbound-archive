@@ -1,9 +1,10 @@
 ---
 title: "Young Hunter - Dayhiker"
+edited: false
 date: "2018-03-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "doom"
   - "doom-metal"

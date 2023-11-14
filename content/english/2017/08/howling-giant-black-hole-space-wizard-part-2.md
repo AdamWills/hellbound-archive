@@ -1,10 +1,11 @@
 ---
 title: "Howling Giant – Black Hole Space Wizard Part 2"
+edited: false
 date: "2017-08-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "concept-album"
   - "desert-rock"
   - "heavy-rock"

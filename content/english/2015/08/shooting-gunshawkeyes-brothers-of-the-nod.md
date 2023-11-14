@@ -1,9 +1,10 @@
 ---
 title: "Shooting Guns/Hawkeyes - Brothers of the Nod"
+edited: false
 date: "2015-08-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "clutch"
   - "psychedelic-sludgedoom"

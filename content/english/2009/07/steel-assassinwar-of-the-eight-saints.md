@@ -1,11 +1,12 @@
 ---
 title: "Steel Assassin: War Of The Eight Saints"
+edited: false
 date: "2009-07-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "power-metal"
   - "sentinel-steel"

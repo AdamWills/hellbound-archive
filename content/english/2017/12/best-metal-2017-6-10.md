@@ -1,10 +1,11 @@
 ---
 title: "Best metal of 2017: 6-10"
+edited: false
 date: "2017-12-14"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "alunah"
   - "bell-witch"
   - "best-of"

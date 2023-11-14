@@ -1,11 +1,12 @@
 ---
 title: "Delain – Lucidity"
+edited: false
 date: "2010-07-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "delain"
   - "netherlands"
   - "nightwish"

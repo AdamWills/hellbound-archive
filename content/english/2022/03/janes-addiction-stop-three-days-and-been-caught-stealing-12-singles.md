@@ -1,10 +1,11 @@
 ---
 title: "Jane's Addiction - \"Stop!\"/\"Three Days\" and \"Been Caught Stealing\" 12'' singles"
+edited: false
 date: "2022-03-28"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "12"
   - "addiction"
   - "avery"

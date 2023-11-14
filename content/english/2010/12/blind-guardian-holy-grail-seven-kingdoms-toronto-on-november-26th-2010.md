@@ -1,11 +1,12 @@
 ---
 title: "Blind Guardian / Holy Grail / Seven Kingdoms @ Kool Haus, Toronto ON, November 26th 2010"
+edited: false
 date: "2010-12-02"
-categories: 
+categories:
   - "features"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "amon-amarth"
   - "blind-guardian"

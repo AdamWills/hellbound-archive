@@ -1,9 +1,10 @@
 ---
 title: "“We Fear Nothing!”: Lacuna Coil, September 27, 2014"
+edited: false
 date: "2014-10-10"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "alternative-metal"
   - "atmospheric-rock"
   - "incura"

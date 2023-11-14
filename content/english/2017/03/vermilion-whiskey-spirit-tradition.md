@@ -1,10 +1,11 @@
 ---
 title: "Vermilion Whiskey – Spirit of Tradition"
+edited: false
 date: "2017-03-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "review"
   - "sludge"
   - "southern-metal"

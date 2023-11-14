@@ -1,10 +1,11 @@
 ---
 title: "Zabrecky - Seance! With Zabrecky 12'' single"
+edited: false
 date: "2022-10-20"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "halloween"
   - "in-the-red"
   - "records"

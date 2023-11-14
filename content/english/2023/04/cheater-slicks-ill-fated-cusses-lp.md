@@ -1,10 +1,11 @@
 ---
 title: "Cheater Slicks - Ill-Fated Cusses LP"
+edited: false
 date: "2023-04-08"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "blues"
   - "cheater"
   - "cusses"

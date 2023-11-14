@@ -1,9 +1,10 @@
 ---
 title: "Darkthrone – Arctic Thunder"
+edited: false
 date: "2017-02-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "darkthrone"
   - "heavy-metal"

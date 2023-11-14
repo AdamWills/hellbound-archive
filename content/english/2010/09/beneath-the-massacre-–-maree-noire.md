@@ -1,10 +1,11 @@
 ---
 title: "Beneath The Massacre – Maree Noire"
+edited: false
 date: "2010-09-10"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "beneath-the-massacre"
   - "grind"
   - "matt-lewis"

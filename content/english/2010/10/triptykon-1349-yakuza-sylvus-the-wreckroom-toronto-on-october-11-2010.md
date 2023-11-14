@@ -1,11 +1,12 @@
 ---
 title: "Triptykon / 1349 / Yakuza / Sylvus @ the Wreckroom, Toronto ON, October 11 2010"
+edited: false
 date: "2010-10-18"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "1349"
   - "adam-wills"
   - "black-metal"

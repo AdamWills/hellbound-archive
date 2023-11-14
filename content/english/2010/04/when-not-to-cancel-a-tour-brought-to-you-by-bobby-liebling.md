@@ -1,7 +1,8 @@
 ---
 title: "When NOT to cancel a tour, brought to you by Bobby Liebling..."
+edited: false
 date: "2010-04-10"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

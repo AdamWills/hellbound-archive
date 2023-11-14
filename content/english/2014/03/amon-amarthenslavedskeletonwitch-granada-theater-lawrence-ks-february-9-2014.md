@@ -1,11 +1,12 @@
 ---
 title: "Amon Amarth/Enslaved/Skeletonwitch @ Granada Theater, Lawrence KS,  February 9, 2014"
+edited: false
 date: "2014-03-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "amon-amarth"
   - "black-metal"
   - "death-metal"

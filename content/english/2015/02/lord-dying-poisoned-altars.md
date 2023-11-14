@@ -1,9 +1,10 @@
 ---
 title: "Lord Dying – Poisoned Altars"
+edited: false
 date: "2015-02-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blackened-sludge"
   - "death-metal"

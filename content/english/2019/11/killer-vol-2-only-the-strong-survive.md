@@ -1,9 +1,10 @@
 ---
 title: "Killer – Vol 2: Only The Strong Survive"
+edited: false
 date: "2019-11-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
 ---

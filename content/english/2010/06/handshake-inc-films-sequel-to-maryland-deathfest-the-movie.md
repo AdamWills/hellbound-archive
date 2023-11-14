@@ -1,11 +1,12 @@
 ---
 title: "Handshake Inc. Films Sequel to Maryland Deathfest: The Movie"
+edited: false
 date: "2010-06-18"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "handshake-inc"
   - "laina-dawes"
   - "maryland-deathfest"

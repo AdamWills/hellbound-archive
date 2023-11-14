@@ -1,9 +1,10 @@
 ---
 title: "Naked Giants – Green Fuzz 10\" single"
+edited: false
 date: "2020-02-18"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
   - "vinyl"
 ---

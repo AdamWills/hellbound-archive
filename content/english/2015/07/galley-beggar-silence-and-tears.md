@@ -1,9 +1,10 @@
 ---
 title: "Galley Beggar - Silence and Tears"
+edited: false
 date: "2015-07-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "british-folk-rock"
   - "jethro-tull"
   - "opeth"

@@ -1,9 +1,10 @@
 ---
 title: "Mad Max: Fury Road - a Hellbound movie review"
+edited: false
 date: "2015-06-05"
-categories: 
+categories:
   - "reviews"
-tags: 
+tags:
   - "brendan-mccarthy"
   - "charlize-theron"
   - "cinema"

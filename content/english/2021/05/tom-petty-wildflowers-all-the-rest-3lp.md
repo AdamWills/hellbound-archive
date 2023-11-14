@@ -1,7 +1,8 @@
 ---
 title: "Tom Petty - Wildflowers & All The Rest 3LP"
+edited: false
 date: "2021-05-12"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"

@@ -1,10 +1,11 @@
 ---
 title: "Job For A Cowboy - Demonocracy"
+edited: false
 date: "2012-03-22"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "chimaira"
   - "job-for-a-cowboy"
   - "metal-blade"

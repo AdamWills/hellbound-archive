@@ -1,11 +1,12 @@
 ---
 title: "The Rocketman singing Iron Man!?  Run to the Hills!"
+edited: false
 date: "2011-10-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-sabbath"
   - "gruesome-greg"
   - "iron-man"

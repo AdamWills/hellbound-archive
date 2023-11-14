@@ -1,11 +1,12 @@
 ---
 title: "Unleash The Archers – Demons of the AstroWaste"
+edited: false
 date: "2011-05-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "jason-wellwood"
   - "power-metal"
   - "unleash-the-archers"

@@ -1,11 +1,12 @@
 ---
 title: "Cripple Bastards: Two Decades of Provocative Grind"
+edited: false
 date: "2009-07-07"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "cripple-bastards"
   - "grindcore"
   - "italy"

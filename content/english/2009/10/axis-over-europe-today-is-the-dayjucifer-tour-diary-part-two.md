@@ -1,11 +1,12 @@
 ---
 title: "Axis Over Europe: Today Is The Day/Jucifer Tour Diary, Part Two"
+edited: false
 date: "2009-10-14"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "complete-failure"
   - "jay-h-gorania"
   - "jucifer"

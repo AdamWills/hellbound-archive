@@ -1,11 +1,12 @@
 ---
 title: "Bill Adams' 2018 in music"
+edited: false
 date: "2018-12-30"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "best-of-2018"
   - "heavy-metal"

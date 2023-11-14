@@ -1,11 +1,12 @@
 ---
 title: "3 Inches of Blood/ Goatwhore/ Burning the Day @ Mod Club, Toronto ON, May 13, 2010"
+edited: false
 date: "2010-05-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "black-metal"
   - "burning-the-day"

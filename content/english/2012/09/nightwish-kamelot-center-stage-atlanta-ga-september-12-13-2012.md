@@ -1,11 +1,12 @@
 ---
 title: "Nightwish / Kamelot @ Center Stage, Atlanta GA, September 12 + 13, 2012"
+edited: false
 date: "2012-09-25"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "justin-richardson"
   - "kamelot"
   - "nightwish"

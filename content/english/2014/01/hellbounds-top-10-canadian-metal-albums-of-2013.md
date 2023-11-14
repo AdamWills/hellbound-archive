@@ -1,5 +1,6 @@
 ---
 title: "HELLBOUND’s TOP 10 CANADIAN METAL ALBUMS OF 2013"
+edited: false
 date: "2014-01-01"
 categories:
   - "articles"

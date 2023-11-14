@@ -1,9 +1,10 @@
 ---
 title: "Callisto – Secret Youth"
+edited: false
 date: "2015-03-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "callisto"
   - "post-metal"

@@ -1,9 +1,10 @@
 ---
 title: "Esoctrilihum – Inhüma"
+edited: false
 date: "2018-10-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "esoctrilihum"
   - "review"

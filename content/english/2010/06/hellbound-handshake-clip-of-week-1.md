@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Handshake Clip Of The Week: GORGUTS Live at MDF 2010"
+edited: false
 date: "2010-06-17"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "drummer"
   - "gorguts"
   - "handshake-inc-hellbound-video-of-the-week"

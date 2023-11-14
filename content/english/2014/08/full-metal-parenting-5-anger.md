@@ -1,9 +1,10 @@
 ---
 title: "Full Metal Parenting #5: Anger"
+edited: false
 date: "2014-08-18"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "anger"
   - "clutch"
   - "converge"

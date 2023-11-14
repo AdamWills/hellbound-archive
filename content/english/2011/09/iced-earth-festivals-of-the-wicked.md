@@ -1,11 +1,12 @@
 ---
 title: "Iced Earth - Festivals of the Wicked"
+edited: false
 date: "2011-09-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "century-media"
   - "dvd"
   - "iced-earth"

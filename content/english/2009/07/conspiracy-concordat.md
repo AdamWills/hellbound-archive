@@ -1,11 +1,12 @@
 ---
 title: "Conspiracy: Concordat"
+edited: false
 date: "2009-07-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "conspiracy"
   - "holland"

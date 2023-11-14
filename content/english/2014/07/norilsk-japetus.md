@@ -1,9 +1,10 @@
 ---
 title: "Norilsk – Japetus"
+edited: false
 date: "2014-07-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "doom"
   - "heavy-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Apostle of Solitude – Last Sunrise"
+edited: false
 date: "2010-04-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "apostle-of-solitude"
   - "doom"
   - "profound-lore"

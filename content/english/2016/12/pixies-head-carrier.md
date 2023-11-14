@@ -1,9 +1,10 @@
 ---
 title: "The Pixies – Head Carrier"
+edited: false
 date: "2016-12-22"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative-rock"
   - "pixies"
   - "review"

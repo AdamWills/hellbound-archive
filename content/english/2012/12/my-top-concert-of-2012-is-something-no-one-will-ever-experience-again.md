@@ -1,11 +1,12 @@
 ---
 title: "My top concert of 2012 is something no one will ever experience again..."
+edited: false
 date: "2012-12-30"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "cherry-colas"
   - "concert"
   - "gruesome-greg"

@@ -1,9 +1,10 @@
 ---
 title: "Fórn – The Departure of Consciousness"
+edited: false
 date: "2015-06-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom-metal"
   - "forn"

@@ -1,11 +1,12 @@
 ---
 title: "Sonata Arctica: The Days of Grays"
+edited: false
 date: "2009-11-30"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "finland"
   - "nuclear-blast"
   - "power-metal"

@@ -1,10 +1,11 @@
 ---
 title: "Tangerine Dream – The Blue Years Studio Albums 1985-1987"
+edited: false
 date: "2019-02-19"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
-tags: 
+tags:
   - "heavy-rock"
   - "progressive-rock"
   - "reissue"

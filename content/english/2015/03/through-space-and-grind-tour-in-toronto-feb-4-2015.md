@@ -1,9 +1,10 @@
 ---
 title: "Through Space and Grind Tour in Toronto – Feb 4, 2015"
+edited: false
 date: "2015-03-03"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-crown-initiate"
   - "cannabis-corpse"
   - "exhumed"

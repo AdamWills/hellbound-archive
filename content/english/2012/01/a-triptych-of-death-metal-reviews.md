@@ -1,11 +1,12 @@
 ---
 title: "A Triptych of Death: Horrendous / Ominous Crucifix / Vore"
+edited: false
 date: "2012-01-23"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bolt-thrower"
   - "cannibal-corpse"
   - "craig-haze"

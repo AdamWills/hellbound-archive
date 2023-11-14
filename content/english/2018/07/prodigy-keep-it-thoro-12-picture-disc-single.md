@@ -1,9 +1,10 @@
 ---
 title: "Prodigy – Keep It Thoro (12\" picture disc single)"
+edited: false
 date: "2018-07-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hip-hop"
   - "mobb-deep"
   - "prodigy"

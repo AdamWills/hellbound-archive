@@ -1,9 +1,10 @@
 ---
 title: "Cobalt + Brütal Wülfsex @ Coalition, Toronto, 22 October 2017"
+edited: false
 date: "2017-11-15"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "brutal-wulfsex"
   - "cobalt"
   - "concert"

@@ -1,10 +1,11 @@
 ---
 title: "Voivod: Infini"
+edited: false
 date: "2009-06-22"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "relapse"
   - "sonic-unyon"

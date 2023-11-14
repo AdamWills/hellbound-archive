@@ -1,11 +1,12 @@
 ---
 title: "On the Bus with Tom Gabriel Fischer"
+edited: false
 date: "2010-11-10"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "1349"
   - "celtic-frost"
   - "century-media"

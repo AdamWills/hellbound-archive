@@ -1,11 +1,12 @@
 ---
 title: "Hammers Of Misfortune - 17th Street"
+edited: false
 date: "2011-10-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hammers-of-misfortune"
   - "kyle-harcott"
   - "metal-blade"

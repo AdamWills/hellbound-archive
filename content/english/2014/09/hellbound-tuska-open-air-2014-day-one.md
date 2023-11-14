@@ -1,9 +1,10 @@
 ---
 title: "HELLBOUND @ TUSKA OPEN AIR 2014: DAY ONE"
+edited: false
 date: "2014-09-18"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "amorphis"
   - "carcass"
   - "children-of-bodom"

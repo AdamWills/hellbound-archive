@@ -1,9 +1,10 @@
 ---
 title: "All Them Witches – Sleeping Through The War LP"
+edited: false
 date: "2017-08-03"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "all-them-witches"
   - "blues-rock"
   - "desert-rock"

@@ -1,12 +1,13 @@
 ---
 title: "KEVI METAL’S RIMSHOTS – THE ALL-VINYL VERSION"
+edited: false
 date: "2011-10-03"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "a389"
   - "gravehill"
   - "kevi-metal"

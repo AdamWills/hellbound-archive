@@ -1,11 +1,12 @@
 ---
 title: "Powerchord 25th Anniversary with WOODS OF YPRES and the Powerchord bands!"
+edited: false
 date: "2011-06-01"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "black-label-society"
   - "david-gold"
   - "earache"

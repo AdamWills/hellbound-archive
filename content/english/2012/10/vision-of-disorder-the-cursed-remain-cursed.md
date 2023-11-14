@@ -1,11 +1,12 @@
 ---
 title: "Vision of Disorder - The Cursed Remain Cursed"
+edited: false
 date: "2012-10-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cancer-bats"
   - "candlelight-usa"
   - "harangue"

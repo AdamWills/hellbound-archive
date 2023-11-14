@@ -1,7 +1,8 @@
 ---
 title: "L7 - Smell The Magic"
+edited: false
 date: "2020-09-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

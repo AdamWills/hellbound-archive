@@ -1,9 +1,10 @@
 ---
 title: "The Flaming Lips – Heady Nuggs, 1994-1997: 20 Years After Clouds Taste Metallic"
+edited: false
 date: "2016-03-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alt-rock"
   - "flaming-lips"
   - "review"

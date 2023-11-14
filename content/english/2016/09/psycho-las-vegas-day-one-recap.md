@@ -1,11 +1,12 @@
 ---
 title: "PSYCHO LAS VEGAS Day One Recap"
+edited: false
 date: "2016-09-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "ashbury"
   - "beelzefuzz"
   - "concert-photograpy"

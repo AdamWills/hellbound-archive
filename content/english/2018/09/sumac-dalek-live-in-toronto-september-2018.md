@@ -1,9 +1,10 @@
 ---
 title: "SUMAC & Dalek live in Toronto, September 2018"
+edited: false
 date: "2018-09-14"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "dalek"
   - "live"

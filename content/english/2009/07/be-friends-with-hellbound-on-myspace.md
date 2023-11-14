@@ -1,7 +1,8 @@
 ---
 title: "Be friends with Hellbound on Myspace"
+edited: false
 date: "2009-07-18"
-categories: 
+categories:
   - "blogs"
   - "editors_blog"
 ---

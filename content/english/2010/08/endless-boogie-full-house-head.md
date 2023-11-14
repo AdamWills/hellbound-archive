@@ -1,11 +1,12 @@
 ---
 title: "Endless Boogie – Full House Head"
+edited: false
 date: "2010-08-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "boogie-rock"
   - "endless-boogie"
   - "grand-funk-railroad"

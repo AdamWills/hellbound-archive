@@ -1,9 +1,10 @@
 ---
 title: "Lux & Ivy’s Good For Nothin' Tunes: The Wild, the Weird and the Wang Dang Doodlin'"
+edited: false
 date: "2019-07-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "blues"
   - "compilation"
   - "rock"

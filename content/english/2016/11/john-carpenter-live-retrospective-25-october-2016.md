@@ -1,9 +1,10 @@
 ---
 title: "John Carpenter – Live Retrospective, 25 October 2016"
+edited: false
 date: "2016-11-04"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "alternative"
   - "atmospheric"
   - "experimental"

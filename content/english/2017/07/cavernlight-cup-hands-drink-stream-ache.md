@@ -1,9 +1,10 @@
 ---
 title: "Cavernlight – As We Cup Our Hands and Drink From the Stream of Our Ache"
+edited: false
 date: "2017-07-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "cavernlight"
   - "depressive-doom"
   - "doom"

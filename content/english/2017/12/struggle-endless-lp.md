@@ -1,9 +1,10 @@
 ---
 title: "The Struggle – Endless LP"
+edited: false
 date: "2017-12-15"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hardcore"
   - "punk"
   - "punk-rock"

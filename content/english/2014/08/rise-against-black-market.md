@@ -1,9 +1,10 @@
 ---
 title: "Rise Against – The Black Market"
+edited: false
 date: "2014-08-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-flag"
   - "hard-rock"
   - "hardcore"

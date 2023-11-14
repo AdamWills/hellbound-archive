@@ -1,11 +1,12 @@
 ---
 title: "Asphyx: Death... The Brutal Way"
+edited: false
 date: "2009-07-27"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "asphyx"
   - "death-metal"
   - "holland"

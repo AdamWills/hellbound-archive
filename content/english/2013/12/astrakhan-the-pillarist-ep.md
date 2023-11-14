@@ -1,11 +1,12 @@
 ---
 title: "Astrakhan - The Pillarist EP"
+edited: false
 date: "2013-12-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anciients"
   - "astrakhan"
   - "black-wizard"

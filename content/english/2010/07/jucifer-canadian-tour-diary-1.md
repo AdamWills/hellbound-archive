@@ -1,7 +1,8 @@
 ---
 title: "Jucifer – Canadian Tour Diary #1"
+edited: false
 date: "2010-07-19"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"

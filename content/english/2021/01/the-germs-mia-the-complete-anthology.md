@@ -1,7 +1,8 @@
 ---
 title: "The Germs - (MIA) The Complete Anthology"
+edited: false
 date: "2021-01-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

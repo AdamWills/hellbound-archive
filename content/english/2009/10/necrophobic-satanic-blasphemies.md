@@ -1,11 +1,12 @@
 ---
 title: "Necrophobic: Satanic Blasphemies"
+edited: false
 date: "2009-10-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "necrophobic"
   - "regain"

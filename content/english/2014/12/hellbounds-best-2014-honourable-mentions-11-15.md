@@ -1,10 +1,11 @@
 ---
 title: "Hellbound's best of 2014: honourable mentions (#11-15)"
+edited: false
 date: "2014-12-29"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "agalloch"
   - "anathema"
   - "best-metal-of-2014"

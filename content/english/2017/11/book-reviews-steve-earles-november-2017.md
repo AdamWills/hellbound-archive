@@ -1,9 +1,10 @@
 ---
 title: "Book reviews by Steve Earles, November 2017"
+edited: false
 date: "2017-11-29"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "baltic"
   - "bolsheviks"
   - "book-review"

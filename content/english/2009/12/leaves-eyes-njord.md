@@ -1,11 +1,12 @@
 ---
 title: "Leaves' Eyes: Njord"
+edited: false
 date: "2009-12-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "folk-metal"
   - "germany"
   - "gothic-metal"

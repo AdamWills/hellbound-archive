@@ -1,9 +1,10 @@
 ---
 title: "Interview: Rebel Wizard"
+edited: false
 date: "2016-02-25"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "black-metal"
   - "interview"
   - "rebel-wizard"

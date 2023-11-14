@@ -1,11 +1,12 @@
 ---
 title: "Indriocothere - II"
+edited: false
 date: "2013-11-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "behold-the-arctopus"
   - "colin-marston"

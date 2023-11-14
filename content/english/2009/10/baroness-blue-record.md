@@ -1,11 +1,12 @@
 ---
 title: "Baroness: Blue Record"
+edited: false
 date: "2009-10-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "metal"
   - "queen"

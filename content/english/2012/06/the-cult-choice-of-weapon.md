@@ -1,11 +1,12 @@
 ---
 title: "The Cult – Choice Of Weapon"
+edited: false
 date: "2012-06-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "deftones"
   - "faith-no-more"
   - "janes-addiction"

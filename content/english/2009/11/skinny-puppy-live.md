@@ -1,11 +1,12 @@
 ---
 title: "Skinny Puppy/Vvervvolf Grehv @ The Phoenix, Toronto, ON, November 13, 2009"
+edited: false
 date: "2009-11-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "canada"
   - "industrial"
   - "live"

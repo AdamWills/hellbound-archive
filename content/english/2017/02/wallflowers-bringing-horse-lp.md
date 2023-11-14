@@ -1,9 +1,10 @@
 ---
 title: "The Wallflowers – Bringing Down The Horse LP"
+edited: false
 date: "2017-02-07"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative-rock"
   - "hard-rock"
   - "review"

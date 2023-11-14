@@ -1,9 +1,10 @@
 ---
 title: "Old Firm Casuals – s/t EP (12'' picture disc reissue)"
+edited: false
 date: "2018-07-04"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "lars-frederiksen"
   - "old-firm-casuals"
   - "punk"

@@ -1,11 +1,12 @@
 ---
 title: "Sabaton – Coat of Arms"
+edited: false
 date: "2010-07-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "nuclear-blast"
   - "power-metal"
   - "sabaton"

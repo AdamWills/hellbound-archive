@@ -1,9 +1,10 @@
 ---
 title: "Jupiter Hollow – Odyssey"
+edited: false
 date: "2017-03-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "jupiter-hollow"
   - "metal"
   - "progressive"

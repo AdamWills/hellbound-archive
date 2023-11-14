@@ -1,11 +1,12 @@
 ---
 title: "SC.U.M. - Born Too Soon LP Reissue"
+edited: false
 date: "2023-05-06"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "hardcore"
   - "montreal"
   - "porterhouse"

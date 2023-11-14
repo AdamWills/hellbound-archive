@@ -1,11 +1,12 @@
 ---
 title: "Orphaned Land: The Hellbound Interview"
+edited: false
 date: "2010-05-03"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "black-metal"
   - "century-media"

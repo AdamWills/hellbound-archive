@@ -1,11 +1,12 @@
 ---
 title: "Sepultura @ Vogue Theatre, Vancouver BC, May 31, 2011"
+edited: false
 date: "2011-06-15"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "kyle-harcott"
   - "max-cavalera"
   - "sepultura"

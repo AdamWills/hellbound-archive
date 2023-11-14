@@ -1,9 +1,10 @@
 ---
 title: "Tangerine Dream – The Official Bootleg Series Volume Three"
+edited: false
 date: "2019-07-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "boxset"
   - "concert"
   - "official-bootleg"

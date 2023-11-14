@@ -1,11 +1,12 @@
 ---
 title: "From the vaults: Warhorse - As Heaven Turns To Ash..."
+edited: false
 date: "2015-03-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "electric-wizard"
   - "sons-of-otis"

@@ -1,9 +1,10 @@
 ---
 title: "Bryant and May: Hall of Mirrors by Christopher Fowler"
+edited: false
 date: "2019-02-01"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "detective-fiction"
   - "fiction"

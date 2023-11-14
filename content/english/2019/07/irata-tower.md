@@ -1,10 +1,11 @@
 ---
 title: "Irata – Tower"
+edited: false
 date: "2019-07-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy"
   - "post-sludge"
   - "review"

@@ -1,7 +1,8 @@
 ---
 title: "Korean War - Chinese Invasion by Gerry Van Tonder"
+edited: false
 date: "2020-06-08"
-categories: 
+categories:
   - "reviews-books"
 ---
 

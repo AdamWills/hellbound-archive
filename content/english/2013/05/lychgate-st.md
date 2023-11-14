@@ -1,11 +1,12 @@
 ---
 title: "Lychgate - s/t"
+edited: false
 date: "2013-05-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "atmospheric"
   - "black-metal"
   - "evoken"

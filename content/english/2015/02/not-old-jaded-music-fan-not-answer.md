@@ -1,10 +1,11 @@
 ---
 title: "How to not be an old jaded music fan (this is not an answer)"
+edited: false
 date: "2015-02-11"
-categories: 
+categories:
   - "blogs"
   - "editors_blog"
-tags: 
+tags:
   - "live-music"
   - "the-visit"
   - "vire"

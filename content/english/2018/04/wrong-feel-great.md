@@ -1,10 +1,11 @@
 ---
 title: "Wrong – Feel Great"
+edited: false
 date: "2018-04-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "heavy"
   - "metal"

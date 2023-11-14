@@ -1,11 +1,12 @@
 ---
 title: "Ghoul – Intermediate Level Hardcore"
+edited: false
 date: "2013-10-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "budgie"
   - "corrosion-of-conformity"

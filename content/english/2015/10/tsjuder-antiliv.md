@@ -1,9 +1,10 @@
 ---
 title: "Tsjuder – Antiliv"
+edited: false
 date: "2015-10-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "norwegian-black-metal"
   - "old-school"

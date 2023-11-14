@@ -1,9 +1,10 @@
 ---
 title: "Cryptopsy + Rivers of Nihil + The Zenith Passage @ Hard Luck Bar, Toronto, May 23, 2017"
+edited: false
 date: "2017-06-01"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "cryptopsy"
   - "live"

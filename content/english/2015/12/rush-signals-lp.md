@@ -1,10 +1,11 @@
 ---
 title: "Rush – Signals LP"
+edited: false
 date: "2015-12-09"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "metal"
   - "progressive-rock"

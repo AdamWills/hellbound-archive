@@ -1,11 +1,12 @@
 ---
 title: "Ektomorf: What Doesn't Kill Me..."
+edited: false
 date: "2009-06-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm-records"
   - "hungary"
   - "thrash-metal"

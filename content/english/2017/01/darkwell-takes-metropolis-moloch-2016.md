@@ -1,9 +1,10 @@
 ---
 title: "Darkwell takes on Metropolis with Moloch (2016)"
+edited: false
 date: "2017-01-25"
-categories: 
+categories:
   - "staff_picks"
-tags: 
+tags:
   - "dark-metal"
   - "darkwell"
   - "gothic-metal"

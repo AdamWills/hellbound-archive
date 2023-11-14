@@ -1,11 +1,12 @@
 ---
 title: "Kuma’s Corner: The best metal burgers in the world"
+edited: false
 date: "2010-01-11"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "baroness"
   - "blood-horse"
   - "chicago"

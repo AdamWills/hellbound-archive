@@ -1,11 +1,12 @@
 ---
 title: "Revelation – Inner Harbor"
+edited: false
 date: "2013-04-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "against-nature"
   - "baltimore"
   - "blizaro"

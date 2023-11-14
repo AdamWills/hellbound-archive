@@ -1,9 +1,10 @@
 ---
 title: "Origin – interview with vocalist Jason Keyser"
+edited: false
 date: "2017-11-17"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "extreme-metal"
   - "interview"

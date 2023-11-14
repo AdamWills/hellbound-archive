@@ -1,9 +1,10 @@
 ---
 title: "Zealot Cult – Karmenian Crypt"
+edited: false
 date: "2017-05-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "limerick"
   - "metal"

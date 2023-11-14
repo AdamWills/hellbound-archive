@@ -1,9 +1,10 @@
 ---
 title: "Harrington Saints – Pride & Tradition (reissue)"
+edited: false
 date: "2016-06-09"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hardcore"
   - "harrington-saints"
   - "punk"

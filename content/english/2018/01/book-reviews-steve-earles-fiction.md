@@ -1,9 +1,10 @@
 ---
 title: "Book reviews by Steve Earles: FICTION"
+edited: false
 date: "2018-01-05"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "bbc"
   - "book"
   - "edward-marston"

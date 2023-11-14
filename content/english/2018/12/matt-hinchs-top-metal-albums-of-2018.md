@@ -1,11 +1,12 @@
 ---
 title: "Matt Hinch's Top Metal Albums of 2018"
+edited: false
 date: "2018-12-27"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "best-of-2018"
   - "metal"

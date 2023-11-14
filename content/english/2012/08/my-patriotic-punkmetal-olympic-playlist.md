@@ -1,11 +1,12 @@
 ---
 title: "My patriotic punk/metal Olympic playlist"
+edited: false
 date: "2012-08-11"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "canada"
   - "canadian"
   - "dayglo-abortions"

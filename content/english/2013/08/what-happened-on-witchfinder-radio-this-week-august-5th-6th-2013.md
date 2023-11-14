@@ -1,11 +1,12 @@
 ---
 title: "What Happened On Witchfinder Radio This Week (August 5th & 6th 2013)"
+edited: false
 date: "2013-08-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "cilu"
   - "lu-radio"
   - "witchfinder-blog"

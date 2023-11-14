@@ -1,10 +1,11 @@
 ---
 title: "GRUESOME ON GRUESOME – Dimensions of Horror"
+edited: false
 date: "2016-05-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "gruesome"
   - "review"

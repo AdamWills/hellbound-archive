@@ -1,10 +1,11 @@
 ---
 title: "The Socks (self-titled)"
+edited: false
 date: "2014-03-26"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "groove"

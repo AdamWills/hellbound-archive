@@ -1,11 +1,12 @@
 ---
 title: "Ozzy Osbourne - Diary Of A Madman (Legacy Edition)"
+edited: false
 date: "2011-07-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "ozzy"
   - "ozzy-osbourne"

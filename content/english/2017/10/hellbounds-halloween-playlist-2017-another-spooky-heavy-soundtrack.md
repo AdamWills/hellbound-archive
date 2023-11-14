@@ -1,11 +1,12 @@
 ---
 title: "Hellbound's Halloween Playlist 2017: another spooky + heavy soundtrack"
+edited: false
 date: "2017-10-27"
-categories: 
+categories:
   - "hellbound-horror"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "acid-witch"
   - "halloween"
   - "john-carpenter"

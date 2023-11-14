@@ -1,11 +1,12 @@
 ---
 title: "Kataklysm - Heaven’s Venom"
+edited: false
 date: "2010-09-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "death-metal"
   - "kataklysm"

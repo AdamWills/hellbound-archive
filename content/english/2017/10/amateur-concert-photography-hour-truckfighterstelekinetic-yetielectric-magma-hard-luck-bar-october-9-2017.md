@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: TRUCKFIGHTERS/Telekinetic Yeti/Electric Magma @ Hard Luck Bar, October 9, 2017"
+edited: false
 date: "2017-10-12"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "electric-magma"

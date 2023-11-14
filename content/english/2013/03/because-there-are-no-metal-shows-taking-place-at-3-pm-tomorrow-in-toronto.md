@@ -1,11 +1,12 @@
 ---
 title: "Because there are no metal shows taking place at 3 pm tomorrow in Toronto..."
+edited: false
 date: "2013-03-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "standup-comedy"
   - "toronto"

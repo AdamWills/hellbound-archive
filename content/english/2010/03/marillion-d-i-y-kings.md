@@ -1,11 +1,12 @@
 ---
 title: "MARILLION? D.I.Y. KINGS? YOU BETCHA!"
+edited: false
 date: "2010-03-04"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "business-article"
   - "castle-communications"
   - "emi"

@@ -1,11 +1,12 @@
 ---
 title: "Ginger Baker's a crazy guy. Great drummer, but a crazy guy..."
+edited: false
 date: "2012-05-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "beware-of-mr-baker"
   - "cream"
   - "documentary"

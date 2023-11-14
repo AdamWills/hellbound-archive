@@ -1,11 +1,12 @@
 ---
 title: "Star One – Victims of The Modern Age"
+edited: false
 date: "2010-11-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bruce-dickinson"
   - "dan-swano"
   - "edge-of-sanity"

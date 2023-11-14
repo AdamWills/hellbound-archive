@@ -1,9 +1,10 @@
 ---
 title: "Various Artists: Lazarus – Original New York Cast (2CD)"
+edited: false
 date: "2016-11-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "david-bowie"
   - "musical"

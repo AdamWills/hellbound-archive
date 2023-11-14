@@ -1,10 +1,11 @@
 ---
 title: "Unsane – Sterilize"
+edited: false
 date: "2017-09-12"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy"
   - "noise-rock"
   - "sludge"

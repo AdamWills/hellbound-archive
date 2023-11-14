@@ -1,11 +1,12 @@
 ---
 title: "Tom Gabriel Fischer: The Hellbound Interview Part Two"
+edited: false
 date: "2010-04-09"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-metal"
   - "celtic-frost"
   - "century-media"

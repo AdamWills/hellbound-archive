@@ -1,10 +1,11 @@
 ---
 title: "Jane's Addiction – Ritual De Lo Habitual Alive at 25 CD/DVD"
+edited: false
 date: "2017-09-21"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "dvd"
   - "janes-addiction"
   - "live"

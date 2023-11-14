@@ -1,10 +1,11 @@
 ---
 title: "Label profile: Shadow Kingdom Records"
+edited: false
 date: "2009-06-22"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "shadow-kingdom"
   - "shadow-kingdom-records"
   - "usa"

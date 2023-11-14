@@ -1,11 +1,12 @@
 ---
 title: "UK Thrash: Part 2"
+edited: false
 date: "2017-07-18"
-categories: 
+categories:
   - "articles"
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "acid-reigh"
   - "amnesia"
   - "anihilated"

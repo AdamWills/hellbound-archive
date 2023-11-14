@@ -1,7 +1,8 @@
 ---
 title: "Kirk Windstein – Dream in Motion"
+edited: false
 date: "2019-12-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

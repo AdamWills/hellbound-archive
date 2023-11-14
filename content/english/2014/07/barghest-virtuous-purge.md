@@ -1,9 +1,10 @@
 ---
 title: "Barghest – The Virtuous Purge"
+edited: false
 date: "2014-07-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "barghest"
   - "black-metal"

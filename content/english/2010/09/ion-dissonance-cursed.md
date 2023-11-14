@@ -1,10 +1,11 @@
 ---
 title: "Ion Dissonance - Cursed"
+edited: false
 date: "2010-09-13"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "ion-dissonance"
   - "matt-lewis"

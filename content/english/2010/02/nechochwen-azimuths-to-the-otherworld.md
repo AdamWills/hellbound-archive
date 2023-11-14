@@ -1,11 +1,12 @@
 ---
 title: "Nechochwen - Azimuths to the Otherworld"
+edited: false
 date: "2010-02-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bindrune"
   - "black-metal"
   - "folk-metal"

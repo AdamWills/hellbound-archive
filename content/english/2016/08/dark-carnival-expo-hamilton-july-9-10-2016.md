@@ -1,10 +1,11 @@
 ---
 title: "Dark Carnival Expo – Hamilton ON, July 9-10, 2016"
+edited: false
 date: "2016-08-16"
-categories: 
+categories:
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "dark-carnival"
   - "george-romero"
   - "goblin"

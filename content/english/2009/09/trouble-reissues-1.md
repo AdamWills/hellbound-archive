@@ -1,11 +1,12 @@
 ---
 title: "Trouble: Psalm 9/The Skull (reissues)"
+edited: false
 date: "2009-09-03"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "escapi"
   - "metal-blade"

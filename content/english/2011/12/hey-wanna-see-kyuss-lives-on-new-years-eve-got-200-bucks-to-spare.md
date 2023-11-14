@@ -1,11 +1,12 @@
 ---
 title: "Hey, wanna see KYUSS LIVES! on New Year's Eve?  Got 200 bucks to spare?"
+edited: false
 date: "2011-12-17"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "cherry-colas"
   - "christmas"
   - "concert"

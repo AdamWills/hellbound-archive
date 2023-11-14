@@ -1,10 +1,11 @@
 ---
 title: "Electric Wizard – Wizard Bloody Wizard"
+edited: false
 date: "2017-10-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "electric-wizard"
   - "metal"

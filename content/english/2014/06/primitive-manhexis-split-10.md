@@ -1,9 +1,10 @@
 ---
 title: "Primitive Man/Hexis – split 10”"
+edited: false
 date: "2014-06-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "blackened-doom"
   - "doom"
   - "drone"

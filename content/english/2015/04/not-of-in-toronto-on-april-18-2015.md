@@ -1,9 +1,10 @@
 ---
 title: "Not Of in Toronto, ON – April 18, 2015"
+edited: false
 date: "2015-04-24"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "bandcamp"
   - "concert-photos"
   - "concert-review"

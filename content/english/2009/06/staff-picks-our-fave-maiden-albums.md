@@ -1,11 +1,12 @@
 ---
 title: "Staff Picks: Our Fave Maiden Albums"
+edited: false
 date: "2009-06-19"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "staff_picks"
-tags: 
+tags:
   - "britain"
   - "iron-maiden"
   - "nwobhm"

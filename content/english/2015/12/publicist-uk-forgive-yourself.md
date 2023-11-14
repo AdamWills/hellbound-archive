@@ -1,9 +1,10 @@
 ---
 title: "Publicist UK – Forgive Yourself"
+edited: false
 date: "2015-12-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "gothic"
   - "post-punk"

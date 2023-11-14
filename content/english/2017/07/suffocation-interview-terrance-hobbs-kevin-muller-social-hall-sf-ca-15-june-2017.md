@@ -1,10 +1,11 @@
 ---
 title: "SUFFOCATION interview: Terrance Hobbs + Kevin Muller, Social Hall SF CA, 15 June 2017"
+edited: false
 date: "2017-07-11"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "extreme-metal"
   - "interview"

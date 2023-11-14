@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: November 21st, 2010 playlist"
+edited: false
 date: "2010-11-27"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "agalloch"
   - "albert-mansour"
   - "atheist"

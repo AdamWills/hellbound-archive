@@ -1,11 +1,12 @@
 ---
 title: "Joe Thrasher - Metal Forces"
+edited: false
 date: "2010-03-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "joe-thrasher"
   - "self-released"

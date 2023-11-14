@@ -1,10 +1,11 @@
 ---
 title: "Sonic Medusa - demo"
+edited: false
 date: "2011-01-26"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "angel-rot"
   - "angel-witch"

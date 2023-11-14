@@ -1,9 +1,10 @@
 ---
 title: "Black Sabbath: The Vault by Paul Elliot"
+edited: false
 date: "2014-11-03"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "ronnie-james-dio"
   - "black-sabbath"
   - "book-review"

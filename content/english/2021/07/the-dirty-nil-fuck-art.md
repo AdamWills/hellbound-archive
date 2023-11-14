@@ -1,7 +1,8 @@
 ---
 title: "The Dirty Nil - Fuck Art"
+edited: false
 date: "2021-07-14"
-categories: 
+categories:
   - "reviews-audio"
 ---
 

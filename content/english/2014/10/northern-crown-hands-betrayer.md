@@ -1,9 +1,10 @@
 ---
 title: "Northern Crown – In the Hands of the Betrayer"
+edited: false
 date: "2014-10-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "argus"
   - "candlemass"
   - "doom"

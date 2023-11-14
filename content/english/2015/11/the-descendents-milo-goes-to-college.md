@@ -1,10 +1,11 @@
 ---
 title: "The Descendents – Milo Goes To College"
+edited: false
 date: "2015-11-04"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "descendents"
   - "punk"

@@ -1,11 +1,12 @@
 ---
 title: "This Is The End, My Friends..."
+edited: false
 date: "2011-04-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "ckln"
   - "gruesome-greg"
   - "smokin-green"

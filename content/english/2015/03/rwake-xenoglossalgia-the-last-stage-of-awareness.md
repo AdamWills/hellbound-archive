@@ -1,9 +1,10 @@
 ---
 title: "Rwake - Xenoglossalgia (The Last Stage of Awareness)"
+edited: false
 date: "2015-03-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "demo"
   - "doom"

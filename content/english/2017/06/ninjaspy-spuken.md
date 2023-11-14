@@ -1,9 +1,10 @@
 ---
 title: "Ninjaspy – Spüken"
+edited: false
 date: "2017-06-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "ninjaspy"
   - "reggae"

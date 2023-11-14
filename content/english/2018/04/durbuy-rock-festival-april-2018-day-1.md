@@ -1,9 +1,10 @@
 ---
 title: "Durbuy Rock Festival, April 2018 (day 1)"
+edited: false
 date: "2018-04-16"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "alestorm"
   - "black-metal"
   - "concert"

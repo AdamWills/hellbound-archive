@@ -1,10 +1,11 @@
 ---
 title: "Saviours – Palace of Vision"
+edited: false
 date: "2015-11-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "oakland"

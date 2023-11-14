@@ -1,11 +1,12 @@
 ---
 title: "Neurosis – Sovereign EP"
+edited: false
 date: "2011-08-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gruesome-greg"
   - "neurosis"
   - "neurot"

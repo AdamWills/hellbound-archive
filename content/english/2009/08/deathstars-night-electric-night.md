@@ -1,11 +1,12 @@
 ---
 title: "Deathstars: Night Electric Night"
+edited: false
 date: "2009-08-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "deathstars"
   - "industrial"
   - "nuclear-blast"

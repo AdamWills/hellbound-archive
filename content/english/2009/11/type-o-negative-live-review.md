@@ -1,11 +1,12 @@
 ---
 title: "Type O Negative @ Harpo's, Detroit MI, October 31, 2009"
+edited: false
 date: "2009-11-04"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "destrophy"
   - "harpos-concert-theater"

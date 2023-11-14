@@ -1,12 +1,13 @@
 ---
 title: "Best CANADIAN Metal of 2017: TOP 15"
+edited: false
 date: "2018-01-04"
-categories: 
+categories:
   - "canadian-metal"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "biblical"
   - "bison"
@@ -161,7 +162,7 @@ The other thing that grabs me is the violin. Although there have been a handful 
 
 ### Longhouse _II: Vanishing_
 
-(Deathbound) Released April 14 Ottawa, Ontario 
+(Deathbound) Released April 14 Ottawa, Ontario
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2387456987/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://longhouse1.bandcamp.com/album/ii-vanishing">II: Vanishing by Longhouse</a></iframe>
 

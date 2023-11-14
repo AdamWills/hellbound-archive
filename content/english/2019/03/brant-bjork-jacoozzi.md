@@ -1,10 +1,11 @@
 ---
 title: "Brant Bjork – Jacoozzi"
+edited: false
 date: "2019-03-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "funk"
   - "jazz"
   - "review"

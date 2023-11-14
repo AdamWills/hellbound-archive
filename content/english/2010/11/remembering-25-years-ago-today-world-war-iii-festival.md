@@ -1,5 +1,6 @@
 ---
 title: "Remembering 25 Years Ago Today: WORLD WAR III Festival"
+edited: true
 date: "2010-11-30"
 author: "Sean Palmerston"
 coverImage: "http://www.hellbound.ca/wp-content/uploads/2010/11/WWIII-poster.jpg"

@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Interviews : EXHUMED's Matt Harvey - November 10, 2022"
+edited: false
 date: "2022-11-19"
-categories: 
+categories:
   - "featured"
   - "features"
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "exhumed"
   - "hellbound-interview"

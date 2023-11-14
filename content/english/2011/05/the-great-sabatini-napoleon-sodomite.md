@@ -1,11 +1,12 @@
 ---
 title: "The Great Sabatini – Napoleon Sodomite"
+edited: false
 date: "2011-05-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "grind"
   - "montreal"
   - "sludge-metal"

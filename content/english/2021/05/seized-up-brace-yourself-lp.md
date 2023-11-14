@@ -1,10 +1,11 @@
 ---
 title: "Seized Up - Brace Yourself LP"
+edited: false
 date: "2021-05-11"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "brace-yourself"
   - "hardcore"
   - "pirates-press-records"

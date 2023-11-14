@@ -1,11 +1,12 @@
 ---
 title: "Angela Gossow of Arch Enemy: The Hellbound Interview"
+edited: false
 date: "2011-08-25"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "angela-gossow"
   - "arch-enemy"
   - "century-media"

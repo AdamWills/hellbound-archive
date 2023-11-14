@@ -1,11 +1,12 @@
 ---
 title: "Double Down gets two greasy thumbs up..."
+edited: false
 date: "2010-10-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "double-down"
   - "gruesome-greg"
   - "kfc"

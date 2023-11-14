@@ -1,11 +1,12 @@
 ---
 title: "Drudkh: Forgotten Legends"
+edited: false
 date: "2009-12-23"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atmospheric"
   - "black-metal"
   - "drudkh"

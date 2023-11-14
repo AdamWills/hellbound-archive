@@ -1,7 +1,8 @@
 ---
 title: "People pay to see the bands, not the promoter..."
+edited: false
 date: "2010-06-12"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

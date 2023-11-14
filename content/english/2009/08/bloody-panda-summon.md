@@ -1,11 +1,12 @@
 ---
 title: "Bloody Panda: Summon"
+edited: false
 date: "2009-08-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bloody-panda"
   - "doom"
   - "profound-lore"

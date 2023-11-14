@@ -1,11 +1,12 @@
 ---
 title: "Alcest/ Monarque/ Thantifaxath @ Hard Luck Bar, Toronto ON, April 23, 2010"
+edited: false
 date: "2010-04-26"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "alcest"
   - "black-metal"

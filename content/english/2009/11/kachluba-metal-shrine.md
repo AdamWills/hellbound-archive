@@ -1,11 +1,12 @@
 ---
 title: "PHOTO GALLERY: A Peek At The Kachluba Metal Shrine"
+edited: false
 date: "2009-11-17"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "canada"
   - "collection"
   - "collector"

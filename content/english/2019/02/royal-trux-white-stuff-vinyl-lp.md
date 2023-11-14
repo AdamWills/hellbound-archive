@@ -1,9 +1,10 @@
 ---
 title: "Royal Trux – White Stuff (vinyl LP)"
+edited: false
 date: "2019-02-26"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
   - "rock"
   - "vinyl"

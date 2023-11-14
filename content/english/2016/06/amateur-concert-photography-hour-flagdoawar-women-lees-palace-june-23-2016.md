@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: FLAG/DOA/War on Women @ Lee's Palace, June 23, 2016"
+edited: false
 date: "2016-06-25"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-flag"
   - "concert-photography"
   - "concert-photos"

@@ -1,9 +1,10 @@
 ---
 title: "Blekkmetal Film - screening July 3 in Montreal"
+edited: false
 date: "2016-06-23"
-categories: 
+categories:
   - "reviews-visual"
-tags: 
+tags:
   - "bergen"
   - "blekkmetal"
   - "concert-film"

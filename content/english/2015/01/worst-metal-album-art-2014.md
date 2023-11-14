@@ -1,10 +1,11 @@
 ---
 title: "Worst metal album art of 2014"
+edited: false
 date: "2015-01-06"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "metal-album-covers"
   - "worst-album-art"
   - "worst-of-2014"

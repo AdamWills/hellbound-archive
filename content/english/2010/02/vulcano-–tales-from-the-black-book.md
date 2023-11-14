@@ -1,11 +1,12 @@
 ---
 title: "Vulcano – Tales From The Black Book"
+edited: false
 date: "2010-02-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "brazil"
   - "cogumelo"

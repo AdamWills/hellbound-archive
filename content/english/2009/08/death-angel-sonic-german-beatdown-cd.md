@@ -1,11 +1,12 @@
 ---
 title: "Death Angel: Sonic German Beatdown CD"
+edited: false
 date: "2009-08-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-angel"
   - "live"
   - "nuclear-blast"

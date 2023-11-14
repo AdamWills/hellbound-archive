@@ -1,10 +1,11 @@
 ---
 title: "Forming the Void – Rift"
+edited: false
 date: "2018-07-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ambient-rock"
   - "doom-metal"
   - "forming-the-void"

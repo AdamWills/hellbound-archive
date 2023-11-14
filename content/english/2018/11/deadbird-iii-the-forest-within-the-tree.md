@@ -1,10 +1,11 @@
 ---
 title: "Deadbird – III: The Forest Within the Tree"
+edited: false
 date: "2018-11-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "deadbird"
   - "deadbird-iii"
   - "doom"

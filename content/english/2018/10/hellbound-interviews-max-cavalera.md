@@ -1,10 +1,11 @@
 ---
 title: "Hellbound interviews Max Cavalera"
+edited: false
 date: "2018-10-10"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "extreme-metal"
   - "heavy-metal"
   - "industrial"

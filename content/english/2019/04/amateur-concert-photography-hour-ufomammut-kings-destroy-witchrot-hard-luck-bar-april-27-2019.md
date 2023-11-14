@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: UFOMAMMUT/Kings Destroy/Witchrot @ Hard Luck Bar, April 27, 2019"
+edited: false
 date: "2019-04-28"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "hard-luck-bar"

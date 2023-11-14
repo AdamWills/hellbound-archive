@@ -1,11 +1,12 @@
 ---
 title: "Fuck the Facts – Unnamed EP"
+edited: false
 date: "2010-03-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "canada"
   - "fuck-the-facts"
   - "grindcore"

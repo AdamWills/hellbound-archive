@@ -1,11 +1,12 @@
 ---
 title: "War From A Harlots Mouth - MMX"
+edited: false
 date: "2010-11-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "germany"
   - "lifeforce-america"
   - "matt-lewis"

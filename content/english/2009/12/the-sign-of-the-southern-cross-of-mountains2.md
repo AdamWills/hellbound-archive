@@ -1,11 +1,12 @@
 ---
 title: "The Sign of The Southern Cross: ...Of Mountains And Moonshine"
+edited: false
 date: "2009-12-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "pantera"
   - "season-of-mist"

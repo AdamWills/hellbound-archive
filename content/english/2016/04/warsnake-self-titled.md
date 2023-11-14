@@ -1,10 +1,11 @@
 ---
 title: "Warsnake – self-titled"
+edited: false
 date: "2016-04-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian-metal"
   - "canuck-metal"
   - "doom"

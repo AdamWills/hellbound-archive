@@ -1,11 +1,12 @@
 ---
 title: "Darkthrone - Circle the Wagons"
+edited: false
 date: "2010-03-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "darkthrone"
   - "death-metal"

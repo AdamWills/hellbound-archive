@@ -1,9 +1,10 @@
 ---
 title: "Neurosis / Converge / Amenra at the Danforth Music Hall, Toronto, 2 August 2017"
+edited: false
 date: "2017-08-17"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "amenra"
   - "concert"
   - "converge"

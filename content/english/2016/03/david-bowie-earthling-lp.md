@@ -1,9 +1,10 @@
 ---
 title: "David Bowie – Earthling LP"
+edited: false
 date: "2016-03-05"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "david-bowie"
   - "earthling"
   - "record-store-day"

@@ -1,9 +1,10 @@
 ---
 title: "Martin Eric Ain, 1967 – 2017"
+edited: false
 date: "2017-10-23"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "celtic-frost"
   - "heavy-metal"
   - "hellhammer"

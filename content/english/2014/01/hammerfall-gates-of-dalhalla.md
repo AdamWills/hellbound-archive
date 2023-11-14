@@ -1,11 +1,12 @@
 ---
 title: "Hammerfall – Gates of Dalhalla"
+edited: false
 date: "2014-01-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "dvd-review"
   - "hammerfall"
   - "lauren-leuschner"

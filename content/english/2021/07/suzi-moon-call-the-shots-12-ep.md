@@ -1,9 +1,10 @@
 ---
 title: "Suzi Moon - Call The Shots 12'' EP"
+edited: false
 date: "2021-07-30"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "call"
   - "ep"
   - "pirates"

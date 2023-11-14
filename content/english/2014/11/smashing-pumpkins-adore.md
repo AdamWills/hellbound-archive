@@ -1,10 +1,11 @@
 ---
 title: "Smashing Pumpkins – Adore (vinyl reissue)"
+edited: false
 date: "2014-11-25"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "reissue"
   - "smashing-pumpkins"

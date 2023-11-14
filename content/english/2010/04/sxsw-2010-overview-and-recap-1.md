@@ -1,13 +1,14 @@
 ---
 title: "Jay Gorania's SXSW 2010 - Part 1"
+edited: false
 date: "2010-04-02"
-categories: 
+categories:
   - "blogs"
   - "headline"
   - "jay_gorania"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "austin"
   - "billy-milano"
   - "brian-posehn"

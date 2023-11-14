@@ -1,11 +1,12 @@
 ---
 title: "There's nothing like the sound of Neurosis in wintertime..."
+edited: false
 date: "2013-01-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "apostle-of-solitude"
   - "concert"
   - "doom"

@@ -1,10 +1,11 @@
 ---
 title: "City and Colour – Guide Me Back Home (3LP)"
+edited: false
 date: "2019-01-24"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative-rock"
   - "canadian"
   - "rock"

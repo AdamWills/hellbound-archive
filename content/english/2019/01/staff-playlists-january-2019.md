@@ -1,11 +1,12 @@
 ---
 title: "Staff Playlists, January 2019"
+edited: false
 date: "2019-01-30"
-categories: 
+categories:
   - "featured"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "heavy-metal"
   - "heavy-music"
   - "metal"

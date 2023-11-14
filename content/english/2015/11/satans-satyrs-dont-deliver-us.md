@@ -1,10 +1,11 @@
 ---
 title: "Satan’s Satyrs – Don’t Deliver Us"
+edited: false
 date: "2015-11-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "70s-rock"
   - "album-review"
   - "retro"

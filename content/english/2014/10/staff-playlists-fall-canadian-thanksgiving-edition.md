@@ -1,10 +1,11 @@
 ---
 title: "Staff playlists: the fall (and Canadian thanksgiving) edition"
+edited: false
 date: "2014-10-10"
-categories: 
+categories:
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "autumn"
   - "fall"
   - "heavy-metal"

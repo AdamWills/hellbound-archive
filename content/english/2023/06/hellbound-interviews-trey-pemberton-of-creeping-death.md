@@ -1,10 +1,11 @@
 ---
 title: "Hellbound Interviews : Trey Pemberton of CREEPING DEATH"
+edited: false
 date: "2023-06-16"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "2023"
   - "boundless-domain"
   - "creeping-death"

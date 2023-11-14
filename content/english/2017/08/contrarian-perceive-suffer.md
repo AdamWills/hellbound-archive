@@ -1,9 +1,10 @@
 ---
 title: "Contrarian - To Perceive is to Suffer"
+edited: false
 date: "2017-08-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "contrarian"
   - "death-metal"
   - "metal"

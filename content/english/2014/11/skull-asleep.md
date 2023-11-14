@@ -1,9 +1,10 @@
 ---
 title: "The Skull – For Those Which Are Asleep"
+edited: false
 date: "2014-11-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blues-metal"
   - "doom"

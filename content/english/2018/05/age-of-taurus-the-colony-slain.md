@@ -1,10 +1,11 @@
 ---
 title: "Age of Taurus – The Colony Slain"
+edited: false
 date: "2018-05-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "age-of-taurus"
   - "doom"
   - "heavy-metal"

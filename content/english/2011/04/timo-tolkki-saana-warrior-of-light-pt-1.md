@@ -1,11 +1,12 @@
 ---
 title: "Timo Tolkki – Saana: Warrior of Light Pt. 1"
+edited: false
 date: "2011-04-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "scarlet"
   - "stratovarius"
   - "timo-tolkki"

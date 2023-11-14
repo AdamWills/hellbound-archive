@@ -1,10 +1,11 @@
 ---
 title: "Hooded Menace – Darkness Drips Forth"
+edited: false
 date: "2015-12-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "death-metal"
   - "death-doom"

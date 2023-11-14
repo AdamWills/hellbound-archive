@@ -1,9 +1,10 @@
 ---
 title: "Mike Scheidt: The Hellbound Interview"
+edited: false
 date: "2014-09-10"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "doom"
   - "mike-scheidt"
   - "neurosis"

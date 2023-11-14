@@ -1,13 +1,14 @@
 ---
 title: "Listen To The Living Fields \"Running out of Daylight\" album on Hellbound.ca"
+edited: false
 date: "2011-10-11"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "deathdoom-metal"
   - "sean-palmerston"
   - "the-living-fields"

@@ -1,11 +1,12 @@
 ---
 title: "Heavy Metal in 2017 by Matt Hinch"
+edited: false
 date: "2017-12-19"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "end-of-year"
   - "heavy-metal"

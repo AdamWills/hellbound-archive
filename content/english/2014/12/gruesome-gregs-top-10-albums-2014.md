@@ -1,11 +1,12 @@
 ---
 title: "GRUESOME GREG'S TOP 10 ALBUMS OF 2014"
+edited: false
 date: "2014-12-30"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "brimstone-coven"
   - "crowbar"
   - "earth"

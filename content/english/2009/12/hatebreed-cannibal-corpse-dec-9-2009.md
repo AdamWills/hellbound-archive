@@ -1,11 +1,12 @@
 ---
 title: "Hatebreed/Cannibal Corpse/Unearth/Born of Osiris/Hate Eternal @ Odeon, Saskatoon, SK, December 7, 2009"
+edited: false
 date: "2009-12-11"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adrien-begrand"
   - "born-of-osiris"
   - "cannibal-corpse"

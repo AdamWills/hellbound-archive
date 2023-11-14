@@ -1,9 +1,10 @@
 ---
 title: "Aura Noir @ Hard Luck Bar, Toronto, 13 October 2017"
+edited: false
 date: "2017-10-25"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "aura-noir"
   - "black-metal"
   - "blackened-thrash"

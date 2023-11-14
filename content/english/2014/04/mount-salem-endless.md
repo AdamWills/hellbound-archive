@@ -1,9 +1,10 @@
 ---
 title: "Mount Salem – Endless"
+edited: false
 date: "2014-04-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom-rock"
   - "matt-hinch"

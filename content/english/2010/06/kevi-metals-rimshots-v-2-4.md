@@ -1,12 +1,13 @@
 ---
 title: "KEVI METAL'S RIMSHOTS V. 2 #4: MARYLAND DEATHFEST 2010 EDITION"
+edited: false
 date: "2010-06-07"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "defeatist"
   - "jesus-crost"
   - "kevi-metal"

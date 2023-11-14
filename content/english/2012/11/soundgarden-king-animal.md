@@ -1,11 +1,12 @@
 ---
 title: "Soundgarden - King Animal"
+edited: false
 date: "2012-11-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "soundgarden"
   - "universal"
 ---

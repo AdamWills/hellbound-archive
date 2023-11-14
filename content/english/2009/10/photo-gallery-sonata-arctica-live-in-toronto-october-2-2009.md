@@ -1,11 +1,12 @@
 ---
 title: "Photo Gallery: Sonata Arctica Live In Toronto, October 2, 2009"
+edited: false
 date: "2009-10-13"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "finland"
   - "nuclear-blast"
   - "power-metal"

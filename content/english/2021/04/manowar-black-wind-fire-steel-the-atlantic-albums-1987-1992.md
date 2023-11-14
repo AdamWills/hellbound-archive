@@ -1,7 +1,8 @@
 ---
 title: "Manowar - Black Wind, Fire & Steel: The Atlantic Albums (1987-1992)"
+edited: false
 date: "2021-04-30"
-categories: 
+categories:
   - "features"
   - "reviews"
   - "reviews-audio"

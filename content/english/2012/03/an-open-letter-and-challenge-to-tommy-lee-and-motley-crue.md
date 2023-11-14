@@ -1,13 +1,14 @@
 ---
 title: "An open letter, and challenge, to Tommy Lee and Mötley Crüe"
+edited: false
 date: "2012-03-10"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "jay_gorania"
-tags: 
+tags:
   - "dr-feelgood"
   - "generation-swine"
   - "jay-h-gorania"

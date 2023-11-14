@@ -1,11 +1,12 @@
 ---
 title: "Fuck The Facts - Die Miserable: Album review & Audio Interview"
+edited: false
 date: "2011-11-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fuck-the-facts"
   - "jason-wellwood"
   - "relapse"

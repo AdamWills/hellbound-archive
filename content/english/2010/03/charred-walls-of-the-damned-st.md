@@ -1,11 +1,12 @@
 ---
 title: "Charred Walls Of The Damned - s/t"
+edited: false
 date: "2010-03-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "charred-walls-of-the-damned"
   - "howard-stern"
   - "iced-earth"

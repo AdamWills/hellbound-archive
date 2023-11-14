@@ -1,11 +1,12 @@
 ---
 title: "Motorhead/Reverend Horton Heat/Nashville Pussy  @ The House Of Blues, Boston, MA., September 6th, 2009"
+edited: false
 date: "2009-09-14"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "boston"
   - "live"
   - "motorhead"

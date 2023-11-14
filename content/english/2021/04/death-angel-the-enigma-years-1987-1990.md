@@ -1,7 +1,8 @@
 ---
 title: "Death Angel - The Enigma Years (1987-1990)"
+edited: false
 date: "2021-04-29"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"

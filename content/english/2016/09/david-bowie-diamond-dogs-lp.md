@@ -1,10 +1,11 @@
 ---
 title: "David Bowie – Diamond Dogs LP"
+edited: false
 date: "2016-09-19"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "david-bowie"
   - "review"
   - "rock"

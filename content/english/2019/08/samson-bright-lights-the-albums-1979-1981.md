@@ -1,9 +1,10 @@
 ---
 title: "Samson – Bright Lights: The Albums 1979-1981"
+edited: false
 date: "2019-08-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "box-set"
   - "heavy-metal"
   - "metal"

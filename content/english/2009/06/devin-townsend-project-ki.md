@@ -1,10 +1,11 @@
 ---
 title: "Devin Townsend Project: Ki"
+edited: false
 date: "2009-06-09"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "devin-townsend"
   - "inside-out"

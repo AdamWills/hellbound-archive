@@ -1,7 +1,8 @@
 ---
 title: "My return to radio starts TONITE!"
+edited: false
 date: "2009-11-21"
-categories: 
+categories:
   - "blogs"
   - "gruesome_greg"
 ---

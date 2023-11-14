@@ -1,11 +1,12 @@
 ---
 title: "Maiden pulls out all the stops to make Seventh Son number one!"
+edited: false
 date: "2012-07-14"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "alice-cooper"
   - "bruce-dickinson"
   - "gruesome-greg"

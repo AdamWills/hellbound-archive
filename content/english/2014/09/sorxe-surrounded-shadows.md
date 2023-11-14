@@ -1,9 +1,10 @@
 ---
 title: "Sorxe – Surrounded by Shadows"
+edited: false
 date: "2014-09-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "drone"
   - "goblin"

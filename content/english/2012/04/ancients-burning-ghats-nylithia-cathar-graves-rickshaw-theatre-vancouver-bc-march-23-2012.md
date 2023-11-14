@@ -1,11 +1,12 @@
 ---
 title: "Ancients / Burning Ghats / Nylithia / Cathar / Graves @ Rickshaw Theatre, Vancouver BC, March 23, 2012"
+edited: false
 date: "2012-04-05"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "ancients"
   - "burning-ghats"
   - "cara-cross"

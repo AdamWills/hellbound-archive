@@ -1,11 +1,12 @@
 ---
 title: "3 Inches of Blood/Saviours @ Amigos, Saskatoon, SK, October 26, 2009"
+edited: false
 date: "2009-10-28"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "canada"
   - "century-media"

@@ -1,9 +1,10 @@
 ---
 title: "Goatsnake – Black Age Blues"
+edited: false
 date: "2015-05-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doom-metal"
   - "goatsnake"

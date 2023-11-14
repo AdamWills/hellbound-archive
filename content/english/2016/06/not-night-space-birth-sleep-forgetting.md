@@ -1,10 +1,11 @@
 ---
 title: "It’s Not Night, It’s Space – Our Birth is But a Sleep and a Forgetting"
+edited: false
 date: "2016-06-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "its-not-night"
   - "its-space-our-birth-is-but-a-sleep-and-a-forgetting"
   - "review"

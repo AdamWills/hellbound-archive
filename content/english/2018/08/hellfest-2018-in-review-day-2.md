@@ -1,9 +1,10 @@
 ---
 title: "Hellfest 2018 in review: Day 2"
+edited: false
 date: "2018-08-01"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "deftones"
   - "european-metal-festival"

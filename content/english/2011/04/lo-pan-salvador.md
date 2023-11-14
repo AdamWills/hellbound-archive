@@ -1,11 +1,12 @@
 ---
 title: "Lo-Pan – Salvador"
+edited: false
 date: "2011-04-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gruesome-greg"
   - "lo-pan"
   - "pearl-jam"

@@ -1,10 +1,11 @@
 ---
 title: "Foghound – The World Unseen"
+edited: false
 date: "2016-07-12"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baltimore"
   - "doom"
   - "fuzz"

@@ -1,10 +1,11 @@
 ---
 title: "Gypsy Chief Goliath – Citizens of Nowhere"
+edited: false
 date: "2016-04-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian-metal"
   - "gypsy-chief-goliath"
   - "pitch-black-records"

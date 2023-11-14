@@ -1,9 +1,10 @@
 ---
 title: "Cosmic Echoes: a conversation with Pyramids on Mars"
+edited: false
 date: "2015-10-12"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "interview"
   - "pyramids-on-mars"
 ---

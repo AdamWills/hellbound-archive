@@ -1,9 +1,10 @@
 ---
 title: "Norilsk – Japetus"
+edited: false
 date: "2014-09-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "atmospheric-doom"
   - "canadian-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Bison – Earthbound (reissue)"
+edited: false
 date: "2018-03-23"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bison"
   - "doom"
   - "hardcore"

@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: CHURCH OF MISERY/Black Wizard/Forming the Void @ The Garrison, February 18, 2020"
+edited: false
 date: "2020-02-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-wizard"
   - "church-of-misery"
   - "concert-photography"

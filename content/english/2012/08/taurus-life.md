@@ -1,11 +1,12 @@
 ---
 title: "Taurus – Life"
+edited: false
 date: "2012-08-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dark-castle"
   - "funeral-doom"
   - "gruesome-greg"

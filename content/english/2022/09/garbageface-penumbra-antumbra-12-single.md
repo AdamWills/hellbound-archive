@@ -1,10 +1,11 @@
 ---
 title: "Garbageface - Penumbra//Antumbra 12'' single"
+edited: false
 date: "2022-09-29"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "antumbra"
   - "electronic"
   - "garbageface"

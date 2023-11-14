@@ -1,11 +1,12 @@
 ---
 title: "In Conversation With: Cynic's Paul Masvidal"
+edited: false
 date: "2010-08-18"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "cynic"
   - "metal"
   - "navjot-kaur-sobti"

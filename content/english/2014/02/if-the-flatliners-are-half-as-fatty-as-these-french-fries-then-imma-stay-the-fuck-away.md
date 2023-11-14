@@ -1,11 +1,12 @@
 ---
 title: "If The Flatliners are half as fatty as these french fries, then Imma stay the fuck away!"
+edited: false
 date: "2014-02-09"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "heart-attack-grill"
   - "junos"

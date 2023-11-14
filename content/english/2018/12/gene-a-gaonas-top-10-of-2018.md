@@ -1,11 +1,12 @@
 ---
 title: "Gene A. Gaona's Top 10 of 2018"
+edited: false
 date: "2018-12-30"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "best-of-2018"
   - "heavy-metal"

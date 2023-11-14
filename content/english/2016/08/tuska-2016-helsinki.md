@@ -1,10 +1,11 @@
 ---
 title: "Hellbound @ Tuska Open Air 2016 in Helsinki"
+edited: false
 date: "2016-08-02"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "anthrax"
   - "avantasia"
   - "behemoth"

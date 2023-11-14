@@ -1,11 +1,12 @@
 ---
 title: "Thin Lizzy @ The Sound Academy, Toronto ON, March 30, 2011"
+edited: false
 date: "2011-04-04"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "deep-purple"
   - "metallica"

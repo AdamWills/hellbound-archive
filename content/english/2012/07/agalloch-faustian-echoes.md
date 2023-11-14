@@ -1,11 +1,12 @@
 ---
 title: "Agalloch - Faustian Echoes"
+edited: false
 date: "2012-07-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "aesop-dekker"
   - "agalloch"
   - "john-haughm"

@@ -1,9 +1,10 @@
 ---
 title: "SOiL – Whole"
+edited: false
 date: "2014-07-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "pavement"
   - "red"

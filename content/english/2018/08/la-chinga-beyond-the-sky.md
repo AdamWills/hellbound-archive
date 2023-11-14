@@ -1,11 +1,12 @@
 ---
 title: "La Chinga – Beyond the Sky"
+edited: false
 date: "2018-08-21"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blues-rock"
   - "canadian-metal"
   - "hard-rock"

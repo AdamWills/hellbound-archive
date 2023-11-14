@@ -1,10 +1,11 @@
 ---
 title: "Monarque, Csejthe, Pagan Ritual @ Annex Wreck Room, Toronto ON"
+edited: false
 date: "2009-06-04"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "canada"
   - "csejthe"

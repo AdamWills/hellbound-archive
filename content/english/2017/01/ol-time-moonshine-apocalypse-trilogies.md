@@ -1,10 +1,11 @@
 ---
 title: "Ol’ Time Moonshine – The Apocalypse Trilogies"
+edited: false
 date: "2017-01-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blackened-doom"
   - "doom"
   - "fuzz"

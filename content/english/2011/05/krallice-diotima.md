@@ -1,11 +1,12 @@
 ---
 title: "Krallice - Diotima"
+edited: false
 date: "2011-05-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "jonathan-smith"
   - "krallice"

@@ -1,11 +1,12 @@
 ---
 title: "Pentagram - Last Rites"
+edited: false
 date: "2011-04-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bobby-liebling"
   - "metal-blade"
   - "pentagram"

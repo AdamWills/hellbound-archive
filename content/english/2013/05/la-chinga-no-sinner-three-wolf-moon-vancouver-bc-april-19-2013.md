@@ -1,11 +1,12 @@
 ---
 title: "La Chinga / No Sinner / Three Wolf Moon / Harma White at the Rickshaw Theatre, Vancouver, BC April 19, 2013"
+edited: false
 date: "2013-05-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-grant"
   - "allman-brothers"
   - "black-wizard"

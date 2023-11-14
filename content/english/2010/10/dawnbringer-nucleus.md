@@ -1,11 +1,12 @@
 ---
 title: "Dawnbringer - Nucleus"
+edited: false
 date: "2010-10-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "apostle-of-solitude"
   - "dawnbringer"
   - "lemmy"

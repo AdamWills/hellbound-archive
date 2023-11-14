@@ -1,11 +1,12 @@
 ---
 title: "Fatality - Psychonaut"
+edited: false
 date: "2013-08-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "barn-burner"
   - "fatality"
   - "hellbound-metal"

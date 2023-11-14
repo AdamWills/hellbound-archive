@@ -1,11 +1,12 @@
 ---
 title: "My Top 10 Albums and Concerts of 2011, now posted for your reading pleasure..."
+edited: false
 date: "2012-01-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert"
   - "gruesome-greg"
   - "gruesomeviews"

@@ -1,9 +1,10 @@
 ---
 title: "SUNN O))) – KANNON"
+edited: false
 date: "2016-06-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "drone"
   - "experimental"
   - "kannon"

@@ -1,11 +1,12 @@
 ---
 title: "Pure Fucking Mayhem: A film by Stefan Rydehed"
+edited: false
 date: "2010-02-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "black-metal"
   - "documentary"
   - "mayhem"

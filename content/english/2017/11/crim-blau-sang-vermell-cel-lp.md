@@ -1,9 +1,10 @@
 ---
 title: "Crim – Blau sang, Vermell cel LP"
+edited: false
 date: "2017-11-16"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "crim"
   - "hardcore"
   - "punk"

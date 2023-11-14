@@ -1,11 +1,12 @@
 ---
 title: "German heavy metal legends ACCEPT...  coming soon to a suburb near you!"
+edited: false
 date: "2010-09-04"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "accept"
   - "germany"
   - "heavy-metal"

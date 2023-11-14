@@ -1,9 +1,10 @@
 ---
 title: "Mad Trapper – Dead Living"
+edited: false
 date: "2015-09-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "mad-trapper"
   - "metalcore"

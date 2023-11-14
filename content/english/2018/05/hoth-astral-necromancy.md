@@ -1,9 +1,10 @@
 ---
 title: "Hoth – Astral Necromancy"
+edited: false
 date: "2018-05-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "epic"
   - "folk-metal"

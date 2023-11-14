@@ -1,9 +1,10 @@
 ---
 title: "Justin Townes Earle – Kids On The Street LP"
+edited: false
 date: "2017-11-20"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-country"
   - "americana"
   - "blues"

@@ -1,9 +1,10 @@
 ---
 title: "Godstopper - Children Are Our Future"
+edited: false
 date: "2014-06-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "ep"
   - "godstopper"

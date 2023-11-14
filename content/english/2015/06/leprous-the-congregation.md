@@ -1,9 +1,10 @@
 ---
 title: "Leprous - The Congregation"
+edited: false
 date: "2015-06-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "ihsahn"
   - "leprous"

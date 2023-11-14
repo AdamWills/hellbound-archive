@@ -1,9 +1,10 @@
 ---
 title: "Cradle of Filth, Butcher Babies, and Ne Obliviscaris bring an Inquisition to Charlotte"
+edited: false
 date: "2016-03-30"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "butcher-babies"
   - "charlotte"
   - "cradle-of-filth"

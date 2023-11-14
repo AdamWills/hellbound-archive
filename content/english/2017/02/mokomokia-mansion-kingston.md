@@ -1,9 +1,10 @@
 ---
 title: "Mokomokia + more at the the Mansion in Kingston"
+edited: false
 date: "2017-02-24"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "foles-of-07"
   - "glands"
   - "kingston"

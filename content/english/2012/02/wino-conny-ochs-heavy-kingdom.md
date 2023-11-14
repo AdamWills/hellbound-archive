@@ -1,11 +1,12 @@
 ---
 title: "Wino & Conny Ochs – Heavy Kingdom"
+edited: false
 date: "2012-02-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "exile-on-mainstream"
   - "gruesome-greg"
   - "saint-vitus"

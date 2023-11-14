@@ -1,16 +1,17 @@
 ---
 title: "PREVIEW: Radar Festival 2019"
+edited: false
 date: "2019-02-18"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "festival"
   - "metal"
   - "prog"
   - "progressive"
 ---
 
-## Brand new festival announces first wave of bands  
+## Brand new festival announces first wave of bands
 
 The brainchild of two promoters in South of England, a brand new festival is emerging: **Radar Festival**, which will be focusing on bands not afraid to push boundaries across the musical spectrum.
 

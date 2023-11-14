@@ -1,12 +1,13 @@
 ---
 title: "Word Association Fun with... Liberteer"
+edited: false
 date: "2012-01-30"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
-tags: 
+tags:
   - "citizen"
   - "col-jones"
   - "county-medical-examiners"

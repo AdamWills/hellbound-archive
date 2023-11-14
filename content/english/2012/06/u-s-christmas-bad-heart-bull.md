@@ -1,11 +1,12 @@
 ---
 title: "U.S. Christmas – Bad Heart Bull"
+edited: false
 date: "2012-06-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "dead-meadow"
   - "hawkwind"
   - "pink-floyd"

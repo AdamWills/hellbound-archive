@@ -1,10 +1,11 @@
 ---
 title: "Beelzefuzz – The Righteous Bloom"
+edited: false
 date: "2016-06-17"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "beelzefuzz"
   - "doom"
   - "metal"

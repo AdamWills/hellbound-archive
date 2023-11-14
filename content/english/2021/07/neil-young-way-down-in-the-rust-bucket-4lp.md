@@ -1,9 +1,10 @@
 ---
 title: "Neil Young - Way Down In The Rust Bucket (4LP)"
+edited: false
 date: "2021-07-15"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "4lp"
   - "bucket"
   - "crazy-horse"

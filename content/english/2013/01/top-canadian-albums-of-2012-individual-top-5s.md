@@ -1,11 +1,12 @@
 ---
 title: "TOP CANADIAN ALBUMS OF 2012 – Individual Top 5s"
+edited: false
 date: "2013-01-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "adam-wills"
   - "adrien-begrand"

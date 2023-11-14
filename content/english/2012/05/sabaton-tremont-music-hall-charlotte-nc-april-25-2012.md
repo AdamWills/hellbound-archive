@@ -1,11 +1,12 @@
 ---
 title: "Sabaton @ Tremont Music Hall, Charlotte, NC, April 25, 2012"
+edited: false
 date: "2012-05-31"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "20-buck-spin"
   - "charlotte"
   - "iced-earth"

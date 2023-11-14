@@ -1,11 +1,12 @@
 ---
 title: "Wall of Sleep – When Mountains Roar"
+edited: false
 date: "2011-04-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "gruesome-greg"
   - "manowar"

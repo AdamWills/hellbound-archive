@@ -1,7 +1,8 @@
 ---
 title: "How I made it into issue number two of the Born Too Late doomzine"
+edited: false
 date: "2009-08-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

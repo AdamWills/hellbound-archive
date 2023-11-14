@@ -1,11 +1,12 @@
 ---
 title: "Rhapsody of Fire – The Cold Embrace of Fear: A Dark Romantic Symphony"
+edited: false
 date: "2011-01-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "christopher-lee"
   - "jason-wellwood"
   - "nuclear-blast"

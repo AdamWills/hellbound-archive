@@ -1,7 +1,8 @@
 ---
 title: "Ken Hensley – Tales of Live Fire & Other Mysteries"
+edited: false
 date: "2020-03-24"
-categories: 
+categories:
   - "reviews-audio"
 ---
 

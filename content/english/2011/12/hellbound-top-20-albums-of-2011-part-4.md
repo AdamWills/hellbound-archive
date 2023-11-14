@@ -1,12 +1,13 @@
 ---
 title: "Hellbound.ca's Top 20 Albums of 2011, Part 4"
+edited: false
 date: "2011-12-30"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
-tags: 
+tags:
   - "40-watt-sun"
   - "autopsy"
   - "black-sabbath"

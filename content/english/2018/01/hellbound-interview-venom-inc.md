@@ -1,7 +1,8 @@
 ---
 title: "Hellbound Interview: VENOM INC."
+edited: false
 date: "2018-01-29"
-categories: 
+categories:
   - "features"
   - "interviews"
 ---

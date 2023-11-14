@@ -1,11 +1,12 @@
 ---
 title: "Deep Purple - Phoenix Rising"
+edited: false
 date: "2011-07-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "rainbow"
   - "ronnie-james-dio"
   - "deep-purple"

@@ -1,9 +1,10 @@
 ---
 title: "Hatebreed live in Toronto, 6 December 2017"
+edited: false
 date: "2017-12-20"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "code-orange"
   - "concert"
   - "dying-fetus"

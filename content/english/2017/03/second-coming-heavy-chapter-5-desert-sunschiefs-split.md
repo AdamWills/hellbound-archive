@@ -1,10 +1,11 @@
 ---
 title: "The Second Coming of Heavy Chapter 5 – Desert Suns/Chiefs split"
+edited: false
 date: "2017-03-16"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alt-rock"
   - "blues-rock"
   - "boogie-rock"

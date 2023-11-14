@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: EYEHATEGOD/The Obsessed @ Spirit Hall, Pittsburgh, September 22, 2018"
+edited: false
 date: "2018-09-26"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "eyehategod"

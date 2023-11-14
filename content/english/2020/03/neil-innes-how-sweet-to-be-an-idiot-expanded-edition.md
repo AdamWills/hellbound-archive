@@ -1,7 +1,8 @@
 ---
 title: "Neil Innes – How Sweet To Be An Idiot, Expanded Edition"
+edited: false
 date: "2020-03-28"
-categories: 
+categories:
   - "reviews-audio"
 ---
 

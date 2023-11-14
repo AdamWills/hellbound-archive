@@ -1,9 +1,10 @@
 ---
 title: "Visigoth – The Revenant King"
+edited: false
 date: "2015-02-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "heavy-metal"
   - "metal-blade"

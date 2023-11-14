@@ -1,9 +1,10 @@
 ---
 title: "The Nude Party – s/t LP"
+edited: false
 date: "2018-09-28"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "blues"
   - "garage"
   - "nude-party"

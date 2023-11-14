@@ -1,10 +1,11 @@
 ---
 title: "Forming the Void / Pyreship split 10-inch"
+edited: false
 date: "2018-03-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ambient-rock"
   - "doom-metal"
   - "forming-the-void"

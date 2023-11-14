@@ -1,11 +1,12 @@
 ---
 title: "Out with the old, in with the new!"
+edited: false
 date: "2011-08-27"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blog"
   - "ckln"
   - "concert"

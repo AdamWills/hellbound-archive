@@ -1,9 +1,10 @@
 ---
 title: "Trick or Treat – Music To Scare Your Neighbours: Vintage 45s From Lux and Ivy’s Haunted Basement"
+edited: false
 date: "2019-10-31"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "halloween"
   - "music"
   - "review"

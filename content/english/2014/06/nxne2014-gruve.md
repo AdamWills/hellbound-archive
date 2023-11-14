@@ -1,9 +1,10 @@
 ---
 title: "NXNE 2014 Diaries: Gruve"
+edited: false
 date: "2014-06-24"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "gruve"
   - "north-by-northeast"
   - "nxne"

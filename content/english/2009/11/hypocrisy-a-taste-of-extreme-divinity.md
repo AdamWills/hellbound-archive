@@ -1,11 +1,12 @@
 ---
 title: "Hypocrisy: A Taste Of Extreme Divinity"
+edited: false
 date: "2009-11-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "death-metal"
   - "hypocrisy"

@@ -1,11 +1,12 @@
 ---
 title: "Black Out: Evil Game"
+edited: false
 date: "2009-07-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-out"
   - "holland"
   - "judas-priest"

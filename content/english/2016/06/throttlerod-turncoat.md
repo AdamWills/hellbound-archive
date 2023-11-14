@@ -1,10 +1,11 @@
 ---
 title: "Throttlerod – Turncoat"
+edited: false
 date: "2016-06-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alt-rock"
   - "heavy"
   - "noise-rock"

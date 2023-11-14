@@ -1,7 +1,8 @@
 ---
 title: "Volcanova – Radical Waves"
+edited: false
 date: "2020-06-14"
-categories: 
+categories:
   - "gruesome_greg"
   - "reviews"
   - "reviews-audio"

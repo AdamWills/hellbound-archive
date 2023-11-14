@@ -1,10 +1,11 @@
 ---
 title: "Ozzy Osbourne – Blizzard Of Ozz LP (revisited)"
+edited: false
 date: "2015-08-13"
-categories: 
+categories:
   - "reviews"
   - "reviews-classics"
-tags: 
+tags:
   - "hellbound-classics"
   - "ozzy-osbourne"
   - "reissues"

@@ -1,11 +1,12 @@
 ---
 title: "Jex Thoth - Witness EP"
+edited: false
 date: "2010-06-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dawn-records"
   - "henry-cow"
   - "i-hate-records"

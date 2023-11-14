@@ -1,10 +1,11 @@
 ---
 title: "The exquisite sound and philosophy of a Vile Creature"
+edited: false
 date: "2015-04-27"
-categories: 
+categories:
   - "reviews-live"
   - "editors_blog"
-tags: 
+tags:
   - "anti-oppressive-metal"
   - "doom-metal"
   - "live-review"

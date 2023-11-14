@@ -1,12 +1,13 @@
 ---
 title: "Still Seeking Out “Uncharted Territory”: Devin Townsend Talks Seriousness, Humour and “Interesting” Art"
+edited: false
 date: "2011-12-08"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "canada"
   - "devin-townsend"
   - "devin-townsend-project"

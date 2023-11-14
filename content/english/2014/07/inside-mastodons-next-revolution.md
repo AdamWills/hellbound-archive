@@ -1,9 +1,10 @@
 ---
 title: "Inside Mastodon's Next Revolution"
+edited: false
 date: "2014-07-03"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "billboard"
   - "brann-dailor"
   - "interview"

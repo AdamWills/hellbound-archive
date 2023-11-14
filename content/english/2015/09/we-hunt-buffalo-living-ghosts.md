@@ -1,9 +1,10 @@
 ---
 title: "We Hunt Buffalo – Living Ghosts"
+edited: false
 date: "2015-09-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "fuzz-metal"
   - "stoner-rock"

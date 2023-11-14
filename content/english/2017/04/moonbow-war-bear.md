@@ -1,10 +1,11 @@
 ---
 title: "Moonbow – War Bear"
+edited: false
 date: "2017-04-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-rock"
   - "moonbow"
   - "review"

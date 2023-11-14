@@ -1,9 +1,10 @@
 ---
 title: "Gorelust – We are the Undead"
+edited: false
 date: "2015-03-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "death-metal"
   - "gorelust"

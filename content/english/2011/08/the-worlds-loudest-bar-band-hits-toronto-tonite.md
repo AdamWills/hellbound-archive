@@ -1,11 +1,12 @@
 ---
 title: "The world's loudest bar band hits Toronto tonite..."
+edited: false
 date: "2011-08-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blizaro"
   - "blood-ceremony"
   - "bovine-sex-club"

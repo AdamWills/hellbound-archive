@@ -1,11 +1,12 @@
 ---
 title: "Witchery – Witchkrieg"
+edited: false
 date: "2010-05-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "death-metal"
   - "retro"

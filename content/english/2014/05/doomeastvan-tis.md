@@ -1,9 +1,10 @@
 ---
 title: "Doomeastvan – ‘Tis We"
+edited: false
 date: "2014-05-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "death-metal"
   - "death-doom"

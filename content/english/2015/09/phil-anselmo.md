@@ -1,9 +1,10 @@
 ---
 title: "I love what I love... Hellbound's 2015 Q&A with Phil Anselmo"
+edited: false
 date: "2015-09-28"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "cattle-decapitation"
   - "danzig"
   - "down"

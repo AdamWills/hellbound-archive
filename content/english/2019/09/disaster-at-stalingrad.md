@@ -1,9 +1,10 @@
 ---
 title: "Disaster At Stalingrad"
+edited: false
 date: "2019-09-03"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "history"
   - "review"

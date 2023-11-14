@@ -1,9 +1,10 @@
 ---
 title: "Book reviews by Steve Earles: NON-FICTION"
+edited: false
 date: "2018-01-03"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "astrology"
   - "book"
   - "celtic"

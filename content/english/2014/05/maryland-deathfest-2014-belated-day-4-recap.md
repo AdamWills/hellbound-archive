@@ -1,10 +1,11 @@
 ---
 title: "Maryland Deathfest 2014: belated Day 4 recap"
+edited: false
 date: "2014-05-28"
-categories: 
+categories:
   - "reviews-live"
   - "editors_blog"
-tags: 
+tags:
   - "baltimore"
   - "candlemass"
   - "gorguts"

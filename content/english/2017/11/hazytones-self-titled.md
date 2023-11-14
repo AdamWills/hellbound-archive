@@ -1,10 +1,11 @@
 ---
 title: "The Hazytones – self-titled"
+edited: false
 date: "2017-11-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative-rock"
   - "heavy-rock"
   - "occult-rock"

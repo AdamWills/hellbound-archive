@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Windhand/Satan's Satyrs @ Horseshoe Tavern, May 19, 2017"
+edited: false
 date: "2017-05-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "horseshoe-tavern"

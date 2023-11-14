@@ -1,11 +1,12 @@
 ---
 title: "Marky Ramone: The Hellbound Interview"
+edited: false
 date: "2010-09-01"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "interview"
   - "justin-m-norton"
   - "marky-ramone"

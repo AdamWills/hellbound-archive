@@ -1,11 +1,12 @@
 ---
 title: "Mitochondrion - Parasignosis"
+edited: false
 date: "2011-01-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "b-c"
   - "black-metal"
   - "blackened-death-metal"

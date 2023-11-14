@@ -1,7 +1,8 @@
 ---
 title: "The Monochrome Set – Little Noises 1990-1995"
+edited: false
 date: "2020-03-20"
-categories: 
+categories:
   - "reviews-audio"
 ---
 

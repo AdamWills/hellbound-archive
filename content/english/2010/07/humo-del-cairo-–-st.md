@@ -1,11 +1,12 @@
 ---
 title: "Humo del Cairo – s/t"
+edited: false
 date: "2010-07-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ararat"
   - "argentina"
   - "desert-rock"

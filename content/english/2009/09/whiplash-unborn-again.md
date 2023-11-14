@@ -1,11 +1,12 @@
 ---
 title: "Whiplash: Unborn Again"
+edited: false
 date: "2009-09-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "pulverised"
   - "thrash"
   - "usa"

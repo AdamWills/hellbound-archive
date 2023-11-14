@@ -1,11 +1,12 @@
 ---
 title: "Anathema / Alcest / Mamiffer @ The Opera House, Toronto ON, September 18th, 2013"
+edited: false
 date: "2013-10-17"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "alcest"
   - "anathema"
   - "isis"

@@ -1,10 +1,11 @@
 ---
 title: "WOORMS – Slake"
+edited: false
 date: "2019-02-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "drone-doom"
   - "noise-rock"
   - "post-metal"

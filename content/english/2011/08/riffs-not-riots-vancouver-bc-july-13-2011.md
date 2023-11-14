@@ -1,11 +1,12 @@
 ---
 title: "RIFFS NOT RIOTS @ Fortune Sound Club, Vancouver BC, July 13, 2011"
+edited: false
 date: "2011-08-02"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "abriosis"
   - "ancients"
   - "anion"

@@ -1,7 +1,8 @@
 ---
 title: "Bruce Dickinson – What Does This Button Do?"
+edited: false
 date: "2017-12-08"
-categories: 
+categories:
   - "reviews-books"
 ---
 

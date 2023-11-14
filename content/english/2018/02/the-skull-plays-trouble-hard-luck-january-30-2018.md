@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: The Skull plays Trouble @ Hard Luck, January 30, 2018"
+edited: false
 date: "2018-02-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "hard-luck-bar"

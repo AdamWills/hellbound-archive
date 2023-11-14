@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND'S Top 10 of 2018"
+edited: false
 date: "2018-12-31"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "best-of-2018"
   - "heavy-metal"

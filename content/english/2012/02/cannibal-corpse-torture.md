@@ -1,11 +1,12 @@
 ---
 title: "Cannibal Corpse - Torture"
+edited: false
 date: "2012-02-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alex-webster"
   - "cannibal-corpse"
   - "chris-dyck"

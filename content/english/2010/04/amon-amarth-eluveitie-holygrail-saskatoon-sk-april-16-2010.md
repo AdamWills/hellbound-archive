@@ -1,11 +1,12 @@
 ---
 title: "Amon Amarth/Eluveitie/Holy Grail @ Odeon, Saskatoon, SK, April 16, 2010"
+edited: false
 date: "2010-04-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adrien-begrand"
   - "amon-amarth"
   - "death-metal"

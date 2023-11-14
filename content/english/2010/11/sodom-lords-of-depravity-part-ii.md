@@ -1,11 +1,12 @@
 ---
 title: "Sodom - Lords of Depravity Part II"
+edited: false
 date: "2010-11-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "dvd"
   - "germany"
   - "sean-palmerston"

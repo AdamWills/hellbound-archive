@@ -1,11 +1,12 @@
 ---
 title: "Deep Purple @ Hamilton Place, Hamilton ON, February 13, 2012"
+edited: false
 date: "2012-02-27"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "deep-purple"
   - "ian-gillan"

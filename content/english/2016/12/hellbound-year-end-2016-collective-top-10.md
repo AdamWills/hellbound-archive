@@ -1,10 +1,11 @@
 ---
 title: "Hellbound Year End 2016: Collective Top 10"
+edited: false
 date: "2016-12-28"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2016"
   - "end-of-year"
   - "staff-picks"

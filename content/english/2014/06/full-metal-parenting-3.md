@@ -1,10 +1,11 @@
 ---
 title: "Full Metal Parenting #3: Image"
+edited: false
 date: "2014-06-04"
-categories: 
+categories:
   - "articles"
   - "features"
-tags: 
+tags:
   - "full-metal-parenting"
   - "interview"
   - "metal"

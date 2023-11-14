@@ -1,9 +1,10 @@
 ---
 title: "Periphery – Juggernaut: Alpha / Juggernaut: Omega"
+edited: false
 date: "2015-06-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "djent"
   - "doom"

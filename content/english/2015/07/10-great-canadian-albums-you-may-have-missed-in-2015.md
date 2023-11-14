@@ -1,10 +1,11 @@
 ---
 title: "10 Great Canadian Albums You May Have Missed in 2015"
+edited: false
 date: "2015-07-02"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
-tags: 
+tags:
   - "antibody"
   - "best-canadian-metal"
   - "canada-day"

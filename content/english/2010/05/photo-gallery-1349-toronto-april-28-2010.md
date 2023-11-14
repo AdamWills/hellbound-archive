@@ -1,11 +1,12 @@
 ---
 title: "Photo Gallery: 1349 @ Opera House, Toronto ON, April 28, 2010"
+edited: false
 date: "2010-05-26"
-categories: 
+categories:
   - "albert_mansour"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "1349"
   - "albert-mansour"
   - "black-metal"

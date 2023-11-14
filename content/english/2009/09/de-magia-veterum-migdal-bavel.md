@@ -1,11 +1,12 @@
 ---
 title: "De Magia Veterum: Migdal Bavel"
+edited: false
 date: "2009-09-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "de-magia-veterum"
   - "holland"

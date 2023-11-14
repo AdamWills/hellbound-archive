@@ -1,11 +1,12 @@
 ---
 title: "Kroda—Schwarzpfad"
+edited: false
 date: "2011-08-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blood-of-kingu"
   - "craig-haze"
   - "drudkh"

@@ -1,9 +1,10 @@
 ---
 title: "Sans Soleil – A Holy Land Beneath a Godless Sky"
+edited: false
 date: "2014-12-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "atmospheric"
   - "doom"

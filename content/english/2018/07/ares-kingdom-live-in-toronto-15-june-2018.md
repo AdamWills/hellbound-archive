@@ -1,9 +1,10 @@
 ---
 title: "Ares Kingdom live in Toronto, 15 June 2018"
+edited: false
 date: "2018-07-05"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "live"
   - "review"

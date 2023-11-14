@@ -1,9 +1,10 @@
 ---
 title: "Ogre – The Last Neanderthal"
+edited: false
 date: "2014-04-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "gruesome-greg"
   - "minotauro-records"

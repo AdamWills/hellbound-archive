@@ -1,9 +1,10 @@
 ---
 title: "Arakk – Self & Distance"
+edited: false
 date: "2015-12-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "arakk"
   - "doom"

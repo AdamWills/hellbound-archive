@@ -1,11 +1,12 @@
 ---
 title: "Agalloch / Taurus / Musk Ox @ Opera House, Toronto ON, July 23, 2012"
+edited: false
 date: "2012-07-27"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "agalloch"
   - "jon-haughm"
   - "laura-wiebe"

@@ -1,11 +1,12 @@
 ---
 title: "Witchfinder Radio Playlist For November 18th, 2013"
+edited: false
 date: "2013-11-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "all-else-fails"
   - "anciients"
   - "asher-media-relations"

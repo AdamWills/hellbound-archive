@@ -1,9 +1,10 @@
 ---
 title: "Hellbound's Guide to Record Store Day 2014: Toronto and Hamilton"
+edited: false
 date: "2014-04-18"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "adam-wills"
   - "danielle-griscti"
   - "gruesome-greg"

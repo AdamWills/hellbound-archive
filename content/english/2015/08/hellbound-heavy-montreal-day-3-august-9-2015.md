@@ -1,9 +1,10 @@
 ---
 title: "Hellbound @ Heavy Montreal, Day 3: August 9, 2015"
+edited: false
 date: "2015-08-10"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "asking-alexandria"
   - "concert-photos"
   - "concert-review"

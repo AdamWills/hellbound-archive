@@ -1,11 +1,12 @@
 ---
 title: "Hellbound.ca INDIVIDUAL TOP 10 ALBUMS OF 2010"
+edited: false
 date: "2010-12-27"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "staff_picks"
-tags: 
+tags:
   - "agalloch"
   - "alcest"
   - "arson-anthem"

@@ -1,11 +1,12 @@
 ---
 title: "Kamelot – Poetry for the Poisoned"
+edited: false
 date: "2010-09-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "epica"
   - "jason-wellwood"
   - "kamelot"

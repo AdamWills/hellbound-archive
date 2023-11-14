@@ -1,9 +1,10 @@
 ---
 title: "Night Moves – Can You Really Find Me LP"
+edited: false
 date: "2019-08-26"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "punk-rock"
   - "review"

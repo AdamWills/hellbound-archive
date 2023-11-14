@@ -1,9 +1,10 @@
 ---
 title: "Space Sirens, Scientists and Princesses by Dean Conrad"
+edited: false
 date: "2018-11-09"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "review"

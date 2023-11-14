@@ -1,10 +1,11 @@
 ---
 title: "Great Falls – A Sense of Rest"
+edited: false
 date: "2019-01-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "noise-rock"
   - "review"

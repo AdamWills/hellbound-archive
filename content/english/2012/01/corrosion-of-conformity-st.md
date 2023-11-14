@@ -1,11 +1,12 @@
 ---
 title: "Corrosion of Conformity – self-titled"
+edited: false
 date: "2012-01-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-tusk"
   - "candlelight"
   - "candlelight-usa"

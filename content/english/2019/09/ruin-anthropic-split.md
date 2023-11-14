@@ -1,10 +1,11 @@
 ---
 title: "Ruin/Anthropic Split"
+edited: false
 date: "2019-09-12"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "2019"
   - "anthropic"
   - "buffalo"

@@ -1,11 +1,12 @@
 ---
 title: "Brian Posehn: More funny than you"
+edited: false
 date: "2010-04-28"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "brian-posehn"
   - "carlos-mencia"

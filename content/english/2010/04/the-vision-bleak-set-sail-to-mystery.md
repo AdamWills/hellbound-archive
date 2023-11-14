@@ -1,11 +1,12 @@
 ---
 title: "The Vision Bleak – Set Sail To Mystery"
+edited: false
 date: "2010-04-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "germany"
   - "gothic-metal"
   - "prophecy-productions"

@@ -1,9 +1,10 @@
 ---
 title: "Touring campus while young, metal-loving and Native American"
+edited: false
 date: "2018-05-09"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "cattle-decapitation"
   - "colorado-state-university"
   - "discrimination"

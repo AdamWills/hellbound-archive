@@ -1,9 +1,10 @@
 ---
 title: "Sacro Sanctus – Liber III: Codex Templarum"
+edited: false
 date: "2019-03-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "history"
   - "review"

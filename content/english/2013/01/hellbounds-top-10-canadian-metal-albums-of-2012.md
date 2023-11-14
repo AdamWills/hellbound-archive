@@ -1,14 +1,15 @@
 ---
 title: "HELLBOUND’s TOP 10 CANADIAN METAL ALBUMS OF 2012"
+edited: false
 date: "2013-01-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adam-wills"
   - "adrien-begrand"
   - "bison-bc"

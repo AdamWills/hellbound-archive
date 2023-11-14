@@ -1,12 +1,13 @@
 ---
 title: "Boots 'n Booze (comic book w/ 7'' single)"
+edited: false
 date: "2021-05-12"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
   - "reviews-books"
   - "reviews-vinyl"
-tags: 
+tags:
   - "book"
   - "boots-n-booze"
   - "comic"

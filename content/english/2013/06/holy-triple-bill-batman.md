@@ -1,11 +1,12 @@
 ---
 title: "Holy triple bill, Batman!"
+edited: false
 date: "2013-06-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blood-ceremony"
   - "concert"
   - "gruesome-greg"

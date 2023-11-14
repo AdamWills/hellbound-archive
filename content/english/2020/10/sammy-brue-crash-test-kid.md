@@ -1,7 +1,8 @@
 ---
 title: "Sammy Brue - Crash Test Kid"
+edited: false
 date: "2020-10-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

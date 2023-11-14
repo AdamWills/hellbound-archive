@@ -1,11 +1,12 @@
 ---
 title: "Hellbound's Halloween playlist 2014"
+edited: false
 date: "2014-10-31"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "black-sabbath"
   - "entombed"
   - "halloween"

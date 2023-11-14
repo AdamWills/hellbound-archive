@@ -1,10 +1,11 @@
 ---
 title: "Wailin Storms – One Foot in the Flesh Grave"
+edited: false
 date: "2015-12-05"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "goth-metal"
   - "goth-punk"
   - "goth-rock"

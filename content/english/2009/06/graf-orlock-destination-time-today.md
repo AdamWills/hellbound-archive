@@ -1,10 +1,11 @@
 ---
 title: "Graf Orlock: Destination Time Today LP"
+edited: false
 date: "2009-06-22"
-categories: 
+categories:
   - "featured"
   - "reviews-vinyl"
-tags: 
+tags:
   - "graf-orlock"
   - "grind"
   - "usa"

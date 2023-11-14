@@ -1,9 +1,10 @@
 ---
 title: "Perspectives on Stephen King"
+edited: false
 date: "2019-08-24"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-reviews"
   - "fiction"

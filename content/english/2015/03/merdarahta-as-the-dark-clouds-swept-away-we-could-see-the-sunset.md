@@ -1,9 +1,10 @@
 ---
 title: "Merdarahta – As the Dark Clouds Swept Away We Could See the Sunset"
+edited: false
 date: "2015-03-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "fuck-the-facts"
   - "grind"

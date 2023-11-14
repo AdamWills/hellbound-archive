@@ -1,10 +1,11 @@
 ---
 title: "The Obsessed – self titled (reissue)"
+edited: false
 date: "2017-10-31"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "metal"

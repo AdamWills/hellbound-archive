@@ -1,9 +1,10 @@
 ---
 title: "Iomair – Iomair"
+edited: false
 date: "2018-11-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "folk-metal"
   - "heavy-metal"
   - "infamous-butcher-records"

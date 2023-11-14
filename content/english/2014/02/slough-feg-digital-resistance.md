@@ -1,11 +1,12 @@
 ---
 title: "Slough Feg – Digital Resistance"
+edited: false
 date: "2014-02-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "danielle-griscti"
   - "epic"
   - "heavy-metal"

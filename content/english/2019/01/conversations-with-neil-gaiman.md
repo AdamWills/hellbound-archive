@@ -1,9 +1,10 @@
 ---
 title: "Conversations With Neil Gaiman"
+edited: false
 date: "2019-01-18"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "fantasy"
   - "review"

@@ -1,7 +1,8 @@
 ---
 title: "Tom Petty and the Heartbreakers – Pack Up The Plantation: Live! 2LP"
+edited: false
 date: "2017-08-17"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
 ---

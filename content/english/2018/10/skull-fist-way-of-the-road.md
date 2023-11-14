@@ -1,7 +1,8 @@
 ---
 title: "Skull Fist – Way of the Road"
+edited: false
 date: "2018-10-19"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
 ---

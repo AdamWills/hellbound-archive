@@ -1,11 +1,12 @@
 ---
 title: "Graveyard / The Shrine @ The Shelter, Detroit, MI, February 4, 2013"
+edited: false
 date: "2013-02-28"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "barn-burner"
   - "detroit"
   - "graveyard"

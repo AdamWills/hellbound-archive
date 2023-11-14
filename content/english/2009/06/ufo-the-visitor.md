@@ -1,10 +1,11 @@
 ---
 title: "UFO: The Visitor"
+edited: false
 date: "2009-06-18"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "spv"
   - "ufo"

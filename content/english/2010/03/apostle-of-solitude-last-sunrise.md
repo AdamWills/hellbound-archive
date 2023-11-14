@@ -1,11 +1,12 @@
 ---
 title: "Apostle of Solitude - Last Sunrise"
+edited: false
 date: "2010-03-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "apostle-of-solitude"
   - "candlemass"
   - "doom"

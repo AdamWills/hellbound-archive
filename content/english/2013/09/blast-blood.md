@@ -1,11 +1,12 @@
 ---
 title: "BL’AST! – Blood"
+edited: false
 date: "2013-09-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alice-in-chains"
   - "blast"
   - "california"

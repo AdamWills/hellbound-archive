@@ -1,11 +1,12 @@
 ---
 title: "There goes the neighbourhood--metal/punk record store moves to Queen St W!"
+edited: false
 date: "2011-01-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-sabbath"
   - "bootlegs"
   - "gruesome-greg"

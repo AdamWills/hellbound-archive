@@ -1,11 +1,12 @@
 ---
 title: "Absu/Sylvus/Empyrean Plague @ Annex Wreckroom, Toronto, ON, April 15, 2013"
+edited: false
 date: "2013-04-22"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "absu"
   - "annex-wreckroom"
   - "black-metal"

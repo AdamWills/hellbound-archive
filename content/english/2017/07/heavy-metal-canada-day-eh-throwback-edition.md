@@ -1,12 +1,13 @@
 ---
 title: "Heavy Metal Canada Day, eh? The throwback edition"
+edited: false
 date: "2017-07-01"
-categories: 
+categories:
   - "features"
   - "psa"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-canadian-metal"
   - "canada-day"
   - "canadian-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Avichi – Catharsis Absolute"
+edited: false
 date: "2014-01-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "avichi"
   - "black-metal"

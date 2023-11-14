@@ -1,11 +1,12 @@
 ---
 title: "Rob Zombie - Venomous Rat Regeneration Vendor"
+edited: false
 date: "2013-05-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "korn"
   - "marilyn-manson"

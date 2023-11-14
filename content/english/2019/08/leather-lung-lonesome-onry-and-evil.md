@@ -1,10 +1,11 @@
 ---
 title: "Leather Lung – Lonesome, On’ry and Evil"
+edited: false
 date: "2019-08-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
 ---

@@ -1,11 +1,12 @@
 ---
 title: "FACE VALUE: Rode Hard, Put Away Wet"
+edited: false
 date: "2010-01-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cleveland"
   - "compilation"
   - "face-value"

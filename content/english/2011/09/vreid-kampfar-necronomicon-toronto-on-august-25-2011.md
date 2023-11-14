@@ -1,11 +1,12 @@
 ---
 title: "Vreid / Kampfar / Necronomicon @ Annex Wreckroom, Toronto ON, August 25, 2011"
+edited: false
 date: "2011-09-02"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "america"
   - "kampfar"
   - "live-review"

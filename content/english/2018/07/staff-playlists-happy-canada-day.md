@@ -1,11 +1,12 @@
 ---
 title: "Staff playlists: Happy Canada Day!"
+edited: false
 date: "2018-07-01"
-categories: 
+categories:
   - "canadian-metal"
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "canadian"
   - "canadian-metal"
   - "heavy-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Augury - Concealed"
+edited: false
 date: "2011-04-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adam-wills"
   - "augury"
   - "death-metal"

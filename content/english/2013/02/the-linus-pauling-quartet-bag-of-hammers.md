@@ -1,11 +1,12 @@
 ---
 title: "The Linus Pauling Quartet – Bag of Hammers"
+edited: false
 date: "2013-02-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "psych-rock"
   - "stoner"
   - "the-linus-pauling-quartet"

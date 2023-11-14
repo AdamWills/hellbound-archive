@@ -1,7 +1,8 @@
 ---
 title: "Left to Die - Glasgow, UK - March 6th"
+edited: false
 date: "2023-03-10"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"

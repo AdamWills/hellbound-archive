@@ -1,10 +1,11 @@
 ---
 title: "Hopeless Youth – Devil, Walk with Me"
+edited: false
 date: "2016-06-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "hopeless-youth"
   - "metal"

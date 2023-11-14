@@ -1,10 +1,11 @@
 ---
 title: "Killswitch Engage: self-titled"
+edited: false
 date: "2009-07-15"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "killswitch-engage"
   - "metalcore"
   - "roadrunner"

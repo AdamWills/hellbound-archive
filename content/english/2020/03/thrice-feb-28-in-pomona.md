@@ -1,7 +1,8 @@
 ---
 title: "Thrice - Feb 28 in Pomona"
+edited: false
 date: "2020-03-11"
-categories: 
+categories:
   - "reviews-live"
 ---
 
@@ -14,28 +15,28 @@ Thrice, an American rock band from Irvine, California, came to perform at the Po
 Thrice was joined by Mewithoutyou, Drug Church and Holy Fawn. Unfortunately, I missed all the opening acts and made it just in time for the headliners. Thrice gave fans a sentimental night, playing singles like, “The Earth Will Shake”, “RedSky”, and the fan favorite “Image of the Invisible”.
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-1.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-2.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-3.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-6-1.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-5-1.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-4-1.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-3-1.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-2-1.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-1-1.jpeg)
-    
+
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-4.jpeg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2020/03/Thrice-6.jpeg)
-    
+
 
 Seeing live music is one of my favorite things to do. Thrice was definitely a spectacle unlike any other I’ve seen. The band had very intimate silhouette lighting that you were so focused on the stage. Hearing Dustin sing his heart out even with having complications from the flu was amazing. This whole entire show from start to finish, showed _Vheissu_ has aged well with fans. After 15 years Thrice still sounded incredible. Thank you, guys, for such an unbelievable show. I hope there are many more years of music to come.
 

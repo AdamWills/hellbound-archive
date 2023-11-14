@@ -1,9 +1,10 @@
 ---
 title: "Anathema @ The Opera House, Toronto, 21 August 2017"
+edited: false
 date: "2017-09-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "anathema"
   - "atmospheric"
   - "doom"

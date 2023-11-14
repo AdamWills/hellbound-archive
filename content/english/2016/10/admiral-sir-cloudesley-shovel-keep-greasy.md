@@ -1,10 +1,11 @@
 ---
 title: "Admiral Sir Cloudesley Shovel – Keep it Greasy"
+edited: false
 date: "2016-10-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "admiral-sir-cloudesley-shovel"
   - "blues-rock"
   - "heavy-rock"

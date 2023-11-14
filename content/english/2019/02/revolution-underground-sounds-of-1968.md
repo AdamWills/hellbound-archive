@@ -1,9 +1,10 @@
 ---
 title: "Revolution: Underground Sounds of 1968"
+edited: false
 date: "2019-02-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "review"
   - "rock"
   - "various-artists"

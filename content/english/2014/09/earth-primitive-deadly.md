@@ -1,9 +1,10 @@
 ---
 title: "Earth – Primitive and Deadly"
+edited: false
 date: "2014-09-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "americana"
   - "bandcamp"

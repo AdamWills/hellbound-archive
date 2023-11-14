@@ -1,9 +1,10 @@
 ---
 title: "Booze & Glory – London Skinhead Crew (12\" die-cut single)"
+edited: false
 date: "2018-07-10"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "booze-glory"
   - "punk"
   - "punk-rock"

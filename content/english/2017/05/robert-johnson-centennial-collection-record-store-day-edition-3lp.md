@@ -1,7 +1,8 @@
 ---
 title: "Robert Johnson – Centennial Collection Record Store Day Edition 3LP"
+edited: false
 date: "2017-05-24"
-categories: 
+categories:
   - "reviews-vinyl"
 ---
 

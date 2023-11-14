@@ -1,7 +1,8 @@
 ---
 title: "Art Bergmann - Christo Fascists"
+edited: false
 date: "2020-12-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

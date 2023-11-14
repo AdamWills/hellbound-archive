@@ -1,9 +1,10 @@
 ---
 title: "blackQueen - The Directress"
+edited: false
 date: "2015-09-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blackqueen"
 ---

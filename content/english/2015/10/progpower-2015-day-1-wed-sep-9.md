@@ -1,9 +1,10 @@
 ---
 title: "ProgPower 2015: Day 1 (Wed, Sep 9)"
+edited: false
 date: "2015-10-01"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "ashes-of-ares"
   - "concert-photos"
   - "concert-review"

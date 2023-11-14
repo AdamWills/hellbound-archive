@@ -1,9 +1,10 @@
 ---
 title: "Faith No More & Napalm Death @ Austin Music Hall - July 26, 2015"
+edited: false
 date: "2015-08-21"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert-photos"
   - "concert-review"
   - "faith-no-more"

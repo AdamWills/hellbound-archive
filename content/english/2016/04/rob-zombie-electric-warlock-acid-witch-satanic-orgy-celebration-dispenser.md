@@ -1,9 +1,10 @@
 ---
 title: "Rob Zombie – The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser"
+edited: false
 date: "2016-04-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "review"
   - "rob-zombie"
 ---

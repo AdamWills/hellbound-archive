@@ -1,10 +1,11 @@
 ---
 title: "Amai Kuda et Les Bois - EmUrgency! LP"
+edited: false
 date: "2023-01-06"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "amai"
   - "bois"
   - "emurgency"

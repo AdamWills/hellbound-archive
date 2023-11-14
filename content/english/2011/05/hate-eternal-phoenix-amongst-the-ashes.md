@@ -1,11 +1,12 @@
 ---
 title: "Hate Eternal – Phoenix Amongst the Ashes"
+edited: false
 date: "2011-05-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "eric-rutan"
   - "hate-eternal"

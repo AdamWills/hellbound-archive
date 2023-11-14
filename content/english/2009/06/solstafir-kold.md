@@ -1,11 +1,12 @@
 ---
 title: "Sólstafir: Köld"
+edited: false
 date: "2009-06-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "iceland"
   - "psychedelic"

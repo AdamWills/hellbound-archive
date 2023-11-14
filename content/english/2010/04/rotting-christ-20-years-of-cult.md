@@ -1,11 +1,12 @@
 ---
 title: "Rotting Christ: Discussing 20 Years Of Cult"
+edited: false
 date: "2010-04-23"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-metal"
   - "century-media"
   - "greece"

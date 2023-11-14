@@ -1,11 +1,12 @@
 ---
 title: "Sylosis - Monolith"
+edited: false
 date: "2012-12-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "england"
   - "josh-middleton"

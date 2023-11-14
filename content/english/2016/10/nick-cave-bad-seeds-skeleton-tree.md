@@ -1,9 +1,10 @@
 ---
 title: "Nick Cave and the Bad Seeds – Skeleton Tree"
+edited: false
 date: "2016-10-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bad-seeds"
   - "nick-cave"
   - "review"

@@ -1,11 +1,12 @@
 ---
 title: "Thornafire: Vorex Deconstrucción"
+edited: false
 date: "2009-09-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "chile"
   - "death-metal"
   - "ibex-moon-records"

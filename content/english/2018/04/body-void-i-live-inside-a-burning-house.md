@@ -1,10 +1,11 @@
 ---
 title: "Body Void – I Live Inside a Burning House"
+edited: false
 date: "2018-04-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "body-void"
   - "death-doom"

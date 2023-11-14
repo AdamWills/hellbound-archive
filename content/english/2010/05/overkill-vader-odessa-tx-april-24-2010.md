@@ -1,11 +1,12 @@
 ---
 title: "Overkill / Vader / God Dethroned / Warbringer / Evile / Woe Of Tyrants @ Dos Amigos, Odessa, TX, April 24, 2010"
+edited: false
 date: "2010-05-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "century-media"
   - "death-metal"
   - "e1-metal"

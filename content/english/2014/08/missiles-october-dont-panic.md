@@ -1,9 +1,10 @@
 ---
 title: "Missiles of October – Don’t Panic"
+edited: false
 date: "2014-08-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bandcamp"
   - "black-flag"
   - "hardcore-punk"

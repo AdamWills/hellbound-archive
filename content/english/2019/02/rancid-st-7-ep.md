@@ -1,10 +1,11 @@
 ---
 title: "Rancid - st (7\" EP)"
+edited: false
 date: "2019-02-20"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "classics"
   - "punk"
   - "review"
@@ -30,8 +31,8 @@ So, taking the band's entire catalogue into account, it can only be said that th
 
 (_Lookout! Records_ 1992, _Pirates Press_, 2012)
 
-[https://rancidrancid.com](https://rancidrancid.com)  
-[https://www.facebook.com/rancid](https://www.facebook.com/rancid)  
+[https://rancidrancid.com](https://rancidrancid.com)
+[https://www.facebook.com/rancid](https://www.facebook.com/rancid)
 [https://twitter.com/rancid](https://twitter.com/rancid)
 
 Rancid's debut EP was reissued (sort of it appears on the B-sides and C-sides set) on Pirates Press in 2012 and remains in print. Buy it here: [http://www.piratespressrecords.com/essentials/rancid](http://www.piratespressrecords.com/essentials/rancid).

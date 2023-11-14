@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND’s TOP 10 CANADIAN METAL ALBUMS OF 2011"
+edited: false
 date: "2012-01-09"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adrien-begrand"
   - "anvil"
   - "banzai"

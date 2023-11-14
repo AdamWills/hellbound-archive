@@ -1,9 +1,10 @@
 ---
 title: "Whore Paint – Ultra Sound"
+edited: false
 date: "2015-11-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "art-punk"
   - "noise"

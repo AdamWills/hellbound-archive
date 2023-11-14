@@ -1,10 +1,11 @@
 ---
 title: "Darkthrone: Rally 'Round The Black Flag"
+edited: false
 date: "2009-06-08"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "black-metal"
   - "darkthrone"
   - "norway"

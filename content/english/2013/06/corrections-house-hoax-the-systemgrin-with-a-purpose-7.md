@@ -1,11 +1,12 @@
 ---
 title: "Corrections House – Hoax the System/Grin with a Purpose 7\""
+edited: false
 date: "2013-06-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "corrections-house"
   - "eyehategod"
   - "fear-factory"

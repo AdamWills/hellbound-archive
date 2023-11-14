@@ -1,11 +1,12 @@
 ---
 title: "District 97 - Hybrid Child"
+edited: false
 date: "2010-10-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "district-97"
   - "dream-theater"
   - "meshuggah"

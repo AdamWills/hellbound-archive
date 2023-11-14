@@ -1,9 +1,10 @@
 ---
 title: "Vintage Caravan – Voyage"
+edited: false
 date: "2015-01-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "nuclear-blast"
   - "retro-rock"

@@ -1,11 +1,12 @@
 ---
 title: "Long Distance Calling: Avoid The Light"
+edited: false
 date: "2009-07-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "germany"
   - "katatonia"
   - "long-distance-calling"

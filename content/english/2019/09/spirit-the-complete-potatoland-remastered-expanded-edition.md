@@ -1,9 +1,10 @@
 ---
 title: "Spirit – The Complete Potatoland: Remastered & Expanded Edition"
+edited: false
 date: "2019-09-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "psychedelic-rock"
   - "review"
   - "rock"

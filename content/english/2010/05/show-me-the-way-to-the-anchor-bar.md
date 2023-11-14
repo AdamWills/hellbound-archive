@@ -1,7 +1,8 @@
 ---
 title: "Show me the way to the Anchor Bar..."
+edited: false
 date: "2010-05-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

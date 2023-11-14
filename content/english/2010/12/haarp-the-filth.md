@@ -1,11 +1,12 @@
 ---
 title: "haarp - The Filth"
+edited: false
 date: "2010-12-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "crowbar"
   - "eyehategod"
   - "haarp"

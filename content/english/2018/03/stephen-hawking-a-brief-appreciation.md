@@ -1,7 +1,8 @@
 ---
 title: "Stephen Hawking: A Brief Appreciation"
+edited: false
 date: "2018-03-27"
-categories: 
+categories:
   - "blogs"
 ---
 

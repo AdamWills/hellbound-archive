@@ -1,11 +1,12 @@
 ---
 title: "Altar of Plagues - Teethed Glory and Injury"
+edited: false
 date: "2013-05-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "altar-of-plagues"
   - "black-metal"
   - "jonathan-smith"

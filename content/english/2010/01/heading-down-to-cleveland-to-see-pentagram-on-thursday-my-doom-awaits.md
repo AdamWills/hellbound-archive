@@ -1,7 +1,8 @@
 ---
 title: "Heading down to Cleveland to see Pentagram on Thursday...  My DOOM awaits!"
+edited: false
 date: "2010-01-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

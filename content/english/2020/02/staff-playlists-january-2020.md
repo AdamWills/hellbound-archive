@@ -1,12 +1,13 @@
 ---
 title: "Staff Playlists - January 2020"
+edited: false
 date: "2020-02-03"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "staff-picks"

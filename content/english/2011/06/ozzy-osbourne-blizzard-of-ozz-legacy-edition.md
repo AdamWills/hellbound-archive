@@ -1,11 +1,12 @@
 ---
 title: "Ozzy Osbourne - Blizzard Of Ozz (Legacy edition)"
+edited: false
 date: "2011-06-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "black-sabbath"
   - "geezer-butler"

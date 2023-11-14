@@ -1,9 +1,10 @@
 ---
 title: "M.U.T.A.N.K. – W.H.A.T.S.T.H.A.T."
+edited: false
 date: "2017-08-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "mutank"

@@ -1,11 +1,12 @@
 ---
 title: "Imperial of Krieg: The Hellbound Interview"
+edited: false
 date: "2010-11-24"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "bathory"
   - "black-metal"
   - "candlelight-usa"

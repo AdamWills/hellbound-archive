@@ -1,11 +1,12 @@
 ---
 title: "Murderdolls - Women And Children Last"
+edited: false
 date: "2010-10-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "glam-metal"
   - "motley-crue"
   - "murderdolls"

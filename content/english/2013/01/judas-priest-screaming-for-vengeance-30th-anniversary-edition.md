@@ -1,12 +1,13 @@
 ---
 title: "Judas Priest - Screaming For Vengeance (30th Anniversary Edition)"
+edited: false
 date: "2013-01-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "bill-adams"
   - "columbia"
   - "judas-priest"

@@ -1,11 +1,12 @@
 ---
 title: "Týr/ Crimson Shadows/ Bolero @ Sneaky Dee's, Toronto, ON, April 30, 2010"
+edited: false
 date: "2010-05-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "bolero"
   - "canada"
   - "crimson-shadows"

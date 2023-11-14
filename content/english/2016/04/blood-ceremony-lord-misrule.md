@@ -1,10 +1,11 @@
 ---
 title: "Blood Ceremony – Lord of Misrule"
+edited: false
 date: "2016-04-05"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blood-ceremony"
   - "folk-rock"
   - "prog-rock"

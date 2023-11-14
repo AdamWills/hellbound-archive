@@ -1,9 +1,10 @@
 ---
 title: "Out Of Line Weekender 2019, Day 1"
+edited: false
 date: "2019-04-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "berlin"
   - "electronic"
   - "electronic-music"
@@ -55,175 +56,175 @@ Tonight's headliners **Kirlian Camera** are no newbies to the genre. The project
 [www.kirliancamera.com](http://www.kirliancamera.com)
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/A-Split-Second.jpg)
-    
+
     A Split Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/A-Split-Second01.jpg)
-    
+
     A Split Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/A-Split-Second02.jpg)
-    
+
     A Split Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/A-Split-Second03.jpg)
-    
+
     A Split Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/A-Split-Second04.jpg)
-    
+
     A Split Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/A-Split-Second05.jpg)
-    
+
     A Split Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Any-Second.jpg)
-    
+
     Any Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Any-Second01.jpg)
-    
+
     Any Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Any-Second02.jpg)
-    
+
     Any Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Any-Second03.jpg)
-    
+
     Any Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Any-Second04.jpg)
-    
+
     Any Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Any-Second05.jpg)
-    
+
     Any Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Any-Second06.jpg)
-    
+
     Any Second
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Chrom.jpg)
-    
+
     Chrom
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Chrom01.jpg)
-    
+
     Chrom
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Chrom02.jpg)
-    
+
     Chrom
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Chrom03.jpg)
-    
+
     Chrom
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Chrom04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Chrom05.jpg)
-    
+
     Chrom
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Chrom06.jpg)
-    
+
     Chrom
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Chrom07.jpg)
-    
+
     Chrom
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Kirlian-Camera.jpg)
-    
+
     Kirlian Camera
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Kirlian-Camera01.jpg)
-    
+
     Kirlian Camera
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Kirlian-Camera02.jpg)
-    
+
     Kirlian Camera
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Kirlian-Camera03.jpg)
-    
+
     Kirlian Camera
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Kirlian-Camera04.jpg)
-    
+
     Kirlian Camera
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Kirlian-Camera05.jpg)
-    
+
     Kirlian Camera
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Kirlian-Camera06.jpg)
-    
+
     Kirlian Camera
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Motorik.jpg)
-    
+
     Kirlian Camera
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Motorik01.jpg)
-    
+
     Motorik
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Motorik02.jpg)
-    
+
     Motorik
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Motorik03.jpg)
-    
+
     Motorik
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Priest.jpg)
-    
+
     Priest
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Priest01.jpg)
-    
+
     Priest
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Priest02.jpg)
-    
+
     Priest
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Priest03.jpg)
-    
+
     Priest
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Priest04.jpg)
-    
+
     Priest
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/The-Juggernauts.jpg)
-    
+
     The Juggernauts
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/The-Juggernauts01.jpg)
-    
+
     The Juggernauts
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/The-Juggernauts02.jpg)
-    
+
     The Juggernauts
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/The-Juggernauts03.jpg)
-    
+
     The Juggernauts
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/The-Juggernauts04.jpg)
-    
+
     The Juggernauts
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/The-Juggernauts05.jpg)
-    
+
     The Juggernauts
-    
+
 
 #### Full line-up
 

@@ -1,11 +1,12 @@
 ---
 title: "Bullet - Full Pull"
+edited: false
 date: "2012-10-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "acdc"
   - "bullet"
   - "hard-rock"

@@ -1,7 +1,8 @@
 ---
 title: "X - Los Angeles"
+edited: false
 date: "2020-06-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

@@ -1,12 +1,13 @@
 ---
 title: "HELLBOUND RADIO: September 5th, 2010 Playlist"
+edited: false
 date: "2010-09-07"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "albert-mansour"
   - "armour"
   - "blood-revolt"

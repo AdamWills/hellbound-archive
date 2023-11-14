@@ -1,7 +1,8 @@
 ---
 title: "Territories – Short Seller (CD Record)"
+edited: false
 date: "2020-03-02"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
 ---

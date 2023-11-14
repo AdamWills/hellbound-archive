@@ -1,13 +1,14 @@
 ---
 title: "Ten Reasons Not To Miss HEAVY T.O. This Weekend"
+edited: false
 date: "2011-07-21"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "headline"
   - "editors_blog"
-tags: 
+tags:
   - "70000-tons-of-metal"
   - "anthrax"
   - "anvil"

@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Pallbearer/Tribulation @ Lee's Palace, September 15, 2018"
+edited: false
 date: "2018-09-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "lees-palace"

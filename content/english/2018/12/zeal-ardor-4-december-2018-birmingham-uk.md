@@ -1,9 +1,10 @@
 ---
 title: "Zeal & Ardor, 4 December 2018, Birmingham UK"
+edited: false
 date: "2018-12-07"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "birmingham"
   - "black-metal"
   - "extreme-metal"

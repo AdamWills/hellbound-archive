@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: WITCH MOUNTAIN, Volur, Smoulder @ The Garrison, August 4, 2018"
+edited: false
 date: "2018-08-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "smoulder"

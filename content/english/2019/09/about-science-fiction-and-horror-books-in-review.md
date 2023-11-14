@@ -1,9 +1,10 @@
 ---
 title: "About Science Fiction and Horror - books in review"
+edited: false
 date: "2019-09-02"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-reviews"
   - "horror"

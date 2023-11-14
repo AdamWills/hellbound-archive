@@ -1,9 +1,10 @@
 ---
 title: "Festival review: Euroblast 2019"
+edited: false
 date: "2019-11-04"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "death-metal"
   - "festival"
   - "live"
@@ -23,47 +24,47 @@ Euroblast's 15th edition took place on 27-29 September 2019 at Essigfabrik Colog
 Day 1 headliners were German progressive metallers **The Hirsch Effekt**.
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/The-Hirsch-Effect.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/The-Hirsch-Effect01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/The-Hirsch-Effect02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/The-Hirsch-Effect03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/The-Hirsch-Effect05.jpg)
-    
+
 
 * * *
 
 On Saturday the headline duty was going to American progressive metal band **Between The Buried And Me**, who were performing two sets encompassing 20 years of bands music.
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Between-the-Buried-and-Me.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Between-the-Buried-and-Me01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Between-the-Buried-and-Me02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Between-the-Buried-and-Me04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Between-the-Buried-and-Me05.jpg)
-    
+
 
 * * *
 
 As Sunday headliner, the festival was welcoming back American mathcore band **Car** **Bomb**,  whose set was also their exclusive European album release show**.**
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Car-Bomb.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Car-Bomb01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Car-Bomb02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Car-Bomb03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Car-Bomb04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Car-Bomb06.jpg)
-    
+
 
 * * *
 
@@ -76,312 +77,312 @@ As Sunday headliner, the festival was welcoming back American mathcore band **Ca
 ### Day 1
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Anima-Tempo.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Anima-Tempo01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Anima-Tempo04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Anima-Tempo07.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Atlas.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Atlas01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Atlas02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Atlas05.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Azure.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Azure01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Azure02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Azure04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Dead-Letter-Circus.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Dead-Letter-Circus01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Dead-Letter-Circus02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Dead-Letter-Circus03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Dead-Letter-Circus06.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-2019.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201901.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201902.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201903.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Kadinja.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Kadinja01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Kadinja03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Kadinja07.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Kadinja08.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Kin-Beneath-Chorus.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Kin-Beneath-Chorus02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Kin-Beneath-Chorus03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Kin-Beneath-Chorus05.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Klone.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Klone01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Klone02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Klone07.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Siamese.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Siamese01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Siamese02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Siamese06.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sunbeam-Overdrive.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sunbeam-Overdrive01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sunbeam-Overdrive02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sunbeam-Overdrive03.jpg)
-    
+
 
 * * *
 
 ### Day 2
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Aphyxion.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Aphyxion01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Aphyxion02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Aphyxion04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Arch-Echo.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Arch-Echo01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Arch-Echo03.jpg)
-    
+
 - ![](blob:https://www.hellbound.ca/bc7e11ef-3fb8-43c2-9e74-a255e4d7b861)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Cold-Night-for-Alligators.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Cold-Night-for-Alligators01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Cold-Night-for-Alligators02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Cold-Night-for-Alligators04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Ghost-Iris.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Ghost-Iris02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Ghost-Iris03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Ghost-Iris04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Head-With-Wings.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Head-With-Wings01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Head-With-Wings02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Head-With-Wings03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Odd-Palace.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Odd-Palace01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Odd-Palace02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Odd-Palace03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Rendezvous-Point.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Rendezvous-Point01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Rendezvous-Point02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Rendezvous-Point03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Shokran.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Shokran01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Shokran02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Shokran03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sleep-Token.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sleep-Token01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sleep-Token03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sleep-Token04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Strains.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Strains01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Strains02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Strains03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sunless-Dawn.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sunless-Dawn01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sunless-Dawn02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Sunless-Dawn05.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Vola.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Vola01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Vola03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Vola06.jpg)
-    
+
 
 * * *
 
 ### Day 3
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Betraying-the-Martyrs.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Betraying-the-Martyrs01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Betraying-the-Martyrs03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Betraying-the-Martyrs05.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Controversial.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Controversial01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Controversial02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Controversial03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-2019-2.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201901-2.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201904.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201906.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201907.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201909.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201910.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Frostbitt.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Frostbitt02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Frostbitt03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Frostbitt04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Hypophora.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Hypophora02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Hypophora03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Hypophora04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Shrezzers.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Shrezzers01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Shrezzers02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Shrezzers03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Special-Providence.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Special-Providence01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Special-Providence02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Special-Providence04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/The-Haarp-Machine.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/The-Haarp-Machine02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/The-Haarp-Machine03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/The-Haarp-Machine04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Thrailkill.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Thrailkill01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Thrailkill02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Thrailkill03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Tides-From-Nebula.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Tides-From-Nebula01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Tides-From-Nebula03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Tides-From-Nebula04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Tides-of-Man.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Tides-of-Man01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Tides-of-Man02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Tides-of-Man03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Voyager.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Voyager01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Voyager04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Voyager07.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Wings-Denied.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Wings-Denied01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Wings-Denied02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Wings-Denied06.jpg)
-    
+
 
 * * *
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201903-1.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Euroblast-201902-1.jpg)
-    
+
 
 * * *
 

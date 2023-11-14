@@ -1,10 +1,11 @@
 ---
 title: "Khemmis – Desolation"
+edited: false
 date: "2018-06-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "khemmis"
   - "power-metal"

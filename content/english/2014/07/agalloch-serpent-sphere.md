@@ -1,9 +1,10 @@
 ---
 title: "Agalloch – The Serpent and the Sphere"
+edited: false
 date: "2014-07-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "acoustic"
   - "agalloch"
   - "black-metal"

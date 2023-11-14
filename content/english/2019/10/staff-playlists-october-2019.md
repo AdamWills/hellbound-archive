@@ -1,10 +1,11 @@
 ---
 title: "Staff Playlists - October 2019"
+edited: false
 date: "2019-10-31"
-categories: 
+categories:
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "metal"
   - "staff-picks"
   - "staff-playlists"
@@ -18,10 +19,10 @@ Welcome to Hellbound's latest collection of staff picks and playlists. Enjoy the
 
 **Non-Metal:** Kila - _Lunar Park_ 
 
-**Wild Card:** Ronnie Wood - _Ronnie_. Excellent autobiography, and  
+**Wild Card:** Ronnie Wood - _Ronnie_. Excellent autobiography, and
 actually written by Ronnie.
 
-**Slaughter Season:** _Night of the Demon. C_lassic 1958 black and white  
+**Slaughter Season:** _Night of the Demon. C_lassic 1958 black and white
 chiller, based on the story _Casting The Runes_ by M.R James.
 
 ## Gruesome Greg

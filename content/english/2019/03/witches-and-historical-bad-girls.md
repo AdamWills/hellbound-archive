@@ -1,9 +1,10 @@
 ---
 title: "Witches and historical \"bad girls\""
+edited: false
 date: "2019-03-05"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "history"

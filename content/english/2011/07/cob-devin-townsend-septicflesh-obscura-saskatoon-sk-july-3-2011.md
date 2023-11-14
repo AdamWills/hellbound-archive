@@ -1,11 +1,12 @@
 ---
 title: "Children of Bodom/Devin Townsend Project/Septicflesh/Obscura @ Odeon, Saskatoon, SK, July 3, 2011"
+edited: false
 date: "2011-07-05"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adrien-begrand"
   - "black-metal"
   - "children-of-bodom"

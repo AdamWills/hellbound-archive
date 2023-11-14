@@ -1,11 +1,12 @@
 ---
 title: "Katatonia – Dead End Kings"
+edited: false
 date: "2012-07-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anathema"
   - "doomdeath-metal"
   - "katatonia"

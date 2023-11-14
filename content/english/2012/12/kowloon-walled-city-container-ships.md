@@ -1,11 +1,12 @@
 ---
 title: "Kowloon Walled City – Container Ships"
+edited: false
 date: "2012-12-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bison-b-c"
   - "black-cobra"
   - "black-tusk"

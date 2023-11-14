@@ -1,10 +1,11 @@
 ---
 title: "Cough – Still They Pray"
+edited: false
 date: "2016-06-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cough"
   - "doom"
   - "relapse"

@@ -1,11 +1,12 @@
 ---
 title: "Red Fang – Whales and Leeches"
+edited: false
 date: "2013-12-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alice-in-chains"
   - "doom"
   - "fu-manchu"

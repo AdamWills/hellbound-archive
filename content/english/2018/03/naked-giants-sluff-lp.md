@@ -1,9 +1,10 @@
 ---
 title: "Naked Giants – Sluff LP"
+edited: false
 date: "2018-03-26"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "garage-rock"
   - "indie-rock"

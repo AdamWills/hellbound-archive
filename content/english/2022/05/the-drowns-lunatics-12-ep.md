@@ -1,10 +1,11 @@
 ---
 title: "The Drowns - Lunatics 12'' EP"
+edited: false
 date: "2022-05-17"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "ep"
   - "lunatics"
   - "pirates"

@@ -1,11 +1,12 @@
 ---
 title: "Uriah Heep – Celebration"
+edited: false
 date: "2010-05-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "albert-mansour"
   - "classic-rock"
   - "edel-music"

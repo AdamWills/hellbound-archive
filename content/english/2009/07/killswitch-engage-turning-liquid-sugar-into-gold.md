@@ -1,10 +1,11 @@
 ---
 title: "Killswitch Engage: Turning Liquid Sugar Into Gold"
+edited: false
 date: "2009-07-31"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "killswitch-engage"
   - "metalcore"
   - "roadrunner"

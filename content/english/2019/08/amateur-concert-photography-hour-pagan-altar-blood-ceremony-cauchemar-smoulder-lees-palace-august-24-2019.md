@@ -1,12 +1,13 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: PAGAN ALTAR/Blood Ceremony/Cauchemar/Smoulder @ Lee's Palace, August 24, 2019"
+edited: false
 date: "2019-08-25"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
   - "reviews-live"
-tags: 
+tags:
   - "blood-ceremony"
   - "cauchemar"
   - "concert-photography"

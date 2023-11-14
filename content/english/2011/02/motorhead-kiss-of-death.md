@@ -1,11 +1,12 @@
 ---
 title: "Motörhead - Kiss of Death"
+edited: false
 date: "2011-02-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "motorhead"
   - "sean-palmerston"
 ---

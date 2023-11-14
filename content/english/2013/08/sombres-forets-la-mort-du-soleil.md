@@ -1,11 +1,12 @@
 ---
 title: "Sombres Forêts - La Mort du Soleil"
+edited: false
 date: "2013-08-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alcest"
   - "hellbound-metal"
   - "hellbound-ca"

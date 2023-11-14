@@ -1,11 +1,12 @@
 ---
 title: "Fates Warning @ Webster Theatre, Hartford, CT., June 4, 2010"
+edited: false
 date: "2010-07-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "fates-warning"
   - "live-review"
   - "metal-blade"

@@ -1,9 +1,10 @@
 ---
 title: "Sofy Major – Waste"
+edited: false
 date: "2015-11-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "metal"
   - "noise-rock"

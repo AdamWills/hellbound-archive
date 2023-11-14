@@ -1,12 +1,13 @@
 ---
 title: "<em>Iron Will</em> paints a picture of strength, on stage and off, for death metal gladiators Kataklysm"
+edited: false
 date: "2012-09-20"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "alex-webster"
   - "away"
   - "blacky"

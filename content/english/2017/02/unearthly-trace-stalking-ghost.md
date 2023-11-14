@@ -1,10 +1,11 @@
 ---
 title: "Unearthly Trace – Stalking the Ghost"
+edited: false
 date: "2017-02-13"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-doom"
   - "doom"
   - "drone"

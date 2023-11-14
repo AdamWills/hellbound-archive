@@ -1,11 +1,12 @@
 ---
 title: "Slaughterday - Nightmare Vortex"
+edited: false
 date: "2013-12-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "autopsy"
   - "death-metal"
   - "entombed"

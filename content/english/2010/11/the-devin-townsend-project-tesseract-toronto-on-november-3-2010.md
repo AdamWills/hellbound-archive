@@ -1,11 +1,12 @@
 ---
 title: "The Devin Townsend Project / TesseracT @ the Mod Club, Toronto ON, November 3, 2010"
+edited: false
 date: "2010-11-09"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "between-the-buried-and-me"
   - "canada"

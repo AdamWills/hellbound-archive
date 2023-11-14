@@ -1,10 +1,11 @@
 ---
 title: "Burial Hordes: Devotion To Unholy Creed"
+edited: false
 date: "2009-07-16"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "bathory"
   - "black-metal"
   - "burial-hordes"

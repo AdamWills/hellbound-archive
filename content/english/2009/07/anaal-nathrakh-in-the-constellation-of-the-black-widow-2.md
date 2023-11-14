@@ -1,11 +1,12 @@
 ---
 title: "Anaal Nathrakh: In the Constellation of the Black Widow"
+edited: false
 date: "2009-07-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anaal-nathrakh"
   - "candlelight-usa"
   - "england"

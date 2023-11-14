@@ -1,11 +1,12 @@
 ---
 title: "SardoniS – s/t"
+edited: false
 date: "2010-08-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "belgium"
   - "meteorcity"
   - "sardonis"

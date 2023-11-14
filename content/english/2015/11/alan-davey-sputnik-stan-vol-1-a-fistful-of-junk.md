@@ -1,9 +1,10 @@
 ---
 title: "Alan Davey – Sputnik Stan Vol 1: A Fistful of Junk"
+edited: false
 date: "2015-11-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alan-davey"
   - "album-review"
   - "concept-album"

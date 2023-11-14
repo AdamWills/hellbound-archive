@@ -1,9 +1,10 @@
 ---
 title: "new Canadian metal: January release round-up"
+edited: false
 date: "2016-02-06"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "canadian-metal"
   - "canuck-metal"
   - "new-releases"

@@ -1,9 +1,10 @@
 ---
 title: "Bewitcher – Midnight Hunters"
+edited: false
 date: "2015-01-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bewitcher"
   - "black-metal"

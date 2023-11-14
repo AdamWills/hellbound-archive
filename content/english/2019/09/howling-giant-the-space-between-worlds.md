@@ -1,10 +1,11 @@
 ---
 title: "Howling Giant – The Space Between Worlds"
+edited: false
 date: "2019-09-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "review"
   - "stoner-rock"
 ---

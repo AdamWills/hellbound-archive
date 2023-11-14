@@ -1,12 +1,13 @@
 ---
 title: "Sepultura / Belphegor / Hate / Keep of Kalessin / Neuraxis @ The Opera House, Toronto ON, April 18th 2011"
+edited: false
 date: "2011-04-22"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "alestorm"
   - "belphegor"

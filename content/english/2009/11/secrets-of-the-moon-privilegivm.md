@@ -1,11 +1,12 @@
 ---
 title: "Secrets of the Moon: Privilegivm"
+edited: false
 date: "2009-11-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "germany"
   - "gothic-metal"

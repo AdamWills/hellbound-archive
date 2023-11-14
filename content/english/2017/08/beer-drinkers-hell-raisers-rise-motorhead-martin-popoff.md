@@ -1,9 +1,10 @@
 ---
 title: "‘Beer Drinkers and Hell Raisers: The Rise of Motorhead’ by Martin Popoff"
+edited: false
 date: "2017-08-09"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "ecw-press"
   - "heavy-metal"

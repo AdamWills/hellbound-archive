@@ -1,9 +1,10 @@
 ---
 title: "Mars By 1980: The Story of Electronic Music"
+edited: false
 date: "2018-10-16"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "electronic-music"
   - "music"

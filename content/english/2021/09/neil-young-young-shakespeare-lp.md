@@ -1,9 +1,10 @@
 ---
 title: "Neil Young - Young Shakespeare LP"
+edited: false
 date: "2021-09-26"
-categories: 
+categories:
   - "reviews-classics"
-tags: 
+tags:
   - "live"
   - "music"
   - "neil"

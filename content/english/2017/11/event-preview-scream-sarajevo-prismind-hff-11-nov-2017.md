@@ -1,11 +1,12 @@
 ---
 title: "Event preview: Scream For Me Sarajevo + Prismind @ HFF, 11 Nov 2017"
+edited: false
 date: "2017-11-02"
-categories: 
+categories:
   - "interviews"
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "alex-elena"
   - "bruce-dickinson"
   - "film"

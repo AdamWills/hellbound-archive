@@ -1,11 +1,12 @@
 ---
 title: "Varga @ Club Absinthe, Hamilton ON, December 7, 2013"
+edited: false
 date: "2013-12-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "black-sabbath"
   - "club-absinthe"

@@ -1,9 +1,10 @@
 ---
 title: "HEAVEN SHALL BURN and more in Saarbrücken, Germany – March 2018"
+edited: false
 date: "2018-03-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "august-burns-red"
   - "concert"
   - "germany"

@@ -1,11 +1,12 @@
 ---
 title: "Down/Voivod @ Kool Haus, Toronto ON, Sept 18, 2009"
+edited: false
 date: "2009-09-23"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "canada"
   - "down"

@@ -1,11 +1,12 @@
 ---
 title: "It's Canada Day! (2015)"
+edited: false
 date: "2015-07-01"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "editors_blog"
-tags: 
+tags:
   - "canada-day"
   - "canadian-metal"
   - "canuck-metal"

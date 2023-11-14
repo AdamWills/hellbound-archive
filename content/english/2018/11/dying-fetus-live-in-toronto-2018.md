@@ -1,9 +1,10 @@
 ---
 title: "Dying Fetus live in Toronto, 2018"
+edited: false
 date: "2018-11-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "dying-fetus"
   - "gatecreeper"

@@ -1,11 +1,12 @@
 ---
 title: "Echtra - Paragate"
+edited: false
 date: "2011-04-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "echtra"
   - "jonathan-smith"

@@ -1,10 +1,11 @@
 ---
 title: "Yob – Our Raw Heart"
+edited: false
 date: "2018-06-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

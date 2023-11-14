@@ -1,12 +1,13 @@
 ---
 title: "STAFF PLAYLISTS: November 2009"
+edited: false
 date: "2009-11-10"
-categories: 
+categories:
   - "featured"
   - "features"
   - "headline"
   - "staff_playlists"
-tags: 
+tags:
   - "black-metal"
   - "doom-metal"
   - "norway"

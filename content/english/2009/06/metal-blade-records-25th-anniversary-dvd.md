@@ -1,11 +1,12 @@
 ---
 title: "Metal Blade Records: 25th Anniversary DVD"
+edited: false
 date: "2009-06-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "cannibal-corpse"
   - "goatwhore"
   - "hardcore"

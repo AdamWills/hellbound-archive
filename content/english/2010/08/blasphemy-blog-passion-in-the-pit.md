@@ -1,11 +1,12 @@
 ---
 title: "Blasphemy Blog: Passion In The Pit"
+edited: false
 date: "2010-08-11"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "amon-amarth"
   - "blasphemy-blog"
   - "decapitated"

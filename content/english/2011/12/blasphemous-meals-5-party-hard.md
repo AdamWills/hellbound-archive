@@ -1,12 +1,13 @@
 ---
 title: "Blasphemous Meals #5: Party Hard"
+edited: false
 date: "2011-12-21"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "features"
   - "headline"
-tags: 
+tags:
   - "bazillion-points"
   - "blasphemous-meals"
   - "cauldron"

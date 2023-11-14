@@ -1,10 +1,11 @@
 ---
 title: "Wrong – self-titled"
+edited: false
 date: "2016-05-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "noise"
   - "punk"
   - "relapse"

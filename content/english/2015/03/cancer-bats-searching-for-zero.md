@@ -1,9 +1,10 @@
 ---
 title: "Cancer Bats – Searching For Zero"
+edited: false
 date: "2015-03-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "cancer-bats"
   - "hardcore"

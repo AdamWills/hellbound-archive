@@ -1,9 +1,10 @@
 ---
 title: "Extremity Retained: Notes from the Death Metal Underground"
+edited: false
 date: "2014-05-20"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "death-metal"
   - "handshake"

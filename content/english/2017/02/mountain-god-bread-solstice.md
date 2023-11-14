@@ -1,10 +1,11 @@
 ---
 title: "Mountain God – Bread Solstice"
+edited: false
 date: "2017-02-10"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "post-rock"
   - "post-sludge"
   - "review"

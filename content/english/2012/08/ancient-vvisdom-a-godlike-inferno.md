@@ -1,11 +1,12 @@
 ---
 title: "Ancient VVisdom: A Godlike Inferno"
+edited: false
 date: "2012-08-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ancient-vvisdom"
   - "craig-haze"
   - "ghost"

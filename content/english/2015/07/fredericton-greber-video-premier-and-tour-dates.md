@@ -1,12 +1,13 @@
 ---
 title: "Fredericton: GREBER video premier and tour dates"
+edited: false
 date: "2015-07-19"
-categories: 
+categories:
   - "features"
   - "interviews"
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "greber"
   - "hardcore"
   - "interview"

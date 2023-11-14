@@ -1,9 +1,10 @@
 ---
 title: "The Atomic Bitchwax – Gravitron"
+edited: false
 date: "2015-03-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "monster-magnet"
   - "stoner-rock"

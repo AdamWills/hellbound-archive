@@ -1,9 +1,10 @@
 ---
 title: "Our Lady Peace – Naveed LP"
+edited: false
 date: "2017-01-26"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "our-lady-peace"
   - "review"

@@ -1,10 +1,11 @@
 ---
 title: "Void King – Barren Dominion"
+edited: false
 date: "2019-08-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
 ---

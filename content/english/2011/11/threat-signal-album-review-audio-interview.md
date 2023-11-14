@@ -1,13 +1,14 @@
 ---
 title: "Threat Signal - Threat Signal: Album review & Audio Interview"
+edited: false
 date: "2011-11-17"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "interview"
   - "jason-wellwood"
   - "nuclear-blast"

@@ -1,12 +1,13 @@
 ---
 title: "Hellbound.ca's TOP 20 ALBUMS OF 2010, Part Four"
+edited: false
 date: "2010-12-24"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "staff_picks"
-tags: 
+tags:
   - "adam-wills"
   - "agalloch"
   - "anathema"

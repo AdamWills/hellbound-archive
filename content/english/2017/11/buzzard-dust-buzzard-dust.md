@@ -1,9 +1,10 @@
 ---
 title: "Buzzard Dust – Buzzard Dust"
+edited: false
 date: "2017-11-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "crossover"
   - "d-beat"
   - "death-metal"

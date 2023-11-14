@@ -1,9 +1,10 @@
 ---
 title: "Violation Wound – With Man In Charge"
+edited: false
 date: "2018-03-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "punk"
   - "review"

@@ -1,10 +1,11 @@
 ---
 title: "Astrakhan – Reward in Purpose"
+edited: false
 date: "2016-05-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "astrakhan"
   - "metal"
   - "post-sludge"

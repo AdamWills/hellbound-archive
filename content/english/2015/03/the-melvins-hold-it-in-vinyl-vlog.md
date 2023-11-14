@@ -1,10 +1,11 @@
 ---
 title: "The Melvins – Hold It In (Vinyl Vlog)"
+edited: false
 date: "2015-03-05"
-categories: 
+categories:
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "the-melvins"
   - "vinyl-review"

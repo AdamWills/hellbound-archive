@@ -1,11 +1,12 @@
 ---
 title: "Eastern Front - Blood on Snow"
+edited: false
 date: "2011-02-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "eastern-front"
   - "jonathan-smith"

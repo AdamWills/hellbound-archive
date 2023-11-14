@@ -1,10 +1,11 @@
 ---
 title: "STAFF PLAYLISTS: October 2010"
+edited: false
 date: "2010-10-30"
-categories: 
+categories:
   - "featured"
   - "staff_playlists"
-tags: 
+tags:
   - "adam-wills"
   - "adrien-begrand"
   - "albert-mansour"

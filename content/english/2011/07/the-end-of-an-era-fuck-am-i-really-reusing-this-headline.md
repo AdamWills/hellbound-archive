@@ -1,11 +1,12 @@
 ---
 title: "The End of an Era (fuck, am I really reusing this headline!?)"
+edited: false
 date: "2011-07-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "ckln"
   - "diablo-red"
   - "gruesome-greg"

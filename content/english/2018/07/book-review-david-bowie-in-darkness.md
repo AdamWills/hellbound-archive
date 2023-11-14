@@ -1,9 +1,10 @@
 ---
 title: "BOOK REVIEW: David Bowie in Darkness"
+edited: false
 date: "2018-07-12"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "books"
   - "david-bowie"
   - "review"

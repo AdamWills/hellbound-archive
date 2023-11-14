@@ -1,9 +1,10 @@
 ---
 title: "Primitive Man / Spectral Voice in Toronto, March 2018"
+edited: false
 date: "2018-04-10"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "death-metal"
   - "doom"

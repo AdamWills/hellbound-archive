@@ -1,11 +1,12 @@
 ---
 title: "Epic Kings and Idols: Devin Townsend Project / Katatonia / Paradise Lost / Stolen Babies @ The Opera House, Toronto ON, September 19, 2012"
+edited: false
 date: "2012-09-24"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "devin-townsend-project"
   - "katatonia"

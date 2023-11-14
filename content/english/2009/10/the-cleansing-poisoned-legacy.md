@@ -1,11 +1,12 @@
 ---
 title: "The Cleansing: Poisoned Legacy"
+edited: false
 date: "2009-10-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "deepsend"
   - "denmark"

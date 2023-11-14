@@ -1,9 +1,10 @@
 ---
 title: "Abigail live in Toronto, September 2018"
+edited: false
 date: "2018-10-01"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "abigail"
   - "black-metal"
   - "black-thrash-metal"

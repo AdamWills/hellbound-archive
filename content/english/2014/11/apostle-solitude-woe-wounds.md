@@ -1,9 +1,10 @@
 ---
 title: "Apostle of Solitude – Of Woe and Wounds"
+edited: false
 date: "2014-11-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "apostle-of-solitude"
   - "cruz-del-sur"

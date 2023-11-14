@@ -1,9 +1,10 @@
 ---
 title: "Exodus – Blood In Blood Out"
+edited: false
 date: "2014-12-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "exodus"
   - "gary-holt"

@@ -1,5 +1,6 @@
 ---
 title: "Because Slipknot is definitely the most Satanic band since KISS..."
+edited: true
 date: "2013-01-28"
 author: "Gruesome Greg"
 categories:

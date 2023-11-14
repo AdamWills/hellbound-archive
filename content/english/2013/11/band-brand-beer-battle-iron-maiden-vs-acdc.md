@@ -1,11 +1,12 @@
 ---
 title: "Band Brand Beer Battle: Iron Maiden's \"Trooper\" vs AC/DC"
+edited: false
 date: "2013-11-24"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "reviews"
-tags: 
+tags:
   - "acdc"
   - "beer"
   - "clutch"

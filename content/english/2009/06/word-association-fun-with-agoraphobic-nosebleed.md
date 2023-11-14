@@ -1,10 +1,11 @@
 ---
 title: "Word Association Fun With... AGORAPHOBIC NOSEBLEED"
+edited: false
 date: "2009-06-01"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "agoraphobic-nosebleed"
   - "grind"
   - "pig-destroyer"

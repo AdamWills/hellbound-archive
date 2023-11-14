@@ -1,11 +1,12 @@
 ---
 title: "Apostle of Solitude @ The Bug Jar, Rochester, NY, July 22, 2010"
+edited: false
 date: "2010-07-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "apostle-of-solitude"
   - "doom"
   - "eyes-like-snow-records"

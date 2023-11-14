@@ -1,11 +1,12 @@
 ---
 title: "Barren Earth: When the Prog/Metal Fusion Works Out Right..."
+edited: false
 date: "2010-04-30"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "amorphis"
   - "barren-earth"
   - "dan-swano"

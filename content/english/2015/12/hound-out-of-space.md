@@ -1,10 +1,11 @@
 ---
 title: "Hound – Out of Space"
+edited: false
 date: "2015-12-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "garage-punk"
   - "hound"
   - "neo-stoner"

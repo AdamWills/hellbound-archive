@@ -1,9 +1,10 @@
 ---
 title: "Metal events you don't wanna miss: summer 2018"
+edited: false
 date: "2018-07-03"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "concerts"
   - "events"
   - "festivals"

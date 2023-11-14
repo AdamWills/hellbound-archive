@@ -1,11 +1,12 @@
 ---
 title: "Iced Earth – Plagues of Babylon"
+edited: false
 date: "2014-01-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "hansi-kursch"
   - "heavy-metal"

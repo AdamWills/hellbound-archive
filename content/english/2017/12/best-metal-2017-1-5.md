@@ -1,10 +1,11 @@
 ---
 title: "Best metal of 2017: 1-5"
+edited: false
 date: "2017-12-15"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of"
   - "heavy-metal"
   - "metal"

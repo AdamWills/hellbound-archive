@@ -1,10 +1,11 @@
 ---
 title: "Biblical – The City That Always Sleeps"
+edited: false
 date: "2017-08-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "biblical"
   - "garage-rock"

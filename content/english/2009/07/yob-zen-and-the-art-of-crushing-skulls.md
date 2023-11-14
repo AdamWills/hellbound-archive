@@ -1,11 +1,12 @@
 ---
 title: "YOB: Zen and the Art of Crushing Skulls"
+edited: false
 date: "2009-07-03"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "doom"
   - "metal-blade"
   - "middian"

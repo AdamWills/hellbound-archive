@@ -1,11 +1,12 @@
 ---
 title: "Blood Ceremony - Living With The Ancients"
+edited: false
 date: "2011-03-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blood-ceremony"
   - "jex-thoth"
   - "metal-blade"

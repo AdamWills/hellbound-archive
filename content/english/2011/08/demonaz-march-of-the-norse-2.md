@@ -1,11 +1,12 @@
 ---
 title: "Demonaz – March of the Norse"
+edited: false
 date: "2011-08-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "demonaz"
   - "immortal"
   - "nuclear-blast"

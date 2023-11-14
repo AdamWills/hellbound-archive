@@ -1,10 +1,11 @@
 ---
 title: "Ether – There is Nothing Left for Me Here"
+edited: false
 date: "2017-06-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death"
   - "doom"
   - "ether"

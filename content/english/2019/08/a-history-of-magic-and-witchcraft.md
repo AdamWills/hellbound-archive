@@ -1,9 +1,10 @@
 ---
 title: "A History of Magic and Witchcraft"
+edited: false
 date: "2019-08-23"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "magic"

@@ -1,11 +1,12 @@
 ---
 title: "Cancer Bats - Bears, Mayors, Scraps & Bones"
+edited: false
 date: "2010-04-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "beastie-boys"
   - "black-flag"
   - "canada"

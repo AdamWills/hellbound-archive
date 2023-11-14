@@ -1,11 +1,12 @@
 ---
 title: "Voivod - Target Earth"
+edited: false
 date: "2013-01-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blacky"
   - "century-media"
   - "dan-mongrain"

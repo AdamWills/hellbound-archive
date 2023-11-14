@@ -1,11 +1,12 @@
 ---
 title: "CONTEST: RELAPSE RECORDS COOL ASS GIVEAWAY!"
+edited: false
 date: "2009-11-27"
-categories: 
+categories:
   - "featured"
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "baroness"
   - "black-anvil"
   - "dying-fetus"

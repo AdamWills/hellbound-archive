@@ -1,12 +1,13 @@
 ---
 title: "Is Kuma's Corner worth visiting? Not really."
+edited: false
 date: "2012-06-11"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
   - "reviews"
-tags: 
+tags:
   - "jay-h-gorania"
   - "kumas-corner"
 ---

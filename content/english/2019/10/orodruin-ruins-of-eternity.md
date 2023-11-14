@@ -1,10 +1,11 @@
 ---
 title: "Orodruin – Ruins of Eternity"
+edited: false
 date: "2019-10-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

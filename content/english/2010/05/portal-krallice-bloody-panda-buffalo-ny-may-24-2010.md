@@ -1,11 +1,12 @@
 ---
 title: "Portal/ Krallice/ Bloody Panda @ Mohawk Place, Buffalo NY May 24, 2010"
+edited: false
 date: "2010-05-27"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "australia"
   - "black-metal"

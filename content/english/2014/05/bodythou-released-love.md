@@ -1,9 +1,10 @@
 ---
 title: "The Body/Thou – Released from Love"
+edited: false
 date: "2014-05-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "collaborations"
   - "doom"
   - "sludge"

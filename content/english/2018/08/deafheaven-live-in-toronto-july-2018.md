@@ -1,9 +1,10 @@
 ---
 title: "Deafheaven live in Toronto, July 2018"
+edited: false
 date: "2018-08-09"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "concert"
   - "deafheaven"

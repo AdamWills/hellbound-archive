@@ -1,10 +1,11 @@
 ---
 title: "Neurosis – The Word as Law (reissue)"
+edited: false
 date: "2017-08-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "metal"
   - "neurosis"

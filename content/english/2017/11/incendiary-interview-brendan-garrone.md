@@ -1,9 +1,10 @@
 ---
 title: "Incendiary – interview with Brendan Garrone"
+edited: false
 date: "2017-11-30"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "brendan-garrone"
   - "hardcore"
   - "incendiary"

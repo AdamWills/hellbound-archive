@@ -1,9 +1,10 @@
 ---
 title: "Bölzer in Toronto, 29 May 2018"
+edited: false
 date: "2018-06-22"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "bolzer"
   - "concert"

@@ -1,11 +1,12 @@
 ---
 title: "November’s Doom: Into Night’s Requiem Infernal"
+edited: false
 date: "2009-08-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "novembers-doom"
   - "the-end-records"

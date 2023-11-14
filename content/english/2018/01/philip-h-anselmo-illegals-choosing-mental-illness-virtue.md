@@ -1,9 +1,10 @@
 ---
 title: "Philip H. Anselmo & The Illegals – Choosing Mental Illness As A Virtue"
+edited: false
 date: "2018-01-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
 ---

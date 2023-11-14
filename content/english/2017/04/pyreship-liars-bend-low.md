@@ -1,10 +1,11 @@
 ---
 title: "Pyreship – The Liars Bend Low"
+edited: false
 date: "2017-04-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-rock"
   - "metal"

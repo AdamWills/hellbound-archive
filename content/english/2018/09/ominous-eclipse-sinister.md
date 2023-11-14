@@ -1,10 +1,11 @@
 ---
 title: "Ominous Eclipse – Sinister"
+edited: false
 date: "2018-09-11"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian-metal"
   - "death-metal"
   - "extreme-metal"

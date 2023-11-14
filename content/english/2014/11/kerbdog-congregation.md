@@ -1,9 +1,10 @@
 ---
 title: "Kerbdog – Congregation"
+edited: false
 date: "2014-11-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "kerbdog"
   - "live-album"

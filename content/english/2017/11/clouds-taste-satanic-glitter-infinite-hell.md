@@ -1,10 +1,11 @@
 ---
 title: "Clouds Taste Satanic – The Glitter of Infinite Hell"
+edited: false
 date: "2017-11-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "clouds-taste-satanic"
   - "desert-rock"
   - "doom"

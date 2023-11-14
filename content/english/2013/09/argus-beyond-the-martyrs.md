@@ -1,11 +1,12 @@
 ---
 title: "Argus – Beyond the Martyrs"
+edited: false
 date: "2013-09-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "argus"
   - "candlemass"
   - "cruz-del-sur"

@@ -1,9 +1,10 @@
 ---
 title: "Bands In Tandem – A Flaming Lips Brainstorm Gives Birth to Electric Würms (so says Steven Drozd)"
+edited: false
 date: "2014-09-03"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "electric-wurms"
   - "flaming-lips"
   - "linear-downfall"

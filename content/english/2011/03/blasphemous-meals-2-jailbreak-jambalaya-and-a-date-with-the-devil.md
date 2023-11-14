@@ -1,11 +1,12 @@
 ---
 title: "Blasphemous Meals #2: Jailbreak Jambalaya and a Date With the Devil"
+edited: false
 date: "2011-03-18"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "annick-giroux"
   - "bazillion-points"
   - "gorgoroth"
@@ -46,7 +47,7 @@ If there is indeed a jailbreak, make sure you head home and make this.
 
 * * *
 
-  
+
 
 ## Hellbent Meal #5 : Shellfish Crossfire
 
@@ -60,7 +61,7 @@ I made this meal for my cousin, who shares my love for vast, ethnic cuisine. The
 
 * * *
 
-  
+
 
 ## Hellbent Meal #6: Thermo Nuclear Date Squares
 

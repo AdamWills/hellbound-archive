@@ -1,11 +1,12 @@
 ---
 title: "New venue, same Acid Mothers Temple..."
+edited: false
 date: "2012-04-28"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "acid-mothers-temple"
   - "japan"
   - "live"

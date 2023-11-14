@@ -1,11 +1,12 @@
 ---
 title: "Burzum - Belus"
+edited: false
 date: "2010-02-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "burzum"
   - "byeborg-productions"

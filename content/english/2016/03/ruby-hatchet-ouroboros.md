@@ -1,10 +1,11 @@
 ---
 title: "Ruby the Hatchet – Ouroboros"
+edited: false
 date: "2016-03-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bluesfuzz-rock"
   - "occult-rock"

@@ -1,9 +1,10 @@
 ---
 title: "From the archives – Type O Negative: Geriatric ‘Souldiers’ of Rock and Roll"
+edited: false
 date: "2015-04-15"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "interview"
   - "metal"
   - "peter-steele"

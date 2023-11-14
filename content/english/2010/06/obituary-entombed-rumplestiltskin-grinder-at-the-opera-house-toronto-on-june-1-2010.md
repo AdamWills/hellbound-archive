@@ -1,11 +1,12 @@
 ---
 title: "Obituary/ Entombed/ Rumplestiltskin Grinder at The Opera House, Toronto, ON June 1, 2010"
+edited: false
 date: "2010-06-10"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "death-metal"
   - "entombed"

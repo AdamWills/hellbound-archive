@@ -1,9 +1,10 @@
 ---
 title: "I’m A Freak Baby 2"
+edited: false
 date: "2019-01-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "heavy-psych"
   - "metal"

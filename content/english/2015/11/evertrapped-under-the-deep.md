@@ -1,9 +1,10 @@
 ---
 title: "Evertrapped – Under The Deep"
+edited: false
 date: "2015-11-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "evertrapped"
   - "metal"

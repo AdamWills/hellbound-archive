@@ -1,9 +1,10 @@
 ---
 title: "Age Of Electric – Make A Pest A Pet (2-LP reissue)"
+edited: false
 date: "2017-05-25"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "age-of-electric"
   - "reissue"
   - "review"

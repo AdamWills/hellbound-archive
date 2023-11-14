@@ -1,11 +1,12 @@
 ---
 title: "Postcards From Natalie Zed, Part 3"
+edited: false
 date: "2010-05-05"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm-records"
   - "beneath-the-massacre"
   - "birds-of-prety"

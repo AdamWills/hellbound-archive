@@ -1,10 +1,11 @@
 ---
 title: "Kylesa: Static Tensions"
+edited: false
 date: "2009-06-23"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "kylesa"
   - "prosthetic"
   - "sludge-metal"

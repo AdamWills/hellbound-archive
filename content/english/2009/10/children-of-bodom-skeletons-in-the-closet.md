@@ -1,11 +1,12 @@
 ---
 title: "Children of Bodom: Skeletons In The Closet"
+edited: false
 date: "2009-10-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "children-of-bodom"
   - "finland"
   - "spinefarm"

@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: WEEDEATER/Black Wizard/Serial Hawk @ Velvet Underground, June 22, 2017"
+edited: false
 date: "2017-06-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-wizard"
   - "concert-photography"
   - "concert-photos"

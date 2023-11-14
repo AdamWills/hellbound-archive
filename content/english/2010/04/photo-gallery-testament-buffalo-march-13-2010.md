@@ -1,11 +1,12 @@
 ---
 title: "Photo Gallery: Testament @ Town Ballroom, Buffalo NY, March 13, 2010"
+edited: false
 date: "2010-04-12"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "live"
   - "photo-gallery"

@@ -1,12 +1,13 @@
 ---
 title: "Cynic/ 3/ Scale The Summit/ The Ocean @ The Wreck Room, Toronto ON, November 10, 2011"
+edited: false
 date: "2011-11-17"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "3"
   - "between-the-buried-and-me"
   - "cynic"

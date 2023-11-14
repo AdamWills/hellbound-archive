@@ -1,10 +1,11 @@
 ---
 title: "Witchsorrow – Hexenhammer"
+edited: false
 date: "2018-06-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "metal"

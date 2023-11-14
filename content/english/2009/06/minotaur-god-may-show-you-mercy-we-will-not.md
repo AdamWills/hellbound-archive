@@ -1,10 +1,11 @@
 ---
 title: "Minotaur: God May Show You Mercy... We Will Not"
+edited: false
 date: "2009-06-15"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "germany"
   - "i-hate-records"
   - "minotaur"

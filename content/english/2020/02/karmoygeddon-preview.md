@@ -1,9 +1,10 @@
 ---
 title: "Karmøygeddon PREVIEW"
+edited: false
 date: "2020-02-10"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "metal-festival"
 ---
 

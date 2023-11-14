@@ -1,11 +1,12 @@
 ---
 title: "Holy shit! Hellbound.ca Won An Award!"
+edited: false
 date: "2010-11-21"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "hamilton-music-awards"
   - "hellbound-ca"
   - "sean-palmerston"

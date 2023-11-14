@@ -1,11 +1,12 @@
 ---
 title: "Book Review: From The Graveyard Of The Arousal Industry By Justin Pearson"
+edited: false
 date: "2010-06-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "justin-m-norton"
   - "justin-pearson"

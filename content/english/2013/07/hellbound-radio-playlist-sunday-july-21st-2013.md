@@ -1,12 +1,13 @@
 ---
 title: "HELLBOUND RADIO Playlist - Sunday, July 21st, 2013"
+edited: false
 date: "2013-07-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "staff_playlists"
   - "editors_blog"
-tags: 
+tags:
   - "all-pigs-must-die"
   - "avantasia"
   - "battlecross"

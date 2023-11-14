@@ -1,9 +1,10 @@
 ---
 title: "Opium Lord - The Calendrical Cycle: Eye of Earth"
+edited: false
 date: "2015-07-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "noothgrush"
   - "primitive-man"

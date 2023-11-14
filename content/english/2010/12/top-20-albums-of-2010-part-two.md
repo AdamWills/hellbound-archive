@@ -1,11 +1,12 @@
 ---
 title: "Hellbound.ca's TOP 20 ALBUMS OF 2010, Part Two"
+edited: false
 date: "2010-12-22"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "staff_picks"
-tags: 
+tags:
   - "autopsy"
   - "cara-cross"
   - "cathedral"

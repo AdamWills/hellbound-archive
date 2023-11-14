@@ -1,11 +1,12 @@
 ---
 title: "While Heaven Wept - Fear Of Infinity"
+edited: false
 date: "2011-04-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "epic"
   - "nuclear-blast"

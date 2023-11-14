@@ -1,11 +1,12 @@
 ---
 title: "Church of Misery – The Second Coming"
+edited: false
 date: "2012-06-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cactus"
   - "church-of-misery"
   - "desert-doom"

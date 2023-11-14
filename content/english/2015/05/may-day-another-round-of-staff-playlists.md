@@ -1,10 +1,11 @@
 ---
 title: "MAY DAY: another round of staff playlists"
+edited: false
 date: "2015-05-01"
-categories: 
+categories:
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "metal"
   - "staff-picks"
   - "staff-playlists"
@@ -42,7 +43,7 @@ It's been a few months but we're back with another round of Hellbound staff play
 
 #### Danielle Griscti
 
-**Tengger Cavalry** – _Blood Sacrifice Shaman_ (Metal Hell Records): Absolutely fun folk-tinged Mongolian metal with a galloping pace. Super stoked to hear the rest of this. ([tenggercavalry.bandcamp.com/album/blood-sacrifice-shaman](http://tenggercavalry.bandcamp.com/album/blood-sacrifice-shaman)) **Kult of Taurus** – _Adversarial Paths_: The Sinister Essence (Forever Plagued Records/Iron Bonehead Productions): This one is the first of three picks from Greece. Each have their own unique take on the black metal sound, this one edging out just a bit as it is the most immediately catchy. ([soundcloud.com/iron-bonehead-productions/kult-of-taurus-the-piercing-conjunctions-of-the-sinister](https://soundcloud.com/iron-bonehead-productions/kult-of-taurus-the-piercing-conjunctions-of-the-sinister)) **Isolert** – _Isolated Soul_ (independent): The oh so close second of the black metal offerings from Greece. A bit more attuned to the dark side. 
+**Tengger Cavalry** – _Blood Sacrifice Shaman_ (Metal Hell Records): Absolutely fun folk-tinged Mongolian metal with a galloping pace. Super stoked to hear the rest of this. ([tenggercavalry.bandcamp.com/album/blood-sacrifice-shaman](http://tenggercavalry.bandcamp.com/album/blood-sacrifice-shaman)) **Kult of Taurus** – _Adversarial Paths_: The Sinister Essence (Forever Plagued Records/Iron Bonehead Productions): This one is the first of three picks from Greece. Each have their own unique take on the black metal sound, this one edging out just a bit as it is the most immediately catchy. ([soundcloud.com/iron-bonehead-productions/kult-of-taurus-the-piercing-conjunctions-of-the-sinister](https://soundcloud.com/iron-bonehead-productions/kult-of-taurus-the-piercing-conjunctions-of-the-sinister)) **Isolert** – _Isolated Soul_ (independent): The oh so close second of the black metal offerings from Greece. A bit more attuned to the dark side.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2166233330/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://isolert.bandcamp.com/album/isolated-soul">Isolated Soul by Isolert</a></iframe>
 
@@ -52,7 +53,7 @@ It's been a few months but we're back with another round of Hellbound staff play
 
 #### Gruesome Greg
 
-1\. **Palace in Thunderland** – _In the Afterglow of Unity_ (independent) 
+1\. **Palace in Thunderland** – _In the Afterglow of Unity_ (independent)
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=356872230/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://palaceinthunderland.bandcamp.com/album/in-the-afterglow-of-unity">In The Afterglow Of Unity by Palace In Thunderland</a></iframe>
 
@@ -68,7 +69,7 @@ It's been a few months but we're back with another round of Hellbound staff play
 
 #### Matt Hinch
 
-1\. **Monolord** – _Vaenir_ (Riding Easy) Heavy ass STONER DOOM! ([monolord.bandcamp.com/album/v-nir](https://monolord.bandcamp.com/album/v-nir)) 2. **Bell Witch** – _Four Phantoms_ (Profound Lore) Heavy ass DEATH/DOOM! 
+1\. **Monolord** – _Vaenir_ (Riding Easy) Heavy ass STONER DOOM! ([monolord.bandcamp.com/album/v-nir](https://monolord.bandcamp.com/album/v-nir)) 2. **Bell Witch** – _Four Phantoms_ (Profound Lore) Heavy ass DEATH/DOOM!
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2370514039/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://profoundlorerecords.bandcamp.com/album/four-phantoms">Four Phantoms by BELL WITCH</a></iframe>
 
@@ -82,7 +83,7 @@ It's been a few months but we're back with another round of Hellbound staff play
 
 #### Gabe Hugh
 
-**Corsair** – _One Eyed Horse_ ([corsair.bandcamp.com/album/one-eyed-horse](https://corsair.bandcamp.com/album/one-eyed-horse)) 
+**Corsair** – _One Eyed Horse_ ([corsair.bandcamp.com/album/one-eyed-horse](https://corsair.bandcamp.com/album/one-eyed-horse))
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2957990819/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://corsair.bandcamp.com/album/one-eyed-horse">One Eyed Horse by Corsair</a></iframe>
 
@@ -106,7 +107,7 @@ It's been a few months but we're back with another round of Hellbound staff play
 
 #### Rob Kachluba
 
-1\. **Deaf Dealer** – _Journey into Fear_ (Cult Metal Classics): Finished in '87 for whatever reason it was never released till now. Truly one of the great true metal LPs of all time. 2. **Weak Aside** – _The Next Offensive_ (FDA Rekotz): Great Bolt Thrower influenced Death Metal. 
+1\. **Deaf Dealer** – _Journey into Fear_ (Cult Metal Classics): Finished in '87 for whatever reason it was never released till now. Truly one of the great true metal LPs of all time. 2. **Weak Aside** – _The Next Offensive_ (FDA Rekotz): Great Bolt Thrower influenced Death Metal.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=215578392/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://fda-rekotz.bandcamp.com/album/the-next-offensive">The Next Offensive by Weak Aside</a></iframe>
 
@@ -116,7 +117,7 @@ It's been a few months but we're back with another round of Hellbound staff play
 
 #### Laura Wiebe
 
-**Solefald** – _World Metal: Kosmopolis Sud_ (Indie Recordings) ([www.indierecordings.no/solefald](http://www.indierecordings.no/solefald/)) **Leprous** – _Congregation_ (Inside Out) ([soundcloud.com/officialinsideoutmusic/leprous-rewind](https://soundcloud.com/officialinsideoutmusic/leprous-rewind)) **A Forest of Stars** – Beward the Sword You Cannot See (Prophecy) ([a-forest-of-stars.bandcamp.com/album/beware-the-sword-you-cannot-see](https://a-forest-of-stars.bandcamp.com/album/beware-the-sword-you-cannot-see)) **Killer Be Killed** – _Killer Be Killed_ (Nuclear Blast) ([www.killerbekilled.com](http://www.killerbekilled.com/)) **Dead Land** – _All Light Finds Us in the End_: a two track drone/ambient EP for the victims of the recent earthquake in Kathmandu. Any financial donations will forwarded on to Kathmandu Earthquake Relief Fund. 
+**Solefald** – _World Metal: Kosmopolis Sud_ (Indie Recordings) ([www.indierecordings.no/solefald](http://www.indierecordings.no/solefald/)) **Leprous** – _Congregation_ (Inside Out) ([soundcloud.com/officialinsideoutmusic/leprous-rewind](https://soundcloud.com/officialinsideoutmusic/leprous-rewind)) **A Forest of Stars** – Beward the Sword You Cannot See (Prophecy) ([a-forest-of-stars.bandcamp.com/album/beware-the-sword-you-cannot-see](https://a-forest-of-stars.bandcamp.com/album/beware-the-sword-you-cannot-see)) **Killer Be Killed** – _Killer Be Killed_ (Nuclear Blast) ([www.killerbekilled.com](http://www.killerbekilled.com/)) **Dead Land** – _All Light Finds Us in the End_: a two track drone/ambient EP for the victims of the recent earthquake in Kathmandu. Any financial donations will forwarded on to Kathmandu Earthquake Relief Fund.
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=694224554/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://deadland1.bandcamp.com/album/all-the-light-finds-us-in-the-end-for-earthquake-victims-in-kathmandu">ALL THE LIGHT FINDS US IN THE END (FOR EARTHQUAKE VICTIMS IN KATHMANDU by DEAD LAND</a></iframe>
 
@@ -124,7 +125,7 @@ It's been a few months but we're back with another round of Hellbound staff play
 
 #### Adam Wills
 
-**The Gentle Storm** – _The Diary_ (Inside Out) **Bell Witch** – _Four Phantoms_ (Profound Lore) **Vile Creature** – _A Steady Descent Into the Soil_ (Independent) 
+**The Gentle Storm** – _The Diary_ (Inside Out) **Bell Witch** – _Four Phantoms_ (Profound Lore) **Vile Creature** – _A Steady Descent Into the Soil_ (Independent)
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2658656588/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://vilecreature.bandcamp.com/album/a-steady-descent-into-the-soil">A Steady Descent Into the Soil by Vile Creature</a></iframe>
 

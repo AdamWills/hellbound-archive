@@ -1,7 +1,8 @@
 ---
 title: "Best metal events of 2014"
+edited: false
 date: "2015-01-05"
-categories: 
+categories:
   - "features"
   - "reviews-live"
   - "staff_picks"

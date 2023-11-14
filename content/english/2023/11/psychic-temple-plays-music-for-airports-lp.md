@@ -1,10 +1,11 @@
 ---
 title: "Psychic Temple - Plays Music For Airports LP"
+edited: false
 date: "2023-11-07"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "big-ego-records"
   - "chris-schlarb"
   - "jazz"

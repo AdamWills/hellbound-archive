@@ -1,11 +1,12 @@
 ---
 title: "Selim Lemouchi & His Enemies – Earth Air Spirit Water Fire"
+edited: false
 date: "2014-02-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atmospheric"
   - "gruesome-greg"
   - "hawkwind"

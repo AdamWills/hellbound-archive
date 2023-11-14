@@ -1,10 +1,11 @@
 ---
 title: "High Reeper – Higher Reeper"
+edited: false
 date: "2019-03-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "fuzz"
   - "heavy"

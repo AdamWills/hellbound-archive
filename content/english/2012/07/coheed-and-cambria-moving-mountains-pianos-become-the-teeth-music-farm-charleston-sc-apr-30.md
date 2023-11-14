@@ -1,11 +1,12 @@
 ---
 title: "Coheed and Cambria / Moving Mountains / Pianos Become The Teeth @ Music Farm, Charleston, SC  Apr 30"
+edited: false
 date: "2012-07-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "alice-cooper"
   - "coheed-and-cambria"
   - "iron-maiden"

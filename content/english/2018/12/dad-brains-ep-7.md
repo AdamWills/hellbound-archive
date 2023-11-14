@@ -1,9 +1,10 @@
 ---
 title: "Dad Brains – EP (7'')"
+edited: false
 date: "2018-12-18"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "dad-brains"
   - "pirates-press"
   - "punk"

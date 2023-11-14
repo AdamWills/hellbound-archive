@@ -1,9 +1,10 @@
 ---
 title: "Arthur Buck  s/t"
+edited: false
 date: "2018-09-20"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "arthur-buck"
   - "blues"
   - "joe-arthur"

@@ -1,9 +1,10 @@
 ---
 title: "20 Years of Inertia Entertainment"
+edited: false
 date: "2016-03-25"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert-review"
   - "goatwhore"
   - "inertia-entertainment"

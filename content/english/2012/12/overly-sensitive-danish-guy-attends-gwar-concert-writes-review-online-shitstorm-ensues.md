@@ -1,11 +1,12 @@
 ---
 title: "Overly-sensitive Danish guy attends Gwar concert, writes review.  Online shitstorm ensues!"
+edited: false
 date: "2012-12-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "cancer-bats"
   - "concert"
   - "devildriver"

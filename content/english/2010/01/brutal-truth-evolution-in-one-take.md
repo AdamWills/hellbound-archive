@@ -1,11 +1,12 @@
 ---
 title: "Brutal Truth - Evolution In One Take:For Grindfreaks Only! Volume 2"
+edited: false
 date: "2010-01-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "brutal-truth"
   - "evolution-through-revolution"
   - "grindcore"

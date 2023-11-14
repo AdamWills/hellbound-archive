@@ -1,11 +1,12 @@
 ---
 title: "Classic Album Revisited: Sleep's Holy Mountain"
+edited: false
 date: "2009-08-24"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-classics"
-tags: 
+tags:
   - "black-sabbath"
   - "earache"
   - "sleep"

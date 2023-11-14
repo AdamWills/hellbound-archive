@@ -1,11 +1,12 @@
 ---
 title: "Anekdoten – Chapters"
+edited: false
 date: "2010-09-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anekdoten"
   - "king-crimson"
   - "kscope"

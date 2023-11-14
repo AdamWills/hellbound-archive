@@ -1,10 +1,11 @@
 ---
 title: "Sound Of Ceres – The Twin LP"
+edited: false
 date: "2020-02-11"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
 ---
 

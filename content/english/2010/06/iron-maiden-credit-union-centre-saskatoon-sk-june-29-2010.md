@@ -1,11 +1,12 @@
 ---
 title: "Iron Maiden @ Credit Union Centre, Saskatoon, SK, June 29, 2010"
+edited: false
 date: "2010-06-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adrien-begrand"
   - "iron-maiden"
   - "live-review"

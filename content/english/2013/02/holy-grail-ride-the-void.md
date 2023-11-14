@@ -1,11 +1,12 @@
 ---
 title: "Holy Grail - Ride The Void"
+edited: false
 date: "2013-02-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bonded-by-blood"
   - "holy-grail"
   - "matt-hinch"

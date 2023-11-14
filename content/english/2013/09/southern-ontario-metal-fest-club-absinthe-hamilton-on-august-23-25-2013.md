@@ -1,12 +1,13 @@
 ---
 title: "Southern Ontario Metal Fest, Club Absinthe, Hamilton ON, August 23-25, 2013"
+edited: false
 date: "2013-09-19"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "american-hell"
   - "cardinals-pride"

@@ -1,7 +1,8 @@
 ---
 title: "Amesoeurs: Amesoeurs"
+edited: false
 date: "2009-07-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"

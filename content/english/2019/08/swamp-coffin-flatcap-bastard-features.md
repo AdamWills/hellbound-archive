@@ -1,10 +1,11 @@
 ---
 title: "Swamp Coffin – Flatcap Bastard Features"
+edited: false
 date: "2019-08-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "review"
   - "sludge"

@@ -1,11 +1,12 @@
 ---
 title: "Ironweed – Your World of Tomorrow"
+edited: false
 date: "2011-05-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bongzilla"
   - "gruesome-greg"
   - "ironweed"

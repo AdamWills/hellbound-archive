@@ -1,11 +1,12 @@
 ---
 title: "Storm Corrosion - Storm Corrosion"
+edited: false
 date: "2012-05-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bass-communion"
   - "blackfield"
   - "brian-eno"

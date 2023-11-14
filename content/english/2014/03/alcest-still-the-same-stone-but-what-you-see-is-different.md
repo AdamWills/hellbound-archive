@@ -1,11 +1,12 @@
 ---
 title: "Alcest – Still the same stone, but what you see is different"
+edited: false
 date: "2014-03-06"
-categories: 
+categories:
   - "features"
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "alcest"
   - "black-metal"
   - "drummer"

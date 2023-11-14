@@ -1,11 +1,12 @@
 ---
 title: "Postcards From Natalie Zed, Part 5"
+edited: false
 date: "2010-10-01"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "augury"
   - "goodfellow"
   - "imperium-dekadenz"

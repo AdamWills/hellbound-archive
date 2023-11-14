@@ -1,9 +1,10 @@
 ---
 title: "Incineration Festival 2019, 11.05. Camden Town London, UK"
+edited: false
 date: "2019-05-24"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "extreme-metal"
   - "festival"
   - "heavy-metal"

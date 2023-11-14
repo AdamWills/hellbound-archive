@@ -1,11 +1,12 @@
 ---
 title: "Maryland Deathfest 2011 Recap Day 1"
+edited: false
 date: "2011-06-03"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "anacrusis"
   - "botch"

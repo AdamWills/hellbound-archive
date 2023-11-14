@@ -1,10 +1,11 @@
 ---
 title: "Inter Arma – Paradise Gallows"
+edited: false
 date: "2016-07-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "death-doom"
   - "doom"

@@ -1,11 +1,12 @@
 ---
 title: "Oranssi Pazuzu - Kevät / Värimyrsky EP"
+edited: false
 date: "2017-11-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "black-metal"
   - "metal"
   - "oranssi-pazuzu"

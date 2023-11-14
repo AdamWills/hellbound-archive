@@ -1,9 +1,10 @@
 ---
 title: "Nails – You Will Never Be One of Us"
+edited: false
 date: "2016-07-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "metal"
   - "nails"

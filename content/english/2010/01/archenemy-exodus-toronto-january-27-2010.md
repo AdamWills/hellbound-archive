@@ -1,11 +1,12 @@
 ---
 title: "Arch Enemy/Exodus/Arsis/Mutiny Within @ Phoenix Concert Theater, Toronto ON, January 27, 2010"
+edited: false
 date: "2010-01-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "arch-enemy"
   - "arsis"

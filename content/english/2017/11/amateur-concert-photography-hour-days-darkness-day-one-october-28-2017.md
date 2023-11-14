@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR @ DAYS OF DARKNESS: Day One, October 28, 2017"
+edited: false
 date: "2017-11-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "alms"
   - "captain-beyond"
   - "cavity"

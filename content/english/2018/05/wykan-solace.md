@@ -1,10 +1,11 @@
 ---
 title: "Wykan – Solace"
+edited: false
 date: "2018-05-08"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "blues"
   - "doom"
   - "heavy"

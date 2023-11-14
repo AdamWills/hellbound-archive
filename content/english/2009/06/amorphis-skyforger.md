@@ -1,10 +1,11 @@
 ---
 title: "Amorphis: Skyforger"
+edited: false
 date: "2009-06-12"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "amorphis"
   - "finland"
   - "folk-metal"

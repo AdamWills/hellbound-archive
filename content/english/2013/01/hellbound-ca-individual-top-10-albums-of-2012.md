@@ -1,11 +1,12 @@
 ---
 title: "Hellbound.ca INDIVIDUAL TOP 10 ALBUMS OF 2012"
+edited: false
 date: "2013-01-04"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "reviews"
-tags: 
+tags:
   - "3318"
   - "3-inches-of-blood"
   - "accept"

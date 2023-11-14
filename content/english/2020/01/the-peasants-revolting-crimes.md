@@ -1,9 +1,10 @@
 ---
 title: "The Peasants’ Revolting …Crimes"
+edited: false
 date: "2020-01-17"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "history"

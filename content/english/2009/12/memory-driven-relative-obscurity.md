@@ -1,11 +1,12 @@
 ---
 title: "Memory Driven: Relative Obscurity"
+edited: false
 date: "2009-12-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "i-hate-records"
   - "melodic-doom"
   - "memory-driven"

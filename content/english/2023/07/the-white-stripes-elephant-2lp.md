@@ -1,11 +1,12 @@
 ---
 title: "The White Stripes - Elephant 2LP Reissue"
+edited: false
 date: "2023-07-28"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "columbia"
   - "elephant"
   - "jack"

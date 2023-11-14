@@ -1,11 +1,12 @@
 ---
 title: "Scythia -  ...Of Exile"
+edited: false
 date: "2011-11-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "jason-wellwood"
   - "scythia"
 ---

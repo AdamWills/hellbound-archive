@@ -1,11 +1,12 @@
 ---
 title: "Apostle of Solitude / Dawnrider - one sided split 12\""
+edited: false
 date: "2011-05-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "apostle-of-solitude"
   - "dawnrider"
   - "split-release"

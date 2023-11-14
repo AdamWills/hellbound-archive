@@ -1,9 +1,10 @@
 ---
 title: "Venom Inc. + Goatwhore @ The Mod Club, Toronto, 5 September 2017"
+edited: false
 date: "2017-10-02"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "concert"
   - "goatwhore"

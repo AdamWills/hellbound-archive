@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Q & A with...  Terese Fleming of Scarab Productions"
+edited: false
 date: "2012-09-21"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "agalloch"
   - "amorphis"
   - "andy-sneap"

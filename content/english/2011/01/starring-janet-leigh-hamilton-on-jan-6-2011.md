@@ -1,11 +1,12 @@
 ---
 title: "Starring Janet Leigh/ Mortify/ The After Chapter/ That Boy Ain't Right @ Absinthe, Hamilton ON, January 6, 2011"
+edited: false
 date: "2011-01-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "glen-benton"
   - "hamilton"

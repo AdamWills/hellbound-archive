@@ -1,11 +1,12 @@
 ---
 title: "Buzzov*en - Revelation:Sick Again"
+edited: false
 date: "2011-04-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "buzzoven"
   - "hydra-head"
   - "kyle-harcott"

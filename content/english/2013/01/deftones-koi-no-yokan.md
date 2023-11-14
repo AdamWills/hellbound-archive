@@ -1,11 +1,12 @@
 ---
 title: "Deftones - Koi No Yokan"
+edited: false
 date: "2013-01-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "deftones"
   - "matt-hinch"
   - "nu-metal"

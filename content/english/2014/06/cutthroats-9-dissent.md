@@ -1,9 +1,10 @@
 ---
 title: "The Cutthroats 9 – Dissent"
+edited: false
 date: "2014-06-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "lamb-unlimited"

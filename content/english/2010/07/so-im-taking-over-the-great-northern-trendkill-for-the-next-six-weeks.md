@@ -1,7 +1,8 @@
 ---
 title: "So, I'm taking over The Great Northern Trendkill for the next six weeks..."
+edited: false
 date: "2010-07-10"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

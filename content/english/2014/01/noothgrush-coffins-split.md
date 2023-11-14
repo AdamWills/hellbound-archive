@@ -1,11 +1,12 @@
 ---
 title: "Noothgrush/Coffins split"
+edited: false
 date: "2014-01-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "coffins"
   - "death-metal"
   - "death-doom"

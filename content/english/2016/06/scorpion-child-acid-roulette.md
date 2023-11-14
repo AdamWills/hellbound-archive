@@ -1,10 +1,11 @@
 ---
 title: "Scorpion Child – Acid Roulette"
+edited: false
 date: "2016-06-10"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "nuclear-blast"
   - "review"

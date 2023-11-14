@@ -1,10 +1,11 @@
 ---
 title: "Thin Lizzy: Still Dangerous"
+edited: false
 date: "2009-06-11"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "classic-metal"
   - "ireland"
   - "thin-lizzy"

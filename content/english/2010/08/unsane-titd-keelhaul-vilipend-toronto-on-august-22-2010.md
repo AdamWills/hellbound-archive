@@ -1,11 +1,12 @@
 ---
 title: "Unsane/ Today Is The Day/ Keelhaul/ Vilipend @ Sneaky Dees, Toronto ON, August 22, 2010"
+edited: false
 date: "2010-08-27"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "keelhaul"
   - "today-is-the-day"
   - "unsane"

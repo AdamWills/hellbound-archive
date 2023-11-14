@@ -1,11 +1,12 @@
 ---
 title: "Happy 2nd Birthday HELLBOUND.CA!"
+edited: false
 date: "2011-06-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "metal-blade"
   - "profound-lore-records"
   - "relapse-records"

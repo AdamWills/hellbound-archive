@@ -1,11 +1,12 @@
 ---
 title: "Blasphemy Blog #1: Lords Of Chaos - Yay Or Nay?"
+edited: false
 date: "2009-08-18"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "black-metal"
   - "book"
   - "film"

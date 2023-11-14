@@ -1,9 +1,10 @@
 ---
 title: "Reducers SF – Essentials (4 Colored LP set)"
+edited: false
 date: "2015-06-16"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "pop-punk"
   - "punk"
   - "punk-rock"

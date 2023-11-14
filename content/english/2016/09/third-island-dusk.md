@@ -1,9 +1,10 @@
 ---
 title: "Third Island – Dusk"
+edited: false
 date: "2016-09-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "drone"
   - "post-metal"

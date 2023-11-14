@@ -1,7 +1,8 @@
 ---
 title: "White Lion - All You Need Is Rock ‘N’ Roll-The Complete Albums 1985-1991"
+edited: false
 date: "2020-10-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

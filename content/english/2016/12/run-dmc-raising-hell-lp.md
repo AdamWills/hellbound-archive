@@ -1,9 +1,10 @@
 ---
 title: "RUN-DMC – Raising Hell LP"
+edited: false
 date: "2016-12-20"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hip-hop"
   - "metal"
   - "rap"

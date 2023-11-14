@@ -1,10 +1,11 @@
 ---
 title: "Hooded Menace – Ossuarium Silhouettes Unhallowed"
+edited: false
 date: "2018-01-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death"
   - "death-doom"
   - "doom"

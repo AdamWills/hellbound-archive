@@ -1,10 +1,11 @@
 ---
 title: "Wacken Metal Battle Canada announces plans for 2015"
+edited: false
 date: "2014-11-17"
-categories: 
+categories:
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "canadian-metal"
   - "wacken"
   - "wacken-metal-battle-canada"

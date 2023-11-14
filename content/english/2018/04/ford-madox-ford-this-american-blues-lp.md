@@ -1,9 +1,10 @@
 ---
 title: "Ford Madox Ford – This American Blues LP"
+edited: false
 date: "2018-04-25"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "americana"
   - "ford-madox-ford"
   - "punk"

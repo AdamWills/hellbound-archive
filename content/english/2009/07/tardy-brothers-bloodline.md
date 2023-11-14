@@ -1,10 +1,11 @@
 ---
 title: "Tardy Brothers: Bloodline"
+edited: false
 date: "2009-07-17"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "obituary"
   - "tardy-brothers"

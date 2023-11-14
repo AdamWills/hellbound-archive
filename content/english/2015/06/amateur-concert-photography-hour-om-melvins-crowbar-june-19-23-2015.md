@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: OM, Melvins, Crowbar, June 19-23, 2015"
+edited: false
 date: "2015-06-27"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert"
   - "concert-photos"
   - "crowbar"

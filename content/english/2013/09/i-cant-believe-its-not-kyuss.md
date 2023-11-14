@@ -1,11 +1,12 @@
 ---
 title: "\"I Can't Believe It's Not Kyuss!\""
+edited: false
 date: "2013-09-22"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "brant-bjork"
   - "coc"
   - "concert"

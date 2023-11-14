@@ -1,11 +1,12 @@
 ---
 title: "Kvist: For Kunsten Maa Vi Evig Vike"
+edited: false
 date: "2009-11-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "avantgarde-music"
   - "black-metal"
   - "kvist"

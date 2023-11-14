@@ -1,9 +1,10 @@
 ---
 title: "Round Eye – s/t"
+edited: false
 date: "2015-04-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "butthole-surfers"
   - "experimental"

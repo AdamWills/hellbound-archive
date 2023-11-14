@@ -1,11 +1,12 @@
 ---
 title: "Redeemer – Global Exorcism"
+edited: false
 date: "2011-02-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "jason-wellwood"
   - "redeemer"

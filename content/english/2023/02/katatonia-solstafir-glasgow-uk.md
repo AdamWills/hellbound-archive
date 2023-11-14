@@ -1,13 +1,14 @@
 ---
 title: "Katatonia & Solstafir - Glasgow, UK"
+edited: false
 date: "2023-02-22"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"
   - "reviews-audio"
   - "reviews-live"
-tags: 
+tags:
   - "katatonia"
   - "live"
   - "solstafir-2"

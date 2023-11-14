@@ -1,9 +1,10 @@
 ---
 title: "The Proselyte – Our Vessel’s in Need"
+edited: false
 date: "2014-09-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "kylesa"
   - "massachusetts"
   - "melvins"

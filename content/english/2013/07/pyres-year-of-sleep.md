@@ -1,11 +1,12 @@
 ---
 title: "Pyres – Year of Sleep"
+edited: false
 date: "2013-07-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "doom"
   - "granite-house-records"

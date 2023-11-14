@@ -1,10 +1,11 @@
 ---
 title: "Dead Quiet – Grand Rites"
+edited: false
 date: "2017-10-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "barn-burner"
   - "dead-quiet"

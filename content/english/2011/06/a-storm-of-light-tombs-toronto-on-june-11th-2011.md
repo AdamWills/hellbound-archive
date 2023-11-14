@@ -1,11 +1,12 @@
 ---
 title: "A Storm of Light / Tombs / Vilipend / Purity Control @ Sneaky Dee’s, Toronto ON, June 11th, 2011"
+edited: false
 date: "2011-06-21"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "a-storm-of-light"
   - "chris-gramlich"
   - "laina-dawes"

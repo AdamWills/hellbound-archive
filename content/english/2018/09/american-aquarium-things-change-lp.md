@@ -1,9 +1,10 @@
 ---
 title: "American Aquarium – Things Change LP"
+edited: false
 date: "2018-09-26"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "american-aquarium"
   - "review"
   - "rock"

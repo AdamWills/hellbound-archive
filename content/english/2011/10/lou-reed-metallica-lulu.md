@@ -1,11 +1,12 @@
 ---
 title: "Lou Reed & Metallica - Lulu"
+edited: false
 date: "2011-10-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "lou-reed"
   - "metallica"

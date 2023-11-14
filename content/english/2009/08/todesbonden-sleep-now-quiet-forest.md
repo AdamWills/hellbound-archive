@@ -1,11 +1,12 @@
 ---
 title: "Todesbonden: Sleep Now, Quiet Forest"
+edited: false
 date: "2009-08-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gothic-metal"
   - "prophecy"
   - "todesbonden"

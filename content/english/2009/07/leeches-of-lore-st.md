@@ -1,11 +1,12 @@
 ---
 title: "Leeches Of Lore: s/t"
+edited: false
 date: "2009-07-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "leeches-of-lore"
   - "meteorcity"
   - "usa"

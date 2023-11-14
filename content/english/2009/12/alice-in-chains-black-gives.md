@@ -1,11 +1,12 @@
 ---
 title: "Alice In Chains: Black Gives Way To Blue"
+edited: false
 date: "2009-12-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alice-in-chains"
   - "grunge"
   - "metal"

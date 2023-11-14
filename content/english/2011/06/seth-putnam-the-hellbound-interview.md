@@ -1,5 +1,6 @@
 ---
 title: "Seth Putnam of A.C.: The Hellbound Interview"
+edited: true
 date: "2011-06-12"
 author: "Justin M. Norton"
 coverImage: "http://res.cloudinary.com/dy8mxogvn/image/upload/q_auto,f_auto/v1520777657/sethputnam1_dexhre.jpg"

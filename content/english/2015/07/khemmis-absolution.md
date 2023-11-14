@@ -1,9 +1,10 @@
 ---
 title: "Khemmis – Absolution"
+edited: false
 date: "2015-07-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "khemmis"
   - "prog-metal"

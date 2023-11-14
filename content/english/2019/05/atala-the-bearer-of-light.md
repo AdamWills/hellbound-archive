@@ -1,10 +1,11 @@
 ---
 title: "Atala – The Bearer of Light"
+edited: false
 date: "2019-05-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "desert-doom"
   - "doom"
   - "review"

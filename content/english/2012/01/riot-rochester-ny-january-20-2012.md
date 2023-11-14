@@ -1,11 +1,12 @@
 ---
 title: "Riot @ Montage Music Hall, Rochester NY, January 20, 2012"
+edited: false
 date: "2012-01-27"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "mark-reale"
   - "matt-johnsen"

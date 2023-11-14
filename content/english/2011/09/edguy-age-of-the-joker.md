@@ -1,11 +1,12 @@
 ---
 title: "Edguy - Age of the Joker"
+edited: false
 date: "2011-09-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "aerosmith"
   - "avantasia"
   - "edguy"

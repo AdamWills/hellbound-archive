@@ -1,9 +1,10 @@
 ---
 title: "Reducers SF – Essentials (4-LP set)"
+edited: false
 date: "2018-01-11"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "punk"
   - "reducers"
   - "review"

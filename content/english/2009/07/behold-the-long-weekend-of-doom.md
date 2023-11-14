@@ -1,7 +1,8 @@
 ---
 title: "Behold, the long weekend of DOOM!"
+edited: false
 date: "2009-07-31"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

@@ -1,9 +1,10 @@
 ---
 title: "Grim Reaper live in Toronto, October 2018"
+edited: false
 date: "2018-10-16"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "grim-reaper"
   - "live"

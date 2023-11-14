@@ -1,11 +1,12 @@
 ---
 title: "Six Reasons Not to Miss ProgPower USA This Weekend"
+edited: false
 date: "2011-09-14"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "70000-tons-of-metal"
   - "creations-end"
   - "dream-evil"

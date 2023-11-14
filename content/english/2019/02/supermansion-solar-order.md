@@ -1,11 +1,12 @@
 ---
 title: "Supermansion – Solar Order"
+edited: false
 date: "2019-02-13"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "hard-rock"
   - "heavy-rock"

@@ -1,11 +1,12 @@
 ---
 title: "Film Review: Så Jälva Metal - The History of Swedish Hard Rock and Heavy Metal"
+edited: false
 date: "2012-07-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "at-the-gates"
   - "bathory"
   - "death-metal"

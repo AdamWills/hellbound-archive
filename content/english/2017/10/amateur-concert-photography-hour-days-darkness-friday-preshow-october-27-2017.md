@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR @ DAYS OF DARKNESS: Friday Preshow, October 27, 2017"
+edited: false
 date: "2017-10-30"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "acid-king"
   - "blood-mist"
   - "concert-photography"

@@ -1,9 +1,10 @@
 ---
 title: "The Lone Crows – Dark Clouds"
+edited: false
 date: "2014-06-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "psychedelic-rock"
   - "retro-psych"

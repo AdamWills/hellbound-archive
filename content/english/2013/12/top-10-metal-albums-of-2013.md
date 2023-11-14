@@ -1,5 +1,6 @@
 ---
 title: "HELLBOUND.CA's TOP 10 METAL ALBUMS OF 2013"
+edited: false
 date: "2013-12-30"
 categories:
   - "articles"

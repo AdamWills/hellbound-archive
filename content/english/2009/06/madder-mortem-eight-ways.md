@@ -1,10 +1,11 @@
 ---
 title: "Madder Mortem: Eight Ways"
+edited: false
 date: "2009-06-24"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "matter-mortem"
   - "peaceville"
   - "uk"

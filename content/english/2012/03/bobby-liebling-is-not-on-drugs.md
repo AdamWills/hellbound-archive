@@ -1,11 +1,12 @@
 ---
 title: "Bobby Liebling is NOT on drugs."
+edited: false
 date: "2012-03-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "bobby-liebling"
   - "documentary"
   - "drugs"

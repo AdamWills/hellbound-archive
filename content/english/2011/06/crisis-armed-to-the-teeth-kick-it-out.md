@@ -1,11 +1,12 @@
 ---
 title: "Crisis - Armed To The Teeth/Kick It Out"
+edited: false
 date: "2011-06-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "crisis"
   - "jason-wellwood"
   - "shadow-kingdom"

@@ -1,10 +1,11 @@
 ---
 title: "Black Cobra – Imperium Simulacra"
+edited: false
 date: "2016-02-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-cobra"
   - "hardcore"

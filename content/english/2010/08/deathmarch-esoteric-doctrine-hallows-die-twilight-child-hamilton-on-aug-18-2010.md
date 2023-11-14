@@ -1,11 +1,12 @@
 ---
 title: "Deathmarch/ Esoteric Doctrine/ Hallows Die/ Twilight Child @ The Corktown Pub, Hamilton, ON, Aug. 18, 2010"
+edited: false
 date: "2010-08-24"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "canada"
   - "death-metal"
   - "deathmarch"

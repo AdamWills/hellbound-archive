@@ -1,9 +1,10 @@
 ---
 title: "Mysteries of the Tayos Caves"
+edited: false
 date: "2020-01-11"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "amazon"
   - "archaeology"
   - "book-review"

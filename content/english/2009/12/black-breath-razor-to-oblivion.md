@@ -1,11 +1,12 @@
 ---
 title: "Black Breath: Razor to Oblivion"
+edited: false
 date: "2009-12-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bathory"
   - "black-breath"
   - "celtic-frost"

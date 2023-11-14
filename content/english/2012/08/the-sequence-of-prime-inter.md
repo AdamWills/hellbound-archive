@@ -1,11 +1,12 @@
 ---
 title: "The Sequence of Prime - Inter-"
+edited: false
 date: "2012-08-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "kyle-harcott"
   - "the-sequence-of-prime"
 ---

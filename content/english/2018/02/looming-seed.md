@@ -1,9 +1,10 @@
 ---
 title: "Looming – Seed"
+edited: false
 date: "2018-02-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "emo"
   - "emocore"
   - "looming"

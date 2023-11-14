@@ -1,12 +1,13 @@
 ---
 title: "Meshuggah – Alive"
+edited: false
 date: "2010-02-17"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "live-dvd"
   - "meshuggah"
   - "montreal"

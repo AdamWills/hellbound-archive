@@ -1,11 +1,12 @@
 ---
 title: "Girls gone wild...to Meshuggah!"
+edited: false
 date: "2012-04-09"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "dancing"
   - "jay-h-gorania"
   - "meshuggah"

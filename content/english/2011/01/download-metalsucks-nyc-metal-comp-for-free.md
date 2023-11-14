@@ -1,13 +1,14 @@
 ---
 title: "Go Download MetalSucks' New NYC Metal Comp for free!"
+edited: false
 date: "2011-01-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "features"
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "black-anvil"
   - "castavet"
   - "made-out-of-babies"

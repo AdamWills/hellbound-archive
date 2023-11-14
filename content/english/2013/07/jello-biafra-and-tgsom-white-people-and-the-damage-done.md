@@ -1,11 +1,12 @@
 ---
 title: "Jello Biafra and the Guantanamo School of Medicine -  White People and the Damage Done"
+edited: false
 date: "2013-07-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative-tentacles"
   - "bill-adams"
   - "dead-kennedys"

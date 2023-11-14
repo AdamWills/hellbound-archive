@@ -1,11 +1,12 @@
 ---
 title: "Sylvus: All For One"
+edited: false
 date: "2011-04-29"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-metal"
   - "interview"
   - "natalie-zed"

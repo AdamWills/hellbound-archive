@@ -1,11 +1,12 @@
 ---
 title: "Church of Misery – Thy Kingdom Scum"
+edited: false
 date: "2013-07-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "church-of-misery"
   - "doom"

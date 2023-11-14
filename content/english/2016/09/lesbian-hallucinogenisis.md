@@ -1,10 +1,11 @@
 ---
 title: "Lesbian – Hallucinogenisis"
+edited: false
 date: "2016-09-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "blackened-hardcore"
   - "lesbian"

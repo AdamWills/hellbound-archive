@@ -1,11 +1,12 @@
 ---
 title: "Blue Aside – The Moles of a Dying Race"
+edited: false
 date: "2012-10-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-pyramid"
   - "blue-aside"
   - "hydro-phonic-records"

@@ -1,10 +1,11 @@
 ---
 title: "Hands of Orlac / The Wandering Midget split"
+edited: false
 date: "2017-08-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cruz-del-sur"
   - "doom-metal"
   - "epic-doom"

@@ -1,9 +1,10 @@
 ---
 title: "All Them Witches – Dying Surfer Meets His Maker"
+edited: false
 date: "2015-12-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "all-them-witches"
   - "blues"

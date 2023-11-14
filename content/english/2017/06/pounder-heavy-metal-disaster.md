@@ -1,9 +1,10 @@
 ---
 title: "Pounder - Heavy Metal Disaster"
+edited: false
 date: "2017-06-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "heavy-rock"
   - "matt-harvey"

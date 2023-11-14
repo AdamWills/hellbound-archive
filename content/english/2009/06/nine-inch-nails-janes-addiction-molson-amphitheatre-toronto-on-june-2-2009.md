@@ -1,10 +1,11 @@
 ---
 title: "Nine Inch Nails, Jane's Addiction @ Molson Amphitheatre, Toronto ON, June 2, 2009"
+edited: false
 date: "2009-06-17"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "janes-addiction"
   - "live"
   - "nine-inch-nails"

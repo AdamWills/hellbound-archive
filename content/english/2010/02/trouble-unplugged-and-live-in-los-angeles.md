@@ -1,11 +1,12 @@
 ---
 title: "Trouble: Unplugged and Live in Los Angeles"
+edited: false
 date: "2010-02-03"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "american"
   - "chicago"
   - "doom-metal"

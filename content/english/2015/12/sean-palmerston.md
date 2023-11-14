@@ -1,9 +1,10 @@
 ---
 title: "Year-in-review 2015: Sean Palmerston"
+edited: false
 date: "2015-12-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "best-of-2015"
   - "end-of-year"
   - "metal"

@@ -1,12 +1,13 @@
 ---
 title: "Thou – Heathen"
+edited: false
 date: "2014-02-25"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doom-metal"
   - "earth"

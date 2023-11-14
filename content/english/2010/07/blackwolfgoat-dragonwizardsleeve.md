@@ -1,11 +1,12 @@
 ---
 title: "Blackwolfgoat – Dragonwizardsleeve"
+edited: false
 date: "2010-07-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blackwolfgoat"
   - "doom"
   - "drone"

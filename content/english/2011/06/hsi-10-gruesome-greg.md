@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogations #10: Gruesome Greg"
+edited: false
 date: "2011-06-14"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "acdc"
   - "accept"
   - "anvil"

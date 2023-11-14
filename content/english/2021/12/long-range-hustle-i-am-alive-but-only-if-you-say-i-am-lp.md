@@ -1,10 +1,11 @@
 ---
 title: "Long Range Hustle - I Am Alive But Only If You Say I Am LP"
+edited: false
 date: "2021-12-29"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "anti-fragile"
   - "but-only-if-you-say-i-am"
   - "hustle"

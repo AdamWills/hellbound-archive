@@ -1,10 +1,11 @@
 ---
 title: "The Judge – Tell it to the Judge"
+edited: false
 date: "2017-08-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "70s-rock"
   - "blues"
   - "doom"

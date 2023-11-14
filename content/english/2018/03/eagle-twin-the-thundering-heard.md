@@ -1,10 +1,11 @@
 ---
 title: "Eagle Twin – The Thundering Heard"
+edited: false
 date: "2018-03-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "doom"
   - "eagle-twin"

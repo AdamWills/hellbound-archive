@@ -1,11 +1,12 @@
 ---
 title: "God Bless Ozzy Osbourne DVD"
+edited: false
 date: "2011-12-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "bill-adams"
   - "black-sabbath"
   - "eagle-rock"

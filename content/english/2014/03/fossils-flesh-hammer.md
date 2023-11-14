@@ -1,11 +1,12 @@
 ---
 title: "Fossils – Flesh Hammer"
+edited: false
 date: "2014-03-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bass"
   - "duo"
   - "fossils"

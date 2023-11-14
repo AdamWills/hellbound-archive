@@ -1,11 +1,12 @@
 ---
 title: "BornBroken - The Healing Powers of Hate"
+edited: false
 date: "2013-07-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bornbroken"
   - "groove-metal"
   - "hatebreed"

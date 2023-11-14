@@ -1,11 +1,12 @@
 ---
 title: "Jucifer: The Hellbound Interview Part One"
+edited: false
 date: "2010-07-30"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "drone"
   - "duo"
   - "interview"

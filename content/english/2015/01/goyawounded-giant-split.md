@@ -1,9 +1,10 @@
 ---
 title: "Goya/Wounded Giant split"
+edited: false
 date: "2015-01-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "goya"
@@ -36,11 +37,11 @@ Unfortunately the vinyl only release is sold out of every edition and isn't avai
 
 [Wounded Giant on Facebook](https://www.facebook.com/pages/Wounded-Giant/156290301123402)
 
-**Goya on Bandcamp** 
+**Goya on Bandcamp**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=413871505/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://marijuana.bandcamp.com/album/satans-fire">Satan's Fire by Goya</a></iframe>
 
-**Wounded Giant on Bandcamp** 
+**Wounded Giant on Bandcamp**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3486132030/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://woundedgiant.bandcamp.com/album/lightning-medicine">Lightning Medicine by Wounded Giant</a></iframe>
 

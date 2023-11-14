@@ -1,9 +1,10 @@
 ---
 title: "Tony Tears – Demons Crawl At Your Side"
+edited: false
 date: "2018-02-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "horror"
   - "italy"
   - "metal"

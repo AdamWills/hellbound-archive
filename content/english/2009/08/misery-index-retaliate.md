@@ -1,11 +1,12 @@
 ---
 title: "Misery Index: Retaliate"
+edited: false
 date: "2009-08-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "grind"
   - "metal-mind"
   - "misery-index"

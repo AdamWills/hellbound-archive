@@ -1,9 +1,10 @@
 ---
 title: "The Claypool Lennon Delirium – Monolith of Phobos"
+edited: false
 date: "2016-05-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "les-claypool"
   - "review"
   - "sean-lennon"

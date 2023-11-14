@@ -1,11 +1,12 @@
 ---
 title: "Evergrey / Sabaton / Powerglove @ The Opera House, Toronto ON, September 22, 2011"
+edited: false
 date: "2011-10-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "evergrey"
   - "live"
   - "live-review"

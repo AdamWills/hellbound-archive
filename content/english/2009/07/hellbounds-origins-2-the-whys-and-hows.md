@@ -1,11 +1,12 @@
 ---
 title: "Hellbound's Origins #2: The Whys and Hows"
+edited: false
 date: "2009-07-22"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "blog"
   - "c101-5-fm"
   - "cathedral"

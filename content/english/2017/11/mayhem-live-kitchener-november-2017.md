@@ -1,9 +1,10 @@
 ---
 title: "Mayhem live in Kitchener, November 2017"
+edited: false
 date: "2017-11-22"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "concert"
   - "death-metal"

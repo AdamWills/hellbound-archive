@@ -1,11 +1,12 @@
 ---
 title: "Judas Priest @ Molson Amphitheatre, Toronto ON, July 9, 2009"
+edited: false
 date: "2009-07-13"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "classic-metal"
   - "england"

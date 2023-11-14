@@ -1,10 +1,11 @@
 ---
 title: "Beldam – Pasung"
+edited: false
 date: "2018-01-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "beldam"
   - "black-metal"
   - "death-n-roll"

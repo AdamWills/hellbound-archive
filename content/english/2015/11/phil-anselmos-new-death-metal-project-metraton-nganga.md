@@ -1,5 +1,6 @@
 ---
 title: "Phil Anselmo’s new death metal project: METRATON NGANGA"
+edited: true
 date: "2015-11-21"
 author: "Jay Gorania"
 categories:

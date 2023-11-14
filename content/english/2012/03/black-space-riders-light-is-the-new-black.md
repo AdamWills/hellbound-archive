@@ -1,11 +1,12 @@
 ---
 title: "Black Space Riders – Light Is The New Black"
+edited: false
 date: "2012-03-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-space-riders"
   - "jason-wellwood"
   - "psychedelic"

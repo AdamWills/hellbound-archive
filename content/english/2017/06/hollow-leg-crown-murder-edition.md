@@ -1,10 +1,11 @@
 ---
 title: "Hollow Leg – Crown (Murder edition)"
+edited: false
 date: "2017-06-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "hollow-leg"
   - "metal"

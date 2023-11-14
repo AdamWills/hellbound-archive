@@ -1,9 +1,10 @@
 ---
 title: "G.B.H. – The Rough Justice Years"
+edited: false
 date: "2019-01-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "hardcore-punk"
   - "metal"

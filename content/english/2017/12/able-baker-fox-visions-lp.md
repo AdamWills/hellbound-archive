@@ -1,9 +1,10 @@
 ---
 title: "Able Baker Fox – Visions LP"
+edited: false
 date: "2017-12-11"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "able-baker-fox"
   - "alternative"
   - "emo"

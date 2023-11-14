@@ -1,7 +1,8 @@
 ---
 title: "Epica: Classical Conspirators"
+edited: false
 date: "2009-06-26"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"

@@ -1,11 +1,12 @@
 ---
 title: "Rockstar Uproar Festival @ Credit Union Centre, Saskatoon SK, September 30, 2010"
+edited: false
 date: "2010-10-04"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adrien-begrand"
   - "avenged-sevenfold"
   - "corey-taylor"

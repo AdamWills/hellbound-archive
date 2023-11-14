@@ -1,9 +1,10 @@
 ---
 title: "No Joy / Sonic Boom – s/t EP (12\" coloured vinyl)"
+edited: false
 date: "2018-04-16"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "no-joy-sonic-boom"
   - "psychedelic"

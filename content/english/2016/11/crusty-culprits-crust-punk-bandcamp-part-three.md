@@ -1,9 +1,10 @@
 ---
 title: "Crusty Culprits, part three"
+edited: false
 date: "2016-11-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bandcamp"
   - "crust"
   - "crust-punk"

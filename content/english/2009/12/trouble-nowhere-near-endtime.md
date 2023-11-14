@@ -1,11 +1,12 @@
 ---
 title: "Trouble: Nowhere Near Endtime"
+edited: false
 date: "2009-12-16"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "american"
   - "bruce-franklin"
   - "chicago"

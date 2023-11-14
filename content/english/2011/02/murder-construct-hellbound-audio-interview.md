@@ -1,11 +1,12 @@
 ---
 title: "Murder Construct: The Hellbound Audio Interview"
+edited: false
 date: "2011-02-07"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "audio-interview"
   - "cattle-decapitation"
   - "exhumed"

@@ -1,11 +1,12 @@
 ---
 title: "Ludicra - The Tenant"
+edited: false
 date: "2010-03-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "hammers-of-misfortune"
   - "heavy-metal"

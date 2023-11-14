@@ -1,9 +1,10 @@
 ---
 title: "The Body Politic – Egressor EP"
+edited: false
 date: "2014-08-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "nanaimo-bc"
   - "progressive-metal"
   - "the-body-politic"

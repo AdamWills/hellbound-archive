@@ -1,10 +1,11 @@
 ---
 title: "David Bowie with Trevor Jones – Labyrinth (reissue LP)"
+edited: false
 date: "2017-07-17"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "david-bowie"
   - "labyrinth"
   - "reissue"

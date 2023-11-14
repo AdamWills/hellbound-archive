@@ -1,10 +1,11 @@
 ---
 title: "Rush – Moving Pictures LP"
+edited: false
 date: "2015-11-26"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "classics-review"
   - "progressive-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Zed – The Invitation"
+edited: false
 date: "2010-08-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "stoner-metal"
   - "stoner-rock"
   - "usa"

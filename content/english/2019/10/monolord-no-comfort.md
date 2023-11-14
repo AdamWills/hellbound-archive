@@ -1,10 +1,11 @@
 ---
 title: "Monolord – No Comfort"
+edited: false
 date: "2019-10-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom-metal"
   - "metal"
   - "monolord"

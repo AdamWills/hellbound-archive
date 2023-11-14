@@ -1,9 +1,10 @@
 ---
 title: "Autopsy – Tourniquets, Hacksaws and Graves"
+edited: false
 date: "2014-12-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "autopsy"
   - "death-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Lumbar – The First and Last Days of Unwelcome"
+edited: false
 date: "2013-12-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "corrections-house"
   - "gruesome-greg"
   - "lumbar"

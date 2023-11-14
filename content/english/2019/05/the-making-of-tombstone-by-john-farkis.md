@@ -1,9 +1,10 @@
 ---
 title: "The Making of Tombstone by John Farkis"
+edited: false
 date: "2019-05-14"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "film-history"
   - "westerns"

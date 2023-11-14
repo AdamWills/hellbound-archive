@@ -1,9 +1,10 @@
 ---
 title: "Wardruna live in Toronto, 8 February 2018"
+edited: false
 date: "2018-02-19"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "inertia"
   - "live"

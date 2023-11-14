@@ -1,9 +1,10 @@
 ---
 title: "Darkspace – III I"
+edited: false
 date: "2014-12-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "ambient-black-metal"
   - "atmospheric-black-metal"

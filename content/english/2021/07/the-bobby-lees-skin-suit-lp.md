@@ -1,10 +1,11 @@
 ---
 title: "The Bobby Lees - Skin Suit LP"
+edited: false
 date: "2021-07-30"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alive"
   - "bobby-lees"
   - "jon-spencer"

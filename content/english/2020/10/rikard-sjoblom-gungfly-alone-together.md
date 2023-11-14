@@ -1,7 +1,8 @@
 ---
 title: "Rikard Sjöblom Gungfly - Alone Together"
+edited: false
 date: "2020-10-13"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

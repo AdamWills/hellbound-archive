@@ -1,11 +1,12 @@
 ---
 title: "Agnes Vein – Duality"
+edited: false
 date: "2010-08-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "agnes-vein"
   - "bathory"
   - "celtic-frost"

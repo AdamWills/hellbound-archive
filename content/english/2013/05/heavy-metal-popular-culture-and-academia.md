@@ -1,11 +1,12 @@
 ---
 title: "Heavy Metal, Popular Culture, and Academia"
+edited: false
 date: "2013-05-21"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "anthrax"
   - "extreme-metal"

@@ -1,9 +1,10 @@
 ---
 title: "Napoleon Victorious by Peter G. Tsouras"
+edited: false
 date: "2019-09-06"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "history"
   - "review"

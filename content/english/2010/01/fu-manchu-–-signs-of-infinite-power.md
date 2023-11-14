@@ -1,11 +1,12 @@
 ---
 title: "Fu Manchu – Signs of Infinite Power"
+edited: false
 date: "2010-01-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "fu-manchu"
   - "stoner-rock"

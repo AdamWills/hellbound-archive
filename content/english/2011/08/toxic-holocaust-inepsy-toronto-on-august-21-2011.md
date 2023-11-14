@@ -1,11 +1,12 @@
 ---
 title: "Toxic Holocaust/ Inepsy/ Holy Grail/ Kommando @ Annex Wreckroom, Toronto ON, August 21, 2011"
+edited: false
 date: "2011-08-29"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "bonded-by-blood"
   - "holy-grail"
   - "inepsy"

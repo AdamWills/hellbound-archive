@@ -1,11 +1,12 @@
 ---
 title: "Baptized In Blood / Deathpoint / Sector Seven @ Club Absinthe, Hamilton ON, October 28 2010"
+edited: false
 date: "2010-11-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "arch-enemy"
   - "baptized-in-blood"

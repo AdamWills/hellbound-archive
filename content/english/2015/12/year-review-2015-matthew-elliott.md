@@ -1,10 +1,11 @@
 ---
 title: "Year-in-review 2015: Matthew Elliott"
+edited: false
 date: "2015-12-20"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2015"
   - "end-of-year"
   - "metal"

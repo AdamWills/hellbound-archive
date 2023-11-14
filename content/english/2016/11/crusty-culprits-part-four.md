@@ -1,9 +1,10 @@
 ---
 title: "Crusty Culprits, part four"
+edited: false
 date: "2016-11-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bandcamp"
   - "crust"
   - "d-beat"

@@ -1,11 +1,12 @@
 ---
 title: "Jesu - Christmas EP"
+edited: false
 date: "2010-12-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "avalanche-recordings"
   - "christmas"
   - "jesu"

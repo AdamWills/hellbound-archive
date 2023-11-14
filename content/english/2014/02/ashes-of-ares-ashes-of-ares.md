@@ -1,10 +1,11 @@
 ---
 title: "Ashes of Ares – Ashes of Ares"
+edited: false
 date: "2014-02-06"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "ashes-of-ares"
   - "freddie-vidales"

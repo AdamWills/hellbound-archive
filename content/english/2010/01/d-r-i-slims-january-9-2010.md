@@ -1,11 +1,12 @@
 ---
 title: "D.R.I. / Attitude Adjustment / Voetsek @ Slim’s, San Francisco CA, January 9, 2010"
+edited: false
 date: "2010-01-13"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "attitude-adjustment"
   - "crossover"
   - "d-r-i"

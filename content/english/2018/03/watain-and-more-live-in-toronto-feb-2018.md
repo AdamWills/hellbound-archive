@@ -1,7 +1,8 @@
 ---
 title: "Watain and more live in Toronto, Feb 2018"
+edited: false
 date: "2018-03-12"
-categories: 
+categories:
   - "reviews-live"
 ---
 

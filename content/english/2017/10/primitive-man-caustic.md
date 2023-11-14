@@ -1,10 +1,11 @@
 ---
 title: "Primitive Man – Caustic"
+edited: false
 date: "2017-10-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "death-doom"
   - "doom-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Fashion Bomb: Visions of the Lifted Veil"
+edited: false
 date: "2010-01-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fashion-bomb"
   - "full-effect-records"
   - "goth"

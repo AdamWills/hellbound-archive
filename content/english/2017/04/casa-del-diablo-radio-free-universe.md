@@ -1,9 +1,10 @@
 ---
 title: "Radio Free Universe – Casa Del Diablo"
+edited: false
 date: "2017-04-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alt-rock"
   - "heavy-rock"
   - "radio-free-universe"

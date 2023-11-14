@@ -1,11 +1,12 @@
 ---
 title: "Red Sparowes / Casapian @ Bitmore Cabaret, Vancouver BC, April 30, 2010"
+edited: false
 date: "2010-05-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "casapian"
   - "isis"
   - "kyle-harcott"

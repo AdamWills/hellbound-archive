@@ -1,13 +1,14 @@
 ---
 title: "Dying Fetus, Live Review - Glasgow, UK"
+edited: false
 date: "2023-02-10"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"
   - "reviews-audio"
   - "reviews-live"
-tags: 
+tags:
   - "2023"
   - "dying-fetus"
   - "uk"

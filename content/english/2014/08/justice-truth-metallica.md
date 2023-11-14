@@ -1,9 +1,10 @@
 ---
 title: "Justice For All: The Truth About Metallica"
+edited: false
 date: "2014-08-27"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "books"
   - "joel-mciver"
   - "metallica"

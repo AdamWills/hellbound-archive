@@ -1,7 +1,8 @@
 ---
 title: "Witchfinder Radio Playlists For The Week of February 4th, 2013"
+edited: false
 date: "2013-02-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"

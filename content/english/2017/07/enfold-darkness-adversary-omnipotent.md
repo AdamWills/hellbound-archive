@@ -1,9 +1,10 @@
 ---
 title: "Enfold Darkness – Adversary Omnipotent"
+edited: false
 date: "2017-07-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "death-metal"
   - "enfold-darkness"

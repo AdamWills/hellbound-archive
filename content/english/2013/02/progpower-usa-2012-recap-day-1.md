@@ -1,11 +1,12 @@
 ---
 title: "ProgPower USA 2012 Recap Day 1"
+edited: false
 date: "2013-02-22"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "amaranthe"
   - "blind-guardian"
   - "dream-theater"

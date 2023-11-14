@@ -1,9 +1,10 @@
 ---
 title: "The Ramoms – Problem Child 7-inch"
+edited: false
 date: "2019-07-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "punk"
   - "review"
   - "rock"

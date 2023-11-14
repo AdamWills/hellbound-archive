@@ -1,9 +1,10 @@
 ---
 title: "Earthless Meets Heavy Blanket – In a Dutch Haze"
+edited: false
 date: "2014-07-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "dinosaur-jr"
   - "earthless"
   - "graham-clise"

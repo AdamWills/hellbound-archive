@@ -1,9 +1,10 @@
 ---
 title: "HELLBOUND video interview: Byzantine in San Francisco, 16 September 2017"
+edited: false
 date: "2017-09-20"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "byzantine"
   - "groove-metal"
   - "heavy-metal"

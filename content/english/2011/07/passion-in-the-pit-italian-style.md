@@ -1,11 +1,12 @@
 ---
 title: "Passion In the Pit, Italian Style"
+edited: false
 date: "2011-07-27"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "death-ss"
   - "heavy-metal"
   - "italy"

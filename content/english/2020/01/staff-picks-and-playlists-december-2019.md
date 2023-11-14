@@ -1,11 +1,12 @@
 ---
 title: "Staff picks and playlists - December 2019"
+edited: false
 date: "2020-01-03"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "heavy-metal"
   - "metal"
@@ -37,25 +38,25 @@ Another year ends and a new one begins. Thanks for hanging with us in 2019. Stic
 
 **Live:** Moonsorrow headlining the second day of HRH Vikings
 
-**Top Albums of 2019:**  
-Mgla - _Age of Axcuse_  
-Humanity’s Last Breath - _Abyssal_  
-Cult of Luna - _A Dawn to Fear_  
-Saor - _Forgotten Paths_  
+**Top Albums of 2019:**
+Mgla - _Age of Axcuse_
+Humanity’s Last Breath - _Abyssal_
+Cult of Luna - _A Dawn to Fear_
+Saor - _Forgotten Paths_
 Dawnfall of Gaia - _Ethic of Radical Finitude_
 
-**Top Albums of the Decade:**  
-Zeal & Ardor _- Stranger Fruit (_2018)  
-Insomnium - _Shadows of the Dying Sun_ (2014)  
-Batushka - _Litourgiya_ (2015)  
-Mgla - _Excercises in Futility_ (2015)  
-Behemoth - _The Satanist_  (2014)  
-Rivers of Nihil - _Where Owls Know My Name_ (2018)  
-The Devil Townsend Project - _Transcendence_ (2016)  
+**Top Albums of the Decade:**
+Zeal & Ardor _- Stranger Fruit (_2018)
+Insomnium - _Shadows of the Dying Sun_ (2014)
+Batushka - _Litourgiya_ (2015)
+Mgla - _Excercises in Futility_ (2015)
+Behemoth - _The Satanist_  (2014)
+Rivers of Nihil - _Where Owls Know My Name_ (2018)
+The Devil Townsend Project - _Transcendence_ (2016)
 Septicflesh - _The Great Mass_ (2011)
 
-**Best Gigs of 2019:**  
-Concerts - Carach Angren, Behemoth, Polyphia  
+**Best Gigs of 2019:**
+Concerts - Carach Angren, Behemoth, Polyphia
 Festivals - TechFest, Euroblast, Copenhell
 
 **Most Anticipated Material of 2020:** Gojira, Apocalyptica, Trivium, Lamb of God, TesseracT, Karnivool, also Marko Hietala solo album _Pyre of the Black Heart._
@@ -150,44 +151,44 @@ Conjurer, Skeletal Remains, Psycroptic, Voivod, Revocation @ The Opera House, To
 
 **Wild card:** What We Do in the Shadows (TV series)
 
-**Top Album(s) of 2019:**  
-Alcest - Spiritual Instinct  
-Amorphis - Queen of Time  
-Chelsea Wolfe - Birth of Violence  
-Devin Townsend - Empath  
-Leprous - Pitfalls  
-Opeth - In Cauda Venenum  
-Soen - Lotus  
-Smoulder - Times of Obscene Evil and Wild Daring  
+**Top Album(s) of 2019:**
+Alcest - Spiritual Instinct
+Amorphis - Queen of Time
+Chelsea Wolfe - Birth of Violence
+Devin Townsend - Empath
+Leprous - Pitfalls
+Opeth - In Cauda Venenum
+Soen - Lotus
+Smoulder - Times of Obscene Evil and Wild Daring
 Wilderun - Veil of Imagination
 
-**Top Album(s) of the Decade:**  
-40 Watt Sun - The Inside Room  
-Alcest - Les Voyages De L'âme  
-Anathema - Weather Systems  
-Devin Townsend - Transcendence  
-Ihsahn - Arktis  
-Leprous - The Congregation  
-Oceans of Slumber - The Banished Heart  
-Pallbearer - Heartless  
-Woods of Ypres - Woods 5: Grey Skies & Electric Light  
-Yob - Clearing the Path to Ascend  
+**Top Album(s) of the Decade:**
+40 Watt Sun - The Inside Room
+Alcest - Les Voyages De L'âme
+Anathema - Weather Systems
+Devin Townsend - Transcendence
+Ihsahn - Arktis
+Leprous - The Congregation
+Oceans of Slumber - The Banished Heart
+Pallbearer - Heartless
+Woods of Ypres - Woods 5: Grey Skies & Electric Light
+Yob - Clearing the Path to Ascend
 Zeal & Ardor - Stranger Fruit
 
-**Best Gig(s) of 2019:**  
-Heavy Montreal 2019  
-Yob/Voivod - Toronto, ON  
-Augury - Toronto, ON  
+**Best Gig(s) of 2019:**
+Heavy Montreal 2019
+Yob/Voivod - Toronto, ON
+Augury - Toronto, ON
 Vile Creature/Dawn Ray'd - Hamilton, ON
 
-**Best Gig(s) of the Decade:**  
-Clutch/Devin Townsend - New Years Even 2017 - Columbus, OH  
-ProgPower 2016 - Atlanta, GA  
-Tuska Open Air 2015 - Finland  
-Progressive Nation at Sea - 2014  
-Iron Maiden/Megadeth/Anthrax/Testament - 2013 - San Bernadino, CA  
-Hellfest 2011 - Clisson, France  
+**Best Gig(s) of the Decade:**
+Clutch/Devin Townsend - New Years Even 2017 - Columbus, OH
+ProgPower 2016 - Atlanta, GA
+Tuska Open Air 2015 - Finland
+Progressive Nation at Sea - 2014
+Iron Maiden/Megadeth/Anthrax/Testament - 2013 - San Bernadino, CA
+Hellfest 2011 - Clisson, France
 Devin Townsend w/ Anneke van Giersbergen 2011 - Groningen, Netherlands
 
-**Most Anticipated Material of 2020:**  
+**Most Anticipated Material of 2020:**
 Carcass, King Diamond, Myrkur, Oceans of Slumber

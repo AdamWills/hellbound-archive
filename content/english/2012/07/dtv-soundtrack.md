@@ -1,11 +1,12 @@
 ---
 title: "DTV Soundtrack"
+edited: false
 date: "2012-07-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "andrew-bonazelli"
   - "decibel-magazine"
   - "dtv"

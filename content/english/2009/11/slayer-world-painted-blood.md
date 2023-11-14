@@ -1,11 +1,12 @@
 ---
 title: "Slayer: World Painted Blood"
+edited: false
 date: "2009-11-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "american"
   - "slayer"
   - "sony"

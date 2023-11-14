@@ -1,9 +1,10 @@
 ---
 title: "Thantifaxath – Sacred White Noise"
+edited: false
 date: "2014-08-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "dark-descent"
   - "thantifaxath"

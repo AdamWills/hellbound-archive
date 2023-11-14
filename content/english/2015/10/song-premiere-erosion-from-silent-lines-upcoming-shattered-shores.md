@@ -1,9 +1,10 @@
 ---
 title: "Song Premiere: \"Erosion\" from Silent Line's upcoming Shattered Shores"
+edited: false
 date: "2015-10-14"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "metal"
   - "silent-line"
   - "song-premiere"

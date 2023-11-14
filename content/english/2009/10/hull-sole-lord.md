@@ -1,11 +1,12 @@
 ---
 title: "Hull: Sole Lord"
+edited: false
 date: "2009-10-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "cult-of-luna"
   - "graves-at-sea"

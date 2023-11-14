@@ -1,10 +1,11 @@
 ---
 title: "Monster Magnet – Mastermind"
+edited: false
 date: "2010-09-27"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "jason-wellwood"
   - "monster-magnet"
   - "napalm"

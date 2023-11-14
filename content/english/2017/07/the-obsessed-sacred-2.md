@@ -1,9 +1,10 @@
 ---
 title: "The Obsessed – Sacred"
+edited: false
 date: "2017-07-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "relapse-records"

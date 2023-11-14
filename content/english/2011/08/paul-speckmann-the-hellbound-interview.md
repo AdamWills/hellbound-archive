@@ -1,11 +1,12 @@
 ---
 title: "Paul Speckmann: The Hellbound Interview"
+edited: false
 date: "2011-08-30"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "bill-steer"
   - "black-sabbath"
   - "carcass"

@@ -1,12 +1,13 @@
 ---
 title: "King Diamond / Jess and the Ancient Ones @ Sound Academy, Toronto ON, October 18, 2014"
+edited: false
 date: "2014-11-19"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "concert"
   - "deep-purple"

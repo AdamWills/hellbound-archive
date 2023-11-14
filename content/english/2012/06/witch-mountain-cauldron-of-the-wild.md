@@ -1,11 +1,12 @@
 ---
 title: "Witch Mountain – Cauldron of the Wild"
+edited: false
 date: "2012-06-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "billy-anderson"
   - "gruesome-greg"
   - "poison"

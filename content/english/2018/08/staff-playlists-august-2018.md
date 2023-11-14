@@ -1,11 +1,12 @@
 ---
 title: "Staff playlists, August 2018"
+edited: false
 date: "2018-08-31"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "staff-picks"

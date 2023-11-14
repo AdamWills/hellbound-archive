@@ -1,11 +1,12 @@
 ---
 title: "Origin - Entity"
+edited: false
 date: "2011-06-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adrien-begrand"
   - "melt-banana"
   - "morbid-angel"

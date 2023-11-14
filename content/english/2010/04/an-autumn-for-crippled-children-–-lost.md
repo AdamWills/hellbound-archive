@@ -1,11 +1,12 @@
 ---
 title: "An Autumn For Crippled Children – Lost"
+edited: false
 date: "2010-04-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "an-autumn-for-crippled-children"
   - "atmf"
   - "black-metal"

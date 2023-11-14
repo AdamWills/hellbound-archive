@@ -1,9 +1,10 @@
 ---
 title: "Virulent Depravity – Fruit of the Poisoned Tree"
+edited: false
 date: "2017-08-31"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "review"
   - "technical-death-metal"

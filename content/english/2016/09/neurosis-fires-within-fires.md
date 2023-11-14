@@ -1,10 +1,11 @@
 ---
 title: "Neurosis – Fires Within Fires"
+edited: false
 date: "2016-09-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "hardcore"
   - "heavy"

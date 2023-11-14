@@ -1,9 +1,10 @@
 ---
 title: "Decrepit Birth – Axis Mundi"
+edited: false
 date: "2017-08-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "agonia-records"
   - "death-metal"
   - "decrepit-birth"

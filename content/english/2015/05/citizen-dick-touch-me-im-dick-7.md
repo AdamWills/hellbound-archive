@@ -1,9 +1,10 @@
 ---
 title: "Citizen Dick – Touch Me I'm Dick 7''"
+edited: false
 date: "2015-05-15"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "cameron-crowe"
   - "citizen-dick"
   - "mudhoney"

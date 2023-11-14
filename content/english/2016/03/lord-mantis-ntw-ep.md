@@ -1,10 +1,11 @@
 ---
 title: "Lord Mantis – NTW EP"
+edited: false
 date: "2016-03-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "doom"
   - "lord-mantis"

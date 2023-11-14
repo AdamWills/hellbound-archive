@@ -1,11 +1,12 @@
 ---
 title: "Maryland Deathfest 2010 Recap Part 2"
+edited: false
 date: "2010-06-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "autopsy"
   - "baltimore"
   - "bolt-thrower"

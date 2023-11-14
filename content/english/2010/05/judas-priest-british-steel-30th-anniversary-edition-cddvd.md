@@ -1,11 +1,12 @@
 ---
 title: "Judas Priest - British Steel (30th Anniversary Edition CD/DVD)"
+edited: false
 date: "2010-05-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "columbia"
   - "heavy-metal"
   - "judas-priest"

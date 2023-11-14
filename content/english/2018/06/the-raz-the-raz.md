@@ -1,9 +1,10 @@
 ---
 title: "The Raz – The Raz"
+edited: false
 date: "2018-06-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "classic-rock"
   - "hard-rock"
   - "heavy-rock"

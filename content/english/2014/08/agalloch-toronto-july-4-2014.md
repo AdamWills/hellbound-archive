@@ -1,10 +1,11 @@
 ---
 title: "Agalloch in Toronto, July 4, 2014"
+edited: false
 date: "2014-08-11"
-categories: 
+categories:
   - "features"
   - "reviews-live"
-tags: 
+tags:
   - "agalloch"
   - "jex-thoth"
   - "live-photos"

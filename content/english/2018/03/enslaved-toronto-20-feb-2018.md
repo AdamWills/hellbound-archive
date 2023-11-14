@@ -1,9 +1,10 @@
 ---
 title: "Enslaved (and more) in Toronto, 20 Feb 2018"
+edited: false
 date: "2018-03-02"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "enslaved"
   - "inertia"

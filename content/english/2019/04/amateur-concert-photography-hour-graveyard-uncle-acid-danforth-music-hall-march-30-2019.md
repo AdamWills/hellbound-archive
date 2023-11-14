@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Graveyard/Uncle Acid @ Danforth Music Hall, March 30, 2019"
+edited: false
 date: "2019-04-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "danforth-music-hall"

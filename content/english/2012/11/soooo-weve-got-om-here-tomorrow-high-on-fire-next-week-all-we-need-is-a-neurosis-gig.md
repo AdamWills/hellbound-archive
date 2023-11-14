@@ -1,11 +1,12 @@
 ---
 title: "Soooo, we've got OM here tomorrow, High on Fire next week...  All we need is a Neurosis gig!"
+edited: false
 date: "2012-11-18"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert"
   - "doom"
   - "goatwhore"

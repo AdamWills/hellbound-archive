@@ -1,9 +1,10 @@
 ---
 title: "Elderoth – Mystic"
+edited: false
 date: "2015-04-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "elderoth"
   - "metal"

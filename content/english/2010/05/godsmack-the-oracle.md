@@ -1,11 +1,12 @@
 ---
 title: "Godsmack - The Oracle"
+edited: false
 date: "2010-05-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "boston"
   - "commercial-metal"
   - "godsmack"

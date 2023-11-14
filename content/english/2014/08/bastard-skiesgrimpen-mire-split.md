@@ -1,9 +1,10 @@
 ---
 title: "Bastard of the Skies/Grimpen Mire split"
+edited: false
 date: "2014-08-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bandcamp"
   - "bastard-of-the-skies"

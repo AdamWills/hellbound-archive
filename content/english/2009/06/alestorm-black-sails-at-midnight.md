@@ -1,10 +1,11 @@
 ---
 title: "Alestorm: Black Sails At Midnight"
+edited: false
 date: "2009-06-15"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "alestorm"
   - "napalm"
   - "pirate-metal"

@@ -1,9 +1,10 @@
 ---
 title: "Anciients, Dead Quiet and Muffler Crunch @ Hard Luck Bar, Toronto, 18 August 2017"
+edited: false
 date: "2017-08-25"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "anciients"
   - "concert"
   - "dead-quiet"

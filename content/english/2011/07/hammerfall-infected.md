@@ -1,11 +1,12 @@
 ---
 title: "Hammerfall – Infected"
+edited: false
 date: "2011-07-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hammerfall"
   - "jason-wellwood"
   - "nuclear-blast"

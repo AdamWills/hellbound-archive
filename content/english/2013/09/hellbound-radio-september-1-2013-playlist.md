@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Radio: September 1, 2013 Playlist"
+edited: false
 date: "2013-09-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "anciients"
   - "dillinger-escape-plan"
   - "drowningman"

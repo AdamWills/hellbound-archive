@@ -1,11 +1,12 @@
 ---
 title: "Rimfrost – Veraldar Nagli"
+edited: false
 date: "2010-06-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "rimfrosy"
   - "season-of-mist"

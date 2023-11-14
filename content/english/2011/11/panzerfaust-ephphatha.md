@@ -1,11 +1,12 @@
 ---
 title: "Panzerfaust - Ephphatha EP"
+edited: false
 date: "2011-11-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "behemoth"
   - "black-metal"
   - "dark-funeral"

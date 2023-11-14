@@ -1,7 +1,8 @@
 ---
 title: "Who doesn't need a little Weed Metal on a Tuesday nite?"
+edited: false
 date: "2011-09-10"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

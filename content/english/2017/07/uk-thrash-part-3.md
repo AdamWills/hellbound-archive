@@ -1,11 +1,12 @@
 ---
 title: "UK Thrash: Part 3"
+edited: false
 date: "2017-07-19"
-categories: 
+categories:
   - "articles"
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "bomb-disneyland"
   - "cerebral-fix"
   - "d-a-m"

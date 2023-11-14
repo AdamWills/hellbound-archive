@@ -1,11 +1,12 @@
 ---
 title: "Divine Heresy: Bringer of Plagues"
+edited: false
 date: "2009-08-14"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "death-metal"
   - "divine-heresy"

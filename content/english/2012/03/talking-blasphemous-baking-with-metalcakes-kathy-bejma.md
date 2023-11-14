@@ -1,13 +1,14 @@
 ---
 title: "Talking Blasphemous Baking With Metalcakes’ Kathy Bejma"
+edited: false
 date: "2012-03-05"
-categories: 
+categories:
   - "articles"
   - "blasphemyblog"
   - "blogs"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-cobra"
   - "blasphemous-blog"
   - "crom"

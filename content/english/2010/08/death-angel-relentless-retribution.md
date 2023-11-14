@@ -1,11 +1,12 @@
 ---
 title: "Death Angel - Relentless Retribution"
+edited: false
 date: "2010-08-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-angel"
   - "jared-hynes"
   - "nuclear-blast"

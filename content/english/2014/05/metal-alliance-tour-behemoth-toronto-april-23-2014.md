@@ -1,9 +1,10 @@
 ---
 title: "Metal Alliance Tour: Behemoth & more, Toronto, April 23, 2014"
+edited: false
 date: "2014-05-08"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "1349"
   - "behemoth"
   - "black-metal"

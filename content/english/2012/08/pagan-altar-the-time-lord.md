@@ -1,11 +1,12 @@
 ---
 title: "Pagan Altar – The Time Lord"
+edited: false
 date: "2012-08-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alice-cooper"
   - "i-hate-records"
   - "ozzy"

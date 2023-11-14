@@ -1,9 +1,10 @@
 ---
 title: "Scott Weiland and The Wildabouts – Blaster"
+edited: false
 date: "2015-04-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "alt-rock"
   - "glam-rock"

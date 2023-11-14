@@ -1,9 +1,10 @@
 ---
 title: "Metallica – Hardwired... To Self-Destruct (Deluxe Edition 3CD)"
+edited: false
 date: "2016-12-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "metallica"
   - "review"

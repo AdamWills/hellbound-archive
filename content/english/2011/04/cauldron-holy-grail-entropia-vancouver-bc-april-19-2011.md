@@ -1,11 +1,12 @@
 ---
 title: "CAULDRON / HOLY GRAIL / ENTROPIA / BLACK WIZARD @ The Media Club, Vancouver BC, April 19, 2011"
+edited: false
 date: "2011-04-27"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "cauldron"
   - "holy-grail"
   - "kyle-harcott"

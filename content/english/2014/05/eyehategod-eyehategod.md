@@ -1,9 +1,10 @@
 ---
 title: "EyeHateGod – EyeHateGod"
+edited: false
 date: "2014-05-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-flag"
   - "black-sabbath"
   - "doom"

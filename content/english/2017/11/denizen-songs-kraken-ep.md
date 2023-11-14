@@ -1,10 +1,11 @@
 ---
 title: "Denizen – Songs from the Kraken EP"
+edited: false
 date: "2017-11-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "denizen"
   - "desert-rock"
   - "doom"

@@ -1,10 +1,11 @@
 ---
 title: "The Opium Cartel – “What’s It Gonna Be” (Ratt cover)"
+edited: false
 date: "2018-02-21"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "cover"
   - "metal"
   - "pop"

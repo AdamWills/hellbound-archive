@@ -1,7 +1,8 @@
 ---
 title: "Staff playlists: deep summer picks"
+edited: false
 date: "2014-08-01"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"

@@ -1,11 +1,12 @@
 ---
 title: "Staff Playlists, October 2018 (Halloween edition)"
+edited: false
 date: "2018-10-30"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "halloween"
   - "heavy-metal"
   - "metal"

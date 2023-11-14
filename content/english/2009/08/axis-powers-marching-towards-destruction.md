@@ -1,11 +1,12 @@
 ---
 title: "Axis Powers: Marching Towards Destruction"
+edited: false
 date: "2009-08-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "axis-powers"
   - "death-metal"
   - "pulverised"

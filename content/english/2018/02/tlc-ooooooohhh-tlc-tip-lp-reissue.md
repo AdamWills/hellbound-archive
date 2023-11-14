@@ -1,9 +1,10 @@
 ---
 title: "TLC – Ooooooohhh... On The TLC Tip (LP, reissue)"
+edited: false
 date: "2018-02-21"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hip-hop"
   - "pop"
   - "rb"

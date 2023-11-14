@@ -1,11 +1,12 @@
 ---
 title: "Opeth / Katatonia @ Guelph Concert Theater, Guelph ON, April 26, 2013"
+edited: false
 date: "2013-05-08"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "gothenburg"
   - "katatonia"
   - "lithiummagazine-com"

@@ -1,10 +1,11 @@
 ---
 title: "Tom Petty and the Heartbreakers – Southern Accents LP"
+edited: false
 date: "2017-08-16"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "classic-rock"
   - "reissue"
   - "review"

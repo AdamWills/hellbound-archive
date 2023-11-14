@@ -1,10 +1,11 @@
 ---
 title: "Paul Leary - Born Stupid"
+edited: false
 date: "2021-06-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album"
   - "born-stupid"
   - "leary"

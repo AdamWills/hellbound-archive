@@ -1,7 +1,8 @@
 ---
 title: "Buffalo's finest heavy rock band hitting TO this weekend..."
+edited: false
 date: "2009-07-24"
-categories: 
+categories:
   - "blogs"
   - "gruesome_greg"
 ---

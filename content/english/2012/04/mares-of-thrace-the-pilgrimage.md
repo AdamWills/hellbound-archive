@@ -1,11 +1,12 @@
 ---
 title: "Mares of Thrace - The Pilgrimage"
+edited: false
 date: "2012-04-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "am-rep"
   - "jesus-lizard"
   - "kylesa"

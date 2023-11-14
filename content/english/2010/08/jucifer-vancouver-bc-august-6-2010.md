@@ -1,11 +1,12 @@
 ---
 title: "Jucifer/ Mendozza/ Ahna @ Funky Winkerbean’s, Vancouver BC, August 6, 2010"
+edited: false
 date: "2010-08-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "ahna"
   - "canada"
   - "drone"

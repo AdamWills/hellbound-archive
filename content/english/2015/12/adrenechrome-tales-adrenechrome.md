@@ -1,10 +1,11 @@
 ---
 title: "Adrenechrome – Tales from Adrenechrome"
+edited: false
 date: "2015-12-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adrenechrome"
   - "album-review"
   - "doom"

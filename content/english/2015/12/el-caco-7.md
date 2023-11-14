@@ -1,10 +1,11 @@
 ---
 title: "El Caco – 7"
+edited: false
 date: "2015-12-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "grunge"
   - "metal"
   - "rock"

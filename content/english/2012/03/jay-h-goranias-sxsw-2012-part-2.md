@@ -1,13 +1,14 @@
 ---
 title: "Jay H. Gorania’s SXSW 2012 - Part 2"
+edited: false
 date: "2012-03-30"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "alcest"
   - "all-pigs-must-die"
   - "atlas-moth"

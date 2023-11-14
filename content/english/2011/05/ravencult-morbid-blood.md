@@ -1,11 +1,12 @@
 ---
 title: "Ravencult - Morbid Blood"
+edited: false
 date: "2011-05-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "greece"
   - "hells-headbangers"

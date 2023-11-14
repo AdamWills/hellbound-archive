@@ -1,11 +1,12 @@
 ---
 title: "Primordial—Redemption at the Puritan’s Hand"
+edited: false
 date: "2011-11-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "metal-blade"
   - "primordial"

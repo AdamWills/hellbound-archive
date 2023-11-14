@@ -1,9 +1,10 @@
 ---
 title: "Death From Above – Freeze Me (Flexi-Disc single)"
+edited: false
 date: "2017-07-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "death-from-above"
   - "heavy"
   - "review"

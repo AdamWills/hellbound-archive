@@ -1,11 +1,12 @@
 ---
 title: "Rush – Caravan / BU2B"
+edited: false
 date: "2010-06-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anthem-records"
   - "canada"
   - "mastodon"

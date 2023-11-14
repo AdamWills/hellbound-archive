@@ -1,9 +1,10 @@
 ---
 title: "Unconditionally Ours: Comeback Kid in their Hometown"
+edited: false
 date: "2015-10-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "comeback-kid"
   - "concert-review"
   - "hardcore"

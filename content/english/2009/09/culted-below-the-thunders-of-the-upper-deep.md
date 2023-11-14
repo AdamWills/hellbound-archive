@@ -1,11 +1,12 @@
 ---
 title: "Culted: Below The Thunders of The Upper Deep"
+edited: false
 date: "2009-09-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "culted"
   - "doom"

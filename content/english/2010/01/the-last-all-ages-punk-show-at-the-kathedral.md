@@ -1,7 +1,8 @@
 ---
 title: "The last all-ages punk show at the Kathedral..."
+edited: false
 date: "2010-01-09"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

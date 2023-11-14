@@ -1,10 +1,11 @@
 ---
 title: "Yamantaka // Sonic Titan – Dirt LP"
+edited: false
 date: "2018-03-16"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-vinyl"
-tags: 
+tags:
   - "metal"
   - "pop"
   - "progressive-rock"

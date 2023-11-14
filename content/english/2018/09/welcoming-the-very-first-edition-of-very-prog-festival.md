@@ -1,7 +1,8 @@
 ---
 title: "Welcoming the very first edition of Very Prog Festival"
+edited: false
 date: "2018-09-14"
-categories: 
+categories:
   - "psa"
   - "reviews-live"
 ---

@@ -1,11 +1,12 @@
 ---
 title: "Photo Gallery: Devin Townsend @ The Mod Club, Toronto ON, Nov. 3, 2010"
+edited: false
 date: "2010-11-08"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "devin-townsend"
   - "photo-gallery"

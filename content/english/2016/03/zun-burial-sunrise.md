@@ -1,10 +1,11 @@
 ---
 title: "Zun – Burial Sunrise"
+edited: false
 date: "2016-03-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "psychedelic"
   - "review"

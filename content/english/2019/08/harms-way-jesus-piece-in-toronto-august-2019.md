@@ -1,9 +1,10 @@
 ---
 title: "Harms Way & Jesus Piece in Toronto, August 2019"
+edited: false
 date: "2019-08-16"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "review"
 ---
@@ -19,53 +20,53 @@ By the time **Jesus Piece** took the stage the room was hot and sweaty, but the 
 The momentum continued and **Harms Way** kept the beatdown on the crowd going. There was stagediving left and right and the pit was very active. The band sounded huge and better than I ever could have imagined. Hearing songs from _Posthuman_ being played live for the first time was hugely satisfying especially when they played songs like “Temptation” which was just made to be experienced in a packed room like this with bodies flying all over the place. Everything about their performance was flawless and vocalist James Pligge aka Hammers McPligue is just a monster on stage. He throws his fists in the air on cue with all the heaviest parts of the songs and just heightens the impact of them that much more. Drummer Chris Mills was incredibly impressive to watch, and the drums had such a forceful punch to them. Harm’s Way are certainly a fun band to see and they’ve worked hard to become such a tight and well-rounded band.
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Harms-Way2-1024x657.jpg)
-    
+
     Harms Way
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Harms-Way6.jpg)
-    
+
     Harms Way
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Harms-Way4.jpg)
-    
+
     Harms Way
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Harms-Way1-1024x684.jpg)
-    
+
     Harms Way
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Harms-Way5.jpg)
-    
+
     Harms Way
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Harms-Way7-1024x683.jpg)
-    
+
     Harms Way
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Harms-Way3.jpg)
-    
+
     Harms Way
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Jesus-Piece2.jpg)
-    
+
     Jesus Piece
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Jesus-Piece5.jpg)
-    
+
     Jesus Piece
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Jesus-Piece3.jpg)
-    
+
     Jesus Piece
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Jesus-Piece4.jpg)
-    
+
     Jesus Piece
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/08/Jesus-Piece1.jpg)
-    
+
     Jesus Piece
-    
+
 
 [https://www.facebook.com/harmsxway](https://www.facebook.com/harmsxway)
 

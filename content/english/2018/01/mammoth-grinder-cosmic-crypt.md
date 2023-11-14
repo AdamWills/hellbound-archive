@@ -1,9 +1,10 @@
 ---
 title: "Mammoth Grinder – Cosmic Crypt"
+edited: false
 date: "2018-01-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "extreme-metal"
   - "grind"

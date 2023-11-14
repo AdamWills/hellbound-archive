@@ -1,10 +1,11 @@
 ---
 title: "Happy 30th Birthday to... Iron Maiden's Somewhere In Time"
+edited: false
 date: "2016-09-30"
-categories: 
+categories:
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "adrian-smith"
   - "anniversary"
   - "birthday"

@@ -1,10 +1,11 @@
 ---
 title: "Another Canadian metal new release round-up, 12 March 2016"
+edited: false
 date: "2016-03-12"
-categories: 
+categories:
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "canadian-metal"
   - "canuck-metal"
   - "new-releases"

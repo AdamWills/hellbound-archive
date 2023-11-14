@@ -1,9 +1,10 @@
 ---
 title: "Horror movie review: The Conjuring 2"
+edited: false
 date: "2016-07-08"
-categories: 
+categories:
   - "reviews-visual"
-tags: 
+tags:
   - "film-review"
   - "horror"
   - "movie-review"

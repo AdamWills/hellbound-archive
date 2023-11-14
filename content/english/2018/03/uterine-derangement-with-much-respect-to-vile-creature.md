@@ -1,12 +1,13 @@
 ---
 title: "Uterine Derangement: with much respect to Vile Creature"
+edited: false
 date: "2018-03-23"
-categories: 
+categories:
   - "canadian-metal"
   - "features"
   - "staff_picks"
   - "editors_blog"
-tags: 
+tags:
   - "anti-oppressive-metal"
   - "doom"
   - "hamilton"

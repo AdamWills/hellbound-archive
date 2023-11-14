@@ -1,12 +1,13 @@
 ---
 title: "Happy Canadian Metal Day 2019!"
+edited: false
 date: "2019-07-01"
-categories: 
+categories:
   - "canadian-metal"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "canada-day"
   - "canadian-metal"
   - "canuck-metal"

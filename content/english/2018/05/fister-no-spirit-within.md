@@ -1,10 +1,11 @@
 ---
 title: "Fister – No Spirit Within"
+edited: false
 date: "2018-05-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "death-doom"
   - "fister"

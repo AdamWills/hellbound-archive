@@ -1,9 +1,10 @@
 ---
 title: "Hellbound @ Heavy Montreal, Day 1: August 7, 2015"
+edited: false
 date: "2015-08-08"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "alexisonfire"
   - "arch-enemy"
   - "concert-photos"

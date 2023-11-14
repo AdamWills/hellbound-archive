@@ -1,11 +1,12 @@
 ---
 title: "Voivod – Tatsumaki: Voivod Japan 2008"
+edited: false
 date: "2010-01-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "banzai"
   - "canada"
   - "conveyor-canada"

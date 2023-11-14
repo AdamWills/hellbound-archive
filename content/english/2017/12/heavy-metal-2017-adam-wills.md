@@ -1,11 +1,12 @@
 ---
 title: "Heavy Metal in 2017 by Adam Wills"
+edited: false
 date: "2017-12-22"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "end-of-year"
   - "heavy-metal"

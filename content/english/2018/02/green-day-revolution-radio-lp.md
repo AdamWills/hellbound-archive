@@ -1,9 +1,10 @@
 ---
 title: "Green Day – Revolution Radio (LP)"
+edited: false
 date: "2018-02-15"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "green-day"
   - "pop"
   - "punk"

@@ -1,9 +1,10 @@
 ---
 title: "Hellbound @ Tuska Open Air 2015 in Helsinki"
+edited: false
 date: "2015-07-10"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "finland"
   - "helsinki"

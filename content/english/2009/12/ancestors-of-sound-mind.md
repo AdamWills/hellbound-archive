@@ -1,11 +1,12 @@
 ---
 title: "Ancestors: Of Sound Mind"
+edited: false
 date: "2009-12-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ancestors"
   - "prog"
   - "stoner"

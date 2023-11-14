@@ -1,9 +1,10 @@
 ---
 title: "Black Breath – Slaves Beyond Death"
+edited: false
 date: "2015-11-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-breath"
   - "death-metal"

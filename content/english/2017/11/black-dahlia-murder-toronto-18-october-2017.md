@@ -1,9 +1,10 @@
 ---
 title: "The Black Dahlia Murder in Toronto, 18 October 2017"
+edited: false
 date: "2017-11-13"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-dahlia-murder"
   - "concert"
   - "death-metal"

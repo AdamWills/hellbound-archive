@@ -1,11 +1,12 @@
 ---
 title: "Rise & Fall - Our Circle Is Vicious"
+edited: false
 date: "2010-03-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "deathwish"
   - "deathwish-inc"
   - "europe"

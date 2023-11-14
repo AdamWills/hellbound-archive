@@ -1,9 +1,10 @@
 ---
 title: "Metalhead's Holiday Gift Guide 2014"
+edited: false
 date: "2014-11-26"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "bazillion-points"
   - "behemoth"
   - "black-metal"
@@ -28,7 +29,7 @@ December is almost upon us. Unless you're one of those highly-organized, forward
 
 Yes, [black metal theory](http://helvetejournal.org/) is apparently now a thing. But even lay-kvltists will no doubt be delighted to find **_Black Metal: Evolution of the Cult_** under the tree on Xmas Day. **Dayal Patterson**’s weighty but fascinating reference tome is sure to please both budding corpse-painted academics and ordinary, everyday acolytes of infernal putrescence — get your copy signed with extra material at [Evolution Of The Cult.com](http://www.evolutionofthecult.com/). ([Quietus review/author interview](http://thequietus.com/articles/15273-black-metal-evolution-of-the-cult-dayal-patterson))
 
-\[caption id="attachment\_17769" align="alignright" width="300"\][![multi_tools Stainless steel collar stays / bottle openers](https://hellbound.ca/wp-content/uploads/2014/11/multi_tools-300x255.jpg)](https://hellbound.ca/wp-content/uploads/2014/11/multi_tools.jpg) multi\_tools  
+\[caption id="attachment\_17769" align="alignright" width="300"\][![multi_tools Stainless steel collar stays / bottle openers](https://hellbound.ca/wp-content/uploads/2014/11/multi_tools-300x255.jpg)](https://hellbound.ca/wp-content/uploads/2014/11/multi_tools.jpg) multi\_tools
 Stainless steel collar stays / bottle openers\[/caption\]
 
 #### From Gruesome Greg

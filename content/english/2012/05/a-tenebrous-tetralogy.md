@@ -1,11 +1,12 @@
 ---
 title: "A tenebrous tetralogy: reviews of four recent black metal releases"
+edited: false
 date: "2012-05-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heaven-hell"
   - "black-metal"
   - "blackened-crust"

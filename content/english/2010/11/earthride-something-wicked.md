@@ -1,11 +1,12 @@
 ---
 title: "Earthride – Something Wicked"
+edited: false
 date: "2010-11-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "crowbar"
   - "dave-sherman"
   - "doom"

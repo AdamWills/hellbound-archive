@@ -1,11 +1,12 @@
 ---
 title: "Red Fang – Murder the Mountains"
+edited: false
 date: "2011-04-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fiftywatthead"
   - "gruesome-greg"
   - "kylesa"

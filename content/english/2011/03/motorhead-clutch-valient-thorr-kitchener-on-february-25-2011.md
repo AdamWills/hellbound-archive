@@ -1,12 +1,13 @@
 ---
 title: "Motörhead/ Clutch/ Valient Thorr @ Elements, Kitchener ON, February 25, 2011"
+edited: false
 date: "2011-03-08"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "cultch"
   - "kevin-stewart-panko"

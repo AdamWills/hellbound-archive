@@ -1,11 +1,12 @@
 ---
 title: "Suidakra - Book Of Dowth"
+edited: false
 date: "2011-06-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm-records"
   - "folk-metal"
   - "lauren-leuschner"

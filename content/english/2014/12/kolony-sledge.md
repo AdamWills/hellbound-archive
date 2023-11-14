@@ -1,9 +1,10 @@
 ---
 title: "Kolony – Sledge"
+edited: false
 date: "2014-12-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "alestorm"
   - "bandcamp"

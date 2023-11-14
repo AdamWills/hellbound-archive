@@ -1,10 +1,11 @@
 ---
 title: "Boris with Merzbow – Gensho"
+edited: false
 date: "2016-03-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "boris"
   - "experimental"
   - "gensho"

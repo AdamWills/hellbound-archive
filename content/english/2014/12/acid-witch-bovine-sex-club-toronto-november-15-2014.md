@@ -1,9 +1,10 @@
 ---
 title: "ACID WITCH @ Bovine Sex Club, Toronto ON, November 15, 2014"
+edited: false
 date: "2014-12-01"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "acid-witch"
   - "concert-review"
   - "crusty-thras"

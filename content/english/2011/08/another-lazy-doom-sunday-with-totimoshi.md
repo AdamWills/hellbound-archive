@@ -1,11 +1,12 @@
 ---
 title: "Another lazy doom Sunday... with TOTIMOSHI!"
+edited: false
 date: "2011-08-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blizaro"
   - "death-row"
   - "desert-rock"

@@ -1,11 +1,12 @@
 ---
 title: "Ghost/ Blood Ceremony/ Ancient VVisdom @ The Mod Club, Toronto ON, January 22, 2012"
+edited: false
 date: "2012-01-25"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "alcest"
   - "alice-in-chains"
   - "ancient-vvisdom"

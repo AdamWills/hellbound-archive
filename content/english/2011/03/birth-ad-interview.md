@@ -1,11 +1,12 @@
 ---
 title: "Birth A.D. - The Hellbound Interview"
+edited: false
 date: "2011-03-25"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "averse-sefira"
   - "birth-a-d"
   - "cryptic-slaughter"

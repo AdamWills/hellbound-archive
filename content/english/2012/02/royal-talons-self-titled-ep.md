@@ -1,11 +1,12 @@
 ---
 title: "Royal Talons – self-titled EP"
+edited: false
 date: "2012-02-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "gruesome-greg"
   - "handshake-inc"

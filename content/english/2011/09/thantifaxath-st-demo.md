@@ -1,12 +1,13 @@
 ---
 title: "Thantifaxath - s/t Demo"
+edited: false
 date: "2011-09-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jonathan_smith"
   - "reviews"
-tags: 
+tags:
   - "ambient-black-metal"
   - "black-metal"
   - "cassette"

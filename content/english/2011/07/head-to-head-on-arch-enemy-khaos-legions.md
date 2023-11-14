@@ -1,11 +1,12 @@
 ---
 title: "Head To Head On... Arch Enemy - Khaos Legions"
+edited: false
 date: "2011-07-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "andy-sneap"
   - "arch-enemy"
   - "century-media"

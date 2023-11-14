@@ -1,11 +1,12 @@
 ---
 title: "Black Sabbath - Classic Albums: Paranoid"
+edited: false
 date: "2010-07-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "black-sabbath"
   - "classic-albums"
   - "eagle-rock-entertainment"

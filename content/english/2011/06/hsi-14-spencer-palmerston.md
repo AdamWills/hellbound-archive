@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Staff interrogations #14: Spencer Palmerston"
+edited: false
 date: "2011-06-20"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "baroness"
   - "ghost"
   - "mike-bell"

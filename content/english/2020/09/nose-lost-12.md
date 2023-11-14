@@ -1,7 +1,8 @@
 ---
 title: "Noi!se - Lost 12\""
+edited: false
 date: "2020-09-02"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

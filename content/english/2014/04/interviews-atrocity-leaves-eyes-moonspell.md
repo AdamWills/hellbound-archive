@@ -1,9 +1,10 @@
 ---
 title: "America Noir tour interviews: Atrocity, Leaves’ Eyes, and Moonspell"
+edited: false
 date: "2014-04-15"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "atrocity"
   - "dark-metal"
   - "gothic-metal"

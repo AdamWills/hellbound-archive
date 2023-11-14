@@ -1,9 +1,10 @@
 ---
 title: "Monolord – Empress Rising"
+edited: false
 date: "2015-01-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "monolord"
@@ -32,7 +33,7 @@ Released April 1, 2014 on [Riding Easy Records](http://ridingeasyrecords.com/).
 
 [Monolord on Facebook](https://www.facebook.com/monolordsweden)
 
-**Empress Rising on Bandcamp** 
+**Empress Rising on Bandcamp**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2164642815/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://monolord.bandcamp.com/album/empress-rising">Empress Rising by Monolord</a></iframe>
 

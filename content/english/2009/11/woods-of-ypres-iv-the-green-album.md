@@ -1,11 +1,12 @@
 ---
 title: "Woods of Ypres: IV-The Green Album"
+edited: false
 date: "2009-11-11"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black"
   - "black-metal"
   - "canada"

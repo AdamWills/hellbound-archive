@@ -1,7 +1,8 @@
 ---
 title: "Holy Psychedelic Easter Sunday, Stonerman!"
+edited: false
 date: "2010-04-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

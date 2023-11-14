@@ -1,12 +1,13 @@
 ---
 title: "Katatonia @ The Montage Music Hall, Rochester NY, September 24, 2011"
+edited: false
 date: "2011-09-30"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "entombed"
   - "katatonia"

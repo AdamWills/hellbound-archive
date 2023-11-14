@@ -1,11 +1,12 @@
 ---
 title: "Devin Townsend Project: Along for a Great Screaming Ride"
+edited: false
 date: "2009-12-09"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "canada"
   - "century-media"
   - "devin-townsend"

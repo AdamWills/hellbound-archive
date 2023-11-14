@@ -1,10 +1,11 @@
 ---
 title: "Holy Grove – II"
+edited: false
 date: "2018-12-10"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "doom"
   - "doom-metal"

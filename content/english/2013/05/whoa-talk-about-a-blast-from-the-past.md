@@ -1,11 +1,12 @@
 ---
 title: "Whoa, talk about a blast from the past..."
+edited: false
 date: "2013-05-26"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "canadian"
   - "concert"
   - "el-mocambo"

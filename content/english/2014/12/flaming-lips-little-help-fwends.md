@@ -1,10 +1,11 @@
 ---
 title: "The Flaming Lips – With A Little Help From My Fwends"
+edited: false
 date: "2014-12-02"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "alternative"
   - "covers-album"

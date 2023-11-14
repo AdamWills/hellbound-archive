@@ -1,9 +1,10 @@
 ---
 title: "Elixir – The Remedy"
+edited: false
 date: "2019-08-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "review"

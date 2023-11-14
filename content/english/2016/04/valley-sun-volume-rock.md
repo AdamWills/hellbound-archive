@@ -1,10 +1,11 @@
 ---
 title: "Valley of the Sun – Volume Rock"
+edited: false
 date: "2016-04-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "review"
   - "valley-of-the-sun"

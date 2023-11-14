@@ -1,11 +1,12 @@
 ---
 title: "Thin Lizzy – Live at the National Stadium Dublin DVD"
+edited: false
 date: "2012-10-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "brian-downey"
   - "dvd"
   - "phil-lynott"

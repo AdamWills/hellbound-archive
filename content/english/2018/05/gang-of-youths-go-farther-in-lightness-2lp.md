@@ -1,9 +1,10 @@
 ---
 title: "Gang Of Youths – Go Farther In Lightness (2LP)"
+edited: false
 date: "2018-05-18"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "gang-of-youths"
   - "indie"
   - "pop"

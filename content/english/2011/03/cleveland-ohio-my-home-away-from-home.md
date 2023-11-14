@@ -1,11 +1,12 @@
 ---
 title: "Cleveland, Ohio--my home away from home"
+edited: false
 date: "2011-03-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "cleveland"
   - "crowbar"
   - "gruesome-greg"

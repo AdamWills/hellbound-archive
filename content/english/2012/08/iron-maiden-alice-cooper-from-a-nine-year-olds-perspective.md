@@ -1,12 +1,13 @@
 ---
 title: "Iron Maiden / Alice Cooper in concert - from a Nine Year Old's perspective"
+edited: false
 date: "2012-08-18"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "reviews"
   - "editors_blog"
-tags: 
+tags:
   - "albert-mansour"
   - "alice-cooper"
   - "iron-maiden"

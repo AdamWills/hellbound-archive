@@ -1,10 +1,11 @@
 ---
 title: "TOP 10 CANADIAN ALBUMS of 2016, part two"
+edited: false
 date: "2016-12-30"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2016"
   - "canadian-metal"
   - "end-of-year"

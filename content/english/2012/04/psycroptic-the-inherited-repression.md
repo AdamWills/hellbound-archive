@@ -1,11 +1,12 @@
 ---
 title: "Psycroptic – The Inherited Repression"
+edited: false
 date: "2012-04-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "decapitated"
   - "nile"
   - "nuclear-blast"

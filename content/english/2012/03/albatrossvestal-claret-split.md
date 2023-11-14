@@ -1,10 +1,11 @@
 ---
 title: "Albatross/Vestal Claret split"
+edited: false
 date: "2012-03-23"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "gruesome-greg"
 ---
 

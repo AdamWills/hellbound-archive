@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogations #21: Keith Carman"
+edited: false
 date: "2011-06-29"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "alice-cooper"
   - "birth-a-d"
   - "carcass"

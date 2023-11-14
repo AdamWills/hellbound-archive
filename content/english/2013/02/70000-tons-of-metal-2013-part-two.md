@@ -1,12 +1,13 @@
 ---
 title: "70,000 Tons of Metal 2013, Part Two"
+edited: false
 date: "2013-02-11"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "ronnie-james-dio"
   - "70000-tons-of-metal"
   - "adrien-begrand"

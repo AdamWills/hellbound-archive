@@ -1,11 +1,12 @@
 ---
 title: "The Return of... Kevi Metal's Rimshots (August 2012 edition)"
+edited: false
 date: "2012-08-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "abyss"
   - "aelter"
   - "amon-amarth"

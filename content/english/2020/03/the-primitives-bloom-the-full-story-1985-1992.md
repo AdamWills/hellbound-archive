@@ -1,7 +1,8 @@
 ---
 title: "The Primitives – Bloom! The Full Story 1985-1992"
+edited: false
 date: "2020-03-04"
-categories: 
+categories:
   - "reviews-audio"
 ---
 

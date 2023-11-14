@@ -1,10 +1,11 @@
 ---
 title: "Beldam – Still the Wretched Linger"
+edited: false
 date: "2016-07-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "beldam"
   - "deathdoom"
   - "doom"

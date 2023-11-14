@@ -1,9 +1,10 @@
 ---
 title: "Death To All and Obituary in Toronto, Nov 27, 2014"
+edited: false
 date: "2014-12-11"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert-photos"
   - "death"
   - "death-to-all"

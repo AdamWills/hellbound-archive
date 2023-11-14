@@ -1,11 +1,12 @@
 ---
 title: "Anvil / Alice Cooper @ Hamilton Place, Hamilton ON, May 17, 2011"
+edited: false
 date: "2011-05-20"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "acdc"
   - "albert-mansour"
   - "alice-cooper"

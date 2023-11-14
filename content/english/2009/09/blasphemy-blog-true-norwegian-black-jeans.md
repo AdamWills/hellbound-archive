@@ -1,11 +1,12 @@
 ---
 title: "Blasphemy Blog: True Norwegian Black Jeans"
+edited: false
 date: "2009-09-18"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "black-jeans"
   - "black-metal"
   - "fashion"

@@ -1,9 +1,10 @@
 ---
 title: "The Bar Stool Preachers – Blatant Propaganda LP"
+edited: false
 date: "2016-07-28"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "bar-stool-preachers"
   - "indie-punk"
   - "pop-punk"

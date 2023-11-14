@@ -1,11 +1,12 @@
 ---
 title: "Salome - Terminal"
+edited: false
 date: "2010-11-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "austin"
   - "doom"
   - "jay-gorania"

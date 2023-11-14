@@ -1,11 +1,12 @@
 ---
 title: "Dio - Holy Diver Live"
+edited: false
 date: "2010-10-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "rainbow"
   - "ronnie-james-dio"
   - "black-sabbath"

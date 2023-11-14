@@ -1,10 +1,11 @@
 ---
 title: "PREVIEW: Radar Festival 2019"
+edited: false
 date: "2019-05-29"
-categories: 
+categories:
   - "features"
   - "psa"
-tags: 
+tags:
   - "festival"
   - "metal"
   - "preview"

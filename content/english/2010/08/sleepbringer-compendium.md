@@ -1,11 +1,12 @@
 ---
 title: "Sleepbringer - Compendium"
+edited: false
 date: "2010-08-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "kyle-harcott"

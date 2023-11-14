@@ -1,10 +1,11 @@
 ---
 title: "Meeting of the Metal Minded: The Noctis III Metal Festival and Conference"
+edited: false
 date: "2009-10-09"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "aura-noir"
   - "calgary"
   - "canada"

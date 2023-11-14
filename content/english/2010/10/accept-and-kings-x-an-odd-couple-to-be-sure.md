@@ -1,12 +1,13 @@
 ---
 title: "Accept and King's X--an odd couple, to be sure..."
+edited: false
 date: "2010-10-10"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
   - "reviews-live"
-tags: 
+tags:
   - "accept"
   - "agora"
   - "blood-of-the-nations"

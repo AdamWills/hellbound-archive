@@ -1,9 +1,10 @@
 ---
 title: "Novallo – Novallo II"
+edited: false
 date: "2016-03-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "djent"
   - "novallo"
   - "pop-metal"

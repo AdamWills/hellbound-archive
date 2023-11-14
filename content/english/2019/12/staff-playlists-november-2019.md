@@ -1,12 +1,13 @@
 ---
 title: "Staff Playlists - November 2019"
+edited: false
 date: "2019-12-01"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "staff"
@@ -36,7 +37,7 @@ Another round of recommendations from the folks of Hellbound. This is what we've
 
 [https://youtu.be/fVXwFYdk\_rA](https://youtu.be/fVXwFYdk_rA)
 
-**New release:** Schammasch - _Hearts of No Light_. Released on November 8th 2019 via Prosthetic Records.  
+**New release:** Schammasch - _Hearts of No Light_. Released on November 8th 2019 via Prosthetic Records.
 [https://schammasch.bandcamp.com/](https://schammasch.bandcamp.com/)
 
 **Live:** Buckcherry headlining the second day of hard Rock Hell.

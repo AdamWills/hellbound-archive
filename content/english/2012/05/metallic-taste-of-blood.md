@@ -1,11 +1,12 @@
 ---
 title: "Metallic Taste Of Blood – Metallic Taste Of Blood"
+edited: false
 date: "2012-05-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dub"
   - "industrial"
   - "jazz"

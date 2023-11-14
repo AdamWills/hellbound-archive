@@ -1,11 +1,12 @@
 ---
 title: "Metal Parrot Sings Her Way Into Your Withered Heart"
+edited: false
 date: "2011-01-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "drowning-pool"
   - "leanne-palmerston"
   - "parrot"

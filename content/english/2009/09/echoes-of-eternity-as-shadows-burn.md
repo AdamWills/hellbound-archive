@@ -1,11 +1,12 @@
 ---
 title: "Echoes Of Eternity: As Shadows Burn"
+edited: false
 date: "2009-09-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "echoes-of-eternity"
   - "gothic-metal"
   - "nuclear-blast"

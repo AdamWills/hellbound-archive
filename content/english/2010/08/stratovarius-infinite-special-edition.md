@@ -1,11 +1,12 @@
 ---
 title: "Stratovarius – Infinite [Special Edition]"
+edited: false
 date: "2010-08-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "armoury-records"
   - "finland"
   - "nuclear-blast"

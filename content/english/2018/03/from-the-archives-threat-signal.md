@@ -1,11 +1,12 @@
 ---
 title: "From the archives: Threat Signal"
+edited: false
 date: "2018-03-01"
-categories: 
+categories:
   - "canadian-metal"
   - "features"
   - "interviews"
-tags: 
+tags:
   - "canadian-metal"
   - "extreme-metal"
   - "hamilton"

@@ -1,11 +1,12 @@
 ---
 title: "Man, I've crossed a lotta names off my \"Bands to See Before I Die\" list this year..."
+edited: false
 date: "2010-10-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "live-concerts"
 ---

@@ -1,11 +1,12 @@
 ---
 title: "Hellbound.ca INDIVIDUAL TOP 10 ALBUMS OF 2013"
+edited: false
 date: "2013-12-30"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "adam-wills"
   - "adrien-begrand"
   - "amon-amarth"

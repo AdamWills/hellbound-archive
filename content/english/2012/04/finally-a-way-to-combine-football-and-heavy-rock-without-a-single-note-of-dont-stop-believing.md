@@ -1,11 +1,12 @@
 ---
 title: "Finally, a way to combine football and heavy rock without a single note of \"Don't Stop Believing!\""
+edited: false
 date: "2012-04-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blood-ceremony"
   - "gameface"
   - "godstopper"

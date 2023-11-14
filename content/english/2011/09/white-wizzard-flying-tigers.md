@@ -1,11 +1,12 @@
 ---
 title: "White Wizzard—Flying Tigers"
+edited: false
 date: "2011-09-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "80s-metal"
   - "craig-haze"
   - "earache"

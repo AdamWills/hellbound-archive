@@ -1,11 +1,12 @@
 ---
 title: "Manitoba Metal Fest 2010: Part One"
+edited: false
 date: "2010-05-13"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "brutal-truth"
   - "handshake-inc"
   - "henry-winkler"

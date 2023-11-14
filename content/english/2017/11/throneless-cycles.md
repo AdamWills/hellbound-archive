@@ -1,10 +1,11 @@
 ---
 title: "Throneless – Cycles"
+edited: false
 date: "2017-11-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "drone"
   - "psychedelic"

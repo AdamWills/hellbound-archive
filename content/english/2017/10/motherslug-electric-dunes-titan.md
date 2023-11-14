@@ -1,10 +1,11 @@
 ---
 title: "Motherslug – The Electric Dunes of Titan"
+edited: false
 date: "2017-10-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "doom"
   - "hard-rock"

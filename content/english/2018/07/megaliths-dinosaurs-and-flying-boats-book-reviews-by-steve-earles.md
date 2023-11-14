@@ -1,9 +1,10 @@
 ---
 title: "Megaliths, dinosaurs and flying boats (book reviews by Steve Earles)"
+edited: false
 date: "2018-07-18"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "book-reviews"
   - "books"

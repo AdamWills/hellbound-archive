@@ -1,9 +1,10 @@
 ---
 title: "Fat White Family – Songs For Our Mothers LP"
+edited: false
 date: "2016-08-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "art-rock"
   - "fat-white-family"

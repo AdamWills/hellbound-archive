@@ -1,11 +1,12 @@
 ---
 title: "Queens Of The Stone Age - s/t (vinyl reissue)"
+edited: false
 date: "2011-04-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "kyuss"
   - "queens-of-the-stone-age"
   - "sean-palmerston"

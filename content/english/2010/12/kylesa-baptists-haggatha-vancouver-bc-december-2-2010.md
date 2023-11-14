@@ -1,11 +1,12 @@
 ---
 title: "Kylesa / Baptists / Haggatha @ Media Club, Vancouver BC, December 2 2010"
+edited: false
 date: "2010-12-10"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "haggatha"
   - "kyle-harcott"
   - "kylesa"

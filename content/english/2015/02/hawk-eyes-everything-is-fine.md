@@ -1,9 +1,10 @@
 ---
 title: "Hawk Eyes – Everything Is Fine"
+edited: false
 date: "2015-02-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "hardcore"
   - "indie"

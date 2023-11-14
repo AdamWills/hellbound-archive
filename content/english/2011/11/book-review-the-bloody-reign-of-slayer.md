@@ -1,11 +1,12 @@
 ---
 title: "Book Review: The Bloody Reign of Slayer"
+edited: false
 date: "2011-11-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "black-sabbath"
   - "joel-mciver"
   - "motorhead"

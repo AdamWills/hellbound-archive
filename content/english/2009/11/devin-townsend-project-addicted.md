@@ -1,11 +1,12 @@
 ---
 title: "Devin Townsend Project: Addicted"
+edited: false
 date: "2009-11-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "devin-townsend"
   - "inside-out"

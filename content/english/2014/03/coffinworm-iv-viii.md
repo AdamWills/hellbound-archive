@@ -1,10 +1,11 @@
 ---
 title: "Coffinworm – IV.I.VIII"
+edited: false
 date: "2014-03-31"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blackened-doom"
   - "coffinworm"

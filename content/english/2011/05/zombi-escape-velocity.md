@@ -1,11 +1,12 @@
 ---
 title: "Zombi - Escape Velocity"
+edited: false
 date: "2011-05-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "kraftwerk"
   - "mellotron"
   - "prog"

@@ -1,11 +1,12 @@
 ---
 title: "Quick VIEWs: Sept 25, 2009"
+edited: false
 date: "2009-09-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "megadeth"
   - "prosthetic"
   - "roadrunner"

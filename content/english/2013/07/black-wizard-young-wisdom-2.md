@@ -1,11 +1,12 @@
 ---
 title: "Black Wizard - Young Wisdom (2)"
+edited: false
 date: "2013-07-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-wizard"
   - "kenneth-cook"
   - "kyle-harcott"

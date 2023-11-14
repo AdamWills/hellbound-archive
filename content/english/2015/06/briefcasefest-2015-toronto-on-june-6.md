@@ -1,9 +1,10 @@
 ---
 title: "BRIEFCASEFEST 2015, TORONTO ON, JUNE 6"
+edited: false
 date: "2015-06-22"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "basalte"
   - "concert-photos"
   - "concert-review"

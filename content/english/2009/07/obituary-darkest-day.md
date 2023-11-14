@@ -1,11 +1,12 @@
 ---
 title: "Obituary: Darkest Day"
+edited: false
 date: "2009-07-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "death-metal"
   - "obituary"

@@ -1,11 +1,12 @@
 ---
 title: "Opeth–Heritage"
+edited: false
 date: "2011-10-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "rainbow"
   - "ronnie-james-dio"
   - "bathory"

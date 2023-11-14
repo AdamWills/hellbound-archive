@@ -1,13 +1,14 @@
 ---
 title: "Lake Of Blood/ Tempest @ Garbage Mountain, Vancouver BC, June 11, 2011"
+edited: false
 date: "2011-07-20"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "haggatha"
   - "kyle-harcott"
   - "lake-of-blood"

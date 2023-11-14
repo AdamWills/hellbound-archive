@@ -1,10 +1,11 @@
 ---
 title: "Christmas at the Garrison holiday food drive - Dec 18"
+edited: false
 date: "2014-12-17"
-categories: 
+categories:
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "burlesque"
   - "charity"
   - "food-bank"

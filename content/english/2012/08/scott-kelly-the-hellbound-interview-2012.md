@@ -1,11 +1,12 @@
 ---
 title: "Scott Kelly: The Hellbound Interview (2012)"
+edited: false
 date: "2012-08-29"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "eugene-robinson"
   - "justin-m-norton"
   - "mans-gin"

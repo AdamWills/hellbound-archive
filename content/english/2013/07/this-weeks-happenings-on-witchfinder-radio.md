@@ -1,11 +1,12 @@
 ---
 title: "This Weeks Happenings on Witchfinder Radio"
+edited: false
 date: "2013-07-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "age-of-taurus"
   - "all-else-fails"
   - "anvil"

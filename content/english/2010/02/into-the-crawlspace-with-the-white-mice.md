@@ -1,11 +1,12 @@
 ---
 title: "Into the crawlspace with THE WHITE MICE"
+edited: false
 date: "2010-02-05"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "20-buck-spin"
   - "dropdead"
   - "experimental"

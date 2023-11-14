@@ -1,11 +1,12 @@
 ---
 title: "Rotting Christ – Kata Ton Daimona Eaytoy"
+edited: false
 date: "2013-03-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dave-mustaine"
   - "natalie-zed"
   - "rotting-christ"

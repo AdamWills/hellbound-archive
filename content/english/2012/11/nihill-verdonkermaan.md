@@ -1,11 +1,12 @@
 ---
 title: "Nihill - Verdonkermaan"
+edited: false
 date: "2012-11-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "hydra-head"
   - "matt-hinch"

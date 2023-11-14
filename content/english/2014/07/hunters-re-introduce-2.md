@@ -1,9 +1,10 @@
 ---
 title: "Hunters Re-Introduce Themselves"
+edited: false
 date: "2014-07-15"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "brooklyn"
   - "garage-rock"
   - "hunters"

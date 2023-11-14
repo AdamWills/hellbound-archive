@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Staff Interrogation #7: Laura Wiebe"
+edited: false
 date: "2011-06-09"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "adrian-bromley"
   - "adrien-begrand"
   - "agalloch"

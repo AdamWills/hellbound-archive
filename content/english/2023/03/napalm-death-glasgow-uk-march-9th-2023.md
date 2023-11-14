@@ -1,7 +1,8 @@
 ---
 title: "Napalm Death - Glasgow, UK - March 9th, 2023"
+edited: false
 date: "2023-03-22"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"

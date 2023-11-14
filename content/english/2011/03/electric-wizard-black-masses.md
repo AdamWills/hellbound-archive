@@ -1,11 +1,12 @@
 ---
 title: "Electric Wizard – Black Masses"
+edited: false
 date: "2011-03-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "electric-wizard"
   - "gruesome-greg"
   - "metal-blade"

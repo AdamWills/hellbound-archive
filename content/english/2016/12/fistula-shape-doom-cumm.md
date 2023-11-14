@@ -1,10 +1,11 @@
 ---
 title: "Fistula – The Shape of Doom to Cumm))))"
+edited: false
 date: "2016-12-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "crust"
   - "d-beat"
   - "fistula"

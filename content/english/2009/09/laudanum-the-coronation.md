@@ -1,11 +1,12 @@
 ---
 title: "Laudanum: The Coronation"
+edited: false
 date: "2009-09-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "20-buck-spin"
   - "ambient-doom"
   - "laudanum"

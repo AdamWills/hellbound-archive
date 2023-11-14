@@ -1,9 +1,10 @@
 ---
 title: "The Dark Side of the Big Easy – interview with Sean Yseult"
+edited: false
 date: "2015-04-16"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "art"
   - "art-exhibition"
   - "macabre-art"

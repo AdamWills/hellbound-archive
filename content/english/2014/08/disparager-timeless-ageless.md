@@ -1,9 +1,10 @@
 ---
 title: "Disparager – Timeless, Ageless"
+edited: false
 date: "2014-08-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bandcamp"
   - "bill-hick"

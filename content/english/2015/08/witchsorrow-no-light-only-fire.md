@@ -1,9 +1,10 @@
 ---
 title: "Witchsorrow – No Light Only Fire"
+edited: false
 date: "2015-08-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "doom-metal"

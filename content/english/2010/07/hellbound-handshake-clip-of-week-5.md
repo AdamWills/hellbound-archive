@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Handshake Clip Of The Week: JUCIFER Drum Cam From MDF 2010"
+edited: false
 date: "2010-07-23"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
-tags: 
+tags:
   - "handshake-inc-hellbound-video-of-the-week"
   - "jucifer"
   - "maryland-deathfest"

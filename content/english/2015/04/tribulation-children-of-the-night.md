@@ -1,9 +1,10 @@
 ---
 title: "Tribulation – Children of the Night"
+edited: false
 date: "2015-04-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blackened-death-metal"
   - "century-media"

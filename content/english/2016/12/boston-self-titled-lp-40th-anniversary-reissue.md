@@ -1,10 +1,11 @@
 ---
 title: "Boston – self-titled LP (40th anniversary reissue)"
+edited: false
 date: "2016-12-14"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "boston"
   - "classic-rock"
   - "prog-rock"

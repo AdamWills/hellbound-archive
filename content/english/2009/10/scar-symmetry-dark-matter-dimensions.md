@@ -1,11 +1,12 @@
 ---
 title: "Scar Symmetry: Dark Matter Dimensions"
+edited: false
 date: "2009-10-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "nuclear-blast"
   - "scar-symmetry"

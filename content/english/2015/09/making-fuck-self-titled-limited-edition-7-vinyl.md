@@ -1,9 +1,10 @@
 ---
 title: "Making Fuck – Self-titled Limited Edition 7\" Vinyl"
+edited: false
 date: "2015-09-29"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "making-fuck"
   - "post-hardcore"

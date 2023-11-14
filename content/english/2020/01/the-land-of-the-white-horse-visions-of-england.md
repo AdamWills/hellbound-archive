@@ -1,7 +1,8 @@
 ---
 title: "The Land of the White Horse: Visions of England"
+edited: false
 date: "2020-01-15"
-categories: 
+categories:
   - "reviews-books"
 ---
 

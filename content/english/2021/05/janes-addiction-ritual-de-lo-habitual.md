@@ -1,10 +1,11 @@
 ---
 title: "Jane's Addiction - Ritual De Lo Habitual"
+edited: false
 date: "2021-05-12"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "dave-navarro"
   - "janes-addition"
   - "perry-farrell"

@@ -1,11 +1,12 @@
 ---
 title: "Geezer Butler: The Hellbound Interview"
+edited: false
 date: "2010-08-16"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-sabbath"
   - "eagle-rock-entertainment"
   - "eagle-vision"

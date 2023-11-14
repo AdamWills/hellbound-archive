@@ -1,11 +1,12 @@
 ---
 title: "Rising - To Solemn Ash"
+edited: false
 date: "2012-02-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "chris-dyck"
   - "exile-on-mainstream"

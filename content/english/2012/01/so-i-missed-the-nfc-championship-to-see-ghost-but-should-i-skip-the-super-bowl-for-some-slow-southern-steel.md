@@ -1,11 +1,12 @@
 ---
 title: "So I missed the NFC Championship to see Ghost, but should I skip the Super Bowl for some Slow Southern Steel?"
+edited: false
 date: "2012-01-28"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "columbus"
   - "concert"
   - "dixie-dave"

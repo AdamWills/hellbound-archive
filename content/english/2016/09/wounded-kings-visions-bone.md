@@ -1,9 +1,10 @@
 ---
 title: "The Wounded Kings – Visions of Bone"
+edited: false
 date: "2016-09-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "review"
   - "the-wounded-kings"

@@ -1,10 +1,11 @@
 ---
 title: "Jacob Brodovsky - I Love You and I'm Sorry LP"
+edited: false
 date: "2022-09-20"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "brodovsky"
   - "independent"
   - "jacob"

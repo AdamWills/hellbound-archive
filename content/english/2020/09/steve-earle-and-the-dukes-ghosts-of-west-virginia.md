@@ -1,7 +1,8 @@
 ---
 title: "Steve Earle and the Dukes - Ghosts of West Virginia"
+edited: false
 date: "2020-09-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

@@ -1,11 +1,12 @@
 ---
 title: "Various Artists - We Wish You a Metal Xmas..."
+edited: false
 date: "2010-12-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heaven-hell"
   - "ronnie-james-dio"
   - "armoury-records"

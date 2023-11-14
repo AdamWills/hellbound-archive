@@ -1,10 +1,11 @@
 ---
 title: "Year-in-review 2015: Adam Wills"
+edited: false
 date: "2015-12-21"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2015"
   - "end-of-year"
   - "metal"

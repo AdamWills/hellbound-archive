@@ -1,7 +1,8 @@
 ---
 title: "Today Is The Day -- Welcome To Hellbound.ca!"
+edited: false
 date: "2009-06-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "psa"

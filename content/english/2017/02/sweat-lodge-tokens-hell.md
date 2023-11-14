@@ -1,10 +1,11 @@
 ---
 title: "Sweat Lodge – Tokens for Hell"
+edited: false
 date: "2017-02-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "brutal-panda"
   - "hard-rock"
   - "heavy-psych"

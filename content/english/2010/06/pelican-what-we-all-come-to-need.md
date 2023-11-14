@@ -1,11 +1,12 @@
 ---
 title: "Pelican – What We All Come To Need"
+edited: false
 date: "2010-06-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "instrumental-metal"
   - "pelican"
   - "southern-lord"

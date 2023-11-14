@@ -1,10 +1,11 @@
 ---
 title: "Entombed A.D. – Bowels of Earth (CD/LP)"
+edited: false
 date: "2019-11-15"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "death-metal"
   - "review"
 ---

@@ -1,11 +1,12 @@
 ---
 title: "Dysrhythmia: Psychic Maps"
+edited: false
 date: "2009-07-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dysrhythmia"
   - "instrumental"
   - "king-crimson"

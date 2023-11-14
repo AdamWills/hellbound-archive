@@ -1,7 +1,8 @@
 ---
 title: "Sigue Sigue Sputnik- Flaunt It"
+edited: false
 date: "2020-10-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

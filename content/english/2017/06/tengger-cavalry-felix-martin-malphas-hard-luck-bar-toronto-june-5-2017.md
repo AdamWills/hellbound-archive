@@ -1,9 +1,10 @@
 ---
 title: "Tengger Cavalry + Felix Martin + Malphas @ Hard Luck Bar, Toronto on June 5, 2017"
+edited: false
 date: "2017-06-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "felix-martin"
   - "folk-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Iced Earth / Symphony X / Warbringer @ The Fillmore, Charlotte NC, March 6, 2012"
+edited: false
 date: "2012-03-21"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "charlotte"
   - "heavy-metal"
   - "iced-earth"

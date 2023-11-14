@@ -1,11 +1,12 @@
 ---
 title: "Kingdom of Sorrow: Side-Project Comes Into its Own"
+edited: false
 date: "2010-06-11"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "crowbar"
   - "jamey-jasta"
   - "kingdom-of-sorrow"

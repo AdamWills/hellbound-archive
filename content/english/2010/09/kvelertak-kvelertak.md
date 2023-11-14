@@ -1,11 +1,12 @@
 ---
 title: "Kvelertak - Kvelertak"
+edited: false
 date: "2010-09-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "enslaved"
   - "garage"
   - "heavy-metal"

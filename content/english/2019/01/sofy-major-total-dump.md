@@ -1,10 +1,11 @@
 ---
 title: "Sofy Major – Total Dump"
+edited: false
 date: "2019-01-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "metal"
   - "noise-rock"

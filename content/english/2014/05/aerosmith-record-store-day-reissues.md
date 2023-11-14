@@ -1,9 +1,10 @@
 ---
 title: "Aerosmith Record Store Day Reissues"
+edited: false
 date: "2014-05-12"
-categories: 
+categories:
   - "reviews-classics"
-tags: 
+tags:
   - "aerosmith"
   - "classics"
   - "record-store-day"

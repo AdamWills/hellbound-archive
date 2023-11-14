@@ -1,9 +1,10 @@
 ---
 title: "Diemonds is a band on the rise"
+edited: false
 date: "2016-04-04"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "diemonds"
   - "glam"
   - "interview"

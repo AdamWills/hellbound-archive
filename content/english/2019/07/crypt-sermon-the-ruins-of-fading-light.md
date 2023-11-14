@@ -1,10 +1,11 @@
 ---
 title: "Crypt Sermon – The Ruins of Fading Light"
+edited: false
 date: "2019-07-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "epic-doom"
   - "heavy"

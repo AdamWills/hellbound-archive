@@ -1,11 +1,12 @@
 ---
 title: "GWAR Meets The Six Year Old!"
+edited: false
 date: "2009-10-27"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "gwar"
   - "in-store"
   - "metal-blade"

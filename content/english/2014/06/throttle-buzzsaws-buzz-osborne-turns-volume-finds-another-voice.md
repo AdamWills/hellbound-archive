@@ -1,9 +1,10 @@
 ---
 title: "Throttle Down The Buzzsaws – Buzz Osborne Turns Down The Volume And Finds Another Voice"
+edited: false
 date: "2014-06-17"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "acoustic-guitar"
   - "buzz-osborne"
   - "king-buzzo"

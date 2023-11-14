@@ -1,11 +1,12 @@
 ---
 title: "Arson Anthem - Insecure Notoriety"
+edited: false
 date: "2011-08-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "arson-anthem"
   - "down"
   - "hank-iii"

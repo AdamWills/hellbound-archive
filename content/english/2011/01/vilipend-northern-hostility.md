@@ -1,11 +1,12 @@
 ---
 title: "Vilipend - Northern Hostility:Live in Ajax"
+edited: false
 date: "2011-01-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "buzzoven"
   - "eyehategod"
   - "keith-carman"

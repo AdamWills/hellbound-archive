@@ -1,11 +1,12 @@
 ---
 title: "Armour - s/t"
+edited: false
 date: "2010-02-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "armour"
   - "finland"

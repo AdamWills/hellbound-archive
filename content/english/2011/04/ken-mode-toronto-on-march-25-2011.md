@@ -1,11 +1,12 @@
 ---
 title: "KEN Mode/ Vilipend/ Purity Control/ Black Faxes @ the Garrison, Toronto ON, March 25, 2011"
+edited: false
 date: "2011-04-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-faxes"
   - "ken-mode"
   - "mares-of-thrace"

@@ -1,10 +1,11 @@
 ---
 title: "Demontage – Fire of Iniquity"
+edited: false
 date: "2016-12-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "demontage"
   - "doom"

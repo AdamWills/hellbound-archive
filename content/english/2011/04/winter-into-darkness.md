@@ -1,11 +1,12 @@
 ---
 title: "Winter – Into Darkness"
+edited: false
 date: "2011-04-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cathedral"
   - "doom"
   - "drone"

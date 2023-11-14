@@ -1,11 +1,12 @@
 ---
 title: "Watch A PALE HORSE NAMED DEATH's January 6th NYC Show on Hellbound.ca"
+edited: false
 date: "2012-01-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "a-pale-horse-named-death"
   - "life-of-agony"
   - "type-o-negative"

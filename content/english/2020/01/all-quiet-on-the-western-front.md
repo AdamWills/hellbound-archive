@@ -1,9 +1,10 @@
 ---
 title: "All Quiet On The Western Front"
+edited: false
 date: "2020-01-09"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "graphic-novel"
   - "history"

@@ -1,10 +1,11 @@
 ---
 title: "Daddy Long Legs - Street Sermons LP"
+edited: false
 date: "2023-03-27"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "daddy"
   - "legs"
   - "long"

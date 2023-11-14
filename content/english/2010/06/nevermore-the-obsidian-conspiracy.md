@@ -1,11 +1,12 @@
 ---
 title: "Nevermore - The Obsidian Conspiracy"
+edited: false
 date: "2010-06-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "andy-sneap"
   - "century-media"
   - "jeff-loomis"

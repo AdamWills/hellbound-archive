@@ -1,11 +1,12 @@
 ---
 title: "Murder In The Front Row - Shots From The Bay Area Thrash Metal Epicenter"
+edited: false
 date: "2012-02-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "bazillion-points"
   - "cliff-burton"
   - "d-r-i"

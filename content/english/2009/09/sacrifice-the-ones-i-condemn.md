@@ -1,11 +1,12 @@
 ---
 title: "Sacrifice: The Ones I Condemn"
+edited: false
 date: "2009-09-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "marquee-records"
   - "sacrifice"

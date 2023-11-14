@@ -1,9 +1,10 @@
 ---
 title: "Dune – Aurora Majesty"
+edited: false
 date: "2014-12-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "dune"

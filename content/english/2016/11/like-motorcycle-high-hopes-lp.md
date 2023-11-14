@@ -1,10 +1,11 @@
 ---
 title: "Like A Motorcycle – High Hopes LP"
+edited: false
 date: "2016-11-25"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "like-a-motorcycle"
   - "punk"
   - "review"

@@ -1,12 +1,13 @@
 ---
 title: "Staff Interrogation: Gene A. Gaona"
+edited: false
 date: "2017-05-08"
-categories: 
+categories:
   - "features"
   - "interviews"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "feature"
   - "interview"
   - "staff-interrogation"

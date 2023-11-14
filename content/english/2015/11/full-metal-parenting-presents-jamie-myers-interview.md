@@ -1,10 +1,11 @@
 ---
 title: "Full Metal Parenting presents: The Jamie Myers interview"
+edited: false
 date: "2015-11-23"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "full-metal-parenting"
   - "interview"
   - "jamie-myers"

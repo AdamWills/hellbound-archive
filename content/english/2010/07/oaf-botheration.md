@@ -1,11 +1,12 @@
 ---
 title: "Oaf - Botheration"
+edited: false
 date: "2010-07-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anti-nowhere-league"
   - "big-black"
   - "duo"

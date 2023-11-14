@@ -1,11 +1,12 @@
 ---
 title: "<em>Mean Deviation: Four Decades of Progressive Heavy Metal</em> by Jeff Wagner"
+edited: false
 date: "2011-02-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "angel-rat"
   - "atheist"
   - "bazillion-points"

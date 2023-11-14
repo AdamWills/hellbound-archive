@@ -1,10 +1,11 @@
 ---
 title: "Candlemass – Psalms for the Dead"
+edited: false
 date: "2012-10-01"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "000-tons-of-metal"
   - "70"
   - "candlemass"

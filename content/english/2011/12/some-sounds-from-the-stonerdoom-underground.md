@@ -1,11 +1,12 @@
 ---
 title: "Some sounds from the stoner/doom underground..."
+edited: false
 date: "2011-12-10"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "atmospheric"
   - "cleveland"
   - "desert-rock"

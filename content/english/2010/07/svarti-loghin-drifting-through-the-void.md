@@ -1,11 +1,12 @@
 ---
 title: "Svarti Loghin - Drifting Through the Void"
+edited: false
 date: "2010-07-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atmf"
   - "black-metal"
   - "suicidal"

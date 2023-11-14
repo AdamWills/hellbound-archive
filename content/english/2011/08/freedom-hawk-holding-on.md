@@ -1,11 +1,12 @@
 ---
 title: "Freedom Hawk – Holding On"
+edited: false
 date: "2011-08-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "freedom-hawk"
   - "gruesome-greg"

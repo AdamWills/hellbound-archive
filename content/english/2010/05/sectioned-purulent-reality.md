@@ -1,11 +1,12 @@
 ---
 title: "Sectioned – Purulent Reality"
+edited: false
 date: "2010-05-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "hungary"
   - "paragon-records"

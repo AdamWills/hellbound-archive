@@ -1,9 +1,10 @@
 ---
 title: "Of Feather and Bone live in Toronto, June 2018"
+edited: false
 date: "2018-07-06"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "coaltion-t-o"
   - "concert"
   - "death-metal"

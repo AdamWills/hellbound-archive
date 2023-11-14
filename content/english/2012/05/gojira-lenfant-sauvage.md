@@ -1,11 +1,12 @@
 ---
 title: "Gojira – L’enfant Sauvage"
+edited: false
 date: "2012-05-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death"
   - "gojira"
   - "meshuggah"

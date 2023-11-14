@@ -1,7 +1,8 @@
 ---
 title: "I can now proclaim to have seen Peyton pass the pigskin in person..."
+edited: false
 date: "2010-08-21"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

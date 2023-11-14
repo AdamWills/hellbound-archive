@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogations #15: Rob Hughes"
+edited: false
 date: "2011-06-21"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "adrian-bromley"
   - "budgie"
   - "celtic-frost"

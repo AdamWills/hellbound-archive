@@ -1,11 +1,12 @@
 ---
 title: "Coliseum - House With A Curse"
+edited: false
 date: "2010-06-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-flag"
   - "coliseum"
   - "hardcore"

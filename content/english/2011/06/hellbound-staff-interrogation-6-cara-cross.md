@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Staff Interrogation #6: Cara Cross"
+edited: false
 date: "2011-06-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "cara-cross"
   - "faith-no-more"
   - "isis"

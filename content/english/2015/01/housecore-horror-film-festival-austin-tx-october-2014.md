@@ -1,9 +1,10 @@
 ---
 title: "Housecore Horror Film Festival in Austin TX, October 2014"
+edited: false
 date: "2015-01-05"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "corey-mitchell"
   - "horror"
   - "housecore"

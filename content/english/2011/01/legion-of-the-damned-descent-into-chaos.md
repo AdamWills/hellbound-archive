@@ -1,11 +1,12 @@
 ---
 title: "Legion of the Damned-Descent into Chaos"
+edited: false
 date: "2011-01-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "holland"
   - "legion-of-the-damned"
   - "massacre"

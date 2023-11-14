@@ -1,11 +1,12 @@
 ---
 title: "Photo Gallery: Eluveitie @ Opera House, Toronto ON, April 21, 2010"
+edited: false
 date: "2010-04-23"
-categories: 
+categories:
   - "albert_mansour"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "albert-mansour"
   - "concert-photos"
   - "eluveitie"

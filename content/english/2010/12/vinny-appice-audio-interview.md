@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Audio Interview: Heaven & Hell's Vinny Appice"
+edited: false
 date: "2010-12-14"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "heaven-hell"
   - "audio-interview"
   - "black-sabbath"

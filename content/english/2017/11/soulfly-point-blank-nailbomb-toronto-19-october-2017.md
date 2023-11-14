@@ -1,9 +1,10 @@
 ---
 title: "Soulfly does Point Blank (NAILBOMB) in Toronto, 19 October 2017"
+edited: false
 date: "2017-11-10"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "cannabis-corpse"
   - "cavalera"
   - "concert"

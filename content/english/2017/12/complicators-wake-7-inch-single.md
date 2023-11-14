@@ -1,9 +1,10 @@
 ---
 title: "The Complicators – Wake Up (7-inch single)"
+edited: false
 date: "2017-12-08"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "punk"
   - "punk-rock"
   - "review"

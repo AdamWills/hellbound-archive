@@ -1,9 +1,10 @@
 ---
 title: "The Brains – Out In The Dark"
+edited: false
 date: "2015-10-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "psychobilly"
   - "punk-rock"
   - "rockabilly"

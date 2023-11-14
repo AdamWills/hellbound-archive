@@ -1,11 +1,12 @@
 ---
 title: "Bullet: Enduringly Anthemic Affairs"
+edited: false
 date: "2011-04-18"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-lodge"
   - "bullet"
   - "keith-carman"

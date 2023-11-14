@@ -1,11 +1,12 @@
 ---
 title: "Grave Miasma: Exalted Emanation"
+edited: false
 date: "2009-11-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "goat-molestor"
   - "grave-miasma"

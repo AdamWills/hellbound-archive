@@ -1,11 +1,12 @@
 ---
 title: "Postcards From Natalie Zed, Set #10"
+edited: false
 date: "2011-01-17"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm"
   - "candlelight-usa"
   - "ektomorf"

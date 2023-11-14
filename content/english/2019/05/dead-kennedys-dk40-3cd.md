@@ -1,9 +1,10 @@
 ---
 title: "Dead Kennedys – DK40 (3CD)"
+edited: false
 date: "2019-05-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bootleg"
   - "live"
   - "punk"

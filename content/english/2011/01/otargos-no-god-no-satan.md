@@ -1,10 +1,11 @@
 ---
 title: "Otargos - No God No Satan"
+edited: false
 date: "2011-01-27"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "france"
   - "norway"

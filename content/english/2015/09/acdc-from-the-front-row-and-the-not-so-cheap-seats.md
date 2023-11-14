@@ -1,11 +1,12 @@
 ---
 title: "AC/DC from the front row...and the not-so-cheap seats"
+edited: false
 date: "2015-09-12"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "acdc"
   - "concert"
   - "downsview-park"

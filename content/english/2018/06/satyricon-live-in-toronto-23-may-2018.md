@@ -1,9 +1,10 @@
 ---
 title: "Satyricon live in Toronto, 23 May 2018"
+edited: false
 date: "2018-06-21"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "concert"
   - "goatwhore"

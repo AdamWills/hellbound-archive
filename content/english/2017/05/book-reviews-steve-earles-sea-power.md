@@ -1,9 +1,10 @@
 ---
 title: "Book reviews from Steve Earles: Sea Power"
+edited: false
 date: "2017-05-24"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-reviews"
   - "fireships"
   - "history"

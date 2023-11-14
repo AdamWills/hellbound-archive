@@ -1,7 +1,8 @@
 ---
 title: "Goodbye Cleveland... pt. 2"
+edited: false
 date: "2010-02-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

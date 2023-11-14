@@ -1,11 +1,12 @@
 ---
 title: "February is Motörhead Mönth on Hellbound.ca"
+edited: false
 date: "2011-02-02"
-categories: 
+categories:
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "motorhead"
 ---
 

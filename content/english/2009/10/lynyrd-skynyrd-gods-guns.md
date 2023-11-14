@@ -1,11 +1,12 @@
 ---
 title: "Lynyrd Skynyrd: Gods & Guns"
+edited: false
 date: "2009-10-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "lynyrd-skynyrd"
   - "roadrunner"

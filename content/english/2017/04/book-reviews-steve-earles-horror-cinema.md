@@ -1,10 +1,11 @@
 ---
 title: "Book reviews by Steve Earles: horror cinema"
+edited: false
 date: "2017-04-06"
-categories: 
+categories:
   - "hellbound-horror"
   - "reviews-books"
-tags: 
+tags:
   - "book-reviews"
   - "horror-films"
   - "italian-gothic-horror"

@@ -1,12 +1,13 @@
 ---
 title: "Postcards from NatalieZed: Set #6!"
+edited: false
 date: "2010-11-18"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fatality"
   - "kamelot"
   - "kmg"

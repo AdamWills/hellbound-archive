@@ -1,11 +1,12 @@
 ---
 title: "Darkest Hour/ Veil of Maya/ Periphery/ Revocation @ The Mod Club, Toronto ON, November 17th 2010"
+edited: false
 date: "2010-11-23"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "darkest-hour"
   - "deathcore"
   - "hardcore"

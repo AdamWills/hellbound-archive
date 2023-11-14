@@ -1,10 +1,11 @@
 ---
 title: "GRUESOME GREG'S TOP 15 CONCERTS OF 2019"
+edited: false
 date: "2020-01-01"
-categories: 
+categories:
   - "blogs"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "doom-metal"

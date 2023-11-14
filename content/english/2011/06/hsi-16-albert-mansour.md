@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogations #16: Albert Mansour"
+edited: false
 date: "2011-06-22"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "acdc"
   - "albert-mansour"
   - "hellbound-radio"

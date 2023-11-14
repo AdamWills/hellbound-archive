@@ -1,11 +1,12 @@
 ---
 title: "Various Artists:Snakebites – The Music of Whitesnake"
+edited: false
 date: "2010-10-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "rainbow"
   - "black-sabbath"
   - "kyle-harcott"

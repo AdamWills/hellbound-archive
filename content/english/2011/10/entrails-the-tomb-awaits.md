@@ -1,11 +1,12 @@
 ---
 title: "Entrails - The Tomb Awaits"
+edited: false
 date: "2011-10-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bloodbath"
   - "dan-swano"
   - "death-metal"

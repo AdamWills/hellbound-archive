@@ -1,11 +1,12 @@
 ---
 title: "Racebannon - Wrap The Body"
+edited: false
 date: "2010-07-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "joyful-noise"
   - "kevin-stewart-panko"
   - "racebannon"

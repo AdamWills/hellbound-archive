@@ -1,11 +1,12 @@
 ---
 title: "CONTEST: Win tickets to see KATATONIA live in Montreal April 25th!"
+edited: false
 date: "2013-04-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "cafe-campus"
   - "contest"
   - "katatonia"

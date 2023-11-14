@@ -1,11 +1,12 @@
 ---
 title: "Castevet/ Æsahættr/ Sound Asleep/ The Sustained Low 'C' of Richard Strauss' 'Also Sprach Zarathustra' @ Soybomb, Toronto ON, March 24th 2012"
+edited: false
 date: "2012-03-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "2980"
   - "canadian-music-week"
   - "castavet"

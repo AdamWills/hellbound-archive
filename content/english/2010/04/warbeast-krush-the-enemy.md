@@ -1,11 +1,12 @@
 ---
 title: "Warbeast - Krush The Enemy"
+edited: false
 date: "2010-04-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bruce-corbitt"
   - "demonseed"
   - "exodus"

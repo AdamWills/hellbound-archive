@@ -1,9 +1,10 @@
 ---
 title: "Blood Ceremony with Volur, Toronto, April 19, 2014"
+edited: false
 date: "2014-05-02"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "blood-ceremony"
   - "live-concerts"
   - "live-photos"

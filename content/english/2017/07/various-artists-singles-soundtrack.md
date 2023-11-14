@@ -1,11 +1,12 @@
 ---
 title: "Various Artists – Singles soundtrack"
+edited: false
 date: "2017-07-25"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alice-in-chains"
   - "cameron-crowe"
   - "chris-cornell"

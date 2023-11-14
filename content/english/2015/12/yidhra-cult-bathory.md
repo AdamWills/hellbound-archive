@@ -1,9 +1,10 @@
 ---
 title: "Yidhra – Cult of Bathory"
+edited: false
 date: "2015-12-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "doom-metal"

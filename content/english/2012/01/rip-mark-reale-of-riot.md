@@ -1,7 +1,8 @@
 ---
 title: "RIP Mark Reale of Riot"
+edited: false
 date: "2012-01-26"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"

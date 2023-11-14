@@ -1,11 +1,12 @@
 ---
 title: "Mares of Thrace @ Kilroys, Thunder Bay, ON, August 8th, 2010"
+edited: false
 date: "2010-08-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "canada"
   - "doom"
   - "female-duo"

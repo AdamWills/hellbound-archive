@@ -1,10 +1,11 @@
 ---
 title: "Jon Spencer & The HITmakers - Spencer Gets It Lit LP"
+edited: false
 date: "2022-06-11"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "bronze-rat"
   - "gets-it-lit"
   - "hitmakers"

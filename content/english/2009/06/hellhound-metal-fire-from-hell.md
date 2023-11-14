@@ -1,11 +1,12 @@
 ---
 title: "Hellhound: Metal Fire From Hell"
+edited: false
 date: "2009-06-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "hellhound"
   - "japan"

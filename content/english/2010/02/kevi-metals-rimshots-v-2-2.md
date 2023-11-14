@@ -1,11 +1,12 @@
 ---
 title: "KEVI METAL'S RIMSHOTS v.2 #2"
+edited: false
 date: "2010-02-08"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm-records"
   - "black-metal"
   - "blind-guardian"

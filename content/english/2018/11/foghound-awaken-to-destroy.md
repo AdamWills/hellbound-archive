@@ -1,10 +1,11 @@
 ---
 title: "Foghound – Awaken to Destroy"
+edited: false
 date: "2018-11-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baltimore"
   - "beer"
   - "foghound"

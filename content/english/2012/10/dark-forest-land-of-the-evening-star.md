@@ -1,12 +1,13 @@
 ---
 title: "Dark Forest: Land of the Evening Star"
+edited: false
 date: "2012-10-01"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "heaven-hell"
   - "bleak-art-records"
   - "canadian-metal"

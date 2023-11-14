@@ -1,11 +1,12 @@
 ---
 title: "Anvil: The Story of Anvil"
+edited: false
 date: "2009-10-21"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "anvil"
   - "attic"
   - "canada"

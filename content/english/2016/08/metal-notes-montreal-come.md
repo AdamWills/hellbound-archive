@@ -1,9 +1,10 @@
 ---
 title: "Metal notes from Montreal (more to come)"
+edited: false
 date: "2016-08-05"
-categories: 
+categories:
   - "editors_blog"
-tags: 
+tags:
   - "black-metal"
   - "death"
   - "death-metal"

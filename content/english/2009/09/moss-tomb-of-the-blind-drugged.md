@@ -1,18 +1,19 @@
 ---
 title: "Moss: Tomb of the Blind Drugged"
+edited: false
 date: "2009-09-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "england"
   - "moss"
   - "rise-above"
 ---
 
-[![moss](http://www.hellbound.ca/wp-content/uploads/2009/09/moss-300x298.jpg "moss")](http://www.hellbound.ca/wp-content/uploads/2009/09/moss.jpg)  
+[![moss](http://www.hellbound.ca/wp-content/uploads/2009/09/moss-300x298.jpg "moss")](http://www.hellbound.ca/wp-content/uploads/2009/09/moss.jpg)
 
 **By Jonathan Smith**
 

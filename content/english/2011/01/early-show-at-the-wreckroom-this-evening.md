@@ -1,11 +1,12 @@
 ---
 title: "Early show at the Wreckroom this evening..."
+edited: false
 date: "2011-01-22"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "annex-wreckroom"
   - "funhaus"
   - "gruesome-greg"

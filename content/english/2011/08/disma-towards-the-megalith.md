@@ -1,11 +1,12 @@
 ---
 title: "Disma - Towards The Megalith"
+edited: false
 date: "2011-08-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "agalloch"
   - "avichi"
   - "chris-bruni"

@@ -1,10 +1,11 @@
 ---
 title: "Green Druid – Ashen Blood"
+edited: false
 date: "2018-02-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "green-druid"
   - "heavy"

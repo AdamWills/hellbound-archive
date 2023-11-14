@@ -1,11 +1,12 @@
 ---
 title: "In memoriam: Metal luminaries pay tribute to Necrophagia’s Killjoy"
+edited: false
 date: "2018-03-26"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "jay_gorania"
-tags: 
+tags:
   - "black-metal"
   - "death-metal"
   - "extreme-metal"

@@ -1,9 +1,10 @@
 ---
 title: "THRASH INVASION TOUR: Onslaught, Artillery and Vx36 at the Mansion, Kingston, ON November 11, 2014"
+edited: false
 date: "2014-11-24"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "artillery"
   - "concert-review"
   - "iron-assault"

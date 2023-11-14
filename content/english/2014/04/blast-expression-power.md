@@ -1,10 +1,11 @@
 ---
 title: "BL'AST! – The Expression of Power"
+edited: false
 date: "2014-04-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blast"
   - "doom"

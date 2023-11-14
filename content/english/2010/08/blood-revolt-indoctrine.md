@@ -1,11 +1,12 @@
 ---
 title: "Blood Revolt – Indoctrine"
+edited: false
 date: "2010-08-13"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "blood-revolt"
   - "canada"

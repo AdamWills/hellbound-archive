@@ -1,11 +1,12 @@
 ---
 title: "Well, it ain't the El Mocambo, but it's the next door thing..."
+edited: false
 date: "2012-01-14"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert"
   - "el-mocambo"
   - "gruesome-greg"

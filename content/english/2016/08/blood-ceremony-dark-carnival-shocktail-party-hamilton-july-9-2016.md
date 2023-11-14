@@ -1,9 +1,10 @@
 ---
 title: "Blood Ceremony at Dark Carnival Shocktail Party – Hamilton ON, July 9, 2016"
+edited: false
 date: "2016-08-17"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "blood-ceremony"
   - "concert-photos"
   - "dark-carnival-expo"

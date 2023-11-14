@@ -1,11 +1,12 @@
 ---
 title: "Wolves In The Throne Room - Celestial Lineage"
+edited: false
 date: "2011-09-06"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "jonathan-smith"
   - "southern-lord"

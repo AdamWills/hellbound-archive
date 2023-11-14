@@ -1,11 +1,12 @@
 ---
 title: "Heinali And Matt Finney: Ain't No Night"
+edited: false
 date: "2011-07-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "drone-metal"
   - "heinali-and-matt-finney"
   - "post-rock"

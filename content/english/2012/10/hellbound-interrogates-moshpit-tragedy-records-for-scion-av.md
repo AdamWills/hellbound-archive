@@ -1,13 +1,14 @@
 ---
 title: "Hellbound Interrogates Moshpit Tragedy Records For Scion AV"
+edited: false
 date: "2012-10-30"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "amebix"
   - "moshpit-tragedy-records"
   - "nausea"

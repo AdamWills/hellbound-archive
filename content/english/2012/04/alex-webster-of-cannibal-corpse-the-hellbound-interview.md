@@ -1,13 +1,14 @@
 ---
 title: "Alex Webster of Cannibal Corpse: The Hellbound Interview"
+edited: false
 date: "2012-04-25"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "alex-webster"
   - "cannibal-corpse"
   - "death-metal"

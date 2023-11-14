@@ -1,12 +1,13 @@
 ---
 title: "Hellbound.ca's Top 20 Albums of 2011, Part 3"
+edited: false
 date: "2011-12-29"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adrien-begrand"
   - "amon-amarth"
   - "doom"

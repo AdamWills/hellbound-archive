@@ -1,11 +1,12 @@
 ---
 title: "Aenaon - Cendres Et Sang"
+edited: false
 date: "2011-05-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "aenaon"
   - "black-metal"
   - "code-666"

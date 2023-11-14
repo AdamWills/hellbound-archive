@@ -1,9 +1,10 @@
 ---
 title: "Superjoint interview: Stephen & Blue on working with Phil Anselmo + much more"
+edited: false
 date: "2017-05-08"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "interview"
   - "phil-anselmo"
   - "san-francisco"

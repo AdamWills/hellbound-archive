@@ -1,9 +1,10 @@
 ---
 title: "Anticipating: Wolves of Avalon and Meads of Asphodel (Godreah Records)"
+edited: false
 date: "2015-01-21"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "2015-releases"
   - "godreah-records"
   - "meads-of-asphodel"

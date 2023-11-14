@@ -1,10 +1,11 @@
 ---
 title: "Black Tusk – Pillars of Ash"
+edited: false
 date: "2016-01-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-tusk"
 ---

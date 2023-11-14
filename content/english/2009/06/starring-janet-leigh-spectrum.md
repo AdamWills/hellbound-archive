@@ -1,10 +1,11 @@
 ---
 title: "Starring Janet Leigh: Spectrum"
+edited: false
 date: "2009-06-05"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "metal-blade"
   - "metalcore"

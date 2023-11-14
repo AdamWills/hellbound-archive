@@ -1,11 +1,12 @@
 ---
 title: "Heavy Metal in 2017 by Steve Earles"
+edited: false
 date: "2017-12-18"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "2017"
   - "best-of"
   - "end-of-year"

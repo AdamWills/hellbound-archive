@@ -1,7 +1,8 @@
 ---
 title: "I'm resigning from Hellbound to represent the NDP in Berthier-Maskinongé..."
+edited: false
 date: "2011-05-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

@@ -1,11 +1,12 @@
 ---
 title: "Parkway Drive - Deep Blue"
+edited: false
 date: "2010-06-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "australia"
   - "epitaph"
   - "hardcore"

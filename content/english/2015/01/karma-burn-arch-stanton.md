@@ -1,9 +1,10 @@
 ---
 title: "Karma to Burn – Arch Stanton"
+edited: false
 date: "2015-01-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "fuzz"
   - "heavy-rock"

@@ -1,10 +1,11 @@
 ---
 title: "Fleshgod Apocalypse: Oracles"
+edited: false
 date: "2009-06-11"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "classical"
   - "death-metal"
   - "fleshgod-apocalypse"

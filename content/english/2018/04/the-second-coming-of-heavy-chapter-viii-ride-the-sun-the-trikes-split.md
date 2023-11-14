@@ -1,10 +1,11 @@
 ---
 title: "The Second Coming of Heavy Chapter VIII (Ride the Sun/The Trikes split)"
+edited: false
 date: "2018-04-26"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy"
   - "heavy-rock"
   - "review"

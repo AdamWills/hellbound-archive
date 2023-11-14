@@ -1,10 +1,11 @@
 ---
 title: "Blasphemous Meals #10 – Corpus Curry"
+edited: false
 date: "2014-07-23"
-categories: 
+categories:
   - "blasphemyblog"
   - "features"
-tags: 
+tags:
   - "annick-giroux"
   - "atomic-aalu-power"
   - "atomizer"

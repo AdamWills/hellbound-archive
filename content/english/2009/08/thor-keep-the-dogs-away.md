@@ -1,11 +1,12 @@
 ---
 title: "Thor: Keep The Dogs Away (30th anniversary reissue)"
+edited: false
 date: "2009-08-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "glam-rock"
   - "reissue"

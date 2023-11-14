@@ -1,9 +1,10 @@
 ---
 title: "Conan – Blood Eagle"
+edited: false
 date: "2014-05-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "conan"
   - "doom"
   - "napalm-records"

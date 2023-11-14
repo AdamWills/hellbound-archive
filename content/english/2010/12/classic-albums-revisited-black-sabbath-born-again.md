@@ -1,12 +1,13 @@
 ---
 title: "Classic Albums Revisited: Black Sabbath’s <em>Born Again</em>"
+edited: false
 date: "2010-12-07"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "bill-ward"
   - "black-sabbath"
   - "classic-album"

@@ -1,10 +1,11 @@
 ---
 title: "Beastwars – The Death of All Things"
+edited: false
 date: "2016-04-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "beastwars"
   - "extreme-metal"
   - "new-zealand"

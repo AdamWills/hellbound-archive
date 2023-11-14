@@ -1,10 +1,11 @@
 ---
 title: "Namazu – Works Cited"
+edited: false
 date: "2017-08-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "heavy-rock"
   - "namazu"

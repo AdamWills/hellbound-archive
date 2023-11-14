@@ -1,9 +1,10 @@
 ---
 title: "Faith No More – Sol Invictus"
+edited: false
 date: "2015-06-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "alternative-rock"
   - "faith-no-more"

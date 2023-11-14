@@ -1,11 +1,12 @@
 ---
 title: "Seidr - For Winter Fire"
+edited: false
 date: "2011-05-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "kyle-harcott"
   - "neurosis"

@@ -1,11 +1,12 @@
 ---
 title: "La Chinga – self-titled"
+edited: false
 date: "2013-05-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "aerosmith"
   - "fu-manchu"
   - "gruesome-greg"

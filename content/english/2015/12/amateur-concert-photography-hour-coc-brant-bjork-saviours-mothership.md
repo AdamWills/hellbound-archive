@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: COC/Brant Bjork/Saviours/Mothership @ Opera House, December 1, 2015"
+edited: false
 date: "2015-12-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "brant-bjork"
   - "concert-photography"
   - "concert-photos"

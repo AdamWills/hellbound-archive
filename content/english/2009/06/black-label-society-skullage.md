@@ -1,10 +1,11 @@
 ---
 title: "Black Label Society: Skullage"
+edited: false
 date: "2009-06-18"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "armoury"
   - "black-label-society"
   - "ozzy"

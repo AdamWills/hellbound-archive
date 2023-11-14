@@ -1,7 +1,8 @@
 ---
 title: "HELLBOUND To Co-Sponsor BURIED INSIDE Summer Tour"
+edited: false
 date: "2009-06-16"
-categories: 
+categories:
   - "featured"
   - "psa"
 ---

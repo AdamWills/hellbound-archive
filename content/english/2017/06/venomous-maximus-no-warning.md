@@ -1,10 +1,11 @@
 ---
 title: "Venomous Maximus – No Warning"
+edited: false
 date: "2017-06-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "metal"

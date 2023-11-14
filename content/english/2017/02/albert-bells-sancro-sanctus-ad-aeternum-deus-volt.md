@@ -1,9 +1,10 @@
 ---
 title: "Albert Bell’s Sancro Sanctus: Ad Aeternum and Deus Volt"
+edited: false
 date: "2017-02-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "albert-bell"
   - "heavy-metal"
   - "malta"

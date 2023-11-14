@@ -1,9 +1,10 @@
 ---
 title: "TesseracT - November 2018 - Birmingham, UK"
+edited: false
 date: "2018-12-05"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "between-the-buried-and-me"
   - "concert"
   - "live"

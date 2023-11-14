@@ -1,10 +1,11 @@
 ---
 title: "Cult of Luna & Julie Christmas – Mariner"
+edited: false
 date: "2016-03-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cult-of-luna"
   - "doom"
   - "julie-christmas"

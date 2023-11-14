@@ -1,10 +1,11 @@
 ---
 title: "Jucifer – Canadian Tour Diary #3"
+edited: false
 date: "2010-09-14"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "jucifer"
   - "tour-diary"
 ---

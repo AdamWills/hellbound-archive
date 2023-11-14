@@ -1,9 +1,10 @@
 ---
 title: "Striker – Play to Win"
+edited: false
 date: "2018-10-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "canadian-metal"
   - "edmonton"
   - "heavy-metal"

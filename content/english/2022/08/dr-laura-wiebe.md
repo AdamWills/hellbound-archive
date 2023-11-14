@@ -1,11 +1,12 @@
 ---
 title: "Dr. Laura Wiebe (11 January 1976 - 16 August 2022)"
+edited: false
 date: "2022-08-21"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "laura-wiebe"
   - "laura-wiebe-taylor"
   - "obituary"

@@ -1,11 +1,12 @@
 ---
 title: "Destruction - Day of Reckoning"
+edited: false
 date: "2011-02-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "destruction"
   - "nuclear-blast"
   - "rob-kachluba"

@@ -1,11 +1,12 @@
 ---
 title: "Dog Shredder—Brass Tactics"
+edited: false
 date: "2012-05-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atheist"
   - "dog-shredder"
   - "mastodon"

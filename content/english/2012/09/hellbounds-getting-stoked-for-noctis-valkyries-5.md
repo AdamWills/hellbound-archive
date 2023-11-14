@@ -1,11 +1,12 @@
 ---
 title: "Hellbound's Getting Stoked For...  NOCTIS VALKYRIES 5!"
+edited: false
 date: "2012-09-08"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adrien-begrand"
   - "agalloch"
   - "black-witchery"

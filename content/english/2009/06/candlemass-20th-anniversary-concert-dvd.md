@@ -1,9 +1,10 @@
 ---
 title: "Candlemass: 20th Anniversary Party DVD"
+edited: false
 date: "2009-06-03"
-categories: 
+categories:
   - "reviews-visual"
-tags: 
+tags:
   - "doom"
   - "robertlowe"
   - "solitude-aeturnus"

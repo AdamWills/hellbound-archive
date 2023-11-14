@@ -1,10 +1,11 @@
 ---
 title: "METAL EVENTS YOU DON’T WANNA MISS – FALL 2018"
+edited: false
 date: "2018-09-25"
-categories: 
+categories:
   - "psa"
   - "reviews-live"
-tags: 
+tags:
   - "2018"
   - "autumn"
   - "concert"

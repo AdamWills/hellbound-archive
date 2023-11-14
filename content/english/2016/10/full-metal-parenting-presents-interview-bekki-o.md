@@ -1,10 +1,11 @@
 ---
 title: "Full Metal Parenting presents: an interview with Bekki O"
+edited: false
 date: "2016-10-05"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "bekki-o"
   - "full-metal-parenting"
   - "interview"

@@ -1,10 +1,11 @@
 ---
 title: "Happy 35th Birthday to...  Iron Maiden's The Number Of The Beast"
+edited: false
 date: "2017-03-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "bruce-dickinson"
   - "iron-maiden"
   - "sean-palmerston"

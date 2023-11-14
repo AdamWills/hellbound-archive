@@ -1,11 +1,12 @@
 ---
 title: "Eluveitie/ Death Angel/ 3 Inches of Blood/ Holy Grail/ Lazarus A.D./ System Divide @ The Opera House, Toronto, ON, February 6, 2011"
+edited: false
 date: "2011-02-11"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "adam-wills"
   - "black-sabbath"

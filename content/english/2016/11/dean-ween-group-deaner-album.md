@@ -1,9 +1,10 @@
 ---
 title: "The Dean Ween Group – The Deaner Album"
+edited: false
 date: "2016-11-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "dean-ween-group"
   - "review"

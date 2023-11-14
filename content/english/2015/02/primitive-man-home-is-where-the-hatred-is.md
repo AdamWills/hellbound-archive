@@ -1,9 +1,10 @@
 ---
 title: "Primitive Man – Home is Where the Hatred is"
+edited: false
 date: "2015-02-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "blackened-doom"

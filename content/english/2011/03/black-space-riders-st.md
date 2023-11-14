@@ -1,11 +1,12 @@
 ---
 title: "Black Space Riders – Black Space Riders"
+edited: false
 date: "2011-03-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-space-riders"
   - "deep"
   - "jason-wellwood"

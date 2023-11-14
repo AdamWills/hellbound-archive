@@ -1,11 +1,12 @@
 ---
 title: "Postcards from Natalie Zed, Set #8"
+edited: false
 date: "2010-12-15"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "11-as-in-adversaries"
   - "atmf"
   - "bison-bc"

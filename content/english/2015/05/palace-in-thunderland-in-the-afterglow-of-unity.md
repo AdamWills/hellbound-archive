@@ -1,9 +1,10 @@
 ---
 title: "Palace in Thunderland – In the Afterglow of Unity"
+edited: false
 date: "2015-05-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-pyramid"
   - "blue-aside"

@@ -1,11 +1,12 @@
 ---
 title: "A live set of HELLYEAH could be worth your weekly therapy session"
+edited: false
 date: "2012-06-27"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "dimebag-darrell"
   - "disturbed"
   - "hellyeah"

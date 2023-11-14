@@ -1,9 +1,10 @@
 ---
 title: "Zombitrol & Blacktooth Black/Doom showcase in Toronto, Nov 29, 2014"
+edited: false
 date: "2014-12-30"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "andrew-epstein"
   - "black-metal"
   - "blacktooth-entertainment"

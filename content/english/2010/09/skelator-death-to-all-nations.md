@@ -1,10 +1,11 @@
 ---
 title: "Skelator - Death To All Nations"
+edited: false
 date: "2010-09-16"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "classic-metal"
   - "iron-maiden"
   - "kyle-harcott"

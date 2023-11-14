@@ -1,9 +1,10 @@
 ---
 title: "Perturbator + Bulkhead @ The Velvet Underground, 1 October 2017"
+edited: false
 date: "2017-10-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "concert"
   - "live"
   - "perturbator"

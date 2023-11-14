@@ -1,7 +1,8 @@
 ---
 title: "Blackguard: Profugus Mortis"
+edited: false
 date: "2009-06-23"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
 ---

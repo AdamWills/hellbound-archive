@@ -1,9 +1,10 @@
 ---
 title: "Rose Tattoo & Girlschool in Birmingham, UK, September 2018"
+edited: false
 date: "2018-09-24"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "birmingham"
   - "blues-rock"
   - "concert"

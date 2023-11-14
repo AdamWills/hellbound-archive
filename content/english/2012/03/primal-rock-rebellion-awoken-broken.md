@@ -1,11 +1,12 @@
 ---
 title: "Primal Rock Rebellion - Awoken Broken"
+edited: false
 date: "2012-03-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adrian-smith"
   - "alice-in-chains"
   - "bill-adams"

@@ -1,11 +1,12 @@
 ---
 title: "Insomnium: Across The Dark"
+edited: false
 date: "2009-08-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "death-metal"
   - "finland"

@@ -1,11 +1,12 @@
 ---
 title: "Photo Gallery: Triptykon / 1349 / Yakuza - Live in Toronto, ON"
+edited: false
 date: "2010-10-18"
-categories: 
+categories:
   - "albert_mansour"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "1349"
   - "albert-mansour"
   - "concert-photos"

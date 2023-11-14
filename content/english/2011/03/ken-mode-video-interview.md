@@ -1,11 +1,12 @@
 ---
 title: "Video interview:KEN Mode's Jesse Matthewson"
+edited: false
 date: "2011-03-29"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "interview"
   - "jesse-matthewson"
   - "ken-mode"

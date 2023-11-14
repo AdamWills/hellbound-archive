@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: PALLBEARER/Kayo Dot/Bask @ Lee's Palace, August 30, 2017"
+edited: false
 date: "2017-09-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "bask"
   - "concert-photography"
   - "concert-photos"

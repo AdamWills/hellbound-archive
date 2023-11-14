@@ -1,10 +1,11 @@
 ---
 title: "Crowned by Fire news and contest winners"
+edited: false
 date: "2014-08-13"
-categories: 
+categories:
   - "contests"
   - "psa"
-tags: 
+tags:
   - "contest"
   - "crowned-by-fire"
   - "winners"

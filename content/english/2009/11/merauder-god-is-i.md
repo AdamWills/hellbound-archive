@@ -1,11 +1,12 @@
 ---
 title: "Merauder: God Is I"
+edited: false
 date: "2009-11-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "merauder"
   - "regain-records"

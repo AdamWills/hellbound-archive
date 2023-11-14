@@ -1,11 +1,12 @@
 ---
 title: "Metal Blade's Brian Slagel:The Audio Interview"
+edited: false
 date: "2011-04-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "brian-slagel"
   - "interview"
   - "jason-wellwood"
@@ -18,11 +19,11 @@ Earlier this week Jason Wellwood had the opportunity to speak to Metal Blade fou
 
 This interview is divided into two parts due to youtube limitations, so please make sure to check out both parts.
 
-**Brian Slagel Interview part one** 
+**Brian Slagel Interview part one**
 
 <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/qwaVPQHVhiU" frameborder="0" allowfullscreen></iframe>
 
-**Brian Slagel Interview part two** 
+**Brian Slagel Interview part two**
 
 <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/zr_HgmQTass" frameborder="0" allowfullscreen></iframe>
 

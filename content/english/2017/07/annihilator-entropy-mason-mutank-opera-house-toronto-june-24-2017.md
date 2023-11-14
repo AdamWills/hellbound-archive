@@ -1,7 +1,8 @@
 ---
 title: "Annihilator + Entropy + Mason + Mutank @ The Opera House, Toronto, June 24, 2017"
+edited: false
 date: "2017-07-11"
-categories: 
+categories:
   - "reviews-live"
 ---
 

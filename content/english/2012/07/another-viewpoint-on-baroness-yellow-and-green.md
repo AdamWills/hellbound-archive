@@ -1,11 +1,12 @@
 ---
 title: "Another viewpoint on Baroness' Yellow and Green"
+edited: false
 date: "2012-07-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "gruesome-greg"
   - "mastodon"

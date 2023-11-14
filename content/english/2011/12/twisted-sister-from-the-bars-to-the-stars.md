@@ -1,11 +1,12 @@
 ---
 title: "Twisted Sister - From The Bars To The Stars: Three Decades Live"
+edited: false
 date: "2011-12-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "eagle-rock-enterainment"
   - "jason-wellwood"
   - "lemmy"

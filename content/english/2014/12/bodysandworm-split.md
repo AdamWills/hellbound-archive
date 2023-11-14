@@ -1,9 +1,10 @@
 ---
 title: "The Body / Sandworm split"
+edited: false
 date: "2014-12-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "drone"

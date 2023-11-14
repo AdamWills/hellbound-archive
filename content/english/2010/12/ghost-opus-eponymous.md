@@ -1,11 +1,12 @@
 ---
 title: "Ghost - Opus Eponymous"
+edited: false
 date: "2010-12-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "ghost"
   - "metal-blade"

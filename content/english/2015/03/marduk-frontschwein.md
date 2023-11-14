@@ -1,9 +1,10 @@
 ---
 title: "Marduk – Frontschwein"
+edited: false
 date: "2015-03-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "marduk"

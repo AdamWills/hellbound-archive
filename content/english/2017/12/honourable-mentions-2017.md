@@ -1,11 +1,12 @@
 ---
 title: "Honourable mentions of 2017"
+edited: false
 date: "2017-12-13"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "2017"
   - "best-of"
   - "end-of-year"

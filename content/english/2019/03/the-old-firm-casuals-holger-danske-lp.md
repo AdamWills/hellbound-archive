@@ -1,9 +1,10 @@
 ---
 title: "The Old Firm Casuals – Holger Danske LP"
+edited: false
 date: "2019-03-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "punk"
   - "punk-rock"
   - "rock"
@@ -31,7 +32,7 @@ With all of the different turns that _Holger Danske_ makes covered and summed up
 
 https://www.youtube.com/watch?v=3afH6Uvckq4
 
-[https://www.facebook.com/TheOldFirmCasualsOi/](https://www.facebook.com/TheOldFirmCasualsOi/)  
+[https://www.facebook.com/TheOldFirmCasualsOi/](https://www.facebook.com/TheOldFirmCasualsOi/)
 [https://twitter.com/oldfirmcasuals](https://twitter.com/oldfirmcasuals)
 
 _Holger Danske_ will be released on March 15, 2019 on Pirates Press Records. Pre-order it here directly from Pirates Press Records. [http://shop.piratespressrecords.com/products/635213-the-old-firm-casuals-holger-danske-12-lp-cd](http://shop.piratespressrecords.com/products/635213-the-old-firm-casuals-holger-danske-12-lp-cd)

@@ -1,9 +1,10 @@
 ---
 title: "Satan – Atom by Atom"
+edited: false
 date: "2015-10-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "iron-maiden"
   - "motorhead"
   - "nightbringer"

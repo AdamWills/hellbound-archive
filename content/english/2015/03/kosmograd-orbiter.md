@@ -1,9 +1,10 @@
 ---
 title: "Kosmograd – Orbiter"
+edited: false
 date: "2015-03-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "enslaved"

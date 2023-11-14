@@ -1,11 +1,12 @@
 ---
 title: "AC/DC: High-Voltage Rock 'n' Roll: The Ultimate Illustrated History, by Phil Sutcliffe"
+edited: false
 date: "2010-11-17"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "acdc"
   - "adrien-begrand"
   - "angus-young"

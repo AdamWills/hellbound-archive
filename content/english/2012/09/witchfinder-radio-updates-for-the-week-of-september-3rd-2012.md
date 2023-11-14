@@ -1,10 +1,11 @@
 ---
 title: "Witchfinder Radio Updates For the Week of September 3rd, 2012"
+edited: false
 date: "2012-09-05"
-categories: 
+categories:
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "witchfinder-radio"
 ---
 

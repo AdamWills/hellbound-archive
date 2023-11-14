@@ -1,11 +1,12 @@
 ---
 title: "Bishop's Green - Black Skies EP and Waiting EP"
+edited: false
 date: "2022-12-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "bishops-green"
   - "black"
   - "black-skies"

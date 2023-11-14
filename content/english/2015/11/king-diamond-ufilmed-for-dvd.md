@@ -1,11 +1,12 @@
 ---
 title: "KING DIAMOND: Upcoming shows to be filmed for DVD"
+edited: false
 date: "2015-11-20"
-categories: 
+categories:
   - "blogs"
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "abigail"
   - "king-diamond"
   - "live"

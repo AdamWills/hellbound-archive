@@ -1,9 +1,10 @@
 ---
 title: "PREVIEW: Incineration Festival 2020"
+edited: false
 date: "2020-02-12"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "metal-festival"
 ---
 
@@ -15,8 +16,8 @@ After unleashing the first event in May 2014, Incineration Festival has now seen
 
 Incineration Festival's seventh edition will be taking place on Saturday 9th May 2020 as a one day affair at the following venues:
 
-THE ELECTRIC BALLROOM, Camden High Street, London  
-UNDERWORLD, Camden High Street, London  
+THE ELECTRIC BALLROOM, Camden High Street, London
+UNDERWORLD, Camden High Street, London
 THE BLACK HEART, Camden High Street, London (please note, this is an 18+ venue)
 
 Headlining the 2020 event will be the mighty Swedish death metal supergroup **Bloodbath**. New wave of bands added to festival’s line up: Mord’a’stigmata, Martwa Aura, Lucifericon, Foetal Juice, Pist and Burial.

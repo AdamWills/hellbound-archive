@@ -1,9 +1,10 @@
 ---
 title: "Breathing As Spiritual Practice"
+edited: false
 date: "2020-01-18"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "nonfiction"
 ---

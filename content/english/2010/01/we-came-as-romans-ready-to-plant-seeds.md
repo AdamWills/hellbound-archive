@@ -1,11 +1,12 @@
 ---
 title: "We Came As Romans: Ready To Plant Seeds"
+edited: false
 date: "2010-01-12"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "equal-vision"
   - "hardcore"
   - "metalcore"

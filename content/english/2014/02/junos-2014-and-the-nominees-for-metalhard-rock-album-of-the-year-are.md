@@ -1,11 +1,12 @@
 ---
 title: "Junos 2014 - And the nominees for Metal/Hard Rock Album of the Year are..."
+edited: false
 date: "2014-02-04"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "anciients"
   - "gorguts"
   - "junos"

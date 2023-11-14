@@ -1,11 +1,12 @@
 ---
 title: "Earth – Angels of Darkness, Demons of Light 1"
+edited: false
 date: "2010-12-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "dylan-carlson"
   - "earth"

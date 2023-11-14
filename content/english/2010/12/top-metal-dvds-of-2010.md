@@ -1,12 +1,13 @@
 ---
 title: "Hellbound.ca's TOP METAL DVDs Of 2010"
+edited: false
 date: "2010-12-29"
-categories: 
+categories:
   - "features"
   - "headline"
   - "reviews-visual"
   - "staff_picks"
-tags: 
+tags:
   - "heaven-hell"
   - "alliance-atlantis"
   - "armoury-records"

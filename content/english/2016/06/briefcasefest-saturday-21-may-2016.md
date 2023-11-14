@@ -1,9 +1,10 @@
 ---
 title: "Briefcasefest: Saturday, 21 May 2016"
+edited: false
 date: "2016-06-30"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "briefcasefest"
   - "coalition"

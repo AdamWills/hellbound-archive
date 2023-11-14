@@ -1,9 +1,10 @@
 ---
 title: "Today is the Day + Kayo Dot @ Hard Luck Bar, Toronto, 26 July 2017"
+edited: false
 date: "2017-08-09"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "hardluck"
   - "inertia-entertainment"

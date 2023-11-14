@@ -1,9 +1,10 @@
 ---
 title: "Jon Spencer – Spencer Sings The Hits LP"
+edited: false
 date: "2019-01-16"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "blues"
   - "review"
   - "rock"
@@ -37,36 +38,36 @@ Standing back from _Spencer Sings The Hits_, there's no doubt that listeners wil
 
 [https://www.roughtrade.com/gb/music/jon-spencer-spencer-sings-the-hits](https://www.roughtrade.com/gb/music/jon-spencer-spencer-sings-the-hits)
 
-Further Reading: Jon Spencer – Spencer Sings The Hits – \[CD review\] [http://www.groundcontrolmag.com/jon-spencer-album/](http://www.groundcontrolmag.com/jon-spencer-album/)  
+Further Reading: Jon Spencer – Spencer Sings The Hits – \[CD review\] [http://www.groundcontrolmag.com/jon-spencer-album/](http://www.groundcontrolmag.com/jon-spencer-album/)
 
-**Jon Spencer** **LIVE with** **The Hitmakers**:   
-  
-01/11/19 - Philadelphia, PA - Johnny Brenda's - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=0ece4b79ee&e=c409d6b4d8)  
-01/12/19 - Washington, DC - Black Cat (main stage) - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=f0f54fd349&e=c409d6b4d8)  
-01/13/19 - Richmond, VA - Richmond Music Hall (Capital Ale House) - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=7a8986dd54&e=c409d6b4d8)  
-01/14/19 - Durham, NC - Motorco Music Hall - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=2b5d9ecfe2&e=c409d6b4d8)  
-01/15/19 - Asheville, NC - Grey Eagle - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=5e255f8f6a&e=c409d6b4d8)  
-01/16/19 - Atlanta, GA - The Earl - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=e5de534a09&e=c409d6b4d8)  
-01/17/19 - Birmingham, AL – Saturn - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=2a19c0a4fd&e=c409d6b4d8)  
-01/18/19 - New Orleans, LA - One Eyed Jacks - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=98f34cd96f&e=c409d6b4d8)  
-01/19/19 - Houston, TX - House of Blues - Bronze Peacock - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=aa4c719e3d&e=c409d6b4d8)  
-01/20/19 - Austin, TX - 3TEN ACL - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=0102ed2fba&e=c409d6b4d8)  
-01/21/19 - San Antonio, TX - Paper Tiger - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=9fc82d7375&e=c409d6b4d8)  
-01/22/19 - Dallas, TX - Club Dada - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=a722e308df&e=c409d6b4d8)  
-01/23/19 - Little Rock, AR – Stickyz - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=592d026df5&e=c409d6b4d8)  
-01/24/19 - Memphis, TN - Hi-Tone Café - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=51a5cd6bb9&e=c409d6b4d8)  
-01/25/19 - Nashville, TN - Exit/In - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=e287457899&e=c409d6b4d8)  
-01/26/19 - Knoxville, TN - Pilot Light - Tickets  
-01/27/19 - Charlotte, NC - Side Stage at the Neighborhood Theatre - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=c3f47fab0e&e=c409d6b4d8)  
-01/28/19 - Virginia Beach, VA - Bunker Brewpub & Cadence Hall - Tickets  
-01/29/19 - Harrisonburg, VA - The Golden Pony - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=134b63f7ed&e=c409d6b4d8)  
-01/30/19 - Lancaster, PA - Chameleon Club - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=705ed097c8&e=c409d6b4d8)  
-01/31/19 - Brooklyn, NY - Rough Trade - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=c50b7d10e5&e=c409d6b4d8)  
-02/01/19 - Allston, MA - Great Scott - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=65778bc328&e=c409d6b4d8)  
-02/02/19 - Pawtucket, RI - The Met - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=e442269809&e=c409d6b4d8)  
-  
-**Find Jon Spencer at:**  
-[Facebook](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=a5d534261b&e=c409d6b4d8)  
-[Twitter](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=58e691d411&e=c409d6b4d8)  
-[Instagram](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=0691a9884d&e=c409d6b4d8)  
+**Jon Spencer** **LIVE with** **The Hitmakers**: 
+
+01/11/19 - Philadelphia, PA - Johnny Brenda's - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=0ece4b79ee&e=c409d6b4d8)
+01/12/19 - Washington, DC - Black Cat (main stage) - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=f0f54fd349&e=c409d6b4d8)
+01/13/19 - Richmond, VA - Richmond Music Hall (Capital Ale House) - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=7a8986dd54&e=c409d6b4d8)
+01/14/19 - Durham, NC - Motorco Music Hall - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=2b5d9ecfe2&e=c409d6b4d8)
+01/15/19 - Asheville, NC - Grey Eagle - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=5e255f8f6a&e=c409d6b4d8)
+01/16/19 - Atlanta, GA - The Earl - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=e5de534a09&e=c409d6b4d8)
+01/17/19 - Birmingham, AL – Saturn - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=2a19c0a4fd&e=c409d6b4d8)
+01/18/19 - New Orleans, LA - One Eyed Jacks - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=98f34cd96f&e=c409d6b4d8)
+01/19/19 - Houston, TX - House of Blues - Bronze Peacock - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=aa4c719e3d&e=c409d6b4d8)
+01/20/19 - Austin, TX - 3TEN ACL - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=0102ed2fba&e=c409d6b4d8)
+01/21/19 - San Antonio, TX - Paper Tiger - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=9fc82d7375&e=c409d6b4d8)
+01/22/19 - Dallas, TX - Club Dada - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=a722e308df&e=c409d6b4d8)
+01/23/19 - Little Rock, AR – Stickyz - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=592d026df5&e=c409d6b4d8)
+01/24/19 - Memphis, TN - Hi-Tone Café - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=51a5cd6bb9&e=c409d6b4d8)
+01/25/19 - Nashville, TN - Exit/In - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=e287457899&e=c409d6b4d8)
+01/26/19 - Knoxville, TN - Pilot Light - Tickets
+01/27/19 - Charlotte, NC - Side Stage at the Neighborhood Theatre - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=c3f47fab0e&e=c409d6b4d8)
+01/28/19 - Virginia Beach, VA - Bunker Brewpub & Cadence Hall - Tickets
+01/29/19 - Harrisonburg, VA - The Golden Pony - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=134b63f7ed&e=c409d6b4d8)
+01/30/19 - Lancaster, PA - Chameleon Club - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=705ed097c8&e=c409d6b4d8)
+01/31/19 - Brooklyn, NY - Rough Trade - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=c50b7d10e5&e=c409d6b4d8)
+02/01/19 - Allston, MA - Great Scott - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=65778bc328&e=c409d6b4d8)
+02/02/19 - Pawtucket, RI - The Met - [Tickets](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=e442269809&e=c409d6b4d8)
+
+**Find Jon Spencer at:**
+[Facebook](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=a5d534261b&e=c409d6b4d8)
+[Twitter](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=58e691d411&e=c409d6b4d8)
+[Instagram](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=0691a9884d&e=c409d6b4d8)
 [In The Red Records](https://girlieaction.us1.list-manage.com/track/click?u=1d59aca4aeedaab429816159e&id=1df9066c8b&e=c409d6b4d8)

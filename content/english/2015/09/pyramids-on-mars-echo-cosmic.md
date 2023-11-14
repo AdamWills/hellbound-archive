@@ -1,9 +1,10 @@
 ---
 title: "Pyramids On Mars – Echo Cosmic"
+edited: false
 date: "2015-09-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "heavy-metal"
   - "instrumental"

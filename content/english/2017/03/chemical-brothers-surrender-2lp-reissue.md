@@ -1,10 +1,11 @@
 ---
 title: "The Chemical Brothers – Surrender (2LP reissue)"
+edited: false
 date: "2017-03-10"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "chemical-brothers"
   - "review"
   - "vinyl"

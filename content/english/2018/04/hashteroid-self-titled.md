@@ -1,11 +1,12 @@
 ---
 title: "Hashteroid – self-titled"
+edited: false
 date: "2018-04-20"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hashteroid"
   - "punk"
   - "punk-rock"

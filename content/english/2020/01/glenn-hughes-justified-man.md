@@ -1,9 +1,10 @@
 ---
 title: "Glenn Hughes – Justified Man"
+edited: false
 date: "2020-01-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "boxset"
   - "hard-rock"
   - "heavy-metal"

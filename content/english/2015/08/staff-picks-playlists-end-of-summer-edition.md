@@ -1,11 +1,12 @@
 ---
 title: "Staff picks & playlists: end of summer edition"
+edited: false
 date: "2015-08-31"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "staff-picks"
   - "staff-playlists"
 ---

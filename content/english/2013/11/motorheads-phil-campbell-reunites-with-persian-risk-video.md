@@ -1,11 +1,12 @@
 ---
 title: "Motorhead's Phil Campbell reunites with Persian Risk (video)"
+edited: false
 date: "2013-11-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "live"
   - "motorhead"
   - "nwobhm"

@@ -1,10 +1,11 @@
 ---
 title: "Shroud Eater – Strike the Sun"
+edited: false
 date: "2017-07-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

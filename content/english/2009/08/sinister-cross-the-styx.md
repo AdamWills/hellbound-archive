@@ -1,11 +1,12 @@
 ---
 title: "Sinister: Cross The Styx"
+edited: false
 date: "2009-08-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "holland"
   - "metal-mind"

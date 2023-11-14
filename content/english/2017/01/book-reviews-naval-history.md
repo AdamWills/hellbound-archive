@@ -1,9 +1,10 @@
 ---
 title: "Book reviews: naval history"
+edited: false
 date: "2017-01-24"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-reviews"
   - "history"
   - "military"

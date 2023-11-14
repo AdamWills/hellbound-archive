@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: High on Fire/Pallbearer/Lucifer @ Opera House, August 13, 2015"
+edited: false
 date: "2015-08-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "high-on-fire"

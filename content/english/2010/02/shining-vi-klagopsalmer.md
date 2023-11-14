@@ -1,11 +1,12 @@
 ---
 title: "Shining - VI Klagopsalmer"
+edited: false
 date: "2010-02-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "season-of-mist"
   - "shining"

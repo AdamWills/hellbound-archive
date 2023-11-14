@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogations #20: Jason Wellwood"
+edited: false
 date: "2011-06-28"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "adam-wills"
   - "alice-cooper"
   - "annihilator"

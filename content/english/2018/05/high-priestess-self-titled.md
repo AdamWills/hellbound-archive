@@ -1,10 +1,11 @@
 ---
 title: "High Priestess – self-titled"
+edited: false
 date: "2018-05-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy"
   - "high-priestess"

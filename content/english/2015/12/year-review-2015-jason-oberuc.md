@@ -1,10 +1,11 @@
 ---
 title: "Year-in-review 2015: Jason Oberuc"
+edited: false
 date: "2015-12-18"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2015"
   - "metal"
   - "year-end-end-of-year"

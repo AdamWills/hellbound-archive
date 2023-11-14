@@ -1,9 +1,10 @@
 ---
 title: "Monolord – Vaenir"
+edited: false
 date: "2015-04-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "doom-metal"

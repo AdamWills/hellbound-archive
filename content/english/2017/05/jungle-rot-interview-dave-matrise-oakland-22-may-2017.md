@@ -1,9 +1,10 @@
 ---
 title: "JUNGLE ROT Interview: Dave Matrise in Oakland, 22 May 2017"
+edited: false
 date: "2017-05-28"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "interview"
   - "jungle-rot"

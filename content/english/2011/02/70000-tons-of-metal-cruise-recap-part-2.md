@@ -1,11 +1,12 @@
 ---
 title: "70000 TONS OF METAL Cruise Recap Part 2"
+edited: false
 date: "2011-02-02"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "70000-tons-of-metal"
   - "accept"
   - "agent-steel"

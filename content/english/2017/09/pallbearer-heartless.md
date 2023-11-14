@@ -1,10 +1,11 @@
 ---
 title: "Pallbearer – Heartless"
+edited: false
 date: "2017-09-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "pallbearer"

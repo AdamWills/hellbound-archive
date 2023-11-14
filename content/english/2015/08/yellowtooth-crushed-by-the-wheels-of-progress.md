@@ -1,9 +1,10 @@
 ---
 title: "Yellowtooth – Crushed by the Wheels of Progress"
+edited: false
 date: "2015-08-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "crowbar"
   - "doom"
   - "down"

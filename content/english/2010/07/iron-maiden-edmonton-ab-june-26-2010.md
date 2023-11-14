@@ -1,11 +1,12 @@
 ---
 title: "Iron Maiden @ Rexall Place, Edmonton AB, June 26, 2010"
+edited: false
 date: "2010-07-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "canada"
   - "dave-sanders"
   - "edmonton"

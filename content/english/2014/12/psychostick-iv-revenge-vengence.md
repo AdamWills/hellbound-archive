@@ -1,9 +1,10 @@
 ---
 title: "Psychostick – IV: Revenge of the Vengence"
+edited: false
 date: "2014-12-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "beards"
   - "bruce-campbell"

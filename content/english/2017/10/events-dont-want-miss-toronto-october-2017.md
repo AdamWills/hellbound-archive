@@ -1,11 +1,12 @@
 ---
 title: "Events You Don't Want to Miss, Toronto - October 2017"
+edited: false
 date: "2017-10-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "psa"
-tags: 
+tags:
   - "events"
   - "live"
   - "metal"

@@ -1,10 +1,11 @@
 ---
 title: "Fallen Legion – Downfall"
+edited: false
 date: "2018-05-03"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "fallen-legion"
   - "heavy-metal"
   - "metal"

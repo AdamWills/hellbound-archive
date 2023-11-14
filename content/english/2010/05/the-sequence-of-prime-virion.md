@@ -1,11 +1,12 @@
 ---
 title: "The Sequence Of Prime - Virion"
+edited: false
 date: "2010-05-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "kansas"
   - "one-man-band"
   - "the-sequence-of-prime"

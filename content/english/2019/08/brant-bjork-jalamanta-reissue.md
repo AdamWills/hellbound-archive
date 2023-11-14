@@ -1,10 +1,11 @@
 ---
 title: "Brant Bjork – Jalamanta (reissue)"
+edited: false
 date: "2019-08-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "70"
   - "heavy-psych"
   - "proto-rock"

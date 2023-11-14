@@ -1,9 +1,10 @@
 ---
 title: "Hellbound’s Progressive Nation at Sea Awards 2014"
+edited: false
 date: "2014-03-14"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "anathema"
   - "animals-as-leaders"

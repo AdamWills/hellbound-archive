@@ -1,11 +1,12 @@
 ---
 title: "Witch Mountain / Blood Ceremony / Castle @ Hard Luck Bar, Toronto ON, June 13th 2012"
+edited: false
 date: "2012-07-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "blood-ceremony"
   - "castle"
   - "live-review"

@@ -1,11 +1,12 @@
 ---
 title: "Iggy and the Stooges - Tribute to Ron Asheton DVD"
+edited: false
 date: "2013-05-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "henry-rollins"
   - "iggy-pop"
   - "james-williamson"

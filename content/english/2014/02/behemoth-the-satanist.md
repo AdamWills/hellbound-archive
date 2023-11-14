@@ -1,11 +1,12 @@
 ---
 title: "Behemoth – The Satanist"
+edited: false
 date: "2014-02-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "behemoth"
   - "blackened-death-metal"

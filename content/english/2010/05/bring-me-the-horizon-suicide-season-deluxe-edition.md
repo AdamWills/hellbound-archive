@@ -1,11 +1,12 @@
 ---
 title: "Bring Me The Horizon - Suicide Season (Deluxe Edition)"
+edited: false
 date: "2010-05-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bring-me-the-horizon"
   - "earache"
   - "england"

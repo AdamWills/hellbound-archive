@@ -1,11 +1,12 @@
 ---
 title: "Demontage – The Principal Extinction"
+edited: false
 date: "2011-02-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atlantean-kodex"
   - "bathory"
   - "demontage"

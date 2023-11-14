@@ -1,9 +1,10 @@
 ---
 title: "Venomous Maximus – Firewalker"
+edited: false
 date: "2015-05-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "heavy-metal"
   - "power-metal"

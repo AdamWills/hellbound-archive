@@ -1,7 +1,8 @@
 ---
 title: "Harvestman/US Christmas/Minsk: <em>Hawkwind Triad</em>"
+edited: false
 date: "2010-04-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"

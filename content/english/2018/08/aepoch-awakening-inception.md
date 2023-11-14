@@ -1,10 +1,11 @@
 ---
 title: "Aepoch – Awakening Inception"
+edited: false
 date: "2018-08-27"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "canadian"
   - "death-metal"

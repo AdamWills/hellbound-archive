@@ -1,9 +1,10 @@
 ---
 title: "The Jelly Jam + Rustik @ The Rockpile, Toronto - 18 August 2017"
+edited: false
 date: "2017-08-30"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "alternative"
   - "concert"
   - "dream-theater"

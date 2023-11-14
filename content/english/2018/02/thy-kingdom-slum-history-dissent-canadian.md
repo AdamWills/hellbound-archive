@@ -1,11 +1,12 @@
 ---
 title: "Thy Kingdom Slum – A History of Dissent *CANADIAN*"
+edited: false
 date: "2018-02-08"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "doom"
   - "heavy-rock"

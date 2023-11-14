@@ -1,11 +1,12 @@
 ---
 title: "Escape The Fate: s/t"
+edited: false
 date: "2010-11-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "epitaph"
   - "escape-the-fate"

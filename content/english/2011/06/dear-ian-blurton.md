@@ -1,11 +1,12 @@
 ---
 title: "Dear Ian Blurton..."
+edited: false
 date: "2011-06-18"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "cmon"
   - "graveyard"
   - "gruesome-greg"

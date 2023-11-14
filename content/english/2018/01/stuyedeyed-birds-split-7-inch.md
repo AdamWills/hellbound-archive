@@ -1,9 +1,10 @@
 ---
 title: "Stuyedeyed / Birds – split 7-inch"
+edited: false
 date: "2018-01-26"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "birds"
   - "psychedelic"

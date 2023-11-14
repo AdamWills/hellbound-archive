@@ -1,9 +1,10 @@
 ---
 title: "The Secret History Of The Hell-Fire Clubs"
+edited: false
 date: "2019-10-29"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "history"
   - "non-fiction"

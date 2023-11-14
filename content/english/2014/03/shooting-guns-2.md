@@ -1,9 +1,10 @@
 ---
 title: "Shooting Guns: dealing some heavy instrumental magic"
+edited: false
 date: "2014-03-12"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "bandcamp"
   - "canadian-metal"
   - "canuck-metal-you-dont-want-to-miss"

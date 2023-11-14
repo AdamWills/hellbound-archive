@@ -1,14 +1,15 @@
 ---
 title: "Dragged Into Sunlight - American tour blog 2016"
+edited: false
 date: "2017-03-23"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "headline"
   - "jay_gorania"
-tags: 
+tags:
   - "black-metal"
   - "cult-leader"
   - "death-metal"

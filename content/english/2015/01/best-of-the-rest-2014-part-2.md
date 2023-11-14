@@ -1,10 +1,11 @@
 ---
 title: "Best of the rest – 2014 (part 2): re-dos and other odds & ends"
+edited: false
 date: "2015-01-13"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-metal-of-2014"
   - "best-of"
   - "best-of-2014"

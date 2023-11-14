@@ -1,10 +1,11 @@
 ---
 title: "Maryland Deathfest 2014: Day 3"
+edited: false
 date: "2014-05-25"
-categories: 
+categories:
   - "reviews-live"
   - "editors_blog"
-tags: 
+tags:
   - "dark-angel"
   - "entrails"
   - "live-metal"

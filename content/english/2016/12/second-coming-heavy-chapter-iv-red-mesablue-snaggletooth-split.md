@@ -1,10 +1,11 @@
 ---
 title: "The Second Coming of Heavy Chapter IV: Red Mesa/Blue Snaggletooth split"
+edited: false
 date: "2016-12-12"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blue-snaggletooth"
   - "blues-rock"
   - "garage-rock"

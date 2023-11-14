@@ -1,10 +1,11 @@
 ---
 title: "Full Metal Parenting #1: Birds, bees, and big old riffs"
+edited: false
 date: "2014-03-28"
-categories: 
+categories:
   - "articles"
   - "features"
-tags: 
+tags:
   - "full-metal-parenting"
   - "metal"
   - "parenting"

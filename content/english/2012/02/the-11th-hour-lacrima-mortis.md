@@ -1,11 +1,12 @@
 ---
 title: "The 11th Hour - Lacrima Mortis"
+edited: false
 date: "2012-02-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ayreon"
   - "celtic-frost"
   - "doom-metal"

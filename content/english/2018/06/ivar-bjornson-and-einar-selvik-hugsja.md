@@ -1,9 +1,10 @@
 ---
 title: "Ivar Bjørnson and Einar Selvik – Hugsjá"
+edited: false
 date: "2018-06-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hugsja"
   - "review"
 ---

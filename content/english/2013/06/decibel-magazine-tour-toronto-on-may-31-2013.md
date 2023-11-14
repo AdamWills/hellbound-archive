@@ -1,12 +1,13 @@
 ---
 title: "Decibel Magazine Tour 2013 @ Phoenix Concert Theatre, Toronto ON, May 31, 2013"
+edited: false
 date: "2013-06-06"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "beyond-creation"
   - "buffalo"

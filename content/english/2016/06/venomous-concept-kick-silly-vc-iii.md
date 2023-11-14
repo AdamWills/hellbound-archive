@@ -1,9 +1,10 @@
 ---
 title: "VENOMOUS CONCEPT – KICK ME SILLY - VC III"
+edited: false
 date: "2016-06-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "grindcore"
   - "hardcore"
   - "kick-me-silly"

@@ -1,11 +1,12 @@
 ---
 title: "The Senders - All Killer No Filler (1977 – 2001) 2LP"
+edited: false
 date: "2022-12-16"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "2lp"
   - "all-killer"
   - "johnny"

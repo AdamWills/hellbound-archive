@@ -1,9 +1,10 @@
 ---
 title: "BlackLab – Under The Strawberry Moon"
+edited: false
 date: "2018-06-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "blacklab"
   - "doom"
   - "japan"

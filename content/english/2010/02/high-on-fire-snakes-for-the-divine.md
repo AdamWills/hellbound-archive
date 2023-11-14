@@ -1,11 +1,12 @@
 ---
 title: "High On Fire - Snakes For The Divine"
+edited: false
 date: "2010-02-24"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "e1-r"
   - "e1-records"
   - "high-on-fire"

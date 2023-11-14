@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: BRUJERIA/Dayglo Abortions @ Opera House, June 16, 2018"
+edited: false
 date: "2018-06-17"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "brujeria"
   - "concert-photography"
   - "concert-photos"

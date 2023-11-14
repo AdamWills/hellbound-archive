@@ -1,7 +1,8 @@
 ---
 title: "Thrall - Schisms"
+edited: false
 date: "2022-06-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"

@@ -1,11 +1,12 @@
 ---
 title: "Noctis Valkyries 5: Hell Comes To Cowtown"
+edited: false
 date: "2012-10-19"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "ronnie-james-dio"
   - "adrien-begrand"
   - "agalloch"

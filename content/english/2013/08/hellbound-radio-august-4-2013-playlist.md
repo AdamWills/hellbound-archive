@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO - August 4, 2013 Playlist"
+edited: false
 date: "2013-08-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "baroness"
   - "burnt-by-the-sun"
   - "cattle-decapitation"

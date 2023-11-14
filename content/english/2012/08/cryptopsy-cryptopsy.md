@@ -1,11 +1,12 @@
 ---
 title: "Cryptopsy - Cryptopsy"
+edited: false
 date: "2012-08-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "cryptopsy"
   - "death-metal"

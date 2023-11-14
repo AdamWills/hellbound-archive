@@ -1,10 +1,11 @@
 ---
 title: "Bang – Best of Bang"
+edited: false
 date: "2018-04-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "70s"
   - "bang"
   - "hard-rock"

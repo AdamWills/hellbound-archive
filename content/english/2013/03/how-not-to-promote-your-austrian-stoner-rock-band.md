@@ -1,11 +1,12 @@
 ---
 title: "How NOT to promote your Austrian stoner rock band..."
+edited: false
 date: "2013-03-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "mans-ruin"
   - "meteorcity"

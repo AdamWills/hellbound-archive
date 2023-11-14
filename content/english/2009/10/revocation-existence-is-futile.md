@@ -1,11 +1,12 @@
 ---
 title: "Revocation: Existence Is Futile"
+edited: false
 date: "2009-10-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "relapse"
   - "revocation"

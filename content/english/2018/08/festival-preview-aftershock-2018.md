@@ -1,10 +1,11 @@
 ---
 title: "Festival preview: Aftershock 2018"
+edited: false
 date: "2018-08-06"
-categories: 
+categories:
   - "psa"
   - "reviews-live"
-tags: 
+tags:
   - "aftershock"
   - "aftershock-festival"
   - "alice-in-chains"

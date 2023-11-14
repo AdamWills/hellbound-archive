@@ -1,9 +1,10 @@
 ---
 title: "The Zero Theorem"
+edited: false
 date: "2014-04-16"
-categories: 
+categories:
   - "reviews"
-tags: 
+tags:
   - "film"
   - "review"
   - "steve-earles"

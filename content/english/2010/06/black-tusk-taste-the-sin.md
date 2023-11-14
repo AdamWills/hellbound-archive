@@ -1,11 +1,12 @@
 ---
 title: "Black Tusk - Taste The Sin"
+edited: false
 date: "2010-06-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "black-tusk"
   - "kylesa"

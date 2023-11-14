@@ -1,10 +1,11 @@
 ---
 title: "V/A - This Comp Kills Fascists"
+edited: false
 date: "2009-05-31"
-categories: 
+categories:
   - "featured"
   - "reviews-vinyl"
-tags: 
+tags:
   - "grind"
 ---
 

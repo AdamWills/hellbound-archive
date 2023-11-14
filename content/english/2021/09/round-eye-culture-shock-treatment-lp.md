@@ -1,9 +1,10 @@
 ---
 title: "Round Eye - Culture Shock Treatment LP"
+edited: false
 date: "2021-09-26"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "culture"
   - "doa"
   - "eye"

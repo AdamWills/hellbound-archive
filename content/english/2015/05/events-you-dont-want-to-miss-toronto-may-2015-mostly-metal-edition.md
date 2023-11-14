@@ -1,11 +1,12 @@
 ---
 title: "Events You Don't Want to Miss, Toronto – May 2015 Mostly Metal edition"
+edited: false
 date: "2015-05-05"
-categories: 
+categories:
   - "blogs"
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "concerts"
   - "live-metal"
   - "toronto"

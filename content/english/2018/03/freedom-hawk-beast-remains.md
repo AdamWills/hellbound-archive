@@ -1,10 +1,11 @@
 ---
 title: "Freedom Hawk – Beast Remains"
+edited: false
 date: "2018-03-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "classic-rock"
   - "freedom-hawk"
   - "hard-rock"

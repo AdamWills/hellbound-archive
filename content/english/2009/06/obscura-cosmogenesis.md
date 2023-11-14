@@ -1,10 +1,11 @@
 ---
 title: "Obscura: Cosmogenesis"
+edited: false
 date: "2009-06-02"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "germany"
   - "necrophagist"
   - "obscura"

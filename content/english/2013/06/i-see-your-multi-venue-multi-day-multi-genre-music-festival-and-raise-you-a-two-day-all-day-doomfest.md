@@ -1,11 +1,12 @@
 ---
 title: "I see your multi-venue, multi-day, multi-genre music festival, and raise you...  a two-day, all-day doomfest!"
+edited: false
 date: "2013-06-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert"
   - "days-of-the-doomed"
   - "doom"

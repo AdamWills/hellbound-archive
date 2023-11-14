@@ -1,11 +1,12 @@
 ---
 title: "So, the Bovine just turned 20 (insert joke about age of patrons here)"
+edited: false
 date: "2011-03-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "barn-burner"
   - "bovine-sex-club"
   - "canadian-music-week"

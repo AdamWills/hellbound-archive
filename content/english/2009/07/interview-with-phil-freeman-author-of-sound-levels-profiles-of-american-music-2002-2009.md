@@ -1,11 +1,12 @@
 ---
 title: "Interview with Phil Freeman, Author of Sound Levels: Profiles In American Music, 2002-2009"
+edited: false
 date: "2009-07-29"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "alternative-press"
   - "book"
   - "hustler"

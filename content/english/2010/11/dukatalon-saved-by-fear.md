@@ -1,11 +1,12 @@
 ---
 title: "Dukatalon – Saved by Fear"
+edited: false
 date: "2010-11-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dukatalon"
   - "eyehategod"
   - "gruesome-greg"

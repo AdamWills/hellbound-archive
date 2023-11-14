@@ -1,9 +1,10 @@
 ---
 title: "Cryptopsy – The Book of Suffering (Tome 1)"
+edited: false
 date: "2015-11-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "cryptopsy"
   - "death-metal"

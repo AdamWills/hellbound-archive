@@ -1,12 +1,13 @@
 ---
 title: "Barge To Hell Cruise Recap Part 1"
+edited: false
 date: "2012-12-12"
-categories: 
+categories:
   - "featured"
   - "features"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "adrien-begrand"
   - "albert-mansour"
   - "angela-gossow"

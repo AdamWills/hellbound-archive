@@ -1,11 +1,12 @@
 ---
 title: "Forest Stream's Somn on Songwriting and Storytelling"
+edited: false
 date: "2009-09-11"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "candlelight-usa"
   - "doom"
   - "forest-stream"

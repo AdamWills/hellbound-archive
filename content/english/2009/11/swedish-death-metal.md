@@ -1,11 +1,12 @@
 ---
 title: "Various Artists:Swedish Death Metal"
+edited: false
 date: "2009-11-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "at-the-gates"
   - "death-metal"
   - "dismember"

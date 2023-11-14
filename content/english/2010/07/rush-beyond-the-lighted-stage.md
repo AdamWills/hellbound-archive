@@ -1,12 +1,13 @@
 ---
 title: "9 Reviews of... Rush: Beyond The Lighted Stage"
+edited: false
 date: "2010-07-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "reviews-visual"
-tags: 
+tags:
   - "alliance-atlantis"
   - "banger-films"
   - "canada"

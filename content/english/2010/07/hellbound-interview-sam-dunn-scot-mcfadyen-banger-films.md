@@ -1,11 +1,12 @@
 ---
 title: "The Hellbound Interview: Sam Dunn & Scot McFadyen of Banger Films"
+edited: false
 date: "2010-07-01"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "banger-films"
   - "film"
   - "hellbound-interview"

@@ -1,9 +1,10 @@
 ---
 title: "Suffocation – Of The Dark Light"
+edited: false
 date: "2017-05-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "review"
   - "suffocation"

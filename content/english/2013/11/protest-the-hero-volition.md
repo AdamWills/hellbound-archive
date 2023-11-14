@@ -1,10 +1,11 @@
 ---
 title: "Protest The Hero - Volition"
+edited: false
 date: "2013-11-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "lamb-of-god"
   - "protest-the-hero"

@@ -1,11 +1,12 @@
 ---
 title: "Rage – Strings To A Web"
+edited: false
 date: "2010-06-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blind-guardian"
   - "germany"
   - "nuclear-blast"

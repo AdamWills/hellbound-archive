@@ -1,10 +1,11 @@
 ---
 title: "NOFX – Punk In Drublic (vinyl reissue)"
+edited: false
 date: "2015-01-21"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "nofx"
   - "punk"

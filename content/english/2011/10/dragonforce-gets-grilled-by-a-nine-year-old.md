@@ -1,11 +1,12 @@
 ---
 title: "DRAGONFORCE GETS GRILLED BY A NINE-YEAR-OLD"
+edited: false
 date: "2011-10-25"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "dragonforce"
   - "guitar-hero"
   - "opera-house"

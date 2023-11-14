@@ -1,11 +1,12 @@
 ---
 title: "Skinny Puppy - HanDover"
+edited: false
 date: "2011-12-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "industrial"
   - "lauren-leuschner"
   - "skinny-puppy"

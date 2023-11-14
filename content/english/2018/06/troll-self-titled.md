@@ -1,10 +1,11 @@
 ---
 title: "Troll – self-titled"
+edited: false
 date: "2018-06-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "heavy-rock"

@@ -1,11 +1,12 @@
 ---
 title: "Ozzy Osbourne - Speak of the Devil DVD"
+edited: false
 date: "2012-07-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "black-sabbath"
   - "eagle-vision"
   - "jason-wellwood"

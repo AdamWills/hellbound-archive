@@ -1,12 +1,13 @@
 ---
 title: "Gone Fishing On Monday! See You Tuesday!"
+edited: false
 date: "2010-08-02"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "gone-fishing"
   - "holiday"
 ---

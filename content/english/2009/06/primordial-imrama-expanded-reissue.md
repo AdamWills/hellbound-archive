@@ -1,10 +1,11 @@
 ---
 title: "Primordial: Imrama (expanded reissue)"
+edited: false
 date: "2009-06-09"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "ireland"
   - "metal-blade"

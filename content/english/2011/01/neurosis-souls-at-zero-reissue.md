@@ -1,11 +1,12 @@
 ---
 title: "Neurosis – Souls at Zero (reissue)"
+edited: false
 date: "2011-01-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative-tentacles"
   - "gruesome-greg"
   - "neurosis"

@@ -1,10 +1,11 @@
 ---
 title: "Suzi Moon - Dumb & In Luv LP"
+edited: false
 date: "2022-09-08"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "dumb"
   - "in-luv"
   - "moon"

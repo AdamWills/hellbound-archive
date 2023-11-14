@@ -1,11 +1,12 @@
 ---
 title: "Photo gallery: Down @ Koolhaus, Toronto ON, Sept 18, 2009"
+edited: false
 date: "2009-09-22"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "concert"
   - "down"

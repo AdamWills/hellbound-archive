@@ -1,11 +1,12 @@
 ---
 title: "Hotter Than Hell: Chicken Wings on Bloor St. (Toronto)"
+edited: false
 date: "2009-12-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blog"
   - "chicken-wings"
   - "gruesome-greg"

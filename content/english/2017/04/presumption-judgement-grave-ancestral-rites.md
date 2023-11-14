@@ -1,9 +1,10 @@
 ---
 title: "Presumption – 'From Judgement To The Grave' and 'Ancestral Rites'"
+edited: false
 date: "2017-04-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "presumption"

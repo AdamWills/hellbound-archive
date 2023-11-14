@@ -1,7 +1,8 @@
 ---
 title: "Eluveitie and Omnium Gatherum in Charlotte"
+edited: false
 date: "2023-04-11"
-categories: 
+categories:
   - "reviews-live"
 ---
 

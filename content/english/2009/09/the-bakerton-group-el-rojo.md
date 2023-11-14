@@ -1,11 +1,12 @@
 ---
 title: "The Bakerton Group: El Rojo"
+edited: false
 date: "2009-09-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "clutch"
   - "opeth"
   - "the-bakerton-group"

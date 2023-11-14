@@ -1,11 +1,12 @@
 ---
 title: "Primordial - All Empires Fall"
+edited: false
 date: "2010-06-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "adrien-begrand"
   - "black-metal"
   - "dvd-review"

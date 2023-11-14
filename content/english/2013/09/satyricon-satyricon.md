@@ -1,11 +1,12 @@
 ---
 title: "Satyricon - Satyricon"
+edited: false
 date: "2013-09-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "heavy-metal"
   - "killing-joke"

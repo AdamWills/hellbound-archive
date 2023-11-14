@@ -1,11 +1,12 @@
 ---
 title: "Black Cobra: Chronomega"
+edited: false
 date: "2010-01-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-cobra"
   - "buzzoven"
   - "crust"

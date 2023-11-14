@@ -1,11 +1,12 @@
 ---
 title: "Bruce Soord with Jonas Renkse - Wisdom of Crowds"
+edited: false
 date: "2013-07-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bruce-soord"
   - "david-gilmour"

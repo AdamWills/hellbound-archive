@@ -1,10 +1,11 @@
 ---
 title: "Sons of Seasons: Gods of Vermin"
+edited: false
 date: "2009-06-04"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "ancient-curse"
   - "doro"
   - "epica"

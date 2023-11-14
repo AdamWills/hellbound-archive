@@ -1,9 +1,10 @@
 ---
 title: "Bryant & May: The Lonely Hour"
+edited: false
 date: "2019-08-31"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-reviews"
   - "detective-fiction"
   - "fiction"

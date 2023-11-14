@@ -1,7 +1,8 @@
 ---
 title: "In From Out Of Nowhere – Round Eye Emerges"
+edited: false
 date: "2015-06-04"
-categories: 
+categories:
   - "interviews"
 ---
 

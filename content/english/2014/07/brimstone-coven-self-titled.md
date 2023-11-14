@@ -1,9 +1,10 @@
 ---
 title: "Brimstone Coven – Self-Titled"
+edited: false
 date: "2014-07-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal-blade"
   - "occult-rock"
   - "retro"

@@ -1,9 +1,10 @@
 ---
 title: "Aftershock Festival 2019 PREVIEW"
+edited: false
 date: "2019-04-25"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "live"
   - "metal"
   - "preview"

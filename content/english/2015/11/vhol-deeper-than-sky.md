@@ -1,10 +1,11 @@
 ---
 title: "Vhol – Deeper Than Sky"
+edited: false
 date: "2015-11-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "2015"
   - "album-review"
   - "black-metal"

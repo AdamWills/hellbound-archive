@@ -1,10 +1,11 @@
 ---
 title: "Steven Bradley – Summer Bliss and Autumn Tears LP"
+edited: false
 date: "2020-02-07"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: "Hopeless Youth"
+edited: false
 date: "2014-06-19"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "candlelight-records"
   - "hardcore"
   - "hopeless-youth"

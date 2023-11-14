@@ -1,11 +1,12 @@
 ---
 title: "The Hellbound Interview: Earl Douglas, Author of Black Rock Volume 1"
+edited: false
 date: "2010-06-28"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-rock-coalition"
   - "david-bowie"
   - "earl-douglas"

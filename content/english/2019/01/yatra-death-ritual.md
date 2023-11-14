@@ -1,10 +1,11 @@
 ---
 title: "Yatra – Death Ritual"
+edited: false
 date: "2019-01-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

@@ -1,11 +1,12 @@
 ---
 title: "In Vancouver on Friday, March 23rd? Check this show out!"
+edited: false
 date: "2012-03-21"
-categories: 
+categories:
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "ancients"
   - "metal"
   - "vancouver"

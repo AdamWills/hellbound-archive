@@ -1,7 +1,8 @@
 ---
 title: "Sofa King Addicted - The Hard Carnival"
+edited: false
 date: "2020-04-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

@@ -1,13 +1,14 @@
 ---
 title: "Cephalic Carnage Tour Diary: Part 2"
+edited: false
 date: "2010-09-13"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "headline"
   - "jay_gorania"
-tags: 
+tags:
   - "calgary"
   - "cephalic-carnage"
   - "decapitated"

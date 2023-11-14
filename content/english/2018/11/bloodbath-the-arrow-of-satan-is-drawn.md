@@ -1,9 +1,10 @@
 ---
 title: "Bloodbath – The Arrow Of Satan Is Drawn"
+edited: false
 date: "2018-11-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bloodbath"
   - "death-metal"
   - "review"

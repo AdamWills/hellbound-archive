@@ -1,11 +1,12 @@
 ---
 title: "Thinning the Herd – Oceans Rise"
+edited: false
 date: "2011-03-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gruesome-greg"
   - "monster-magnet"
   - "new-jersey"

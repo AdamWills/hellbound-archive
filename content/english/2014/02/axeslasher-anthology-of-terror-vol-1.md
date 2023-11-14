@@ -1,11 +1,12 @@
 ---
 title: "Axeslasher – Anthology of Terror Vol. 1"
+edited: false
 date: "2014-02-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "axeslasher"
   - "bandcamp"

@@ -1,9 +1,10 @@
 ---
 title: "Lars Frederiksen and the Bastards – Live and Loud!! LP"
+edited: false
 date: "2018-02-06"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "lars-frederiksen-and-the-bastards"
   - "live"
   - "review"

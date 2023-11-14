@@ -1,9 +1,10 @@
 ---
 title: "Rosalie Cunningham: Rosalie Cunningham"
+edited: false
 date: "2019-08-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "music"
   - "psychedelic-rock"
   - "rock"

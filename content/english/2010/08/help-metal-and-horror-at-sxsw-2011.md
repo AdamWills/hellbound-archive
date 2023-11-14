@@ -1,11 +1,12 @@
 ---
 title: "Q&A with Author Corey Mitchell / Help Promote Metal…and Horror Films at the 2011 South by South West Music Fest"
+edited: false
 date: "2010-08-27"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "austin-tx"
   - "bloodydisgusting-com"
   - "cory-mitchell"

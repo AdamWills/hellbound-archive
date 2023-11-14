@@ -1,13 +1,14 @@
 ---
 title: "It’s Kvlt to Eat Your Vegetables: Vegan Black Metal Chef’s Pad Thai"
+edited: false
 date: "2011-11-10"
-categories: 
+categories:
   - "adam_wills"
   - "articles"
   - "blogs"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "darkthrone"
   - "laura-wiebe"

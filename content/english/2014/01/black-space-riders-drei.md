@@ -1,9 +1,10 @@
 ---
 title: "Black Space Riders – D:REI"
+edited: false
 date: "2014-01-31"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-space-riders"
   - "concept-albums"
   - "industrial"

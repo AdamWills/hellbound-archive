@@ -1,10 +1,11 @@
 ---
 title: "Wolves In The Throne Room: Black Cascade"
+edited: false
 date: "2009-06-08"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "southern-lord"
   - "wolves-in-the-throne-room"

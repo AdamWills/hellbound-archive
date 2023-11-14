@@ -1,9 +1,10 @@
 ---
 title: "The Julie Ruin: personal and artistic fulfillment"
+edited: false
 date: "2014-05-14"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "bikini-kill"
   - "grunge"
   - "kathleen-hanna"

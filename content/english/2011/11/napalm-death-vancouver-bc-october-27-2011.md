@@ -1,11 +1,12 @@
 ---
 title: "Napalm Death + guests @ Rickshaw Theatre, Vancouver BC, October 27, 2011"
+edited: false
 date: "2011-11-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "grindcore"
   - "kyle-harcott"
   - "live-review"

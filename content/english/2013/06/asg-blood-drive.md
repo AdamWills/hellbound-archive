@@ -1,11 +1,12 @@
 ---
 title: "ASG - Blood Drive"
+edited: false
 date: "2013-06-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "asg"
   - "baroness"
   - "black-pyramid"

@@ -1,10 +1,11 @@
 ---
 title: "Global Metal"
+edited: false
 date: "2009-05-31"
-categories: 
+categories:
   - "featured"
   - "reviews-visual"
-tags: 
+tags:
   - "canada"
 ---
 

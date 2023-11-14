@@ -1,11 +1,12 @@
 ---
 title: "Immortal / Eclipse Eternal / Panzerfaust @ The Opera House, Toronto, ON, March 27, 2010"
+edited: false
 date: "2010-03-28"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "black-metal"
   - "canada"

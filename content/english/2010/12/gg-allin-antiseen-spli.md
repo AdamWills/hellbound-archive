@@ -1,11 +1,12 @@
 ---
 title: "G.G. Allin/Antiseen split picture disc"
+edited: false
 date: "2010-12-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "antiseen"
   - "g-g-allin"
   - "gruesome-greg"

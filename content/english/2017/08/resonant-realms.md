@@ -1,11 +1,12 @@
 ---
 title: "Resonant Realms"
+edited: false
 date: "2017-08-12"
-categories: 
+categories:
   - "reviews-books"
   - "staff_picks"
   - "editors_blog"
-tags: 
+tags:
   - "animals-as-leaders"
   - "blind-guardian"
   - "clutch"

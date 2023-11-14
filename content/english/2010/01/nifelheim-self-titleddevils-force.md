@@ -1,11 +1,12 @@
 ---
 title: "Nifelheim: Self-titled/Devil's Force"
+edited: false
 date: "2010-01-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bathory"
   - "black-metal"
   - "nifelheim"

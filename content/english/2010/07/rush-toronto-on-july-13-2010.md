@@ -1,13 +1,14 @@
 ---
 title: "Rush @ Molson Canadian Amphitheatre, Toronto ON, July 13, 2010"
+edited: false
 date: "2010-07-15"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "2112"
   - "adam-wills"
   - "alex-lifeson"

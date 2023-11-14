@@ -1,12 +1,13 @@
 ---
 title: "Death to All / Anciients @ Phoenix Concert Theatre, Toronto ON, April 28, 2013"
+edited: false
 date: "2013-05-06"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "anciients"
   - "barn-burner"

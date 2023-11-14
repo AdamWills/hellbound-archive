@@ -1,9 +1,10 @@
 ---
 title: "Kinski – 7 (Or 8)"
+edited: false
 date: "2015-06-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "alt-rock"
   - "grunge"

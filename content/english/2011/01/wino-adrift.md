@@ -1,11 +1,12 @@
 ---
 title: "Wino – Adrift"
+edited: false
 date: "2011-01-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "exile-on-mainstream"
   - "gruesome-greg"
   - "motorhead"

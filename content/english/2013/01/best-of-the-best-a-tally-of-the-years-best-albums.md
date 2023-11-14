@@ -1,11 +1,12 @@
 ---
 title: "Best of the Best - A Tally of the Year's Best Albums"
+edited: false
 date: "2013-01-11"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "adam-wills"
   - "adrien-begrand"
   - "baroness"

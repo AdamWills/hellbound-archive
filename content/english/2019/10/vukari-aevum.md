@@ -1,9 +1,10 @@
 ---
 title: "Vukari – Aevum"
+edited: false
 date: "2019-10-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "metal"
   - "review"

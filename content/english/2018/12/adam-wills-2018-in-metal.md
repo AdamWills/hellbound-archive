@@ -1,11 +1,12 @@
 ---
 title: "Adam Wills' 2018 in Metal"
+edited: false
 date: "2018-12-30"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "best-of-2018"
   - "heavy-metal"

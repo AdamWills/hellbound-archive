@@ -1,10 +1,11 @@
 ---
 title: "Remember...  HEAVY MTL 2008"
+edited: false
 date: "2009-06-19"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "anthrax"
   - "deathklok"

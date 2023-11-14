@@ -1,11 +1,12 @@
 ---
 title: "Solution 45-For Aeons Past"
+edited: false
 date: "2010-07-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm-records"
   - "melodic-death-metal"
   - "review"

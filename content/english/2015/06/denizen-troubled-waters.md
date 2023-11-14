@@ -1,9 +1,10 @@
 ---
 title: "Denizen – Troubled Waters"
+edited: false
 date: "2015-06-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "denizen"
   - "heavy-blues"

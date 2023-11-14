@@ -1,11 +1,12 @@
 ---
 title: "Swallow The Sun - Emerald Forest And The Blackbird"
+edited: false
 date: "2012-03-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "amorphis"
   - "ghost-brigade"
   - "insomnium"

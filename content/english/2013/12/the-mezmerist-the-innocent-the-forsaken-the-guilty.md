@@ -1,11 +1,12 @@
 ---
 title: "The Mezmerist – The Innocent, The Forsaken, The Guilty"
+edited: false
 date: "2013-12-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-ward"
   - "bilzaro"
   - "black-sabbath"

@@ -1,10 +1,11 @@
 ---
 title: "The Psychedelic Sound of The Thirteenth Floor Elevators LP"
+edited: false
 date: "2016-03-12"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "classics"
   - "review"
   - "rock"

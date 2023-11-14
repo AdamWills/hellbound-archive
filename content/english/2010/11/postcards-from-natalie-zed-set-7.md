@@ -1,10 +1,11 @@
 ---
 title: "Postcards From Natalie Zed: Set #7"
+edited: false
 date: "2010-11-26"
-categories: 
+categories:
   - "headline"
   - "reviews-audio"
-tags: 
+tags:
   - "aetherius-obscuritas"
   - "cephalic-carnage"
   - "deathwish-inc"

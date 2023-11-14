@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Staff Interrogation #3: Kieran Palmerston"
+edited: false
 date: "2011-06-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "gwar"
   - "iron-maiden"
   - "kieran-palmerston"

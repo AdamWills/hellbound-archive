@@ -1,11 +1,12 @@
 ---
 title: "Gnostic: Engineering the Rule"
+edited: false
 date: "2009-12-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atheist"
   - "gnostic"
   - "progressive-metal"

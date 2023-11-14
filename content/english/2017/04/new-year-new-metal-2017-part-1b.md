@@ -1,11 +1,12 @@
 ---
 title: "A NEW YEAR, MORE NEW (IN) METAL: 2017, PART 1b"
+edited: false
 date: "2017-04-10"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "alunah"
   - "best-metal"
   - "best-of"
@@ -48,23 +49,23 @@ https://www.youtube.com/watch?v=\_\_ITssq0a9Q
 
 ### GRUESOME GREG’S 2017 TOP FIVE \*SO FAR\*
 
-**5\. Mothership – High Strangeness:** The Sword Who? The new heaviest band from Texas keeps on rolling with a new album, new tour (no Toronto dates—yet!) and opening for Blue Oyster Cult in Dallas. 
+**5\. Mothership – High Strangeness:** The Sword Who? The new heaviest band from Texas keeps on rolling with a new album, new tour (no Toronto dates—yet!) and opening for Blue Oyster Cult in Dallas.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=676214614/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://ripplemusic.bandcamp.com/album/high-strangeness">High Strangeness by Mothership</a></iframe>
 
-**4\. Unearthly Trance – Stalking the Ghost:** After a couple years of jamming with Tim Bagshaw under the Serpentine Path moniker, the original Unearthly Trance returns with perhaps their best album to date. 
+**4\. Unearthly Trance – Stalking the Ghost:** After a couple years of jamming with Tim Bagshaw under the Serpentine Path moniker, the original Unearthly Trance returns with perhaps their best album to date.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=783392667/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://unearthlytrance.bandcamp.com/album/stalking-the-ghost">Stalking The Ghost by Unearthly Trance</a></iframe>
 
-**3\. Forming the Void – Relic:** It seems New Orleans isn’t the be-all, end-all of the Louisiana heavy music scene. This outfit from Lafayette’s new record makes Mastodon sound even more disappointing. 
+**3\. Forming the Void – Relic:** It seems New Orleans isn’t the be-all, end-all of the Louisiana heavy music scene. This outfit from Lafayette’s new record makes Mastodon sound even more disappointing.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1034333834/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://formingthevoid.bandcamp.com/album/relic">Relic by Forming the Void</a></iframe>
 
-**2\. The Obsessed – Sacred:** Don’t call this one a comeback—Scott Reeder and Greg Rogers are nowhere to be found. But even though Wino pretty much just slapped The Obsessed’s name on an erstwhile solo effort, this album does nothing to tarnish his legacy. 
+**2\. The Obsessed – Sacred:** Don’t call this one a comeback—Scott Reeder and Greg Rogers are nowhere to be found. But even though Wino pretty much just slapped The Obsessed’s name on an erstwhile solo effort, this album does nothing to tarnish his legacy.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=645554092/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://theobsessed.bandcamp.com/album/sacred">Sacred by The Obsessed</a></iframe>
 
-**1\. Curse the Son – Isolator:** I was debating whether to include this one, as it was originally issued over a year ago, just recently seeing a proper full release…but then I pushed play, and Curse the Son blew everything else I’ve heard in 2017 away. 
+**1\. Curse the Son – Isolator:** I was debating whether to include this one, as it was originally issued over a year ago, just recently seeing a proper full release…but then I pushed play, and Curse the Son blew everything else I’ve heard in 2017 away.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=784608386/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://cursetheson.bandcamp.com/album/isolator">Isolator by Curse the Son</a></iframe>
 
@@ -132,19 +133,19 @@ Slow Dive - _Souvlaki_
 
 #### My Top 7 Albums So Far in 2017
 
-**Obituary - Obituary (Relapse)** 
+**Obituary - Obituary (Relapse)**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=893995181/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://obituary.bandcamp.com/album/obituary">Obituary by Obituary</a></iframe>
 
-**Power Trip - Nightmare Logic (Southern Lord)** 
+**Power Trip - Nightmare Logic (Southern Lord)**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1464044653/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://powertripsl.bandcamp.com/album/nightmare-logic">Nightmare Logic by Power Trip</a></iframe>
 
-**Fuck You Pay Me - Dumbed Down (Tankcrimes)** 
+**Fuck You Pay Me - Dumbed Down (Tankcrimes)**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2983881909/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://fuckyoupaymeclevo.bandcamp.com/album/fypm-various-songs">FYPM various songs by FYPM (Fuck You Pay Me*CLEVELAND*)</a></iframe>
 
-**Solstafir - Berdreyminn (Season of Mist)** 
+**Solstafir - Berdreyminn (Season of Mist)**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2560682292/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://solstafir.bandcamp.com/album/berdreyminn">Berdreyminn by Sólstafir</a></iframe>
 
@@ -152,11 +153,11 @@ Slow Dive - _Souvlaki_
 
 https://www.youtube.com/watch?v=SvcNNeiMl90
 
-**Pallbearer - _Heartless_ (Profound Lore)** 
+**Pallbearer - _Heartless_ (Profound Lore)**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4268244820/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://profoundlorerecords.bandcamp.com/album/heartless">Heartless by PALLBEARER</a></iframe>
 
-**Tomb Mold - _Primordial Malignity_ (Blood Harvest/Regain Records)** 
+**Tomb Mold - _Primordial Malignity_ (Blood Harvest/Regain Records)**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1224230960/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://bloodharvestrecords.bandcamp.com/album/primordial-malignity-12lp-cd">Primordial Malignity 12"LP / CD by TOMB MOLD</a></iframe>
 

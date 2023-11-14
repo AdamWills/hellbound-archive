@@ -1,11 +1,12 @@
 ---
 title: "Motörhead - Stone Deaf Forever!"
+edited: false
 date: "2011-02-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hawkwind"
   - "lemmy"
   - "motorhead"

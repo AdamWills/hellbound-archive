@@ -1,11 +1,12 @@
 ---
 title: "Nachtmystium - Not so black metal"
+edited: false
 date: "2010-06-08"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-metal"
   - "blake-judd"
   - "century-media"

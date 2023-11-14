@@ -1,10 +1,11 @@
 ---
 title: "AMMO - Taking the Throne"
+edited: false
 date: "2019-10-21"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian-metal"
   - "metal"
   - "review"

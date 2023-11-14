@@ -1,11 +1,12 @@
 ---
 title: "Graveyard - Hisingen Blues"
+edited: false
 date: "2011-04-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "graveyard"
   - "hellacopters"
   - "kyle-harcott"

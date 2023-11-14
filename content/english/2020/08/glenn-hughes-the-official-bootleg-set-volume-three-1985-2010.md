@@ -1,7 +1,8 @@
 ---
 title: "Glenn Hughes - The Official Bootleg Set Volume Three: 1985-2010"
+edited: false
 date: "2020-08-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

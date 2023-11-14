@@ -1,12 +1,13 @@
 ---
 title: "HELLBOUND RADIO Playlist - Sunday, June 9th, 2013"
+edited: false
 date: "2013-06-10"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "staff_playlists"
   - "editors_blog"
-tags: 
+tags:
   - "abigail"
   - "agrimonia"
   - "albert-mansour"

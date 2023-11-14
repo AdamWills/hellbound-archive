@@ -1,10 +1,11 @@
 ---
 title: "Relapse Records: 25 Years of Contamination"
+edited: false
 date: "2015-02-17"
-categories: 
+categories:
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "bandcamp"
   - "christian-mistress"
   - "death-metal"

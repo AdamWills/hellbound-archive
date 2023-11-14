@@ -1,11 +1,12 @@
 ---
 title: "Church of Misery –Master of Brutality"
+edited: false
 date: "2012-04-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "blue-oyster-cult"
   - "church-of-misery"

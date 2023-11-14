@@ -1,11 +1,12 @@
 ---
 title: "The Atlas Moth: A Glorified Piece of Blue Sky"
+edited: false
 date: "2009-12-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "doom-metal"
   - "the-atlas-moth"

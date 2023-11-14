@@ -1,9 +1,10 @@
 ---
 title: "Eternal Black – Eternal Black"
+edited: false
 date: "2015-12-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "eternal-black"
   - "metal"

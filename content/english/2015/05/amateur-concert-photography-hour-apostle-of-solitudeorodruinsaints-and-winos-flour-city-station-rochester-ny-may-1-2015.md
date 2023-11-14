@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Apostle of Solitude/Orodruin/Saints and Winos @ Flour City Station, Rochester, NY, May 1, 2015"
+edited: false
 date: "2015-05-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "apostle-of-solitude"
   - "doom-metal"
   - "orodruin"

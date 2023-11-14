@@ -1,10 +1,11 @@
 ---
 title: "PREVIEW: Mystic Festival returns in 2019 with a mega line-up"
+edited: false
 date: "2019-05-11"
-categories: 
+categories:
   - "features"
   - "psa"
-tags: 
+tags:
   - "festival"
   - "metal-festival"
   - "preview"

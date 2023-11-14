@@ -1,10 +1,11 @@
 ---
 title: "Mammoth Weed Wizard Bastard / Slomatics – Totem"
+edited: false
 date: "2018-01-17"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-bow-records"
   - "doom"
   - "mammoth-weed-wizard-bastard"

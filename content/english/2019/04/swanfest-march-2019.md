@@ -1,9 +1,10 @@
 ---
 title: "Swanfest, March 2019"
+edited: false
 date: "2019-04-09"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "live"
   - "metal"
   - "music"
@@ -41,141 +42,141 @@ Eighth band, **Periphery**, is an American Progressive Metal band from Washingto
 Ninth band, **Dance Gavin Dance**, is an American Rock band from Sacramento, California, formed in 2005. Members: vocalists Jon Mess & Tilian Pearson, guitarist Will Swan, bassist Tim Feerick, and drummer Matt Mingus.
 
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/2408823021245290806_B46A4331.jpg)
-    
+
     Veil of Maya
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/IMG_3026.jpg)
-    
+
     Dance Gavin Dance
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/B46A4497.jpg)
-    
+
     Crown the Empire
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/B46A4304.jpg)
-    
+
     Veil of Maya
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/7564200289135097956_B46A4479.jpg)
-    
+
     We Came As Romans
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/4955235220920657630_B46A4212-1024x683.jpg)
-    
+
     Volumes
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/4615184929026345519_B46A4307.jpg)
-    
+
     Veil of Maya
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/4432674797063501014_B46A4575.jpg)
-    
+
     Crown the Empire
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/3874569765526397990_B46A4609-1024x683.jpg)
-    
+
     Periphery
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/3770183752054417965_B46A4381.jpg)
-    
+
     Don Broco
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/3105690139828124851_B46A4113-1024x683.jpg)
-    
+
     Wolf & Bear
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/1332374156957901817_B46A4373.jpg)
-    
+
     Don Broco
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/1222220085591654624_B46A4498.jpg)
-    
+
     Crown the Empire
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/8452577213918465565_B46A4490.jpg)
-    
+
     We Came As Romans
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/8066600973017001629_B46A4140-1024x683.jpg)
-    
+
     Sianvar
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/9091333683885787386_B46A4342.jpg)
-    
+
     Veil of Maya
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/7707880113659393095_B46A4247.jpg)
-    
+
     Intervals
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/7698287364049458519_B46A4580.jpg)
-    
+
     Periphery
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/7165135394172109851_B46A4441.jpg)
-    
+
     We Came As Romans
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/7029908535271376625_B46A4166-1024x683.jpg)
-    
+
     Sianvar
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/6898777303483183494_B46A4185.jpg)
-    
+
     Volumes
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/6702210944408996834_B46A4593.jpg)
-    
+
     Periphery
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/6634030756564659868_B46A4264.jpg)
-    
+
     Eidola
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/6009073889933400686_B46A4607-1024x683.jpg)
-    
+
     Periphery
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/5175620098262109800_B46A4248.jpg)
-    
+
     Intervals
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/3905004279391263818_B46A4701.jpg)
-    
+
     Dance Gavin Dance
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/5168437578864799266_B46A4142.jpg)
-    
+
     Sianvar
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/3393770214335279237_B46A4663-1024x683.jpg)
-    
+
     Dance Gavin Dance
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/3167647053297015274_B46A4171-1024x683.jpg)
-    
+
     Sianvar
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/2746403503002075266_B46A4630.jpg)
-    
+
     Dance Gavin Dance
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/1481356915213042969_B46A4107-1024x683.jpg)
-    
+
     Wolf & Bear
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/1650199185307490404_B46A4217-1024x683.jpg)
-    
+
     Volumes
-    
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/1048226259298092852_B46A4117.jpg)
-    
-    Wolf & Bear  
-    
+
+    Wolf & Bear
+
 - ![](https://hellbound.ca/wp-content/uploads/2019/04/187973665378503289_B46A4231-1024x683.jpg)
-    
+
     Volumes
-    
+
 
 [https://www.dgdswanfest.com](https://www.dgdswanfest.com/#home-1-section)
 

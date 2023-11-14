@@ -1,11 +1,12 @@
 ---
 title: "Baroness – Yellow & Green"
+edited: false
 date: "2012-07-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "black-tusk"
   - "kylesa"

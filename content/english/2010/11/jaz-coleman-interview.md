@@ -1,11 +1,12 @@
 ---
 title: "In Conversation With Killing Joke's Jaz Coleman"
+edited: false
 date: "2010-11-15"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "interview"
   - "jaz-coleman"
   - "killing-joke"

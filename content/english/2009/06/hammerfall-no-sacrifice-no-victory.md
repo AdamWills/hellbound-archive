@@ -1,10 +1,11 @@
 ---
 title: "Hammerfall: No Sacrifice, No Victory"
+edited: false
 date: "2009-06-25"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "hammerfall"
   - "nuclear-blast"
   - "power-metal"

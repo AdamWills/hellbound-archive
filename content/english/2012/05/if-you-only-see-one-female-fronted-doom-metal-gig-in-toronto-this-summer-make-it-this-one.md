@@ -1,11 +1,12 @@
 ---
 title: "If you only see one female-fronted doom metal gig in Toronto this summer, make it this one!"
+edited: false
 date: "2012-05-26"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blood-ceremony"
   - "castle"
   - "concert"

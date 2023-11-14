@@ -1,11 +1,12 @@
 ---
 title: "ZOMBI - ZOMBI and Friends Volume 1"
+edited: false
 date: "2022-08-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "instrumental"
   - "pittsburgh"

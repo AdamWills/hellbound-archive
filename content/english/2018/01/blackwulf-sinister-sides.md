@@ -1,10 +1,11 @@
 ---
 title: "Blackwülf – Sinister Sides"
+edited: false
 date: "2018-01-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blackwulf"
   - "desert-rock"
   - "doom"

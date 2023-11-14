@@ -1,11 +1,12 @@
 ---
 title: "A Forest Of Stars: The Corpse Of Rebirth"
+edited: false
 date: "2009-09-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "a-forest-of-stars"
   - "black-metal"
   - "intellectual"

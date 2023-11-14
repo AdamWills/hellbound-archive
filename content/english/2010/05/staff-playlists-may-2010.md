@@ -1,12 +1,13 @@
 ---
 title: "STAFF PLAYLISTS: May 2010"
+edited: false
 date: "2010-05-26"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "staff_playlists"
-tags: 
+tags:
   - "albert-mansour"
   - "black-metal"
   - "canada"

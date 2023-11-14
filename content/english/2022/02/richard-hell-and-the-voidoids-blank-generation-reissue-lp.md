@@ -1,9 +1,10 @@
 ---
 title: "Richard Hell and the Voidoids - Blank Generation [reissue] LP"
+edited: false
 date: "2022-02-24"
-categories: 
+categories:
   - "reviews-classics"
-tags: 
+tags:
   - "blank"
   - "generation"
   - "hell"

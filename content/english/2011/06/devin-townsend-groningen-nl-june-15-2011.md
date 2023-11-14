@@ -1,11 +1,12 @@
 ---
 title: "Devin Townsend ft Anneke Van Giersbergen @ Vera, Groningen, NL, June 15 2011"
+edited: false
 date: "2011-06-27"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "anneke-van-giersbergen"
   - "devin-townsend"

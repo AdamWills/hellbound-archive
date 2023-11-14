@@ -1,9 +1,10 @@
 ---
 title: "Kobra and the Lotus – Prevail I"
+edited: false
 date: "2017-10-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "kobra-and-the-lotus"
   - "metal"

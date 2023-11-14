@@ -1,10 +1,11 @@
 ---
 title: "Revocation interview: David Davidson in San Francisco, 15 June 2017"
+edited: false
 date: "2017-06-29"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "extreme-metal"
   - "interview"
   - "metal"

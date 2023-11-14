@@ -1,11 +1,12 @@
 ---
 title: "April: Anthems of the Rejected"
+edited: false
 date: "2009-07-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative-metal"
   - "april"
   - "finland"

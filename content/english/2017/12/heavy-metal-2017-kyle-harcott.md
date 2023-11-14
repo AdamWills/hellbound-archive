@@ -1,11 +1,12 @@
 ---
 title: "Heavy metal in 2017 by Kyle Harcött"
+edited: false
 date: "2017-12-21"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "2017"
   - "best-of"
   - "heavy-metal"

@@ -1,10 +1,11 @@
 ---
 title: "Lesser Glow – Ruined"
+edited: false
 date: "2018-05-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "lesser-glow"
   - "noise-rock"

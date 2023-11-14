@@ -1,9 +1,10 @@
 ---
 title: "Walrus – Family Hangover LP"
+edited: false
 date: "2018-01-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "pop"
   - "psych"

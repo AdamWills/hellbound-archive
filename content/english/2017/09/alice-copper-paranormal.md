@@ -1,9 +1,10 @@
 ---
 title: "Alice Copper – Paranormal"
+edited: false
 date: "2017-09-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alice-cooper"
   - "hard-rock"
   - "heavy-metal"

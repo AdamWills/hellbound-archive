@@ -1,7 +1,8 @@
 ---
 title: "Ratt – The Atlantic Years 1984-1990"
+edited: false
 date: "2020-03-25"
-categories: 
+categories:
   - "reviews-audio"
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: "Lord Mantis – Death Mask"
+edited: false
 date: "2014-05-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "blackened-sludge"
   - "death-doom"

@@ -1,11 +1,12 @@
 ---
 title: "ALICE COOPER & BLUE OYSTER CULT fans in Ontario unite! BLUE COUPE returns!"
+edited: false
 date: "2009-08-22"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "alice-cooper"
   - "blue-oyster-cult"
   - "usa"

@@ -1,11 +1,12 @@
 ---
 title: "Lagwagon - Duh / Trashed / Hoss / Double Plaidinum / Let's Talk About Feelings"
+edited: false
 date: "2012-01-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alcest"
   - "amasoeurs"
   - "bad-religion"

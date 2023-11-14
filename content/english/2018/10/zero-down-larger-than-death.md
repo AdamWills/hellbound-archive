@@ -1,9 +1,10 @@
 ---
 title: "Zero Down – Larger Than Death"
+edited: false
 date: "2018-10-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "nwobhm"

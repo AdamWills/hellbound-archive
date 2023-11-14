@@ -1,11 +1,12 @@
 ---
 title: "Witch Mountain – South of Salem"
+edited: false
 date: "2011-05-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-pyramid"
   - "doom"
   - "gruesome-greg"

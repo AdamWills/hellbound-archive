@@ -1,11 +1,12 @@
 ---
 title: "Adrenechrome - Hideous Appetites"
+edited: false
 date: "2013-05-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adrenechrome"
   - "corrosion-of-conformity"
   - "mastodon"

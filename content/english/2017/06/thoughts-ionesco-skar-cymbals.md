@@ -1,10 +1,11 @@
 ---
 title: "Thoughts of Ionesco – Skar Cymbals"
+edited: false
 date: "2017-06-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "math-rock"
   - "noise-rock"

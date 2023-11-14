@@ -1,10 +1,11 @@
 ---
 title: "Diamond Head – self-titled"
+edited: false
 date: "2016-04-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "diamond-head"
   - "nwobhm"
   - "review"

@@ -1,11 +1,12 @@
 ---
 title: "Full Metal Parenting #2: interview with Beth Winegarner"
+edited: false
 date: "2014-04-28"
-categories: 
+categories:
   - "articles"
   - "features"
   - "interviews"
-tags: 
+tags:
   - "beth-winegarner"
   - "full-metal-parenting"
   - "interview"

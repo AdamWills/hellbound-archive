@@ -1,10 +1,11 @@
 ---
 title: "Tom Petty and the Heartbreakers – Long After Dark LP"
+edited: false
 date: "2017-08-15"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "classic-rock"
   - "review"
   - "rock"

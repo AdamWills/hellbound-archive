@@ -1,11 +1,12 @@
 ---
 title: "SXSW Day 1 Videos: Kvelertak, Worm Ouroboros, Witch Mountain and Agalloch"
+edited: false
 date: "2011-04-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "agalloch"
   - "kvelertak"
   - "sean-palmerston"
@@ -18,19 +19,19 @@ tags:
 
 Just before heading down to SXSW this year I bought a new Kodak Sport handheld camera to document some of the bands I saw. Here are some videos that I made of bands that I saw on my first day there, Thursday, March 17th
 
-**KVELERTAK** 
+**KVELERTAK**
 
 <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/aKRDkOBMBs4" frameborder="0" allowfullscreen></iframe>
 
-**WORM OUROBOROS** 
+**WORM OUROBOROS**
 
 <iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/SevLJRE2drs" frameborder="0" allowfullscreen></iframe>
 
-**WITCH MOUNTAIN** 
+**WITCH MOUNTAIN**
 
 <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/KhJO9MncZVg" frameborder="0" allowfullscreen></iframe>
 
-**AGALLOCH** 
+**AGALLOCH**
 
 <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/5mdbCAcLrkQ" frameborder="0" allowfullscreen></iframe>
 

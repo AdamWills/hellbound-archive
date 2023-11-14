@@ -1,10 +1,11 @@
 ---
 title: "Devin Townsend Project in Athens, GA • 2017"
+edited: false
 date: "2018-04-09"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-live"
-tags: 
+tags:
   - "2017"
   - "athens"
   - "canada"

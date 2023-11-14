@@ -1,10 +1,11 @@
 ---
 title: "Atala – Labyrinth of Ashmedai"
+edited: false
 date: "2018-02-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atala"
   - "desert-rock"
   - "doom"

@@ -1,9 +1,10 @@
 ---
 title: "HRH Vikings 2018 @ O2 Academy, Sheffield UK"
+edited: false
 date: "2018-12-17"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "battle-metal"
   - "black-metal"
   - "concert"

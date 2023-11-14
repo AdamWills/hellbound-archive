@@ -1,7 +1,8 @@
 ---
 title: "Goodbye Cleveland..."
+edited: false
 date: "2010-02-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

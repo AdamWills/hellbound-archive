@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: BRUJERIA/Cattle Decapitation/Pinata Protest @ The Agora, Cleveland, October 6, 2016"
+edited: false
 date: "2016-10-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "agora"
   - "brujeria"
   - "cattle-decapitation"

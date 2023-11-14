@@ -1,13 +1,14 @@
 ---
 title: "Jay H. Gorania’s SXSW 2011 – Part 1"
+edited: false
 date: "2011-03-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "agalloch"
   - "animals-as-leaders"
   - "emmure"

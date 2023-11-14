@@ -1,9 +1,10 @@
 ---
 title: "Birds – Everything All At Once LP"
+edited: false
 date: "2017-11-21"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-pop"
   - "birds"
   - "indie"

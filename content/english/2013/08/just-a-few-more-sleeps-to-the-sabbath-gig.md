@@ -1,11 +1,12 @@
 ---
 title: "Just a few more sleeps to the Sabbath gig..."
+edited: false
 date: "2013-08-10"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "acdc"
   - "air-canada-centre"
   - "black-sabbath"

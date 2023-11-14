@@ -1,7 +1,8 @@
 ---
 title: "Laura Branigan - Self-Control: Expanded Edition"
+edited: false
 date: "2020-07-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

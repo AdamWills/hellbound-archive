@@ -1,9 +1,10 @@
 ---
 title: "Downfall of Gaia - Aeon Unveils the Thrones of Decay"
+edited: false
 date: "2014-12-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "atmospheric"
   - "black-metal"
   - "crust"

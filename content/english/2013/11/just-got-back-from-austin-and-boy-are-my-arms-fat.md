@@ -1,11 +1,12 @@
 ---
 title: "Just got back from Austin, and boy, are my arms fat!"
+edited: false
 date: "2013-11-04"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "austin-tx"
   - "dale-crover"
   - "down"

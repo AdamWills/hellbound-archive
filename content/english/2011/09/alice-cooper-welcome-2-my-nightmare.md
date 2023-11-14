@@ -1,11 +1,12 @@
 ---
 title: "Alice Cooper - Welcome 2 My Nightmare"
+edited: false
 date: "2011-09-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alice-cooper"
   - "jason-wellwood"
   - "universal"

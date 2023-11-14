@@ -1,10 +1,11 @@
 ---
 title: "The Ramones – s/t (vinyl reissue)"
+edited: false
 date: "2015-01-30"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "70s"
   - "punk"
   - "rock"

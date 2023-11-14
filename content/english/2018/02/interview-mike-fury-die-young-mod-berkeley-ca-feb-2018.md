@@ -1,10 +1,11 @@
 ---
 title: "Interview: MIKE FURY of DIE YOUNG and MOD, Berkeley CA, Feb 2018"
+edited: false
 date: "2018-02-12"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "die-young"
   - "hardcore"
   - "interview"

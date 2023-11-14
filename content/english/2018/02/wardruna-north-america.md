@@ -1,11 +1,12 @@
 ---
 title: "Wardruna in North America"
+edited: false
 date: "2018-02-03"
-categories: 
+categories:
   - "features"
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "wardruna"
 ---
 

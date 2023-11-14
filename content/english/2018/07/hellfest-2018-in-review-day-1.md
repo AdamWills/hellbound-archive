@@ -1,9 +1,10 @@
 ---
 title: "Hellfest 2018 in review: Day 1"
+edited: false
 date: "2018-07-31"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "bongzilla"
   - "burning-heads"
   - "carnivore-ad"

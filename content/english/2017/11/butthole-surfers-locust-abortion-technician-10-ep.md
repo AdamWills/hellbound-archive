@@ -1,9 +1,10 @@
 ---
 title: "Butthole Surfers – Locust Abortion Technician 10'' EP"
+edited: false
 date: "2017-11-27"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "butthole-surfers"
   - "heavy"

@@ -1,9 +1,10 @@
 ---
 title: "The Slackers - “Windowland” / “I Almost Lost You” 12'' digitally-printed single"
+edited: false
 date: "2021-12-08"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "pirates"
   - "press"
   - "record"

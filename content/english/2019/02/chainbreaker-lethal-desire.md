@@ -1,10 +1,11 @@
 ---
 title: "Chainbreaker – Lethal Desire"
+edited: false
 date: "2019-02-11"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian-metal"
   - "heavy-metal"
   - "review"

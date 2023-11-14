@@ -1,9 +1,10 @@
 ---
 title: "Pentagram – Curious Volume"
+edited: false
 date: "2015-08-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom-metal"
   - "pentagram"

@@ -1,11 +1,12 @@
 ---
 title: "Black Wizard – Livin’ Oblivion"
+edited: false
 date: "2018-02-20"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-wizard"
   - "doom"
   - "heavy-metal"

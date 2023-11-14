@@ -1,9 +1,10 @@
 ---
 title: "BRIEFCASEFEST 2015, Toronto ON, June 5"
+edited: false
 date: "2015-06-11"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "ayahuasca"
   - "briefcasefest"
   - "concert-review"

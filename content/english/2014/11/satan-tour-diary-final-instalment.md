@@ -1,10 +1,11 @@
 ---
 title: "SATAN TOUR DIARY – Final Instalment"
+edited: false
 date: "2014-11-06"
-categories: 
+categories:
   - "blogs"
   - "features"
-tags: 
+tags:
   - "danava"
   - "destruction"
   - "heavy-metal"

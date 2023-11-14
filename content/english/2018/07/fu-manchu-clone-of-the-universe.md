@@ -1,9 +1,10 @@
 ---
 title: "Fu Manchu – Clone of the Universe"
+edited: false
 date: "2018-07-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "fu-manchu"
   - "heavy-rock"
   - "metal"

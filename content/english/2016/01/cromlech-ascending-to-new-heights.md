@@ -1,10 +1,11 @@
 ---
 title: "Cromlech: ascending to new heights"
+edited: false
 date: "2016-01-27"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "ascent-of-kings"
   - "canuck-metal"
   - "canuck-metal-you-dont-want-to-miss"

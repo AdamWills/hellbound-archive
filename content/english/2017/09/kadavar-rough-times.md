@@ -1,10 +1,11 @@
 ---
 title: "Kadavar – Rough Times"
+edited: false
 date: "2017-09-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blues-rock"
   - "euro-psych"
   - "graveyard"

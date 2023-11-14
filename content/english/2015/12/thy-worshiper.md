@@ -1,9 +1,10 @@
 ---
 title: "Thy Worshiper –  Ozimina"
+edited: false
 date: "2015-12-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "pagan-metal"
   - "review"
   - "thy-worshiper"

@@ -1,13 +1,14 @@
 ---
 title: "STAFF PLAYLISTS: August 2013"
+edited: false
 date: "2013-08-13"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "20-buck-spin"
   - "adam-wills"
   - "amorphis"

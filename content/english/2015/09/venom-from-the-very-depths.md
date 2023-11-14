@@ -1,9 +1,10 @@
 ---
 title: "Venom – From The Very Depths"
+edited: false
 date: "2015-09-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "metal"
   - "venom"

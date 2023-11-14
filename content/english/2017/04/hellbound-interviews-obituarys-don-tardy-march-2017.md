@@ -1,9 +1,10 @@
 ---
 title: "After 30 years, Obituary still looking for frontman..."
+edited: false
 date: "2017-04-03"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "don-tardy"
   - "interview"

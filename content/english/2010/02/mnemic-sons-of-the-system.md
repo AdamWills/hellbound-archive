@@ -1,11 +1,12 @@
 ---
 title: "Mnemic – Sons of the System"
+edited: false
 date: "2010-02-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "denmark"
   - "fear-factory"
   - "melodic-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Cradle of Filth/ Nachtmystium/ Daniel Lioneye/ Turisas @ Phoenix Concert Theatre, Toronto ON, February 26 2011"
+edited: false
 date: "2011-03-03"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "cradle-of-filth"
   - "daniel-lioneye"
   - "h-i-m"

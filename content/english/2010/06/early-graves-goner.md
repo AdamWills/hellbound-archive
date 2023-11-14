@@ -1,11 +1,12 @@
 ---
 title: "Early Graves - Goner"
+edited: false
 date: "2010-06-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "crust-punk"
   - "early-graves"
   - "entomed"

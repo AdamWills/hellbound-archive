@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Metalhead’s Holiday Gift Guide 2013"
+edited: false
 date: "2013-12-13"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "reviews"
-tags: 
+tags:
   - "adam-wills"
   - "christmas"
   - "fleshgod-apocalypse"

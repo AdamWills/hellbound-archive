@@ -1,11 +1,12 @@
 ---
 title: "Destruction – Savage Symphony"
+edited: false
 date: "2010-06-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "afm-records"
   - "destruction"
   - "dvd"

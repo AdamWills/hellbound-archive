@@ -1,9 +1,10 @@
 ---
 title: "Agnes Obel – Citizen of Glass LP"
+edited: false
 date: "2017-01-30"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "agnes-obel"
   - "alternative"
   - "art"

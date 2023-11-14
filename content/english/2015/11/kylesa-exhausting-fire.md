@@ -1,9 +1,10 @@
 ---
 title: "Kylesa – Exhausting Fire"
+edited: false
 date: "2015-11-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "dreampop"
   - "fuzz"

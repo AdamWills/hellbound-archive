@@ -1,11 +1,12 @@
 ---
 title: "Iron Claw – A Different Game"
+edited: false
 date: "2011-07-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "rainbow"
   - "dio"
   - "gruesome-greg"

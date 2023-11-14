@@ -1,11 +1,12 @@
 ---
 title: "Rob Zombie - Hellbilly Deluxe 2 – Noble Jackals, Penny Dreadfuls And The Systematic Dehumanization Of Cool"
+edited: false
 date: "2010-02-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "goth-metal"
   - "metal"
   - "pop-metal"

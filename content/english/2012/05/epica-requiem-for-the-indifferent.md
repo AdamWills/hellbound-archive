@@ -1,11 +1,12 @@
 ---
 title: "Epica - Requiem for the Indifferent"
+edited: false
 date: "2012-05-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "epica"
   - "lauren-leuschner"
   - "nuclear-blast"

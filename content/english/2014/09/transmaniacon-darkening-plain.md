@@ -1,9 +1,10 @@
 ---
 title: "Transmaniacon – The Darkening Plain"
+edited: false
 date: "2014-09-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "70s"
   - "blue-oyster-cult"
   - "concept"

@@ -1,11 +1,12 @@
 ---
 title: "Noisear - Subvert the Dominant Paradigm"
+edited: false
 date: "2011-05-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adrien-begrand"
   - "discordance-axis"
   - "gridlink"

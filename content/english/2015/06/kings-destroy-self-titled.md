@@ -1,9 +1,10 @@
 ---
 title: "Kings Destroy – self-titled"
+edited: false
 date: "2015-06-01"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "hardcore"

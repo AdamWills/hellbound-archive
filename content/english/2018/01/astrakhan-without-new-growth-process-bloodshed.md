@@ -1,9 +1,10 @@
 ---
 title: "Astrakhan – Without New Growth Process is Bloodshed"
+edited: false
 date: "2018-01-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "astrakhan"
   - "metal"
   - "prog-sludge"

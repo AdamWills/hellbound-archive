@@ -1,10 +1,11 @@
 ---
 title: "Boudain – Way of the Hoof"
+edited: false
 date: "2016-04-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "sludge"
   - "stoner-rock"

@@ -1,9 +1,10 @@
 ---
 title: "Cancer Bats – Searching For Zero LP"
+edited: false
 date: "2016-02-05"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "california-hardcore"
   - "cancer-bats"
   - "hardcore"

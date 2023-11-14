@@ -1,11 +1,12 @@
 ---
 title: "Lenny Lashley's Gang Of One - All Are Welcome LP"
+edited: false
 date: "2021-05-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "all-are-welcome"
   - "lenny-lashleys-gang-of-one"
   - "pirates-press"

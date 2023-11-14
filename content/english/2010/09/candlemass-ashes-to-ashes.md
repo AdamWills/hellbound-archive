@@ -1,11 +1,12 @@
 ---
 title: "Candlemass – Ashes to Ashes"
+edited: false
 date: "2010-09-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "candlemass"
   - "doom"
   - "doom-metal"

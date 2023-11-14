@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: December 12th, 2010 playlist"
+edited: false
 date: "2010-12-17"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "drudkh"
   - "fuck-the-facts"
   - "landmine-marathon"

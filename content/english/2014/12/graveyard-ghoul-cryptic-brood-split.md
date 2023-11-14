@@ -1,9 +1,10 @@
 ---
 title: "Graveyard Ghoul / Cryptic Brood split"
+edited: false
 date: "2014-12-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "cryptic-brood"
   - "death-metal"

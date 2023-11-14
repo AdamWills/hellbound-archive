@@ -1,10 +1,11 @@
 ---
 title: "Ex Deo: Romulus"
+edited: false
 date: "2009-06-18"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "blackguard"
   - "ex-deo"
   - "kataklysm"

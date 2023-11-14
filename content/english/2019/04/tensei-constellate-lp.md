@@ -1,10 +1,11 @@
 ---
 title: "Tensei – Constellate LP"
+edited: false
 date: "2019-04-08"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "punk"
   - "review"
   - "rock"

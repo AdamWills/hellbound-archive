@@ -1,10 +1,11 @@
 ---
 title: "Brant Bjork – Mankind Woman"
+edited: false
 date: "2018-08-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "brant-bjork"
   - "heavy-psych"
   - "psychedelic-rock"

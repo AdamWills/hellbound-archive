@@ -1,10 +1,11 @@
 ---
 title: "SATAN TOUR DIARY Part Two"
+edited: false
 date: "2014-11-02"
-categories: 
+categories:
   - "blogs"
   - "features"
-tags: 
+tags:
   - "heavy-metal"
   - "kevin-stewart-panko"
   - "nwobhm"

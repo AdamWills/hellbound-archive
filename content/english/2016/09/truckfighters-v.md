@@ -1,10 +1,11 @@
 ---
 title: "Truckfighters – V"
+edited: false
 date: "2016-09-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "review"
   - "stoner-rock"
   - "truckfighters"

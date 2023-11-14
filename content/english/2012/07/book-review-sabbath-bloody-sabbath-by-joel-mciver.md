@@ -1,11 +1,12 @@
 ---
 title: "Book review: Sabbath Bloody Sabbath by Joel McIver"
+edited: false
 date: "2012-07-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "ronnie-james-dio"
   - "black-sabbath"
   - "deep-purple"

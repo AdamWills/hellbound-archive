@@ -1,10 +1,11 @@
 ---
 title: "Bardus – Stella Porta"
+edited: false
 date: "2016-03-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bardus"
   - "noise-rock"
   - "review"

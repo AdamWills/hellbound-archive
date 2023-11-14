@@ -1,10 +1,11 @@
 ---
 title: "Helhorse – self-titled"
+edited: false
 date: "2016-05-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "helhorse"
   - "review"

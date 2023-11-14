@@ -1,10 +1,11 @@
 ---
 title: "Seven Sisters of Sleep – Ezekiel’s Hags"
+edited: false
 date: "2016-01-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "hardcore"

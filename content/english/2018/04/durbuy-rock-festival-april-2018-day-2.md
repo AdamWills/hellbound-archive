@@ -1,9 +1,10 @@
 ---
 title: "Durbuy Rock Festival, April 2018 (day 2)"
+edited: false
 date: "2018-04-17"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "blues"
   - "celtic"

@@ -1,9 +1,10 @@
 ---
 title: "Book reviews from Steve Earles: June edition"
+edited: false
 date: "2017-06-01"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "books"
   - "history"
   - "reviews"

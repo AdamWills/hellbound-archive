@@ -1,11 +1,12 @@
 ---
 title: "Living Colour @ Lee's Palace, Toronto ON, October 3, 2009"
+edited: false
 date: "2009-10-07"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "laina-dawes"
   - "live"
   - "living-colour"

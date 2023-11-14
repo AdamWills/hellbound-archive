@@ -1,11 +1,12 @@
 ---
 title: "Hot Graves - Desecration Time 7\""
+edited: false
 date: "2011-08-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "d-beat"
   - "funeral-doom"
   - "greyhaze-records"

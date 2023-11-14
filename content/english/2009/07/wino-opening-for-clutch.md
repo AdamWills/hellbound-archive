@@ -1,10 +1,11 @@
 ---
 title: "WINO opening for CLUTCH!?"
+edited: false
 date: "2009-07-17"
-categories: 
+categories:
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blog"
 ---
 

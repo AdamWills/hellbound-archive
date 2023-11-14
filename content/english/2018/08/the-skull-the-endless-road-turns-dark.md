@@ -1,10 +1,11 @@
 ---
 title: "The Skull – The Endless Road Turns Dark"
+edited: false
 date: "2018-08-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doom-metal"
   - "eric-wagner"

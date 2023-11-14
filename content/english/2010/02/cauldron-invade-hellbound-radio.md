@@ -1,11 +1,12 @@
 ---
 title: "CAULDRON Invade Hellbound Radio This Sunday!"
+edited: false
 date: "2010-02-26"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "albert-mansour"
   - "canada"
   - "cauld"

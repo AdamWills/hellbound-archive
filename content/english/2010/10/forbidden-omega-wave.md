@@ -1,11 +1,12 @@
 ---
 title: "Forbidden - Omega Wave"
+edited: false
 date: "2010-10-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "forbidden"
   - "nuclear-blast"
   - "rob-kachluba"

@@ -1,11 +1,12 @@
 ---
 title: "Midnight Odyssey – Firmament"
+edited: false
 date: "2010-03-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "australia"
   - "black-metal"
   - "darkthrone"

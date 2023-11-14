@@ -1,11 +1,12 @@
 ---
 title: "Halford: The Metal God Never Rests"
+edited: false
 date: "2010-07-21"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "england"
   - "halford"
   - "heavy-metal"

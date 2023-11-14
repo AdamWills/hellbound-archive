@@ -1,10 +1,11 @@
 ---
 title: "Pregunta y Respuesta con Archaios | Dominican Republic’s Premier Death Metal Band"
+edited: false
 date: "2011-12-05"
-categories: 
+categories:
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "archaios"
   - "dark-canvas-records"
   - "death"

@@ -1,11 +1,12 @@
 ---
 title: "Dopethrone – Transcanadian Anger"
+edited: false
 date: "2018-09-17"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "doom"
   - "dopethrone"

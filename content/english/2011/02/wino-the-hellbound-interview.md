@@ -1,12 +1,13 @@
 ---
 title: "Scott “Wino” Weinrich: The Hellbound Interview"
+edited: false
 date: "2011-02-15"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
-tags: 
+tags:
   - "justin-m-norton"
   - "neurosis"
   - "saint-vitus"

@@ -1,10 +1,11 @@
 ---
 title: "Merchant – Beneath"
+edited: false
 date: "2017-04-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "merchant"
   - "metal"

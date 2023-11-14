@@ -1,9 +1,10 @@
 ---
 title: "AxMinister – The Crucible of Sin"
+edited: false
 date: "2018-07-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "axminister"
   - "heavy-metal"
   - "metal"

@@ -1,10 +1,11 @@
 ---
 title: "Katatonia / Cult of Luna / Intronaut / Tesseract @ The Opera House, Toronto ON, September 27, 2013"
+edited: false
 date: "2013-11-11"
-categories: 
+categories:
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "cult-of-luna"
   - "intronaut"

@@ -1,7 +1,8 @@
 ---
 title: "Charger – Watch Your Back (picture disc single)"
+edited: false
 date: "2020-02-28"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
 ---

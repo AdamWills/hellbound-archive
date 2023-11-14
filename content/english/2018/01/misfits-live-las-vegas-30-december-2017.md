@@ -1,10 +1,11 @@
 ---
 title: "Misfits live in L.A., 30 December 2017"
+edited: false
 date: "2018-01-02"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "live"
   - "misfits"

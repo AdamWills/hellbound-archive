@@ -1,7 +1,8 @@
 ---
 title: "Young Canadians - Hawaii"
+edited: false
 date: "2020-06-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

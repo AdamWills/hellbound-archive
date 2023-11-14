@@ -1,9 +1,10 @@
 ---
 title: "Bum City Saints – Bum City Saints LP"
+edited: false
 date: "2016-07-05"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "bum-city-saints"
   - "hardcore"
   - "pirates-press-records"

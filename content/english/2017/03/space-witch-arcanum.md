@@ -1,10 +1,11 @@
 ---
 title: "Space Witch – Arcanum"
+edited: false
 date: "2017-03-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "psychedelic"
   - "review"

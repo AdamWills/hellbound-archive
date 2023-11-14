@@ -1,11 +1,12 @@
 ---
 title: "Skeletal Remains - Beyond The Flesh"
+edited: false
 date: "2013-03-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "asphyx"
   - "death"
   - "fda-rekotz"

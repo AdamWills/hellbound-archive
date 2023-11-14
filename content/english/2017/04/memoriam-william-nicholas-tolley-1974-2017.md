@@ -1,9 +1,10 @@
 ---
 title: "In Memoriam: William Nicholas Tolley, 1974-2017"
+edited: false
 date: "2017-04-24"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "bill-tolley"
   - "features"
   - "in-memory"

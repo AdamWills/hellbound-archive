@@ -1,11 +1,12 @@
 ---
 title: "Tankard – A Girl Called Cervesa"
+edited: false
 date: "2012-06-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doro-pesch"
   - "fritz-the-thrasher"
   - "nuclear-blast"

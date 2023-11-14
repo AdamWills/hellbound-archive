@@ -1,11 +1,12 @@
 ---
 title: "Orphaned Land with Suidakra @ The Wreckroom, Toronto ON, March 13, 2010"
+edited: false
 date: "2010-03-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "celtic-folk-metal"
   - "century-media"

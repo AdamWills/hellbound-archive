@@ -1,11 +1,12 @@
 ---
 title: "Mos Generator – Shadowlands"
+edited: false
 date: "2018-05-10"
-categories: 
+categories:
   - "gruesome_greg"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-rock"
   - "metal"
   - "mos-generator"

@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Staff Interrogation #5: Rob Kachluba"
+edited: false
 date: "2011-06-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "anathema"
   - "asphyx"
   - "death-angel"

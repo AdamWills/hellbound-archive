@@ -1,11 +1,12 @@
 ---
 title: "COC still sounds good to me!"
+edited: false
 date: "2012-06-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-cobra"
   - "coc"
   - "corrosion-of-conformity"

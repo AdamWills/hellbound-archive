@@ -1,9 +1,10 @@
 ---
 title: "At The Gates – At War With Reality"
+edited: false
 date: "2014-12-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "at-the-gates"
   - "century-media"

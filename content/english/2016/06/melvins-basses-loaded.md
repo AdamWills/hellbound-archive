@@ -1,10 +1,11 @@
 ---
 title: "Melvins – Basses Loaded"
+edited: false
 date: "2016-06-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative-rock"
   - "basses-loaded"
   - "grunge-rock"

@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogations #22: Bill Adams"
+edited: false
 date: "2011-07-04"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "acdc"
   - "bill-adams"
   - "lemmy"

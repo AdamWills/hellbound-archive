@@ -1,9 +1,10 @@
 ---
 title: "Panzer – Fatal Command"
+edited: false
 date: "2017-10-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "panzer"

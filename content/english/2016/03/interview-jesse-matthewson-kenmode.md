@@ -1,9 +1,10 @@
 ---
 title: "Interview: Jesse Matthewson from KEN mode"
+edited: false
 date: "2016-03-28"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "interview"
   - "ken-mode"
 ---

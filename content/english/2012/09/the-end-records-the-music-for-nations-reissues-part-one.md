@@ -1,11 +1,12 @@
 ---
 title: "The End Records – The Music For Nations Reissues Part One"
+edited: false
 date: "2012-09-05"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "arch-enemy"
   - "bill-steer"
   - "carcass"

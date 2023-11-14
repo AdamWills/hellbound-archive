@@ -1,10 +1,11 @@
 ---
 title: "Bruce Springsteen - Covers Volume 1 – Only The Strong Survive 2LP"
+edited: false
 date: "2023-08-10"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "bruce-springsteen"
   - "columbia"
   - "covers"

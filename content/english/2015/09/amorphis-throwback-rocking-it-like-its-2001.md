@@ -1,9 +1,10 @@
 ---
 title: "Amorphis throwback (rocking it like it's 2001)"
+edited: false
 date: "2015-09-03"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "amorphis"
   - "finnish-metal"
   - "interview"

@@ -1,10 +1,11 @@
 ---
 title: "Best metal of 2014 – Collaborations"
+edited: false
 date: "2015-01-08"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2014"
   - "caina"
   - "chasse-galerie"

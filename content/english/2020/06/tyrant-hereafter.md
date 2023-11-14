@@ -1,7 +1,8 @@
 ---
 title: "Tyrant – Hereafter"
+edited: false
 date: "2020-06-19"
-categories: 
+categories:
   - "gruesome_greg"
   - "reviews"
   - "reviews-audio"

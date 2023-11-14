@@ -1,9 +1,10 @@
 ---
 title: "Mammoth Weed Wizard Bastard – Yn Ol I Annwn"
+edited: false
 date: "2019-03-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy"
   - "metal"

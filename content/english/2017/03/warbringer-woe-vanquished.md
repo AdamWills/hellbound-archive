@@ -1,9 +1,10 @@
 ---
 title: "Warbringer – Woe To The Vanquished"
+edited: false
 date: "2017-03-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
   - "thrash"

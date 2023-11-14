@@ -1,10 +1,11 @@
 ---
 title: "Volur – Ancestors"
+edited: false
 date: "2017-05-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "avantgarde"
   - "doom"
   - "experimental"

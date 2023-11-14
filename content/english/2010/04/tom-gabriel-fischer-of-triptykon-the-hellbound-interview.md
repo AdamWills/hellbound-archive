@@ -1,11 +1,12 @@
 ---
 title: "Tom Gabriel Fischer of Triptykon: the Hellbound Interview"
+edited: false
 date: "2010-04-07"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-metal"
   - "celtic-frost"
   - "century-media"

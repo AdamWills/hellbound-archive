@@ -1,11 +1,12 @@
 ---
 title: "Hammers Of Misfortune, Ludicra, Crux Of Aux, Slaughter Strike @ Casbah, Hamilton ON, August 8, 2009"
+edited: false
 date: "2009-08-10"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "canada"
   - "crux-of-aux"

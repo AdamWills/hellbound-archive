@@ -1,11 +1,12 @@
 ---
 title: "Immortal – Live At Wacken 2007:The Seventh Date of Blashyrkh"
+edited: false
 date: "2010-12-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "abbath"
   - "black-metal"
   - "dvd"

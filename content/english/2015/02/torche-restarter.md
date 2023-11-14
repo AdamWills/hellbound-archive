@@ -1,9 +1,10 @@
 ---
 title: "Torche – Restarter"
+edited: false
 date: "2015-02-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "metal"
   - "rock"

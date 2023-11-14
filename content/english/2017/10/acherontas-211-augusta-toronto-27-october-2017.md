@@ -1,9 +1,10 @@
 ---
 title: "Acherontas @ 211 Augusta, Toronto, 27 October 2017"
+edited: false
 date: "2017-10-24"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "acherontas"
   - "black-metal"
   - "concert"

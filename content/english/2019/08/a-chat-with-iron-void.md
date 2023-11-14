@@ -1,9 +1,10 @@
 ---
 title: "A chat with IRON VOID"
+edited: false
 date: "2019-08-07"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "epic-doom"
   - "interview"
   - "metal"

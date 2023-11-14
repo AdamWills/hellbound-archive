@@ -1,11 +1,12 @@
 ---
 title: "Obscura - Omnivium"
+edited: false
 date: "2011-07-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "arsis"
   - "chuck-shuldiner"
   - "gene-hoglan"

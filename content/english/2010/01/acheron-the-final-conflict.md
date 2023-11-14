@@ -1,11 +1,12 @@
 ---
 title: "Acheron: The Final Conflict: Last Days Of God"
+edited: false
 date: "2010-01-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "acheron"
   - "black-metal"
   - "death-metal"

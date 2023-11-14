@@ -1,7 +1,8 @@
 ---
 title: "Farewell to the 3Tards..."
+edited: false
 date: "2009-07-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

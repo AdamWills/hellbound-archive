@@ -1,11 +1,12 @@
 ---
 title: "In Solitude - <i>The World.The Flesh.The Devil</i>"
+edited: false
 date: "2011-06-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adrien-begrand"
   - "angel-witch"
   - "ghost"

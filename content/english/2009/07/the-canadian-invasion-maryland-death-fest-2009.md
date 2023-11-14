@@ -1,7 +1,8 @@
 ---
 title: "The Canadian Invasion: Maryland Death Fest 2009"
+edited: false
 date: "2009-07-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"

@@ -1,11 +1,12 @@
 ---
 title: "Advance Screening: Disgorge, Mexico - The Movie"
+edited: false
 date: "2009-12-02"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
-tags: 
+tags:
   - "canada"
   - "david-hall"
   - "disgorge"

@@ -1,10 +1,11 @@
 ---
 title: "Earthless – Black Heaven"
+edited: false
 date: "2018-03-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "earthless"
   - "groove"
   - "heavy"

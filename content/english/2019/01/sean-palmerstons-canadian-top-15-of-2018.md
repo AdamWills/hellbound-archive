@@ -1,12 +1,13 @@
 ---
 title: "Sean Palmerston's Canadian TOP 15 of 2018"
+edited: false
 date: "2019-01-03"
-categories: 
+categories:
   - "canadian-metal"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "best-of-2018"
   - "canadian-metal"

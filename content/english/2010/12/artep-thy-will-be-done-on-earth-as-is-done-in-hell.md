@@ -1,11 +1,12 @@
 ---
 title: "Artep - Thy Will Be Done On Earth As Is Done In Hell"
+edited: false
 date: "2010-12-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "artep"
   - "bleak-art-records"
   - "dark-funeral"

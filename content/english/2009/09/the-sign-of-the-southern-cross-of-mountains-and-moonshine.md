@@ -1,11 +1,12 @@
 ---
 title: "The Sign of The Southern Cross: ...Of Mountains and Moonshine"
+edited: false
 date: "2009-09-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "coc"
   - "down"
   - "pantera"

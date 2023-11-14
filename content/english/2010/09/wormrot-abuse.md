@@ -1,10 +1,11 @@
 ---
 title: "Wormrot - Abuse"
+edited: false
 date: "2010-09-17"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "earache-records"
   - "grind"
   - "napalm-death"

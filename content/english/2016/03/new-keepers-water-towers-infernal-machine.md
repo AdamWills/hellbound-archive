@@ -1,10 +1,11 @@
 ---
 title: "New Keepers of the Water Towers – Infernal Machine"
+edited: false
 date: "2016-03-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "new-keepers-of-the-water-towers"
   - "post-rock"
   - "progressive"

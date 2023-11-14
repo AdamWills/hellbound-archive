@@ -1,11 +1,12 @@
 ---
 title: "Devil - Magister Mundi Xum (Demo)"
+edited: false
 date: "2011-03-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-flag"
   - "devil"
   - "kyle-harcott"

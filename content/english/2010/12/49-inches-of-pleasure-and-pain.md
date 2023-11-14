@@ -1,11 +1,12 @@
 ---
 title: "Kevi Metal's 49 INCHES OF PLEASURE AND PAIN"
+edited: false
 date: "2010-12-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "a389-records"
   - "buzzoven"
   - "cursed"

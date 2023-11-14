@@ -1,9 +1,10 @@
 ---
 title: "Demon Eye – Tempora Infernalia"
+edited: false
 date: "2015-05-01"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "demon-eye"
   - "hard-rock"

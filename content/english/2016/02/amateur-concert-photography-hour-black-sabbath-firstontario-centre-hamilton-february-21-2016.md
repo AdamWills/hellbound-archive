@@ -1,7 +1,8 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: BLACK SABBATH @ FirstOntario Centre, Hamilton, February 21, 2016"
+edited: false
 date: "2016-02-24"
-categories: 
+categories:
   - "blogs"
   - "gruesome_greg"
 ---

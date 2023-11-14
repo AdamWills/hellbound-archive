@@ -1,9 +1,10 @@
 ---
 title: "Marduk / Incantation @ The Garrison, Toronto, 2 September 2017"
+edited: false
 date: "2017-09-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "abysmal-down"
   - "black-metal"
   - "concert"

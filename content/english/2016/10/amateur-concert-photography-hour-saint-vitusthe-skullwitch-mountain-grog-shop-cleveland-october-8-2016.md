@@ -1,10 +1,11 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: SAINT VITUS/The Skull/Witch Mountain @ Grog Shop, Cleveland, October 8, 2016"
+edited: false
 date: "2016-10-16"
-categories: 
+categories:
   - "blogs"
   - "gruesome_greg"
-tags: 
+tags:
   - "cleveland"
   - "concert-photography"
   - "concert-photos"

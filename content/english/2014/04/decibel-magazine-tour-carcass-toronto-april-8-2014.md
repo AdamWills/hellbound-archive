@@ -1,9 +1,10 @@
 ---
 title: "Decibel Magazine Tour: Carcass, Gorguts & more, Toronto, April 8, 2014"
+edited: false
 date: "2014-04-23"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "carcass"
   - "death-metal"
   - "decibel-magazine-tour"

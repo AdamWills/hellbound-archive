@@ -1,9 +1,10 @@
 ---
 title: "Blasphemous Meals #11: Winter’s Wrath"
+edited: false
 date: "2015-01-15"
-categories: 
+categories:
   - "blasphemyblog"
-tags: 
+tags:
   - "blasphemous-meals"
   - "devastation"
   - "hellbent-for-cooking"

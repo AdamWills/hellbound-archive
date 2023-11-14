@@ -1,11 +1,12 @@
 ---
 title: "Tank - War Machine"
+edited: false
 date: "2010-10-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "algy-ward"
   - "england"
   - "kyle-harcott"

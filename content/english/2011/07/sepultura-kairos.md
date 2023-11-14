@@ -1,11 +1,12 @@
 ---
 title: "Sepultura - Kairos"
+edited: false
 date: "2011-07-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "jonathan-smith"
   - "max-cavalera"
   - "nuclear-blast"

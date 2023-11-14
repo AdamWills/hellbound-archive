@@ -1,11 +1,12 @@
 ---
 title: "Gojira / Devin Townsend Project / The Atlas Moth @ The Phoenix, Toronto, ON, February 13, 2013"
+edited: false
 date: "2013-02-18"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "atlas-moth"
   - "devin-townsend"

@@ -1,11 +1,12 @@
 ---
 title: "Finntroll / Ensiferum / Rotten Sound / Barren Earth @ Opera House, Toronto ON, Feb 22, 2011"
+edited: false
 date: "2011-03-01"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "70000-tons-of-metal"
   - "albert-mansour"
   - "amorphis"

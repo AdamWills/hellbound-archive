@@ -1,9 +1,10 @@
 ---
 title: "Out Of Line Weekender 2019, Day 3"
+edited: false
 date: "2019-04-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "berlin"
   - "black-metal"
   - "death-metal"
@@ -53,91 +54,91 @@ Melodic death metallers **Dark** **Tranquillity** did close Out Of Line Weekende
 [www.darktranquillity.com](http://www.darktranquillity.com)
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Bloodred-Hourglass.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Bloodred-Hourglass01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Bloodred-Hourglass02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Bloodred-Hourglass03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Bloodred-Hourglass04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Dark-Tranquillity.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Dark-Tranquillity01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Dark-Tranquillity02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Dark-Tranquillity03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Dark-Tranquillity04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Dark-Tranquillity05.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Dark-Tranquillity06.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Dark-Tranquillity07.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Die-Apokalyptischen-Reiter.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Die-Apokalyptischen-Reiter01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Die-Apokalyptischen-Reiter02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Die-Apokalyptischen-Reiter03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Die-Apokalyptischen-Reiter04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Die-Apokalyptischen-Reiter05.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Die-Apokalyptischen-Reiter06.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Evergrey.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Evergrey01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Evergrey02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Evergrey03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Evergrey04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Evergrey05.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Evergrey06.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Frosttide.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Frosttide01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Frosttide02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Frosttide03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Frosttide04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Genus-Ordinis-Dei.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Genus-Ordinis-Dei01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Genus-Ordinis-Dei02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Genus-Ordinis-Dei03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Genus-Ordinis-Dei04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Xenoblight.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Xenoblight01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Xenoblight02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Xenoblight03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Xenoblight04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Xenoblight05.jpg)
-    
+
 
 #### Full line-up
 

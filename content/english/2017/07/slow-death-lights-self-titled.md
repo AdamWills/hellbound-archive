@@ -1,10 +1,11 @@
 ---
 title: "Slow Death Lights – self-titled"
+edited: false
 date: "2017-07-05"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "fuzz-rock"
   - "review"

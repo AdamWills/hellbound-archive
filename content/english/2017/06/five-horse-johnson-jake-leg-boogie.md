@@ -1,10 +1,11 @@
 ---
 title: "Five Horse Johnson – Jake Leg Boogie"
+edited: false
 date: "2017-06-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blues-rock"
   - "clutch"
   - "five-horse-johnson"

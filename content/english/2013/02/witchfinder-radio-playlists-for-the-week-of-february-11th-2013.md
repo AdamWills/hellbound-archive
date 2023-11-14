@@ -1,12 +1,13 @@
 ---
 title: "Witchfinder Radio Playlists for the Week of February 11th, 2013"
+edited: false
 date: "2013-02-12"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "staff_playlists"
   - "witchfinder"
-tags: 
+tags:
   - "cilu"
   - "jason-wellwood"
   - "playlist"

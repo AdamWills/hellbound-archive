@@ -1,11 +1,12 @@
 ---
 title: "Shooting Guns - Born to Deal in Magic: 1952-1976"
+edited: false
 date: "2011-08-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adrien-begrand"
   - "black-sabbath"
   - "dysrhythmia"

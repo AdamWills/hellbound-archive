@@ -1,11 +1,12 @@
 ---
 title: "Space Mushroom Fuzz – Burning the Almanac"
+edited: false
 date: "2014-02-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bandcamp"
   - "dave-chandler"
   - "doom"

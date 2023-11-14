@@ -1,10 +1,11 @@
 ---
 title: "Sonic Wolves – Before the End Comes"
+edited: false
 date: "2016-07-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom-rock"
   - "review"
   - "sonic-wolves"

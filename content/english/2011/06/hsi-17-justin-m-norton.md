@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogations #17: Justin M Norton"
+edited: false
 date: "2011-06-23"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "adrien-begrand"
   - "asphyx"
   - "bill-ward"

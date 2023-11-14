@@ -1,10 +1,11 @@
 ---
 title: "Kings Destroy – Fantasma Nera"
+edited: false
 date: "2019-02-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-rock"
   - "metal"

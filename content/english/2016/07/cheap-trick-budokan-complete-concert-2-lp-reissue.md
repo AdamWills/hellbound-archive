@@ -1,9 +1,10 @@
 ---
 title: "Cheap Trick – At Budokan, The Complete Concert (2 LP reissue)"
+edited: false
 date: "2016-07-04"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "at-budokan"
   - "cheap-trick"
   - "live-release"

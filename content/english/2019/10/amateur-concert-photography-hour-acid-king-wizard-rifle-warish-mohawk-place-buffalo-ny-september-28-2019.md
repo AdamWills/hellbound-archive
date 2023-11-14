@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: ACID KING/Wizard Rifle/Warish @ Mohawk Place, Buffalo, NY, September 28, 2019"
+edited: false
 date: "2019-10-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "acid-king"
   - "buffalo-ny"
   - "concert-photography"

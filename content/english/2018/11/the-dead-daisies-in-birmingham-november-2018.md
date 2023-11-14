@@ -1,9 +1,10 @@
 ---
 title: "The Dead Daisies in Birmingham, November 2018"
+edited: false
 date: "2018-11-28"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "birmingham"
   - "concert"
   - "diamond-head"

@@ -1,9 +1,10 @@
 ---
 title: "King Gizzard and the Lizard Wizard – Flying Microtonal Banana"
+edited: false
 date: "2017-03-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alternative-garage"
   - "king-gizzard"
   - "lizard-wizard"

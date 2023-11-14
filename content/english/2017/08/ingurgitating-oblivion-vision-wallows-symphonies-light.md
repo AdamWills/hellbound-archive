@@ -1,9 +1,10 @@
 ---
 title: "Ingurgitating Oblivion – Vision Wallows in Symphonies of Light"
+edited: false
 date: "2017-08-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "ingurgitating-oblivion"
   - "review"
 ---

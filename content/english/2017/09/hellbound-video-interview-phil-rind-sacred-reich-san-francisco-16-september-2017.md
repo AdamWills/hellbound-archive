@@ -1,9 +1,10 @@
 ---
 title: "Hellbound video interview:  Phil Rind of Sacred Reich in San Francisco, 16 September 2017"
+edited: false
 date: "2017-09-21"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "heavy-metal"
   - "interview"
   - "metal"

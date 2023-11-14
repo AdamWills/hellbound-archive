@@ -1,11 +1,12 @@
 ---
 title: "The Melvins - The Bride Screamed Murder"
+edited: false
 date: "2010-06-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "big-business"
   - "ipecac"
   - "melvins"

@@ -1,11 +1,12 @@
 ---
 title: "THE RETURN OF KEVI METAL'S RIMSHOTS!"
+edited: false
 date: "2010-01-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "avulsed"
   - "decibel"
   - "kevin-stewart-panko"

@@ -1,11 +1,12 @@
 ---
 title: "Cattle Decapitation - Monolith of Inhumanity"
+edited: false
 date: "2012-05-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cattle-decapitation"
   - "death-metal"
   - "grindcore"

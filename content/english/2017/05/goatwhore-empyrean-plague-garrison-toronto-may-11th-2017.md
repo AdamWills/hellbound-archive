@@ -1,9 +1,10 @@
 ---
 title: "Goatwhore + Empyrean Plague @ The Garrison, Toronto, May 11th 2017"
+edited: false
 date: "2017-05-15"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "goatwhore"
   - "live"

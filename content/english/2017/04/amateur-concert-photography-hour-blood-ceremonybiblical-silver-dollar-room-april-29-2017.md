@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Blood Ceremony/Biblical @ Silver Dollar Room, April 29, 2017"
+edited: false
 date: "2017-04-30"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "biblical"
   - "blood-ceremony"
   - "concert-photography"

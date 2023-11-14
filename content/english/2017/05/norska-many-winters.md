@@ -1,10 +1,11 @@
 ---
 title: "Norska – Too Many Winters"
+edited: false
 date: "2017-05-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "blackened-sludge"
   - "norska"

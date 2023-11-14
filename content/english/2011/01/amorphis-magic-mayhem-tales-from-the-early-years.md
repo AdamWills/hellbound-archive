@@ -1,11 +1,12 @@
 ---
 title: "Amorphis – Magic & Mayhem [Tales From The Early Years]"
+edited: false
 date: "2011-01-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "amorphis"
   - "jason-wellwood"
   - "nuclear-blast"

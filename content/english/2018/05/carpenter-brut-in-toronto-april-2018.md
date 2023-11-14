@@ -1,10 +1,11 @@
 ---
 title: "Carpenter Brut in Toronto, April 2018"
+edited: false
 date: "2018-05-14"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "2018"
   - "carpenter-brut"
   - "concert"

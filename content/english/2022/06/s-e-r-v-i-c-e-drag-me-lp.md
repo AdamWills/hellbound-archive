@@ -1,10 +1,11 @@
 ---
 title: "S-E-R-V-I-C-E - Drag Me LP"
+edited: false
 date: "2022-06-11"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "drag"
   - "indie"
   - "jilly-weiss-simins"

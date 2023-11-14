@@ -1,11 +1,12 @@
 ---
 title: "Blood Ceremony – The Eldritch Dark"
+edited: false
 date: "2013-06-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "black-widow"
   - "blood-ceremony"

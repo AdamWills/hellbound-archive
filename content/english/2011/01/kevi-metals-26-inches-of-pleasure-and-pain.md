@@ -1,11 +1,12 @@
 ---
 title: "KEVI METAL’S 26 INCHES OF PLEASURE AND PAIN"
+edited: false
 date: "2011-01-11"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "cursed"
   - "kevi-metal"
   - "kevin-stewart-panko"

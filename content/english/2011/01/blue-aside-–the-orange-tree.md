@@ -1,11 +1,12 @@
 ---
 title: "Blue Aside – The Orange Tree"
+edited: false
 date: "2011-01-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-pyramid"
   - "blue-aside"
   - "gruesome-greg"

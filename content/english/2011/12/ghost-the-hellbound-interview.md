@@ -1,11 +1,12 @@
 ---
 title: "Ghost: The Hellbound Interview"
+edited: false
 date: "2011-12-12"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "alice-cooper"
   - "ghost"
   - "justin-m-norton"

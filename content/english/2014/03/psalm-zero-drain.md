@@ -1,10 +1,11 @@
 ---
 title: "Psalm Zero – The Drain"
+edited: false
 date: "2014-03-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "castevet"
   - "darkwave"

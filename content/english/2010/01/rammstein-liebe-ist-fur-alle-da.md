@@ -1,11 +1,12 @@
 ---
 title: "Rammstein: Liebe ist für alle da"
+edited: false
 date: "2010-01-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "germany"
   - "industrial-metal"
   - "rammstein"

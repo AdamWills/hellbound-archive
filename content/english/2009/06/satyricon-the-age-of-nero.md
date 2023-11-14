@@ -1,10 +1,11 @@
 ---
 title: "Satyricon: The Age Of Nero"
+edited: false
 date: "2009-06-05"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "koch"
   - "norway"

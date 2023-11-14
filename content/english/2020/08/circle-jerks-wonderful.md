@@ -1,7 +1,8 @@
 ---
 title: "Circle Jerks - Wonderful"
+edited: false
 date: "2020-08-26"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

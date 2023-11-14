@@ -1,13 +1,14 @@
 ---
 title: "Hellbound Staff Interrogations #23: Sean Palmerston"
+edited: false
 date: "2011-07-05"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "70000-tons-of-metal"
   - "adrian-bromley"
   - "adrien-begrand"

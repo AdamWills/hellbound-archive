@@ -1,11 +1,12 @@
 ---
 title: "Something Wicked This Way Comes: Watain/Goatwhore/Black Anvil @ The Opera House, Toronto, ON, December 4, 2010"
+edited: false
 date: "2010-12-08"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "black-anvil"
   - "empyrean-plague"

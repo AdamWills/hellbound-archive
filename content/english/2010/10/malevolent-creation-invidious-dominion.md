@@ -1,11 +1,12 @@
 ---
 title: "Malevolent Creation – Invidious Dominion"
+edited: false
 date: "2010-10-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death"
   - "death-metal"
   - "florida"

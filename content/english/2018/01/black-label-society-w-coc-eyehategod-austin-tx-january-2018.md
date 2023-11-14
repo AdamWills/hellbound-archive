@@ -1,9 +1,10 @@
 ---
 title: "Black Label Society w/COC & Eyehategod in Austin TX, January 2018"
+edited: false
 date: "2018-01-23"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-label-society"
   - "concert"
   - "corrosion-of-conformity"

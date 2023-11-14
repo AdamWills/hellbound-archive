@@ -1,9 +1,10 @@
 ---
 title: "Crusty Culprits: Crust Punk from Bandcamp, Part One"
+edited: false
 date: "2015-09-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bandcamp"
   - "crust"

@@ -1,11 +1,12 @@
 ---
 title: "Soilwork – The Living Infinite"
+edited: false
 date: "2013-06-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hellbound-metal"
   - "hellbound-ca"
   - "katatonia"

@@ -1,9 +1,10 @@
 ---
 title: "This Means War – S/T 10'' EP"
+edited: false
 date: "2017-11-24"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hardcore"
   - "punk"
   - "punk-rock"

@@ -1,9 +1,10 @@
 ---
 title: "By Winston Churchill: books in review"
+edited: false
 date: "2019-09-09"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "20th-century-history"
   - "book"
   - "book-reviews"

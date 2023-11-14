@@ -1,11 +1,12 @@
 ---
 title: "Def Leppard / Poison / Lita Ford @ Copps Coliseum, Hamilton ON, June 17th 2012"
+edited: false
 date: "2012-07-23"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "def-leppard"
   - "laura-wiebe"
   - "lita-ford"

@@ -1,11 +1,12 @@
 ---
 title: "GIMME AN R! – THE STORY OF BRIAN VOLLMER, LEAD VOCALIST OF HELIX"
+edited: false
 date: "2010-02-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "ball-media"
   - "book"
   - "book-review"

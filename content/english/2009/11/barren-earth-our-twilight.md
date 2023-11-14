@@ -1,11 +1,12 @@
 ---
 title: "Barren Earth: Our Twilight"
+edited: false
 date: "2009-11-13"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "amorphis"
   - "barren-earth"
   - "camel"

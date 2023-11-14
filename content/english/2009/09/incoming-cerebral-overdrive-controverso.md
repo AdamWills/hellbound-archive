@@ -1,11 +1,12 @@
 ---
 title: "Incoming Cerebral Overdrive: Controverso"
+edited: false
 date: "2009-09-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "incoming-cerebral-overdrive"
   - "italy"
   - "metalcore"

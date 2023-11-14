@@ -1,9 +1,10 @@
 ---
 title: "Solitude – Reach For The Sky"
+edited: false
 date: "2016-12-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "japan"
   - "review"
   - "solitude"

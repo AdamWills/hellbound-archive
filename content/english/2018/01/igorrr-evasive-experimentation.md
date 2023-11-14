@@ -1,10 +1,11 @@
 ---
 title: "Igorrr: evasive experimentation"
+edited: false
 date: "2018-01-30"
-categories: 
+categories:
   - "blogs"
   - "editors_blog"
-tags: 
+tags:
   - "experimental"
   - "extreme"
   - "film"

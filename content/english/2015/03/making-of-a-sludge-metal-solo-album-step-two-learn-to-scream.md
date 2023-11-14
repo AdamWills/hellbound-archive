@@ -1,11 +1,12 @@
 ---
 title: "MAKING OF A SLUDGE METAL SOLO ALBUM - Step Two: Learn to Scream"
+edited: false
 date: "2015-03-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "introvert"
   - "melissa-cross"

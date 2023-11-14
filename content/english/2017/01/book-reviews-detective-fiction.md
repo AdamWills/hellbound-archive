@@ -1,9 +1,10 @@
 ---
 title: "Book reviews by Steve Earles: detective fiction"
+edited: false
 date: "2017-01-27"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-reviews"
   - "crime"
   - "detective-fiction"

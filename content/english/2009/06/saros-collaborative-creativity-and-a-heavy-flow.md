@@ -1,10 +1,11 @@
 ---
 title: "Saros: Collaborative Creativity and a Heavy Flow"
+edited: false
 date: "2009-06-24"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "amber-asylum"
   - "black-metal"
   - "profound-lore"

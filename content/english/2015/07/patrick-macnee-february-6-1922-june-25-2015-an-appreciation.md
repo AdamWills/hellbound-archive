@@ -1,10 +1,11 @@
 ---
 title: "Patrick Macnee (February 6, 1922- June 25, 2015) - An Appreciation"
+edited: false
 date: "2015-07-17"
-categories: 
+categories:
   - "articles"
   - "features"
-tags: 
+tags:
   - "britain"
   - "obituary"
   - "this-is-spinal-tap"

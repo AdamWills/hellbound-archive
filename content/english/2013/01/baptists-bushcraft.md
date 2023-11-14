@@ -1,11 +1,12 @@
 ---
 title: "Baptists: Bushcraft"
+edited: false
 date: "2013-01-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baptists"
   - "kurt-ballou"
   - "southern-lord"

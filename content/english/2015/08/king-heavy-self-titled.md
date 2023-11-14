@@ -1,9 +1,10 @@
 ---
 title: "King Heavy – self-titled"
+edited: false
 date: "2015-08-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "cruz-del-sur"
   - "king-heavy"

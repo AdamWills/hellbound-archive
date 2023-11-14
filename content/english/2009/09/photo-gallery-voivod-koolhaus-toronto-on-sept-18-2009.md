@@ -1,11 +1,12 @@
 ---
 title: "Photo gallery: Voivod @ Koolhaus, Toronto ON, Sept 18, 2009"
+edited: false
 date: "2009-09-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "canada"
   - "live"

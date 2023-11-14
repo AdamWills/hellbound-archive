@@ -1,10 +1,11 @@
 ---
 title: "Baby In Vain – For The Kids EP"
+edited: false
 date: "2017-01-10"
-categories: 
+categories:
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "baby-in-vain"
   - "grunge"
   - "hardcore"

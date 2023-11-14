@@ -1,11 +1,12 @@
 ---
 title: "Anders Nyström from Katatonia: The Hellbound Interview"
+edited: false
 date: "2012-08-07"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "anders-nystrom"
   - "bloodbath"
   - "dark-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Bring Me The Horizon - There Is A Hell, Believe Me I've Seen It. There Is A Heaven, Let's Keep It A Secret"
+edited: false
 date: "2010-10-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "bring-me-the-horizon"
   - "epitaph"

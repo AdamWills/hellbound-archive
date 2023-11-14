@@ -1,7 +1,8 @@
 ---
 title: "Too much Cowbell is never a bad thing..."
+edited: false
 date: "2009-12-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

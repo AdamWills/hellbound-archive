@@ -1,11 +1,12 @@
 ---
 title: "AtomA – Skylight"
+edited: false
 date: "2012-05-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atoma"
   - "death-metal"
   - "ewigkeit"

@@ -1,9 +1,10 @@
 ---
 title: "Corrections House – Know How to Carry a Whip"
+edited: false
 date: "2015-10-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "corrections-house"
   - "electronic"
   - "neurosis"

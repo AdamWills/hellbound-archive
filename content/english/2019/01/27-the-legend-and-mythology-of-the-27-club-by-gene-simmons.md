@@ -1,9 +1,10 @@
 ---
 title: "27: The Legend and Mythology of the 27 Club by Gene Simmons"
+edited: false
 date: "2019-01-11"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "gene-simmons"

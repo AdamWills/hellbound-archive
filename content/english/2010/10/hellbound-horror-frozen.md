@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Horror: Frozen"
+edited: false
 date: "2010-10-06"
-categories: 
+categories:
   - "headline"
   - "hellbound-horror"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "adam-wills"
   - "anchor-bay-entertainment"
   - "hellbound-horror"

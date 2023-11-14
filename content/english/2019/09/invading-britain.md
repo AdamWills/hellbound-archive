@@ -1,9 +1,10 @@
 ---
 title: "Invading Britain"
+edited: false
 date: "2019-09-05"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-reviews"
   - "british-history"

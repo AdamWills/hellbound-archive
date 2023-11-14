@@ -1,7 +1,8 @@
 ---
 title: "Jason Isbell - Sirens of the Ditch"
+edited: false
 date: "2020-08-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

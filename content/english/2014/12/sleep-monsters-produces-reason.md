@@ -1,9 +1,10 @@
 ---
 title: "Sleep of Monsters – Produces Reason"
+edited: false
 date: "2014-12-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "acid-rock"
   - "album-review"
   - "babylon-whores"

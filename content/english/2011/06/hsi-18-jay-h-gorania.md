@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogations #18: Jay H. Gorania"
+edited: false
 date: "2011-06-24"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "ronnie-james-dio"
   - "bolt-thrower"
   - "brutal-truth"

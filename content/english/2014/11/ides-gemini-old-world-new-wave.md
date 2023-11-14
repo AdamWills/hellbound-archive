@@ -1,9 +1,10 @@
 ---
 title: "Ides of Gemini – Old World New Wave"
+edited: false
 date: "2014-11-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "doom"

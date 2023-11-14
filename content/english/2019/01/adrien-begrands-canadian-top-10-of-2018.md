@@ -1,12 +1,13 @@
 ---
 title: "Adrien Begrand's Canadian TOP 10 of 2018"
+edited: false
 date: "2019-01-04"
-categories: 
+categories:
   - "canadian-metal"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-of"
   - "best-of-2018"
   - "canadian-metal"

@@ -1,9 +1,10 @@
 ---
 title: "Ramlord – Crippled Minds, Sundered Wisdom"
+edited: false
 date: "2015-03-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "blackened-stenchviolence"

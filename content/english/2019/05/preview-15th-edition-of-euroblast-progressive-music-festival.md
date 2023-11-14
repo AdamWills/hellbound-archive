@@ -1,10 +1,11 @@
 ---
 title: "PREVIEW: 15th edition of Euroblast progressive music festival"
+edited: false
 date: "2019-05-15"
-categories: 
+categories:
   - "features"
   - "psa"
-tags: 
+tags:
   - "festival"
   - "metal"
   - "preview"
@@ -71,7 +72,7 @@ Digital tickets: [https://www.eventbrite.de/e/euroblast-festival-15-2019-tickets
 
 **Ticket prices:**
 
-3-day festival ticket level 2 (from 01.05.19): 119€  
+3-day festival ticket level 2 (from 01.05.19): 119€
 3-day festival ticket final price (from 01.09.19): 129€
 
 **Festival info:**

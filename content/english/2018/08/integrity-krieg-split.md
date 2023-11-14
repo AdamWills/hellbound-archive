@@ -1,9 +1,10 @@
 ---
 title: "Integrity & Krieg Split"
+edited: false
 date: "2018-08-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "hardcore"
   - "integrity"

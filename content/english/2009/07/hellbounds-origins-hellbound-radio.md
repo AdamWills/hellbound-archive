@@ -1,10 +1,11 @@
 ---
 title: "Hellbound's Origins #1: Hellbound Radio"
+edited: false
 date: "2009-07-15"
-categories: 
+categories:
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "blogs"
 ---
 

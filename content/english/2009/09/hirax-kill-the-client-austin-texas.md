@@ -1,7 +1,8 @@
 ---
 title: "Roadkill and Rock ’n Roll: HIRAX/KILL THE CLIENT/PLF (Aug. 29, 2009 @ Red 7, Austin, Texas)"
+edited: false
 date: "2009-09-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"

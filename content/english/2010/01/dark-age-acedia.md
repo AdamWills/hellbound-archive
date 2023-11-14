@@ -1,11 +1,12 @@
 ---
 title: "Dark Age: Acedia"
+edited: false
 date: "2010-01-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm-records"
   - "dark-age"
   - "germany"

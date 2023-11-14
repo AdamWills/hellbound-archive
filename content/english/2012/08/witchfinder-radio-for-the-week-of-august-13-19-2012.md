@@ -1,11 +1,12 @@
 ---
 title: "Witchfinder Radio For the Week of August 13-19, 2012"
+edited: false
 date: "2012-08-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "jason-wellwood"
 ---
 

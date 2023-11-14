@@ -1,9 +1,10 @@
 ---
 title: "The Apex - S/T"
+edited: false
 date: "2015-06-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "death-metal"
   - "tech-death"

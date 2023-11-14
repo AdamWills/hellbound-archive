@@ -1,14 +1,15 @@
 ---
 title: "Thérèse Lanz of Mares of Thrace: The Hellbound Audio interview"
+edited: false
 date: "2012-04-20"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "features"
   - "headline"
   - "interviews"
   - "witchfinder"
-tags: 
+tags:
   - "canadian-metal"
   - "cilu"
   - "experimental"

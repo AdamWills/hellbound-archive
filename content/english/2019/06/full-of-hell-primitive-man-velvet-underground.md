@@ -1,9 +1,10 @@
 ---
 title: "Full of Hell & Primitive Man @ Velvet Underground"
+edited: false
 date: "2019-06-17"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "live"
   - "photography"

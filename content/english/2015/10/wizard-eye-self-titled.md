@@ -1,9 +1,10 @@
 ---
 title: "Wizard Eye – self-titled"
+edited: false
 date: "2015-10-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "metal"

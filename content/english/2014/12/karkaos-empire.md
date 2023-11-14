@@ -1,9 +1,10 @@
 ---
 title: "Karkaos – Empire"
+edited: false
 date: "2014-12-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "extreme-metal"
   - "heavy-metal"

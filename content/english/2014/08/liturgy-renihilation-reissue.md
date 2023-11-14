@@ -1,9 +1,10 @@
 ---
 title: "Liturgy – Renihilation (reissue)"
+edited: false
 date: "2014-08-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "drone"
   - "liturgy"

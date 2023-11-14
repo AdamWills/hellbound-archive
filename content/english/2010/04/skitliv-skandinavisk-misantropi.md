@@ -1,11 +1,12 @@
 ---
 title: "Skitliv – Skandinavisk Misantropi"
+edited: false
 date: "2010-04-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "doom"
   - "hungary"

@@ -1,9 +1,10 @@
 ---
 title: "Mos Generator – Electric Mountain Majesty"
+edited: false
 date: "2014-04-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "gruesome-greg"

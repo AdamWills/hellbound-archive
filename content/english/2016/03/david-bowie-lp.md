@@ -1,9 +1,10 @@
 ---
 title: "David Bowie – Blackstar LP"
+edited: false
 date: "2016-03-16"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "david-bowie"
   - "review"
   - "vinyl"

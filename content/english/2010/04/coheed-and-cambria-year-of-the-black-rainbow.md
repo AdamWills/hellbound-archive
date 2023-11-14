@@ -1,11 +1,12 @@
 ---
 title: "Coheed And Cambria - Year Of The Black Rainbow"
+edited: false
 date: "2010-04-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "coheed-and-cambria"
   - "columbia"
   - "metalcore"

@@ -1,10 +1,11 @@
 ---
 title: "January metal shows you don't want to miss (Toronto edition)"
+edited: false
 date: "2015-01-07"
-categories: 
+categories:
   - "blogs"
   - "psa"
-tags: 
+tags:
   - "live-metal"
   - "toronto"
 ---

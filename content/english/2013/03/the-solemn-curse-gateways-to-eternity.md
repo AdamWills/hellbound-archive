@@ -1,11 +1,12 @@
 ---
 title: "The Solemn Curse - Gateways to Eternity"
+edited: false
 date: "2013-03-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "craig-haze"
   - "david-vincent"
   - "death"

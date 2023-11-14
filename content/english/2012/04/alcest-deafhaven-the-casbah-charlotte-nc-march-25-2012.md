@@ -1,11 +1,12 @@
 ---
 title: "Alcest / Deafhaven @ The Casbah, Charlotte NC, March 25, 2012"
+edited: false
 date: "2012-04-16"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "alcest"
   - "black-metal"
   - "deafhaven"

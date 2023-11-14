@@ -1,9 +1,10 @@
 ---
 title: "Wacken Metal Battle Canada 2015 competition has begun"
+edited: false
 date: "2015-01-19"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "wacken-metal-battle-canada"
 ---
 
@@ -21,19 +22,19 @@ Each city will hold their qualifying rounds plus city finals from the months of 
 
 Initial rounds have already taken place (see the winners for these cities listed below) but there's lots more to come. Updates and event pages are easily accessible via the [Wacken Metal Battle Canada facebook page](https://www.facebook.com/MetalBattleCanada).
 
-CALGARY - ROUND #1 Hellborn Death Engines 
+CALGARY - ROUND #1 Hellborn Death Engines
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2400526539/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://hellborndeathengines.bandcamp.com/album/welcome-to-the-hellmouth">Welcome to the Hellmouth by Hellborn Death Engines</a></iframe>
 
-CALGARY - ROUND #2 DETHGOD 
+CALGARY - ROUND #2 DETHGOD
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2931708366/size=small/bgcol=ffffff/linkcol=0687f5/track=1402612394/transparent=true/" width="300" height="150" seamless=""><a href="http://wackenmetalbattlecanada.bandcamp.com/album/wacken-metal-battle-canada-compilation-vol-2">Wacken Metal Battle Canada Compilation Vol. 2 by Wacken Metal Battle Canada</a></iframe>
 
-WINNIPEG - ROUND #1 Endless Chaos 
+WINNIPEG - ROUND #1 Endless Chaos
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=532089582/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://endlesschaos1.bandcamp.com/album/rejected-atrocity">Rejected Atrocity by Endless Chaos</a></iframe>
 
-WINNIPEG - ROUND #2 Vathek 
+WINNIPEG - ROUND #2 Vathek
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/track=2584335928/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://vathek.bandcamp.com/track/systematic-toxicity-single">Systematic Toxicity (Single) by Vathek</a></iframe>
 

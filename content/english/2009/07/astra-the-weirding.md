@@ -1,11 +1,12 @@
 ---
 title: "Astra: The Weirding"
+edited: false
 date: "2009-07-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "astra"
   - "progressive-rock"
   - "rise-above"

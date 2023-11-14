@@ -1,9 +1,10 @@
 ---
 title: "Defying Gravity: Jordan’s Story"
+edited: false
 date: "2019-08-20"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-reviews"
   - "punk"

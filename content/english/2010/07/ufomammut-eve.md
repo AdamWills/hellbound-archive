@@ -1,11 +1,12 @@
 ---
 title: "Ufomammut – Eve"
+edited: false
 date: "2010-07-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "goblin"
   - "italy"
   - "neurosis"

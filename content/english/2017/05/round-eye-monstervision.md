@@ -1,9 +1,10 @@
 ---
 title: "Round Eye – Monstervision"
+edited: false
 date: "2017-05-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "punk"
   - "punk-rock"
   - "review"

@@ -1,7 +1,8 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: EARTHLESS @ Lee's Palace, March 14, 2016"
+edited: false
 date: "2016-03-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

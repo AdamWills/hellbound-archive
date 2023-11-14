@@ -1,10 +1,11 @@
 ---
 title: "CONTEST: BLACK DAHLIA MURDER autographed CD/DVDs giveaway!"
+edited: false
 date: "2009-09-17"
-categories: 
+categories:
   - "featured"
   - "psa"
-tags: 
+tags:
   - "black-dahlia-murder"
   - "contest"
   - "metal-blade"

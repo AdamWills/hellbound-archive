@@ -1,11 +1,12 @@
 ---
 title: "Royal Thunder - CVI"
+edited: false
 date: "2012-06-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "metal"
   - "psychedelic"
   - "relapse"

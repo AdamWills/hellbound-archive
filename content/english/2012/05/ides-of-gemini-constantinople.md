@@ -1,11 +1,12 @@
 ---
 title: "Ides of Gemini - Constantinople"
+edited: false
 date: "2012-05-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "craig-haze"
   - "doom"

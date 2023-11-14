@@ -1,11 +1,12 @@
 ---
 title: "VREID / KAMPFAR / NECRONOMICON/ SCYTHIA @ Rickshaw Theatre, Vancouver BC, September 5, 2011"
+edited: false
 date: "2011-09-19"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "eluveitie"
   - "enisferum"

@@ -1,9 +1,10 @@
 ---
 title: "Graveyard – Innocence & Decadence"
+edited: false
 date: "2015-08-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blues-rock"
   - "garage-rock"

@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogations #9: Renee Trotier"
+edited: false
 date: "2011-06-13"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "bison-bc"
   - "brendon-small"

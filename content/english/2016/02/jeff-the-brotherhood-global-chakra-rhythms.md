@@ -1,9 +1,10 @@
 ---
 title: "JEFF The Brotherhood – Global Chakra Rhythms"
+edited: false
 date: "2016-02-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "jeff-the-brotherhood"
   - "psychedelic"
   - "rock"

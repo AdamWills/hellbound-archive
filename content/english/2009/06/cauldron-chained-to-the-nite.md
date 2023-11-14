@@ -1,10 +1,11 @@
 ---
 title: "Cauldron: Chained to the Nite"
+edited: false
 date: "2009-06-01"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "cauldron"
   - "earache"

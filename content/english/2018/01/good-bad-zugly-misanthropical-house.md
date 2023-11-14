@@ -1,10 +1,11 @@
 ---
 title: "The Good The Bad and The Zugly – Misanthropical House"
+edited: false
 date: "2018-01-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "metal"
   - "review"

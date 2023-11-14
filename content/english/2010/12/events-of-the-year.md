@@ -1,12 +1,13 @@
 ---
 title: "Hellbound.ca’s Events Of The Year"
+edited: false
 date: "2010-12-28"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "headline"
   - "staff_picks"
-tags: 
+tags:
   - "accept"
   - "albert-mansour"
   - "autopsy"

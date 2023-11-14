@@ -1,9 +1,10 @@
 ---
 title: "Vantablack Warship – Abrasive Pulmonic Speak"
+edited: false
 date: "2018-03-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "death-metal"
   - "heavy-metal"

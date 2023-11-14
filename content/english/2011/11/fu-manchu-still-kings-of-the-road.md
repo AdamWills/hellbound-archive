@@ -1,11 +1,12 @@
 ---
 title: "Fu Manchu - Still Kings of the Road!"
+edited: false
 date: "2011-11-12"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "california"
   - "concert"
   - "fu-manchu"

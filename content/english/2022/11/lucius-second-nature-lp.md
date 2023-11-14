@@ -1,11 +1,12 @@
 ---
 title: "Lucius - Second Nature LP"
+edited: false
 date: "2022-11-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "disco"
   - "lucius"
   - "mom-pop"

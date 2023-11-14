@@ -1,11 +1,12 @@
 ---
 title: "Lock Up/ Goatwhore/ Strong Intention @ The Annex Wreckroom, Toronto ON, February 12th 2012"
+edited: false
 date: "2012-02-17"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "at-the-gates"
   - "brutal-truth"

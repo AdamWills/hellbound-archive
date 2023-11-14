@@ -1,11 +1,12 @@
 ---
 title: "A Storm of Light – As The Valley Of Death Becomes Us, Our Silver Memories Fade"
+edited: false
 date: "2011-05-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "a-storm-of-light"
   - "gruesome-greg"
   - "neurot"

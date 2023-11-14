@@ -1,11 +1,12 @@
 ---
 title: "The Wild Beast Manifesto: One writer’s response to Metalsucks"
+edited: false
 date: "2016-11-17"
-categories: 
+categories:
   - "blogs"
   - "headline"
   - "jay_gorania"
-tags: 
+tags:
   - "culture"
   - "heavy-metal"
   - "jay-h-gorania"

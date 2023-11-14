@@ -1,7 +1,8 @@
 ---
 title: "Pere Ubu - By Order of Mayor Pawlicki"
+edited: false
 date: "2020-07-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

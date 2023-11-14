@@ -1,9 +1,10 @@
 ---
 title: "Royal Thunder – Crooked Doors"
+edited: false
 date: "2015-04-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blues"
   - "grunge"

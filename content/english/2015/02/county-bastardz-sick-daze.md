@@ -1,9 +1,10 @@
 ---
 title: "Them County Bastardz – Sick Daze"
+edited: false
 date: "2015-02-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "heavy-metal"
   - "red-neck-metal"

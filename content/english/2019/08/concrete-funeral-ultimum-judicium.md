@@ -1,7 +1,8 @@
 ---
 title: "Concrete Funeral – Ultimum Judicium"
+edited: false
 date: "2019-08-03"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
 ---

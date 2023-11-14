@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND STAFF PICKS, FEBRUARY 2018"
+edited: false
 date: "2018-02-23"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "staff-picks"

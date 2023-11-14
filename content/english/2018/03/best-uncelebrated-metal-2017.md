@@ -1,11 +1,12 @@
 ---
 title: "The best uncelebrated metal of 2017"
+edited: false
 date: "2018-03-02"
-categories: 
+categories:
   - "features"
   - "reviews-audio"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2017"
   - "black-metal"
   - "cicada-the-burrower"

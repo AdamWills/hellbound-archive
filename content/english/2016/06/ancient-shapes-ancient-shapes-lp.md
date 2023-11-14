@@ -1,9 +1,10 @@
 ---
 title: "Ancient Shapes – Ancient Shapes LP"
+edited: false
 date: "2016-06-23"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "ancient-shapes"
   - "punk"
   - "review"

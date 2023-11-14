@@ -1,11 +1,12 @@
 ---
 title: "Between The Buried And Me: The Great Misdirect"
+edited: false
 date: "2009-12-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "between-the-buried-and-me"
   - "hardcore"
   - "progressive-metal"

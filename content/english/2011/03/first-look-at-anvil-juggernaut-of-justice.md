@@ -1,13 +1,14 @@
 ---
 title: "First Look at… Anvil’s <em>Juggernaut of Justice </em>"
+edited: false
 date: "2011-03-14"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
   - "reviews"
-tags: 
+tags:
   - "albert-mansour"
   - "anvil"
   - "canadian"

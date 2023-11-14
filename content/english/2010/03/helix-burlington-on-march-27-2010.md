@@ -1,11 +1,12 @@
 ---
 title: "Helix @ Legendary Red Rooster, Burlington ON, March 27, 2010"
+edited: false
 date: "2010-03-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "canada"
   - "capitol-records"

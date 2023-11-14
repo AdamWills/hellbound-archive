@@ -1,10 +1,11 @@
 ---
 title: "Best of the rest – 2014 metal (part 1): instrumental and short releases"
+edited: false
 date: "2015-01-12"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "7-inch"
   - "best-metal"
   - "best-of-2014"
@@ -62,11 +63,11 @@ I kept going back to Tempel's  _On the Steps of the Temple_ (Prosthetic) this y
 
 Raw like fugu and twice as deadly, OSDM leviathan BLASPHERIAN utterly rip, rend and tear their way through two murky, mastodon-heavy throwback tracks, while LVTHN keep it kvlt with an equally ferocious dual black metal berserker rampage. Everything that is awesome about no-nonsense metal done right, in two choice slabs o' delicious 7" vinyl. (Matthew Elliott)
 
-**BLASPHERIAN - Upon the Throne...of Eternal Blasphemous Death 7" (Iron Bonehead Productions)** 
+**BLASPHERIAN - Upon the Throne...of Eternal Blasphemous Death 7" (Iron Bonehead Productions)**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=174866993/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://ironboneheadproductions.bandcamp.com/album/blaspherian-upon-the-throne-of-eternal-blasphemous-death">Blaspherian - Upon the Throne...of Eternal Blasphemous Death by Iron Bonehead Productions</a></iframe>
 
-**LVTHN - Adversarialism 7" (Fallen Empire)** 
+**LVTHN - Adversarialism 7" (Fallen Empire)**
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=2074873331/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" width="300" height="150" seamless=""><a href="http://bandcamp.fallenempirerecords.com/album/adversarialism">Adversarialism by LVTHN</a></iframe>
 

@@ -1,9 +1,10 @@
 ---
 title: "Maxwell – Maxwell's Urban Hang Suite 2LP"
+edited: false
 date: "2017-01-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "jazz"
   - "maxwell"
   - "neo-soul"

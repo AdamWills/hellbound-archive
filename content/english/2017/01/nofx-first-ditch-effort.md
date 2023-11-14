@@ -1,9 +1,10 @@
 ---
 title: "NOFX – First Ditch Effort"
+edited: false
 date: "2017-01-05"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hardcore"
   - "nofx"
   - "punk"

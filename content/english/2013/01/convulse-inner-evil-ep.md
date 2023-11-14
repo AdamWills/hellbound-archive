@@ -1,11 +1,12 @@
 ---
 title: "Convulse – Inner Evil EP"
+edited: false
 date: "2013-01-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "convulse"
   - "death-metal"
   - "disgrace"

@@ -1,9 +1,10 @@
 ---
 title: "Bastard Sapling – Instinct is Forever"
+edited: false
 date: "2014-09-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bastard-sapling"
   - "black-metal"

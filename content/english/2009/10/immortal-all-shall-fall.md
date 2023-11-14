@@ -1,11 +1,12 @@
 ---
 title: "Immortal: All Shall Fall"
+edited: false
 date: "2009-10-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "immortal"
   - "kiss"

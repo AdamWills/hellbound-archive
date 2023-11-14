@@ -1,11 +1,12 @@
 ---
 title: "Maryland Deathfest 2011 Recap Day 3"
+edited: false
 date: "2011-06-08"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "acid-witch"
   - "adam-wills"
   - "albert-mansour"
@@ -44,17 +45,17 @@ First time seeing these SF goregrinders, which was expanded to a four piece this
 
 ### Cianide (4:35 - 5:10, Outdoor Stage 1)
 
-[![](http://www.hellbound.ca/wp-content/uploads/2011/06/21-150x150.jpg "-2")](http://www.hellbound.ca/wp-content/uploads/2011/06/21.jpg)  
+[![](http://www.hellbound.ca/wp-content/uploads/2011/06/21-150x150.jpg "-2")](http://www.hellbound.ca/wp-content/uploads/2011/06/21.jpg)
 The biggest surprise of the weekend came from this veteran Chicago death metal unit. The trio seemed genuinely surprised at the size of the crowd there to witness their set, but how could you not be drawn to what was the fucking heaviest set of the weekend. The band had an insanely heavy guitar tone and blasted out killer song after killer song. Reminiscent of early Grave at their peak, they came out and blasted our faces off in the best way possible. I was impressed enough that I had to buy two albums and a t-shirt. In a perfect world, Cianide would be absolute death metal legends. They are in my mind after this awesome thirty-fine minute performance. (Sean)
 
 ### In Solitude (6:10 - 6:50, Outdoor Stage 1)
 
-[![](http://www.hellbound.ca/wp-content/uploads/2011/06/41-150x150.jpg "-4")](http://www.hellbound.ca/wp-content/uploads/2011/06/41.jpg)  
+[![](http://www.hellbound.ca/wp-content/uploads/2011/06/41-150x150.jpg "-4")](http://www.hellbound.ca/wp-content/uploads/2011/06/41.jpg)
 This was the first ever North American show by these hotly tipped Swedes, who were recently part of a metal label bidding war that saw them sign to Metal Blade earlier this year for the release of their second album. The band used their Maryland appearance as an album release show for their new record, which finds them treading traditional eighties metal ground that would find them compared closest to early Mercyful Fate. The band came across like seasoned vets, never missing a beat or dropping anything. My one and only question - how the fuck did the vocalist sing in the hot afternoon sun with that fox pelt wrapped around his neck? Pretty freaky. (Sean)
 
 ### Hail of Bullets (6:55 - 7:45, Outdoor Stage 2)
 
-[![](http://www.hellbound.ca/wp-content/uploads/2011/06/31-150x150.jpg "-3")](http://www.hellbound.ca/wp-content/uploads/2011/06/31.jpg)  
+[![](http://www.hellbound.ca/wp-content/uploads/2011/06/31-150x150.jpg "-3")](http://www.hellbound.ca/wp-content/uploads/2011/06/31.jpg)
 I think that Martin Van Drunen is my favourite death metal vocalist ever. His vocal chords are rough strewn, like as if glass shards were present, but the way he can control a stage is impressive. Last year I got to see him front Asphyx at MDF and this year he was back with his other band again. While I think I would give a nod of the hat to Asphyx over Hail of Bullets personally, the HoB set this year was excellent. Great mid-paced death metal with lots of swing and that killer voice singing songs of war and battles. Great stuff (Sean)
 
 ### Impaled Nazarene (7:55 - 8:45, Outdoor Stage 1)

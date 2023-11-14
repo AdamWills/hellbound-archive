@@ -1,10 +1,11 @@
 ---
 title: "AGALLOCH US/CANADIAN tour announced"
+edited: false
 date: "2014-05-05"
-categories: 
+categories:
   - "psa"
   - "reviews"
-tags: 
+tags:
   - "black-metal"
   - "dark-metal"
   - "folk"

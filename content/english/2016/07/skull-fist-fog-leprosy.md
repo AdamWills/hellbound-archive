@@ -1,9 +1,10 @@
 ---
 title: "Skull Fist, Fog of Leprosy and Lutharo – July 3, 2016 in Hamilton ON"
+edited: false
 date: "2016-07-11"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert-review"
   - "hamilton"
   - "live-review"

@@ -1,12 +1,13 @@
 ---
 title: "HELLBOUND SUMMER METAL MELTDOWN: July 10, 2010 Playlist"
+edited: false
 date: "2010-07-11"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "adam-wills"
   - "albert-mansour"
   - "hellbound-radio"

@@ -1,9 +1,10 @@
 ---
 title: "The Slackers/Sic & Mad - “Love I Bring” b/w “My Cat is on Prozac” split 7''"
+edited: false
 date: "2021-12-08"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "7"
   - "garfield"
   - "pirates"

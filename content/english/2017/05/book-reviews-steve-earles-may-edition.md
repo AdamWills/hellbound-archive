@@ -1,9 +1,10 @@
 ---
 title: "Book reviews from Steve Earles: May edition"
+edited: false
 date: "2017-05-02"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-reviews"
   - "british-history"
   - "detective-fiction"

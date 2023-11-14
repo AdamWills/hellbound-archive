@@ -1,11 +1,12 @@
 ---
 title: "Witchcraft – Legend"
+edited: false
 date: "2012-10-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "deathdoom-metal"
   - "doom"
   - "nuclear-blast"

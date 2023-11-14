@@ -1,9 +1,10 @@
 ---
 title: "Single Mothers – Negative Qualities"
+edited: false
 date: "2014-12-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "hardcore-punk"
   - "single-mothers"

@@ -1,11 +1,12 @@
 ---
 title: "Pestilence:Resurrection Macabre"
+edited: false
 date: "2009-08-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "mascot-records"
   - "pestilence"
 ---

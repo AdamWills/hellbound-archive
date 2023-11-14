@@ -1,9 +1,10 @@
 ---
 title: "Jeremy Irons & the Ratgang Malibus – Spirit Knife"
+edited: false
 date: "2014-06-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "jeremy-irons-the-ratgang-malibus"
   - "post-rock"
   - "psychedelic"

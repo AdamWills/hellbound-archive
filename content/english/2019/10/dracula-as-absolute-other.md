@@ -1,9 +1,10 @@
 ---
 title: "Dracula As Absolute Other"
+edited: false
 date: "2019-10-28"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "books"
   - "dracula"
   - "horror"

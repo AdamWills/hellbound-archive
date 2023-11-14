@@ -1,11 +1,12 @@
 ---
 title: "Nadja / Black Boned Angel: s/t"
+edited: false
 date: "2009-09-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "20-buck-spin"
   - "black-boned-angel"
   - "canada"

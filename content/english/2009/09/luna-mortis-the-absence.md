@@ -1,11 +1,12 @@
 ---
 title: "Luna Mortis: The Absence"
+edited: false
 date: "2009-09-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "female-singer"
   - "lacuna-coil"

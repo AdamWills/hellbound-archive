@@ -1,10 +1,11 @@
 ---
 title: "The MELVINS in San Francisco: Hellbound video interview"
+edited: false
 date: "2017-07-21"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "grunge"
   - "heavy"
   - "interview"

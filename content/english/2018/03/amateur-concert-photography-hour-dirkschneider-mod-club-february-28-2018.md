@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Dirkschneider @ Mod Club, February 28, 2018"
+edited: false
 date: "2018-03-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "accept"
   - "dirkschneider"
   - "mod-club"

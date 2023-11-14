@@ -1,11 +1,12 @@
 ---
 title: "Doing The Devil's Work: An Interview with Amy Sciarretto"
+edited: false
 date: "2009-06-15"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews-books"
-tags: 
+tags:
   - "amy-sciarretto"
   - "book"
   - "danzig"

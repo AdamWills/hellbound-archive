@@ -1,7 +1,8 @@
 ---
 title: "ZZ Top: The Most Unlikely Arena Rock Band"
+edited: false
 date: "2009-12-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

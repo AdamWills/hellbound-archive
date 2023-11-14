@@ -1,10 +1,11 @@
 ---
 title: "Spheric Universe Experience: Unreal"
+edited: false
 date: "2009-06-11"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "france"
   - "power-metal"
   - "progressive-metal"

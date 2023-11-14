@@ -1,11 +1,12 @@
 ---
 title: "Artificial Brain – Labyrinth Constellation"
+edited: false
 date: "2014-02-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "colin-marston"
   - "death-metal"
   - "deathcore"

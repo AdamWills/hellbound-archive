@@ -1,5 +1,6 @@
 ---
 title: "Still going down well: interview with Carcass guitarist Bill Steer"
+edited: true
 date: "2014-04-08"
 author: "Laura Wiebe"
 coverImage: "https://hellbound.ca/wp-content/uploads/2013/11/CarcassSurgicalSteel.png"

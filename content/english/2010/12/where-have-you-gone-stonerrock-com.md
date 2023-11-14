@@ -1,11 +1,12 @@
 ---
 title: "Where have you gone, StonerRock.com?"
+edited: false
 date: "2010-12-18"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "stoner-rock"
 ---

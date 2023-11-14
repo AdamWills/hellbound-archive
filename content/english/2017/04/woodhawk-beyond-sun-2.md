@@ -1,9 +1,10 @@
 ---
 title: "Woodhawk – Beyond The Sun"
+edited: false
 date: "2017-04-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "fuzz"
   - "hard-rock"
   - "heavy-rock"

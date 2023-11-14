@@ -1,9 +1,10 @@
 ---
 title: "Black Tar Prophet – Deafen"
+edited: false
 date: "2014-05-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-tar-prophet"
   - "domestic-genocide"
   - "doom"

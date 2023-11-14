@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: October 10th, 2010 Playlist"
+edited: false
 date: "2010-10-12"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "accept"
   - "albert-mansour"
   - "anthrax"

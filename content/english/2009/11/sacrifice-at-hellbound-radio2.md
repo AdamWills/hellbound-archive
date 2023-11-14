@@ -1,11 +1,12 @@
 ---
 title: "VIDEO INTERVIEW: Sacrifice at Hellbound Radio (Part 2)"
+edited: false
 date: "2009-11-19"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "headline"
-tags: 
+tags:
   - "canada"
   - "hellbound-radio"
   - "live"

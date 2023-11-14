@@ -1,9 +1,10 @@
 ---
 title: "Satyricon – Live At The Opera"
+edited: false
 date: "2015-09-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "live-metal"
   - "opera"
   - "satyricon"

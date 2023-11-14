@@ -1,11 +1,12 @@
 ---
 title: "UK Thrash: Part 1"
+edited: false
 date: "2017-07-17"
-categories: 
+categories:
   - "articles"
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "blood-money"
   - "debauchery"
   - "english-dogs"

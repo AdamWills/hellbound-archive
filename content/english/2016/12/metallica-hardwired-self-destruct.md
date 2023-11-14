@@ -1,9 +1,10 @@
 ---
 title: "Metallica – Hardwired... To Self-Destruct"
+edited: false
 date: "2016-12-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "metallica"
   - "review"

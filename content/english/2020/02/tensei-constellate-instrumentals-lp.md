@@ -1,10 +1,11 @@
 ---
 title: "Tensei – Constellate Instrumentals LP"
+edited: false
 date: "2020-02-04"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
 ---
 
@@ -12,13 +13,13 @@ When Tensei released _Constellate_ last year, I can say happily that I was won b
 
 (Tokyo Dawn Records)
 
-**Artist:  
-**[https://www.realtensei.com](https://www.realtensei.com/)  
-[https://www.facebook.com/realtensei](https://www.facebook.com/realtensei/)  
+**Artist:
+**[https://www.realtensei.com](https://www.realtensei.com/)
+[https://www.facebook.com/realtensei](https://www.facebook.com/realtensei/)
 
 **Further Reading:**
 
 **Tensei - Constellate LP:** [http://www.groundcontrolmag.com/vinyl-vlog-378/](http://www.groundcontrolmag.com/vinyl-vlog-378/) 
 
-**Album:**  
+**Album:**
 The _Constellate Instrumentals_ LP is out now in a limited edition pressing. Buy it [here](https://tensei.bandcamp.com/album/constellate) from Tensei’s bandcamp page.

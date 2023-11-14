@@ -1,9 +1,10 @@
 ---
 title: "White Hills – Walks for Motorists"
+edited: false
 date: "2015-03-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "digi-pop"
   - "garage-rock"

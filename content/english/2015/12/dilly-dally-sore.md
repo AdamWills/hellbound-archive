@@ -1,9 +1,10 @@
 ---
 title: "Dilly Dally – Sore"
+edited: false
 date: "2015-12-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "alt-rock"
   - "dilly-dally"

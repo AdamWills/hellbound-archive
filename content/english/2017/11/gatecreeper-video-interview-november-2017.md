@@ -1,10 +1,11 @@
 ---
 title: "GATECREEPER video interview, November 2017"
+edited: false
 date: "2017-11-20"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "gatecreeper"
   - "interview"

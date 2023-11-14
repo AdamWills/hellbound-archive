@@ -1,11 +1,12 @@
 ---
 title: "Accept: Just as good the second time around (if not better)!"
+edited: false
 date: "2011-04-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "accept"
   - "ash-lee"
   - "grueosme-greg"

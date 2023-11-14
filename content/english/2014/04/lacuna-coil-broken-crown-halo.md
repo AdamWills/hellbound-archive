@@ -1,9 +1,10 @@
 ---
 title: "Lacuna Coil – Broken Crown Halo"
+edited: false
 date: "2014-04-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "lacuna-coil"
   - "melodic-metal"

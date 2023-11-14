@@ -1,10 +1,11 @@
 ---
 title: "Mothership – High Strangeness"
+edited: false
 date: "2017-02-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "heavy-rock"
   - "metal"

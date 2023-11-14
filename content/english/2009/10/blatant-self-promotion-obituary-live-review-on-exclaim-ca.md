@@ -1,11 +1,12 @@
 ---
 title: "Blatant Self-Promotion: Obituary Live Review on Exclaim.ca"
+edited: false
 date: "2009-10-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "exclaim"
   - "obituary"
   - "sean-palmerston"

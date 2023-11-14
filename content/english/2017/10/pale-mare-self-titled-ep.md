@@ -1,10 +1,11 @@
 ---
 title: "Pale Mare – self-titled EP"
+edited: false
 date: "2017-10-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "metal"

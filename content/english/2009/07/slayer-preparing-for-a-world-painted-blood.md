@@ -1,10 +1,11 @@
 ---
 title: "Slayer: Preparing for a World Painted Blood"
+edited: false
 date: "2009-07-14"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "death-metal"
   - "slayer"
   - "thrash-metal"

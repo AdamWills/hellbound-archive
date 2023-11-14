@@ -1,11 +1,12 @@
 ---
 title: "Interview with Metal Film and Music Video Director, Handshake Inc.’s David Hall"
+edited: false
 date: "2009-10-02"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "dave-hall"
   - "film"
   - "handshake-inc"

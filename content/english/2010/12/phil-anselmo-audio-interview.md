@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Audio Interview: Phil Anselmo in November 2010"
+edited: false
 date: "2010-12-08"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "audio-interview"
   - "jason-wellwood"
   - "phil-anselmo"

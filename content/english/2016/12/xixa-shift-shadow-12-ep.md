@@ -1,9 +1,10 @@
 ---
 title: "XIXA – Shift and Shadow 12'' EP"
+edited: false
 date: "2016-12-02"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-rock"
   - "review"
   - "rock"

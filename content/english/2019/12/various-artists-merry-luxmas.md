@@ -1,9 +1,10 @@
 ---
 title: "Various Artists – Merry Luxmas"
+edited: false
 date: "2019-12-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "christmas"
   - "review"
   - "rock"

@@ -1,13 +1,14 @@
 ---
 title: "Today Is The Day European Tour Diary 2011, Part One"
+edited: false
 date: "2011-07-13"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "features"
   - "headline"
   - "jay_gorania"
-tags: 
+tags:
   - "acdc"
   - "black-sabbath"
   - "cattle-decapitation"

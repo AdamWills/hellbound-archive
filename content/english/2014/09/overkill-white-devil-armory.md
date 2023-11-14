@@ -1,9 +1,10 @@
 ---
 title: "Overkill – White Devil Armory"
+edited: false
 date: "2014-09-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "classic"
   - "nazareth"

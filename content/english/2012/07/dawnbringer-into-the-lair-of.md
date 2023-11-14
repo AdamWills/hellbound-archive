@@ -1,11 +1,12 @@
 ---
 title: "Dawnbringer - Into The Lair Of The Sun God"
+edited: false
 date: "2012-07-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "chris-black"
   - "dawnbringer"
   - "fist"

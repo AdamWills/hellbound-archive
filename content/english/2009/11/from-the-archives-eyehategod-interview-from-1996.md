@@ -1,11 +1,12 @@
 ---
 title: "From The Archives: EYEHATEGOD Interview from 1996"
+edited: false
 date: "2009-11-26"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "century-media"
   - "eyehategod"
   - "metal"

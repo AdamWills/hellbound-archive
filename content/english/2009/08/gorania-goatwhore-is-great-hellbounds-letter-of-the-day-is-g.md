@@ -1,11 +1,12 @@
 ---
 title: "Gorania: GOATWHORE is Great (Hellbound's letter of the day is \"G\")"
+edited: false
 date: "2009-08-14"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "black-metal"
   - "goatwhore"
   - "metal-blade"

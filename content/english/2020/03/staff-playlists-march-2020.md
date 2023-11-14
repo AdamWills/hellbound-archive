@@ -1,7 +1,8 @@
 ---
 title: "Staff Playlists - March 2020"
+edited: false
 date: "2020-03-31"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
@@ -13,16 +14,16 @@ Welcome to Hellbound's latest edition of our staff playlists and picks! This mon
 
 ## Steve Earles
 
-**Live:** No live pick this month for obvious reasons. However, I found a  
-new stray cat that some git abandoned when the virus started (could  
-you all please welcome Salem to the fold). Now I have five cats, I'm  
+**Live:** No live pick this month for obvious reasons. However, I found a
+new stray cat that some git abandoned when the virus started (could
+you all please welcome Salem to the fold). Now I have five cats, I'm
 gonna teach 'em to play Heavy Metal - that'd be purr-fect. :)
 
-**Non-metal:** _Terror From The Universe._ Groovy 60s sci-fi based tunes  
+**Non-metal:** _Terror From The Universe._ Groovy 60s sci-fi based tunes
 courtesy of _The Cramps_!
 
-**Wild card:** Ozzy Osbourne - _Blizzard of Oz_, looking forward to seeing  
-the Ozman when this is all over, and they don't come any wilder than  
+**Wild card:** Ozzy Osbourne - _Blizzard of Oz_, looking forward to seeing
+the Ozman when this is all over, and they don't come any wilder than
 Ozzy.
 
 **Symptomatic slammers:** Mike Oldfield's - _Tubular Bells,_ always uplifting.

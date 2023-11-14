@@ -1,9 +1,10 @@
 ---
 title: "A Devil’s Din – One Hallucination Under God"
+edited: false
 date: "2017-11-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "a-devils-din"
   - "montreal"
   - "prog"

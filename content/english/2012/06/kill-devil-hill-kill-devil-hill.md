@@ -1,11 +1,12 @@
 ---
 title: "Kill Devil Hill - Kill Devil Hill"
+edited: false
 date: "2012-06-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "jason-wellwood"
   - "kill-devil-hill"

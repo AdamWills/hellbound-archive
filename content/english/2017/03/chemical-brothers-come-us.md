@@ -1,10 +1,11 @@
 ---
 title: "Chemical Brothers – Come With Us"
+edited: false
 date: "2017-03-23"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "chemical-brothers"
   - "review"
   - "vinyl"

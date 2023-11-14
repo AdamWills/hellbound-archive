@@ -1,11 +1,12 @@
 ---
 title: "Gamma Ray - To The Metal"
+edited: false
 date: "2010-05-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dirk-schlachter"
   - "earmusic"
   - "gamma-ray"

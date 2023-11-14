@@ -1,11 +1,12 @@
 ---
 title: "Steve Earles' book reviews: Worldwide Gothic & Crazy Train:The High Life and Tragic Death of Randy Rhoads"
+edited: false
 date: "2012-03-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "cradle-of-filth"
   - "dimmu-borgir"
   - "joel-mciver"

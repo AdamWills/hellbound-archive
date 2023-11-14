@@ -1,9 +1,10 @@
 ---
 title: "YOB – Clearing the Path to Ascend"
+edited: false
 date: "2014-08-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "neurot-recordings"
   - "oregon"

@@ -1,9 +1,10 @@
 ---
 title: "Gruesome – Twisted Prayers"
+edited: false
 date: "2018-05-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death"
   - "death-metal"
   - "extreme-metal"

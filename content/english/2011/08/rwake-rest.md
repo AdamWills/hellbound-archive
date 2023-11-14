@@ -1,11 +1,12 @@
 ---
 title: "Rwake – Rest"
+edited: false
 date: "2011-08-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gruesome-greg"
   - "iron-maiden"
   - "isis"

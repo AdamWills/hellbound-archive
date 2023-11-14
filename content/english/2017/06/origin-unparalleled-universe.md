@@ -1,9 +1,10 @@
 ---
 title: "Origin – Unparalleled Universe"
+edited: false
 date: "2017-06-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "nuclear-blast"
   - "origin"

@@ -1,9 +1,10 @@
 ---
 title: "Love Becomes A Funeral Pyre: A Biography of The Doors"
+edited: false
 date: "2015-03-11"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "black-sabbath"
   - "book-review"
   - "danzig"

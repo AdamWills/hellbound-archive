@@ -1,9 +1,10 @@
 ---
 title: "Cowards – Rise to Infamy"
+edited: false
 date: "2015-02-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "cowards"

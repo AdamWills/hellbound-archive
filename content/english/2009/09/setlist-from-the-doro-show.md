@@ -1,10 +1,11 @@
 ---
 title: "Setlist from the Doro show"
+edited: false
 date: "2009-09-21"
-categories: 
+categories:
   - "albert_mansour"
   - "blogs"
-tags: 
+tags:
   - "afm-records"
   - "doro"
   - "germany"

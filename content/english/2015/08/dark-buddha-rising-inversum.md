@@ -1,9 +1,10 @@
 ---
 title: "Dark Buddha Rising – Inversum"
+edited: false
 date: "2015-08-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "dark-buddha-rising"
   - "post-sludge"

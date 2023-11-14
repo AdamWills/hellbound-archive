@@ -1,10 +1,11 @@
 ---
 title: "Superchrist: Defenders Of The Filth"
+edited: false
 date: "2009-06-10"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "nwobhm"
   - "superchrist"
   - "usa"

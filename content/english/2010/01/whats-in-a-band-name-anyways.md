@@ -1,7 +1,8 @@
 ---
 title: "What's in a band name, anyways?"
+edited: false
 date: "2010-01-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

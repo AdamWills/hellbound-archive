@@ -1,9 +1,10 @@
 ---
 title: "Xerxes – Collision Blonde"
+edited: false
 date: "2014-12-24"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "experimental"
   - "hardcore"
   - "no-sleep-records"

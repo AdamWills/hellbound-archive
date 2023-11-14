@@ -1,13 +1,14 @@
 ---
 title: "The Order of Chaos - Burn These Dreams album review + interview with Amanda Kiernan"
+edited: false
 date: "2012-02-24"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "amanda-kiernan"
   - "burn-these-dreams"
   - "edmonton"

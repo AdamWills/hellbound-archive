@@ -1,9 +1,10 @@
 ---
 title: "Hellbound’s Best Metal Albums of 2015"
+edited: false
 date: "2016-01-03"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "best-of-2015"
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: "Lo-Pan – In Tensions EP"
+edited: false
 date: "2017-01-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative-sludge"
   - "heavy-rock"
   - "lo-pan"

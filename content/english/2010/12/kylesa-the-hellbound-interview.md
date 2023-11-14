@@ -1,11 +1,12 @@
 ---
 title: "Kylesa: The Hellbound Interview"
+edited: false
 date: "2010-12-13"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "billy-anderson"
   - "ghost"
   - "interview"

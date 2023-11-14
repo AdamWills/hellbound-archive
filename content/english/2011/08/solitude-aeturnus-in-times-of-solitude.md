@@ -1,11 +1,12 @@
 ---
 title: "Solitude Aeturnus - In Times Of Solitude"
+edited: false
 date: "2011-08-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "john-perez"
   - "lp"
   - "massacre-records"

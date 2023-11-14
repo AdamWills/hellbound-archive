@@ -1,11 +1,12 @@
 ---
 title: "Photo Gallery: Motörhead / Clutch / Valient Thorr – Feb 26, 2011 @ Kool Haus, Toronto ON"
+edited: false
 date: "2011-03-04"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "adam-wills"
   - "clutch"
   - "kool-haus"

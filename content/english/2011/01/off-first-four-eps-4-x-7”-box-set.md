@@ -1,11 +1,12 @@
 ---
 title: "OFF! - First Four EPs (4 X 7” Box Set)"
+edited: false
 date: "2011-01-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "bill-adams"
   - "black-flag"
   - "off"

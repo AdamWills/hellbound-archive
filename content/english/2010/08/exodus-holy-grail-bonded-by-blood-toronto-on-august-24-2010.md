@@ -1,12 +1,13 @@
 ---
 title: "Exodus/ Holy Grail/ Bonded By Blood/ Fatality/ Black Elysium @ The Mod Club, Toronto ON, August 24, 2010"
+edited: false
 date: "2010-08-30"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "black-elysium"
   - "bonded-by-blood"

@@ -1,10 +1,11 @@
 ---
 title: "Ozzy Osbourne - Patient Number 9 2LP"
+edited: false
 date: "2022-09-20"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "9"
   - "album"
   - "beck"

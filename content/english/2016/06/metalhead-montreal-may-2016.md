@@ -1,10 +1,11 @@
 ---
 title: "A metalhead in Montreal, May 2016"
+edited: false
 date: "2016-06-18"
-categories: 
+categories:
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "black-metal"
   - "blekkmetal"
   - "cats"

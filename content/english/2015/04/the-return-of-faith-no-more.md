@@ -1,9 +1,10 @@
 ---
 title: "The Return of Faith No More"
+edited: false
 date: "2015-04-21"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "christeene"
   - "concert-photos"
   - "concert-review"

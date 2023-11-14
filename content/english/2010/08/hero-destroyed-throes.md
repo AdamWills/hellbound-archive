@@ -1,11 +1,12 @@
 ---
 title: "Hero Destroyed - Throes"
+edited: false
 date: "2010-08-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "burnt-by-the-sun"
   - "hero-destroyed"
   - "metalcore"

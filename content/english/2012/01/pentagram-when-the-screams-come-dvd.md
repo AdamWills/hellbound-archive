@@ -1,11 +1,12 @@
 ---
 title: "Pentagram - When The Screams Come DVD"
+edited: false
 date: "2012-01-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "bobby-liebling"
   - "david-hall"
   - "handshake-inc"

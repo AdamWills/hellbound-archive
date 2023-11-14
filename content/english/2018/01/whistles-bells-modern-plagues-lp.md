@@ -1,9 +1,10 @@
 ---
 title: "The Whistles And The Bells – Modern Plagues LP"
+edited: false
 date: "2018-01-24"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "experimental"
   - "folk-rock"

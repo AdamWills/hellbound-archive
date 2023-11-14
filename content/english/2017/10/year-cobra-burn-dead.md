@@ -1,10 +1,11 @@
 ---
 title: "Year of the Cobra – Burn Your Dead"
+edited: false
 date: "2017-10-16"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

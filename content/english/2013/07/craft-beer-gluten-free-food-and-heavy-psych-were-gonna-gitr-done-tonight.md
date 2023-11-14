@@ -1,11 +1,12 @@
 ---
 title: "Craft beer, gluten-free food and heavy psych...  We're gonna GITR done tonight!"
+edited: false
 date: "2013-07-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "beer"
   - "blizaro"
   - "blood-ceremony"

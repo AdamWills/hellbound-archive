@@ -1,9 +1,10 @@
 ---
 title: "ANICON - Aphasia [EP]"
+edited: false
 date: "2015-06-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "anicon"
 ---
 

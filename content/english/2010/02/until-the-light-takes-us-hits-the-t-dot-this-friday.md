@@ -1,11 +1,12 @@
 ---
 title: "UNTIL THE LIGHT TAKES US Hits The T-Dot This Friday"
+edited: false
 date: "2010-02-15"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "black-metal"
   - "blasphemy-blog"
   - "darkthro"

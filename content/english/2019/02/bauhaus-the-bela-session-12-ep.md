@@ -1,9 +1,10 @@
 ---
 title: "Bauhaus – The Bela Session (12'' EP)"
+edited: false
 date: "2019-02-01"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "post-punk"
   - "punk"
   - "review"

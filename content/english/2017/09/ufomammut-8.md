@@ -1,10 +1,11 @@
 ---
 title: "Ufomammut – 8"
+edited: false
 date: "2017-09-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "review"
   - "sludge"

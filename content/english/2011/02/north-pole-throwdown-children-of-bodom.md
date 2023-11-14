@@ -1,11 +1,12 @@
 ---
 title: "North Pole Throwdown! An Interview With Children of Bodom's Alexi Laiho"
+edited: false
 date: "2011-02-25"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adrien-begrand"
   - "alexi-laiho"
   - "children-of-bodom"

@@ -1,11 +1,12 @@
 ---
 title: "Vasaeleth - Crypt Born & Tethered to Ruin"
+edited: false
 date: "2010-03-08"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "incantation"
   - "profound-lore"

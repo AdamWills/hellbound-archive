@@ -1,11 +1,12 @@
 ---
 title: "Enslaved – RIITIIR"
+edited: false
 date: "2012-10-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "enslaved"
   - "jens-bogren"

@@ -1,9 +1,10 @@
 ---
 title: "Black Moth – Anatomical Venus"
+edited: false
 date: "2018-01-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-moth"
   - "heavy"
   - "metal"

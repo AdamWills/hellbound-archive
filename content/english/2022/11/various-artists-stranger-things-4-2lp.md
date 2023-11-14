@@ -1,10 +1,11 @@
 ---
 title: "Various Artists - Stranger Things 4 – Soundtrack From The Netflix Series 2LP"
+edited: false
 date: "2022-11-07"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "2lp"
   - "4"
   - "compilation"

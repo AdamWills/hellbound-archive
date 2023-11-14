@@ -1,9 +1,10 @@
 ---
 title: "Spider Goat Canyon – Always the Heavy"
+edited: false
 date: "2015-10-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "post-black-metal"
   - "spider-goat-canyon"

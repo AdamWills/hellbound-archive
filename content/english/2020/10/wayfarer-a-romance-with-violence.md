@@ -1,7 +1,8 @@
 ---
 title: "Wayfarer - A Romance With Violence"
+edited: false
 date: "2020-10-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"

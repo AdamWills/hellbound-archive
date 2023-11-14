@@ -1,11 +1,12 @@
 ---
 title: "Heaven & Hell - Neon Nights:30 Years of Heaven & Hell DVD"
+edited: false
 date: "2010-12-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "heaven-hell"
   - "ronnie-james-dio"
   - "dvd"

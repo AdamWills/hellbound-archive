@@ -1,13 +1,14 @@
 ---
 title: "This Week in Metal!"
+edited: false
 date: "2010-12-19"
-categories: 
+categories:
   - "adam_wills"
   - "articles"
   - "blogs"
   - "featured"
   - "features"
-tags: 
+tags:
   - "alex-lifeson"
   - "artep"
   - "atheist"

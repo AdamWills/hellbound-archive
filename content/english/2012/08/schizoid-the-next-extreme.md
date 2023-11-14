@@ -1,12 +1,13 @@
 ---
 title: "Schizoid: The Next Extreme"
+edited: false
 date: "2012-08-13"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "atari-teenage-riot"
   - "blut-aus-nord"
   - "burzum"

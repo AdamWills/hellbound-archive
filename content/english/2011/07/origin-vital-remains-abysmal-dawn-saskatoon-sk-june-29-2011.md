@@ -1,11 +1,12 @@
 ---
 title: "Origin/ Vital Remains/ Abysmal Dawn @ Amigos, Saskatoon, SK, June 29, 2011"
+edited: false
 date: "2011-07-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "70000-tons-of-metal"
   - "abigail-williams"
   - "abysmal-dawn"

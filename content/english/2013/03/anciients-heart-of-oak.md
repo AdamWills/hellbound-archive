@@ -1,11 +1,12 @@
 ---
 title: "Anciients - Heart of Oak"
+edited: false
 date: "2013-03-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anciients"
   - "baroness"
   - "chris-dyck"

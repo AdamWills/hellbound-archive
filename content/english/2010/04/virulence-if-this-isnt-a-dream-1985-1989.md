@@ -1,11 +1,12 @@
 ---
 title: "Virulence – If This Isn’t a Dream… 1985-1989"
+edited: false
 date: "2010-04-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-flag"
   - "california-hardcore"
   - "fu-manchu"

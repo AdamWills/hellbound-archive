@@ -1,10 +1,11 @@
 ---
 title: "Spaceslug – Eye the Tide"
+edited: false
 date: "2018-07-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doom-metal"
   - "metal"

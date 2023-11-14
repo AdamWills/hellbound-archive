@@ -1,12 +1,13 @@
 ---
 title: "Greg Mackintosh of Paradise Lost: The Hellbound Interview"
+edited: false
 date: "2012-04-09"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "interviews"
-tags: 
+tags:
   - "autopsy"
   - "black-sabbath"
   - "interview"

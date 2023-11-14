@@ -1,9 +1,10 @@
 ---
 title: "PSA: Call of the Wild announcement"
+edited: false
 date: "2019-10-09"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "metal-festival"
 ---
 

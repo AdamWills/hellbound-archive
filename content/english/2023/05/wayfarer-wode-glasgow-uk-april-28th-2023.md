@@ -1,7 +1,8 @@
 ---
 title: "Wayfarer & Wode - Glasgow, UK - April 28th, 2023"
+edited: false
 date: "2023-05-26"
-categories: 
+categories:
   - "reviews-audio"
 ---
 

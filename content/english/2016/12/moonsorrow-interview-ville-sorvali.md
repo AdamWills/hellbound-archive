@@ -1,9 +1,10 @@
 ---
 title: "MOONSORROW interview: Ville Sorvali"
+edited: false
 date: "2016-12-14"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "black-metal"
   - "folk-metal"
   - "heathen-metal"

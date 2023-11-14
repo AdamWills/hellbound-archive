@@ -1,11 +1,12 @@
 ---
 title: "Asphyx - Deathhammer"
+edited: false
 date: "2012-03-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "asphyx"
   - "benediction"
   - "cancer"

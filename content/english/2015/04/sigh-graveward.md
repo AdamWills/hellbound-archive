@@ -1,9 +1,10 @@
 ---
 title: "Sigh – Graveward"
+edited: false
 date: "2015-04-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "avant-garde-metal"
   - "candlelight"

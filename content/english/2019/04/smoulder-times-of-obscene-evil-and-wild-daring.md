@@ -1,11 +1,12 @@
 ---
 title: "Smoulder – Times of Obscene Evil and Wild Daring"
+edited: false
 date: "2019-04-04"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

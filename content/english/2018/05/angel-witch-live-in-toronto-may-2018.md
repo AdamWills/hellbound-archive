@@ -1,9 +1,10 @@
 ---
 title: "Angel Witch live in Toronto, May 2018"
+edited: false
 date: "2018-05-24"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "angel-witch"
   - "blood-ceremony"
   - "concert"

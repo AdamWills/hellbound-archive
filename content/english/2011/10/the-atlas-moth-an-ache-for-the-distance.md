@@ -1,11 +1,12 @@
 ---
 title: "The Atlas Moth—An Ache for the Distance"
+edited: false
 date: "2011-10-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "craig-haze"
   - "profound-lore"

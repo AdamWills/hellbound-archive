@@ -1,9 +1,10 @@
 ---
 title: "Clouds Taste Satanic - To Sleep Beyond The Earth"
+edited: false
 date: "2015-02-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "clouds-taste-satanic"
   - "doom"

@@ -1,10 +1,11 @@
 ---
 title: "Mondo Generator: Cocaine Rodeo (deluxe edition)"
+edited: false
 date: "2009-10-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "amphead"
   - "kyuss"
   - "mondo-generator"

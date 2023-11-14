@@ -1,10 +1,11 @@
 ---
 title: "Phil Anselmo: The Hellbound Interview"
+edited: false
 date: "2010-11-12"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "collin-yeo"
   - "down"
   - "eyehategod"

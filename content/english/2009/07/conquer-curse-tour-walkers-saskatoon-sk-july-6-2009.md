@@ -1,11 +1,12 @@
 ---
 title: "Goatwhore, Abigail Williams, DÅÅTH, Abysmal Dawn, SWWAATS @ Walker's, Saskatoon, SK, July 6, 2009"
+edited: false
 date: "2009-07-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "abigail-williams"
   - "abysmal-dawn"
   - "daath"

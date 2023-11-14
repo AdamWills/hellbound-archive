@@ -1,11 +1,12 @@
 ---
 title: "Blood Ceremony / Biblical / Cauchemar @ Horseshoe Tavern, Toronto ON, September 14, 2013"
+edited: false
 date: "2013-09-20"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "annick-giroux"
   - "biblical"
   - "black-sabbath"

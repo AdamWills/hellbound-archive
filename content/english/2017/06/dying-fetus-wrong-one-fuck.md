@@ -1,9 +1,10 @@
 ---
 title: "Dying Fetus – Wrong One To Fuck With"
+edited: false
 date: "2017-06-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "dying-fetus"
   - "relapse"

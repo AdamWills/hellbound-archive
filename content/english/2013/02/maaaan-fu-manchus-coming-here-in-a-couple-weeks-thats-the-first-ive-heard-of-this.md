@@ -1,11 +1,12 @@
 ---
 title: "Maaaan, Fu Manchu's coming here in a couple weeks!?  That's the first I've heard of this..."
+edited: false
 date: "2013-02-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "accept"
   - "clutch"
   - "cmw"

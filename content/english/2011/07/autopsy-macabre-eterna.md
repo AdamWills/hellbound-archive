@@ -1,11 +1,12 @@
 ---
 title: "Autopsy - Macabre Eternal"
+edited: false
 date: "2011-07-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "autopsy"
   - "california"
   - "death-metal"

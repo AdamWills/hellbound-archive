@@ -1,9 +1,10 @@
 ---
 title: "Helloween – My God-Given Right"
+edited: false
 date: "2015-09-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "euro-metal"
   - "germany"
   - "iron-maiden"

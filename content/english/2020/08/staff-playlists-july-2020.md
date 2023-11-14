@@ -1,7 +1,8 @@
 ---
 title: "Staff Playlists - July 2020"
+edited: false
 date: "2020-08-06"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"
@@ -12,15 +13,15 @@ Welcome to Hellbound’s latest collection of staff picks and playlists. Enjoy t
 
 ## Steve Earles
 
-**New release:** Fu Manchu - _Godzillas/Eating Dust._ Killer Cover of Thin Lizzy's - _J__ailbreak,_ and of course, a Blue Oyster Cult cover, and their own  
+**New release:** Fu Manchu - _Godzillas/Eating Dust._ Killer Cover of Thin Lizzy's - _J__ailbreak,_ and of course, a Blue Oyster Cult cover, and their own
 stuff is awesome. What's not to like?
 
-**Live:** _Status Quo_. Intitially I didn't actually take to this one  
-much, but it has grown on me, and I've come to really like it.  
-  
-**Wild Card:**  1. David Bowie - _The Next Day._ We will never see his like again.  
- 2. Metal Church: The Elektra Years. We must all heed the words of  
-Fenriz when he says that if someone asked him what metal is, he would  
+**Live:** _Status Quo_. Intitially I didn't actually take to this one
+much, but it has grown on me, and I've come to really like it.
+
+**Wild Card:**  1. David Bowie - _The Next Day._ We will never see his like again.
+ 2. Metal Church: The Elektra Years. We must all heed the words of
+Fenriz when he says that if someone asked him what metal is, he would
 play them _Beyond The Black._
 
 ## Arta Gailuma

@@ -1,11 +1,12 @@
 ---
 title: "Snail – Blood"
+edited: false
 date: "2011-02-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blue-aside"
   - "fu-manchu"
   - "gruesome-greg"

@@ -1,9 +1,10 @@
 ---
 title: "North Mississippi Allstars – Prayer For Peace"
+edited: false
 date: "2017-08-29"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "blues"
   - "north-mississippi-allstars"
   - "review"

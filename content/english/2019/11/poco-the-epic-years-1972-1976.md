@@ -1,9 +1,10 @@
 ---
 title: "Poco – The Epic Years 1972-1976"
+edited: false
 date: "2019-11-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "country-rock"
   - "review"
   - "rock"

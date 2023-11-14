@@ -1,11 +1,12 @@
 ---
 title: "Staff playlists: June 2019"
+edited: false
 date: "2019-07-01"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "staff-picks"

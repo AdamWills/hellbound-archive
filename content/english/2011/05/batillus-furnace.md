@@ -1,11 +1,12 @@
 ---
 title: "Batillus - Furnace"
+edited: false
 date: "2011-05-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "batillus"
   - "kyle-harcott"
   - "seventh-rule"

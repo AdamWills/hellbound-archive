@@ -1,10 +1,11 @@
 ---
 title: "my best of 2004 (aka, I keep getting older)"
+edited: false
 date: "2015-01-02"
-categories: 
+categories:
   - "staff_picks"
   - "editors_blog"
-tags: 
+tags:
   - "best-of-2004"
   - "kill-eat-exploit-the-weak"
   - "metal"

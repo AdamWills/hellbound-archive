@@ -1,11 +1,12 @@
 ---
 title: "The Vapids - Charm School Dropouts [Reissue] LP"
+edited: false
 date: "2022-02-16"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "charm"
   - "dropouts"
   - "ki"

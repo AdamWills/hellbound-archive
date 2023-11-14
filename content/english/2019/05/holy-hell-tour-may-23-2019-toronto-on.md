@@ -1,10 +1,11 @@
 ---
 title: "Holy Hell Tour – May 23, 2019 Toronto, ON"
+edited: false
 date: "2019-05-27"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "concert-photos"
   - "live"

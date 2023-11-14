@@ -1,7 +1,8 @@
 ---
 title: "Family Of The Year – Goodbye Sunshine Hello Nighttime LP"
+edited: false
 date: "2018-08-28"
-categories: 
+categories:
   - "reviews-vinyl"
 ---
 

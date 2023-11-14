@@ -1,10 +1,11 @@
 ---
 title: "Zodiac Mindwarp and the Love Reaction – We Are Volsung"
+edited: false
 date: "2010-09-08"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "jason-wellwood"
   - "spv"
   - "zodiac-mindwarp"

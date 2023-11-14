@@ -1,9 +1,10 @@
 ---
 title: "Kamchatka – The Search Goes On"
+edited: false
 date: "2014-04-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "clutch"
   - "gruesome-greg"
   - "kamchatka"

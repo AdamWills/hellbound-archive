@@ -1,11 +1,12 @@
 ---
 title: "My contribution to Motorhead Month..."
+edited: false
 date: "2011-02-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "girlschool"
   - "gruesome-greg"
   - "lemmy"

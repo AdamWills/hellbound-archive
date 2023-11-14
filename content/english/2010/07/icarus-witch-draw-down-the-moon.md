@@ -1,11 +1,12 @@
 ---
 title: "Icarus Witch – Draw Down The Moon"
+edited: false
 date: "2010-07-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cleopatra-records"
   - "helstar"
   - "icarus-witch"

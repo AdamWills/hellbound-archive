@@ -1,9 +1,10 @@
 ---
 title: "Death – Give It Back 7-inch"
+edited: false
 date: "2018-03-15"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "death"
   - "detroit"
   - "pop"

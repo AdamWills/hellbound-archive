@@ -1,10 +1,11 @@
 ---
 title: "From the archives: Octavia Sperati"
+edited: false
 date: "2018-03-08"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "doom"
   - "goth"
   - "interview"

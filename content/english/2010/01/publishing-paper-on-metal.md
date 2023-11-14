@@ -1,12 +1,13 @@
 ---
 title: "Bazillion Points: Publishing Paper On Metal"
+edited: false
 date: "2010-01-27"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "reviews-books"
-tags: 
+tags:
   - "andy-mccoy"
   - "annick-giroux"
   - "babylon-whores"

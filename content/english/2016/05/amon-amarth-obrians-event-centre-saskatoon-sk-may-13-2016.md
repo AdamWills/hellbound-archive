@@ -1,9 +1,10 @@
 ---
 title: "Amon Amarth, O’Brian’s Event Centre, Saskatoon, SK, May 13, 2016"
+edited: false
 date: "2016-05-18"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "amon-amarth"
   - "live"
   - "photos"

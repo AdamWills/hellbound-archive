@@ -1,11 +1,12 @@
 ---
 title: "Shrinebuilder: Shrinebuilder"
+edited: false
 date: "2009-12-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "melvins"
   - "metal"

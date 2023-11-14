@@ -1,10 +1,11 @@
 ---
 title: "Mashup: The Trooper Believer"
+edited: false
 date: "2009-07-23"
-categories: 
+categories:
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "iron-maiden"
   - "nwobhm"
   - "video"

@@ -1,11 +1,12 @@
 ---
 title: "Atheist—Jupiter"
+edited: false
 date: "2010-11-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atheist"
   - "cynic"
   - "rob-hughes"

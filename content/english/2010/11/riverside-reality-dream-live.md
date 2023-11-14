@@ -1,11 +1,12 @@
 ---
 title: "Riverside - Reality Dream Live"
+edited: false
 date: "2010-11-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "dvd"
   - "inside-out"
   - "live-dvd"

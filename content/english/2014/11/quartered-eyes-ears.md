@@ -1,9 +1,10 @@
 ---
 title: "Quartered – Eyes and Ears"
+edited: false
 date: "2014-11-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "prog-metal"
   - "progressive"

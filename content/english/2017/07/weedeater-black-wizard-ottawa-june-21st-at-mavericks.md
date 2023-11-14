@@ -1,9 +1,10 @@
 ---
 title: "Weedeater + Black Wizard, 21 June 2017 at Mavericks in Ottawa"
+edited: false
 date: "2017-07-06"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-wizard"
   - "buffalo-king"
   - "concert"

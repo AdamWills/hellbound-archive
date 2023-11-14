@@ -1,11 +1,12 @@
 ---
 title: "Astral Witch – self-titled"
+edited: false
 date: "2018-08-15"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "doom"
   - "hamilton"

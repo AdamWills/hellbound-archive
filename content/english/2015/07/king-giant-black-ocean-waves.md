@@ -1,9 +1,10 @@
 ---
 title: "King Giant – Black Ocean Waves"
+edited: false
 date: "2015-07-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "king-giant"

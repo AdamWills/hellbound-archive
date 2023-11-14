@@ -1,12 +1,13 @@
 ---
 title: "HELLBOUND RADIO Playlist - Sunday, June 16, 2013"
+edited: false
 date: "2013-06-17"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "staff_playlists"
   - "editors_blog"
-tags: 
+tags:
   - "a-life-once-lost"
   - "agrimonia"
   - "amorphis-born-broken"

@@ -1,11 +1,12 @@
 ---
 title: "Motörhead - <em>Another Perfect Day</em>"
+edited: false
 date: "2011-02-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fast-eddie-clarke"
   - "lemmy"
   - "motorhead"

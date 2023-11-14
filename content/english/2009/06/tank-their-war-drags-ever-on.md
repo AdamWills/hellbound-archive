@@ -1,10 +1,11 @@
 ---
 title: "Tank: Their War Drags Ever On"
+edited: false
 date: "2009-06-02"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "britain"
   - "damned"
   - "iron-maiden"

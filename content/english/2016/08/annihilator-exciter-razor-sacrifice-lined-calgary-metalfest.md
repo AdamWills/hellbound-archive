@@ -1,9 +1,10 @@
 ---
 title: "ANNIHILATOR, EXCITER, RAZOR & SACRIFICE lined up for Calgary Metalfest"
+edited: false
 date: "2016-08-10"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "annihilator"
   - "calgary-metalfest"
   - "exciter"

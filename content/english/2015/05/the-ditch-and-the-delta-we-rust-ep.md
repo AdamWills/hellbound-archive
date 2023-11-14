@@ -1,9 +1,10 @@
 ---
 title: "The Ditch and the Delta – We Rust EP"
+edited: false
 date: "2015-05-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "industrial"
   - "noise-music"

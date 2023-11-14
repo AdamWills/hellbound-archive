@@ -1,11 +1,12 @@
 ---
 title: "Justin Pearson: The Hellbound Interview"
+edited: false
 date: "2010-06-21"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "book"
   - "grindcore"
   - "justin-pearson"

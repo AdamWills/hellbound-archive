@@ -1,11 +1,12 @@
 ---
 title: "Metal Picks for Bandcamp Friday - February 2023"
+edited: false
 date: "2023-02-03"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "bandcamp-friday"
   - "danielle-griscti"
   - "february-2023"

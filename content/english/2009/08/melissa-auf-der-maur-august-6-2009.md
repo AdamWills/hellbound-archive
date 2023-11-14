@@ -1,10 +1,11 @@
 ---
 title: "Melissa Auf der Maur @ Anticipation, WorldCon 67, Montreal QC, August 6,2009"
+edited: false
 date: "2009-08-12"
-categories: 
+categories:
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "film"
   - "live"
   - "melissa-auf-der-maur"

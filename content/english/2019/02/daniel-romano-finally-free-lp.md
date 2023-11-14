@@ -1,9 +1,10 @@
 ---
 title: "Daniel Romano – Finally Free LP"
+edited: false
 date: "2019-02-28"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
   - "vinyl"
 ---

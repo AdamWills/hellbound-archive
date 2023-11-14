@@ -1,11 +1,12 @@
 ---
 title: "The Atomic Bomb Audition - Roots Into the See"
+edited: false
 date: "2011-01-24"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
-tags: 
+tags:
   - "kyle-harcott"
   - "neurosis"
   - "red-sparowes"

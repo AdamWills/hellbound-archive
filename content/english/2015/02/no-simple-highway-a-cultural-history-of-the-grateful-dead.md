@@ -1,9 +1,10 @@
 ---
 title: "No Simple Highway – A Cultural History of The Grateful Dead"
+edited: false
 date: "2015-02-20"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "60s"
   - "80s"
   - "folk"

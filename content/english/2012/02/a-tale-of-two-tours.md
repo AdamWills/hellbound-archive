@@ -1,11 +1,12 @@
 ---
 title: "A tale of two tours..."
+edited: false
 date: "2012-02-18"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "alice-cooper"
   - "bill-ward"
   - "black-sabbath"

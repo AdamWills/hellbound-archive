@@ -1,11 +1,12 @@
 ---
 title: "Sons of OTIS – Seismic"
+edited: false
 date: "2012-11-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blues"
   - "dave-chandler"
   - "doom"

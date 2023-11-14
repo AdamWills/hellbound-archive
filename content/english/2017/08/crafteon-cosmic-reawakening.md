@@ -1,9 +1,10 @@
 ---
 title: "Crafteon – Cosmic Reawakening"
+edited: false
 date: "2017-08-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "crafteon"
   - "lovecraft"
   - "metal"

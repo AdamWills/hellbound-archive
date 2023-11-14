@@ -1,11 +1,12 @@
 ---
 title: "Lamb of God/ The Acacia Strain/ Manahan @ The Phoenix Concert Theatre, Toronto ON, January 27 2012"
+edited: false
 date: "2012-01-31"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "lamb-of-god"
   - "manahan"

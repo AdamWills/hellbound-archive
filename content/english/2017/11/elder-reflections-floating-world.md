@@ -1,10 +1,11 @@
 ---
 title: "Elder – Reflections of a Floating World"
+edited: false
 date: "2017-11-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "elder"
   - "heavy-psych"

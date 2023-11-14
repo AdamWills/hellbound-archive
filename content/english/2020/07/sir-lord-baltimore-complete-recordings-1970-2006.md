@@ -1,7 +1,8 @@
 ---
 title: "Sir Lord Baltimore: Complete Recordings 1970-2006"
+edited: false
 date: "2020-07-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

@@ -1,11 +1,12 @@
 ---
 title: "Arch/Matheos—Sympathetic Resonance"
+edited: false
 date: "2011-10-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "archmatheos"
   - "awaken-the-guardian"
   - "craig-haze"

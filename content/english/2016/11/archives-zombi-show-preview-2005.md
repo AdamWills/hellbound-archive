@@ -1,11 +1,12 @@
 ---
 title: "From the archives: ZOMBI show preview from 2005"
+edited: false
 date: "2016-11-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "features"
-tags: 
+tags:
   - "agoraphobic-nosebleed"
   - "goblin"
   - "prog"

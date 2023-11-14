@@ -1,9 +1,10 @@
 ---
 title: "Crowbar – Symmetry in Black"
+edited: false
 date: "2014-06-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "crowbar"
   - "doom"

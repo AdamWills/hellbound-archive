@@ -1,9 +1,10 @@
 ---
 title: "Rise Against + Will Potter – The Eco-Terrorist In Me 7”"
+edited: false
 date: "2015-04-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hardcore"
   - "music-review"
   - "punk"

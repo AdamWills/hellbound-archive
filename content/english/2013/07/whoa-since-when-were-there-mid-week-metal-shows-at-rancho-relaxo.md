@@ -1,11 +1,12 @@
 ---
 title: "Whoa, since when were there mid-week metal shows at Rancho Relaxo!?"
+edited: false
 date: "2013-07-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "howl"
   - "lord-dying"

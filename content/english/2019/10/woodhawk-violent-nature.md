@@ -1,11 +1,12 @@
 ---
 title: "Woodhawk – Violent Nature"
+edited: false
 date: "2019-10-28"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "heavy-rock"
   - "review"

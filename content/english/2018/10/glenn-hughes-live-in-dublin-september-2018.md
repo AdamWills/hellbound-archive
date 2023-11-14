@@ -1,9 +1,10 @@
 ---
 title: "Glenn Hughes live in Dublin, September 2018"
+edited: false
 date: "2018-10-10"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "deep-purple"
   - "dublin"

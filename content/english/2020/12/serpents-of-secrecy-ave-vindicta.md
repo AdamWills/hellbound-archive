@@ -1,7 +1,8 @@
 ---
 title: "Serpents of Secrecy – Ave Vindicta"
+edited: false
 date: "2020-12-02"
-categories: 
+categories:
   - "gruesome_greg"
   - "reviews"
   - "reviews-audio"

@@ -1,10 +1,11 @@
 ---
 title: "Todtgelichter - Angst"
+edited: false
 date: "2011-01-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
-tags: 
+tags:
   - "agalloch"
   - "alcest"
   - "the-gathering"

@@ -1,10 +1,11 @@
 ---
 title: "Khemmis – Hunted"
+edited: false
 date: "2016-11-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "khemmis"
   - "metal"

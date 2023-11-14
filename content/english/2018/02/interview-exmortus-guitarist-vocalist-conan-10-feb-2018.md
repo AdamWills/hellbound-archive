@@ -1,10 +1,11 @@
 ---
 title: "Interview: Exmortus guitarist/vocalist Conan, 10 Feb 2018"
+edited: false
 date: "2018-02-20"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "california"
   - "conan-jadran-gonzalez"
   - "exmortus"

@@ -1,11 +1,12 @@
 ---
 title: "Ravens Creed - Nestless & Wild 7\""
+edited: false
 date: "2011-08-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "celtic-front"
   - "metallica"
   - "old-corpse-road"

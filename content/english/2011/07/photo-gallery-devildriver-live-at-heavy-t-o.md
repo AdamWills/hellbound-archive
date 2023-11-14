@@ -1,12 +1,13 @@
 ---
 title: "Photo Gallery: DevilDriver live at Heavy T.O."
+edited: false
 date: "2011-07-28"
-categories: 
+categories:
   - "albert_mansour"
   - "blogs"
   - "featured"
   - "features"
-tags: 
+tags:
   - "devildriver"
   - "heavy-t-o-albert-mansour"
   - "photo-gallery"

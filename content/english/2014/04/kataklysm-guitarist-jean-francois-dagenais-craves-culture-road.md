@@ -1,9 +1,10 @@
 ---
 title: "Kataklysm guitarist Jean-Francois Dagenais craves culture on the road"
+edited: false
 date: "2014-04-02"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "canadian-metal"
   - "canuck-metal-you-dont-want-to-miss"
   - "interview"

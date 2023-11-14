@@ -1,10 +1,11 @@
 ---
 title: "Fistula – Longing for Infection"
+edited: false
 date: "2016-07-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fistula"
   - "hardcore"
   - "metal"

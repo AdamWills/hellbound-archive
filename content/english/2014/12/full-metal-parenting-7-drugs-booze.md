@@ -1,9 +1,10 @@
 ---
 title: "FULL METAL PARENTING #7: DRUGS AND BOOZE"
+edited: false
 date: "2014-12-05"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "addiction"
   - "alcohol"
   - "drugs"

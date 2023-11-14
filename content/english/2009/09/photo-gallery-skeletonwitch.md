@@ -1,11 +1,12 @@
 ---
 title: "Photo gallery: Skeletonwitch Live In Toronto, Sept 26, 2009"
+edited: false
 date: "2009-09-29"
-categories: 
+categories:
   - "albert_mansour"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "live"
   - "prosthetic-records"
   - "skeletonwitch"

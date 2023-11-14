@@ -1,10 +1,11 @@
 ---
 title: "Samael: Above"
+edited: false
 date: "2009-06-16"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "industrial-metal"
   - "nuclear-blast"

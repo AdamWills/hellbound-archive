@@ -1,9 +1,10 @@
 ---
 title: "LIGHT // SOUND – s/t LP"
+edited: false
 date: "2018-12-06"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative-rock"
   - "independent"
   - "indie"

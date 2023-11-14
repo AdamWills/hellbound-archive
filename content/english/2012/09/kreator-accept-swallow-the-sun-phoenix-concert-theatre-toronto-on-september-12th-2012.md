@@ -1,11 +1,12 @@
 ---
 title: "Kreator/ Accept/ Swallow the Sun @ Phoenix Concert Theatre, Toronto ON September 12th 2012"
+edited: false
 date: "2012-09-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "accept"
   - "kreator"
   - "live"

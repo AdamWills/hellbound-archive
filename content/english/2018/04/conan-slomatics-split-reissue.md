@@ -1,10 +1,11 @@
 ---
 title: "Conan/Slomatics split (reissue)"
+edited: false
 date: "2018-04-05"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "conan"
   - "doom"
   - "fuzz"

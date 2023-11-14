@@ -1,11 +1,12 @@
 ---
 title: "King Diamond shoes: The Sole of Metal"
+edited: false
 date: "2009-07-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "c1rca-shoes"
   - "iron-maiden"
   - "king-diamond"

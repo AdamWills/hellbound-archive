@@ -1,10 +1,11 @@
 ---
 title: "Witch Mountain – self-titled"
+edited: false
 date: "2018-06-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blues-rock"
   - "classic-rock"
   - "doom-metal"

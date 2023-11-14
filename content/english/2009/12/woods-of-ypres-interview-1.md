@@ -1,11 +1,12 @@
 ---
 title: "VIDEO INTERVIEW: Adam Wills interviews Woods Of Ypres' David Gold (Part 1)"
+edited: false
 date: "2009-12-04"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-metal"
   - "canada"
   - "doom-metal"

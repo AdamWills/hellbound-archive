@@ -1,11 +1,12 @@
 ---
 title: "Witchfinder Radio Happenings Week of October 15th, 2012"
+edited: false
 date: "2012-10-17"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "102-7-fm"
   - "big-james"
   - "blowing-up-the-lakehead"

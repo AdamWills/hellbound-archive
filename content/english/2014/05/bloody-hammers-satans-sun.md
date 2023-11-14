@@ -1,9 +1,10 @@
 ---
 title: "Bloody Hammers – Under Satan's Sun"
+edited: false
 date: "2014-05-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "gothic-rock"
   - "hard-rock"

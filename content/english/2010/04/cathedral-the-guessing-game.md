@@ -1,11 +1,12 @@
 ---
 title: "Cathedral - The Guessing Game"
+edited: false
 date: "2010-04-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cathedral"
   - "doom-metal"
   - "napalm-death"

@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: BLACK PUSSY/Sons of OTIS/Sierra @ Cherry Cola's, June 18, 2016"
+edited: false
 date: "2016-06-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-pussy"
   - "cherry-colas"
   - "concert-photography"

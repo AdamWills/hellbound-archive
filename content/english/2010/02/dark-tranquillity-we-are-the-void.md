@@ -1,11 +1,12 @@
 ---
 title: "Dark Tranquillity - We Are The Void"
+edited: false
 date: "2010-02-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "dark-tranquillity"
   - "melodic-death-metal"

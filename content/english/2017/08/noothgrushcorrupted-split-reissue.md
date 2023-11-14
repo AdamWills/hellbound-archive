@@ -1,9 +1,10 @@
 ---
 title: "Noothgrush/Corrupted split (reissue)"
+edited: false
 date: "2017-08-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "20-buck-spin"
   - "corrupted"
   - "dirge"

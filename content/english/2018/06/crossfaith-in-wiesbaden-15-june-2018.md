@@ -1,9 +1,10 @@
 ---
 title: "Crossfaith in Wiesbaden, 15 June 2018"
+edited: false
 date: "2018-06-29"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "crossfaith"
   - "japan"

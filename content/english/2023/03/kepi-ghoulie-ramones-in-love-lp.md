@@ -1,10 +1,11 @@
 ---
 title: "Kepi Ghoulie - Ramones In Love LP"
+edited: false
 date: "2023-03-10"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "acoustic"
   - "column"
   - "ghoulie"

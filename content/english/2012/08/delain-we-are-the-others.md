@@ -1,11 +1,12 @@
 ---
 title: "Delain - We Are The Others"
+edited: false
 date: "2012-08-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "charlotte-wessels"
   - "delain"
   - "fear-factory"

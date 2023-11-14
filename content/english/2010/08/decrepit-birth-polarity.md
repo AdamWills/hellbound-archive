@@ -1,11 +1,12 @@
 ---
 title: "Decrepit Birth – Polarity"
+edited: false
 date: "2010-08-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "decrepit-birth"
   - "nuclear-blast"

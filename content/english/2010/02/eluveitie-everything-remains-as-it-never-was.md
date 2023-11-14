@@ -1,11 +1,12 @@
 ---
 title: "Eluveitie – Everything Remains As It Never Was"
+edited: false
 date: "2010-02-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "eluveitie"
   - "folk-metal"

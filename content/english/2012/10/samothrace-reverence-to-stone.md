@@ -1,11 +1,12 @@
 ---
 title: "Samothrace - Reverence to Stone"
+edited: false
 date: "2012-10-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "20-buck-spin"
   - "doom"
   - "matt-hinch"

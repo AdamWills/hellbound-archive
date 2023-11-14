@@ -1,12 +1,13 @@
 ---
 title: "Ulthar - Anthronomicon Review"
+edited: false
 date: "2023-02-13"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "20-buck-spin"
   - "ulthar"
 ---

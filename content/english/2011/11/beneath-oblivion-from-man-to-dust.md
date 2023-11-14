@@ -1,11 +1,12 @@
 ---
 title: "Beneath Oblivion – From Man to Dust"
+edited: false
 date: "2011-11-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "beneath-oblivion"
   - "doom"
   - "gruesome-greg"

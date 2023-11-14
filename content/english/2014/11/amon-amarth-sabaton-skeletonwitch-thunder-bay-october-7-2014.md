@@ -1,9 +1,10 @@
 ---
 title: "Amon Amarth, Sabaton, and Skeletonwitch in Thunder Bay, October 7, 2014"
+edited: false
 date: "2014-11-14"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "amon-amarth"
   - "canada"
   - "concert"

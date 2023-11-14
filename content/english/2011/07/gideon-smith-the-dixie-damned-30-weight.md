@@ -1,11 +1,12 @@
 ---
 title: "Gideon Smith & the Dixie Damned – 30 Weight"
+edited: false
 date: "2011-07-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "danzig"
   - "dave-chandler"
   - "diablo-red"

@@ -1,11 +1,12 @@
 ---
 title: "Korn - The Paradigm Shift"
+edited: false
 date: "2013-10-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "korn"
   - "universal-music"

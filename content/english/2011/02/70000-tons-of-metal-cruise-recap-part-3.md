@@ -1,11 +1,12 @@
 ---
 title: "70000 TONS OF METAL Cruise Recap Part 3"
+edited: false
 date: "2011-02-04"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "blackguard"
   - "blind-guardian"
   - "burton-c-bell"

@@ -1,9 +1,10 @@
 ---
 title: "Garbageface X Yung Gutted – Apostasy (LP)"
+edited: false
 date: "2017-05-31"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "apostasy"
   - "garbageface"
   - "hip-hop"

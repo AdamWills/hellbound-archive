@@ -1,11 +1,12 @@
 ---
 title: "Just got back from Calgary--and boy, is my wallet tired!"
+edited: false
 date: "2011-07-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "bison-b-c"
   - "calgary"
   - "dead-meadow"

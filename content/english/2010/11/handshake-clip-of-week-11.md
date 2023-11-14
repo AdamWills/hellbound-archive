@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Handshake Clip Of The Week: Voivod/Gorguts interview clip"
+edited: false
 date: "2010-11-11"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "blacky"
   - "deceased"
   - "dysrhythmia"

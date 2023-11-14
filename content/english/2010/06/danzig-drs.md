@@ -1,11 +1,12 @@
 ---
 title: "Danzig - Deth Red Sabaoth"
+edited: false
 date: "2010-06-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "danzig"
   - "evilive"
   - "metal"

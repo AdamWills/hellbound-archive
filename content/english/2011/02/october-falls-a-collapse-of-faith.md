@@ -1,11 +1,12 @@
 ---
 title: "October Falls – A Collapse of Faith"
+edited: false
 date: "2011-02-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "debemur-morti"
   - "october-falls"
   - "ola-mazzuca"

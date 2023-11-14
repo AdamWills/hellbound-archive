@@ -1,10 +1,11 @@
 ---
 title: "May Metal Madness In Limerick!"
+edited: false
 date: "2015-04-30"
-categories: 
+categories:
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "concerts"
   - "live-metal"
 ---

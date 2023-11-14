@@ -1,9 +1,10 @@
 ---
 title: "Black Wizard – New Waste"
+edited: false
 date: "2015-12-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-wizard"
   - "doomy-rock"
   - "heavy-rock"

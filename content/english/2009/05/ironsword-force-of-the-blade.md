@@ -1,10 +1,11 @@
 ---
 title: "IRONSWORD: Force Of The Blade"
+edited: false
 date: "2009-05-28"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "portugal"
   - "power-metal"
 ---

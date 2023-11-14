@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: NEUROSIS/Converge/Amenra @ Danforth Music Hall, August 2, 2017"
+edited: false
 date: "2017-08-04"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "amenra"
   - "concert-photography"
   - "concert-photos"

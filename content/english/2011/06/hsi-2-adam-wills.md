@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Staff Interrogation #2: Adam Wills"
+edited: false
 date: "2011-06-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "adam-wills"
   - "justin-m-norton"
 ---

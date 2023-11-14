@@ -1,10 +1,11 @@
 ---
 title: "Lacuna Coil: Shallow Life"
+edited: false
 date: "2009-06-01"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "lacuna-coil"
 ---
 

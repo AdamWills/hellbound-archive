@@ -1,7 +1,8 @@
 ---
 title: "Happy 1st Birthday HELLBOUND.CA!"
+edited: false
 date: "2010-06-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"

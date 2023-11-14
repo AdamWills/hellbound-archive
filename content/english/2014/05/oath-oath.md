@@ -1,9 +1,10 @@
 ---
 title: "The Oath – The Oath"
+edited: false
 date: "2014-05-01"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "hard-rock"
   - "heavy-metal"

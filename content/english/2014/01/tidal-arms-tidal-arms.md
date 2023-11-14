@@ -1,11 +1,12 @@
 ---
 title: "Tidal Arms – Tidal Arms"
+edited: false
 date: "2014-01-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "experimental"
   - "gruesome-greg"
   - "metal-metal"

@@ -1,11 +1,12 @@
 ---
 title: "The great Witch Mountain gig that nobody saw..."
+edited: false
 date: "2012-10-28"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "annex-wreckroom"
   - "castle"
   - "concert"

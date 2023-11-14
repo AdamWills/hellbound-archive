@@ -1,22 +1,23 @@
 ---
 title: "Incineration Festival 2019 full line up announced"
+edited: false
 date: "2019-04-22"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "live"
   - "metal-festival"
   - "preview"
 ---
 
-## Incineration Fest PREVIEW  
+## Incineration Fest PREVIEW
 
 After unleashing the first event in May 2014, Incineration Festival has now seen five capacity events hosting numerous worldwide artists including Abbath, Sodom, Dark Funeral, Alcest, God Seed, 1349, Taake, Marduk, Unleashed, Rotting Christ, Master's Hammer, Tsjuder, Anaal Nathrakh, Impaled Nazarene, Melechesh, Immolation and many more. Acting as a mecca for extreme music, Incineration Festival year on year offers a line up consisting of the darkest and heaviest bands.
 
 Incineration Festival's sixth edition will be taking place on Saturday 11 May 2019 as a one-day affair at the following venues:
 
-THE ELECTRIC BALLROOM, Camden High Street, London  
-UNDERWORLD, Camden High Street, London  
+THE ELECTRIC BALLROOM, Camden High Street, London
+UNDERWORLD, Camden High Street, London
 THE BLACK HEART, Camden High Street, London (note: this is an 18+ venue)
 
 Doors will open 12pm. Festival will start 1pm.

@@ -1,7 +1,8 @@
 ---
 title: "Gillan: The Glory Years"
+edited: false
 date: "2009-06-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"

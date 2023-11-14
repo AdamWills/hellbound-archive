@@ -1,11 +1,12 @@
 ---
 title: "Dark Funeral: Angelus Exuro pro Eternus"
+edited: false
 date: "2009-12-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "dark-funeral"
   - "regain-records"

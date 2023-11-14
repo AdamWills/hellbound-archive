@@ -1,11 +1,12 @@
 ---
 title: "Judas Priest - Setlist: The Very Best Of Judas Priest Live"
+edited: false
 date: "2010-08-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "columbia-legacy"
   - "england"
   - "heavy-metal"

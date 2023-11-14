@@ -1,11 +1,12 @@
 ---
 title: "Gaz Jennings and Michelle Nocon declare their ‘Death Penalty’ for Rise Above!"
+edited: false
 date: "2013-12-16"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "cathedral"
   - "gaz-jennings"
   - "lee-dorrian"

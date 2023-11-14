@@ -1,10 +1,11 @@
 ---
 title: "Solitude Aeturnus"
+edited: false
 date: "2009-05-28"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "doom"
   - "usa"
 ---

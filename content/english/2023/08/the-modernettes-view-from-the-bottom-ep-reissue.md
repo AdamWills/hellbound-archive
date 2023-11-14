@@ -1,11 +1,12 @@
 ---
 title: "The Modernettes - View From The Bottom EP reissue"
+edited: false
 date: "2023-08-19"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "buck-cherry"
   - "canadian"
   - "porterhouse-records"

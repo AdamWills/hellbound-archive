@@ -1,11 +1,12 @@
 ---
 title: "Photo Gallery: Cauldron at Hellbound Radio, February 28, 2010"
+edited: false
 date: "2010-03-01"
-categories: 
+categories:
   - "albert_mansour"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "canada"
   - "cauldron"
   - "earache-records"

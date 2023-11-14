@@ -1,10 +1,11 @@
 ---
 title: "Chip Kinman - The Great Confrontation 2LP"
+edited: false
 date: "2022-10-05"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "2lp"
   - "avant-garde"
   - "chip-kinman"

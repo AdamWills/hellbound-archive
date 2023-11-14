@@ -1,11 +1,12 @@
 ---
 title: "Invasion – Orchestrated Kill Maneuver"
+edited: false
 date: "2010-11-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "invasion"
   - "jason-wellwood"
   - "rotting-corpse"

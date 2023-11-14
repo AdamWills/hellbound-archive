@@ -1,10 +1,11 @@
 ---
 title: "Black Elephant – Cosmic Blues"
+edited: false
 date: "2018-07-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-elephant"
   - "desert-rock"
   - "fuzz-rock"

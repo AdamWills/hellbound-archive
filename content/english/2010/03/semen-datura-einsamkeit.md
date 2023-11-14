@@ -1,11 +1,12 @@
 ---
 title: "Semen Datura – Einsamkeit"
+edited: false
 date: "2010-03-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atmf"
   - "black-metal"
   - "experimental-black-metal"

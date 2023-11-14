@@ -1,11 +1,12 @@
 ---
 title: "Old Corpse Road - ‘Tis Witching Hour…As Spectres We Haunt This Kingdom’"
+edited: false
 date: "2013-05-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "rainbow"
   - "cradle-of-filth"
   - "godreah-records"

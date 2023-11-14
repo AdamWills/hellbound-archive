@@ -1,13 +1,14 @@
 ---
 title: "ProgPower USA 2011 @ Center Stage, Atlanta, GA September 15th to 17th, 2011"
+edited: false
 date: "2011-09-28"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "atlanta"
   - "christofer-johnsson"
   - "creations-end"

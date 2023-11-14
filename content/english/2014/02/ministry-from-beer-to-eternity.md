@@ -1,10 +1,11 @@
 ---
 title: "Ministry – From Beer to Eternity"
+edited: false
 date: "2014-02-17"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "13th-planet"
   - "afm"
   - "al-jourgensen"

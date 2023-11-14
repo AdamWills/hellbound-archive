@@ -1,9 +1,10 @@
 ---
 title: "Alice In Chains – Get Born 2x7\" (RSD 2017)"
+edited: false
 date: "2017-05-03"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alice-in-chains"
   - "alternative-metal"
   - "grunge"

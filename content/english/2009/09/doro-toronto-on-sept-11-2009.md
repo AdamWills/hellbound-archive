@@ -1,11 +1,12 @@
 ---
 title: "Doro/Skullfist @ Annex Wreckroom, Toronto ON, Sept 11, 2009"
+edited: false
 date: "2009-09-21"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "canada"
   - "doro"
   - "germany"

@@ -1,10 +1,11 @@
 ---
 title: "Honky – Corduroy"
+edited: false
 date: "2016-06-02"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blues-rock"
   - "boogie-rock"
   - "honky"

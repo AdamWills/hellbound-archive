@@ -1,7 +1,8 @@
 ---
 title: "Infrared – Saviours"
+edited: false
 date: "2018-08-30"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
 ---

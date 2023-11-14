@@ -1,11 +1,12 @@
 ---
 title: "Paradise Lost – Tragic Idol"
+edited: false
 date: "2012-04-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anathema"
   - "at-the-gates"
   - "cathedral"

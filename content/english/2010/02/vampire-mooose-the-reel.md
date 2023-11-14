@@ -1,11 +1,12 @@
 ---
 title: "Vampire Mooose - The Reel"
+edited: false
 date: "2010-02-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "rotten-records"
   - "usa"

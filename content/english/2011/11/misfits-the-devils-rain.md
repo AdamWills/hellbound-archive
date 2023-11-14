@@ -1,11 +1,12 @@
 ---
 title: "Misfits - The Devil's Rain"
+edited: false
 date: "2011-11-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "black-flag"
   - "glenn-danzig"

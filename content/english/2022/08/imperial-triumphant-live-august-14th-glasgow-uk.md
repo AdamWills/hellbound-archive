@@ -1,7 +1,8 @@
 ---
 title: "Imperial Triumphant - Live - August 14th, Glasgow, UK"
+edited: false
 date: "2022-08-31"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
@@ -9,7 +10,7 @@ categories:
   - "reviews-audio"
   - "reviews-live"
   - "reviews-visual"
-tags: 
+tags:
   - "imperial-triumphant"
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: "Laethora - <i>The Light in Which We All Burn</i>"
+edited: false
 date: "2010-05-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dark-tranquillity"
   - "death-metal"
   - "entombed"

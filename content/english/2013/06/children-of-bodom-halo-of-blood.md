@@ -1,11 +1,12 @@
 ---
 title: "Children of Bodom - Halo Of Blood"
+edited: false
 date: "2013-06-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alexi-laiho"
   - "children-of-bodom"
   - "finland"

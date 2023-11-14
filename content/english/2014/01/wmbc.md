@@ -1,10 +1,11 @@
 ---
 title: "Wacken Metal Battle Canada: Canucks winning their way to an international stage"
+edited: false
 date: "2014-01-29"
-categories: 
+categories:
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "canadian-metal"
   - "crimson-shadows"
   - "jj-tartaglia"

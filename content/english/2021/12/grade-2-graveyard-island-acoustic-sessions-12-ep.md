@@ -1,9 +1,10 @@
 ---
 title: "Grade 2 - Graveyard Island: Acoustic Sessions 12'' EP"
+edited: false
 date: "2021-12-08"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "2"
   - "acoustic"
   - "ep"

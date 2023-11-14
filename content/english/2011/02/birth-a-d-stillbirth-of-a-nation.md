@@ -1,11 +1,12 @@
 ---
 title: "Birth A.D. - Stillbirth Of A Nation"
+edited: false
 date: "2011-02-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "averse-sefira"
   - "birth-a-d"
   - "corrosion-of-conformity"

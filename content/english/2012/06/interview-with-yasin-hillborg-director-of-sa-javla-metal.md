@@ -1,11 +1,12 @@
 ---
 title: "Interview with Yasin Hillborg, director of Så Jävla Metal"
+edited: false
 date: "2012-06-14"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "bathory"
   - "black-sabbath"
   - "europe"

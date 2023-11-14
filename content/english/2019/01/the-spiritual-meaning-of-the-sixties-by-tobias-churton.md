@@ -1,9 +1,10 @@
 ---
 title: "The Spiritual Meaning of the Sixties by Tobias Churton"
+edited: false
 date: "2019-01-30"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "1960s"
   - "book"
   - "history"

@@ -1,9 +1,10 @@
 ---
 title: "Neighborhood Brats - Confines Of Life LP"
+edited: false
 date: "2021-09-26"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "brats"
   - "confines"
   - "cult"

@@ -1,10 +1,11 @@
 ---
 title: "The Ditch and the Delta – Hives in Decline"
+edited: false
 date: "2017-05-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "noise-rock"
   - "post-sludge"
   - "progressive"

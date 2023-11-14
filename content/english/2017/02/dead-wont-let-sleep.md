@@ -1,10 +1,11 @@
 ---
 title: "Dead – We Won’t Let You Sleep"
+edited: false
 date: "2017-02-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "australia"
   - "dead"
   - "doom"

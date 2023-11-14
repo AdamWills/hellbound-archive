@@ -1,11 +1,12 @@
 ---
 title: "The best of Canadian metal, 2009-2018"
+edited: false
 date: "2019-07-01"
-categories: 
+categories:
   - "canadian-metal"
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-canadian-metal"
   - "best-of-the-year"
   - "canadian-metal"

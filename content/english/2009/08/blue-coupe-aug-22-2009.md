@@ -1,11 +1,12 @@
 ---
 title: "Blue Coupe, Bouchard's Outrageous Canadians @ This Ain't Hollywood, Hamilton ON, August 22, 2009"
+edited: false
 date: "2009-08-26"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-bouchard"
   - "alice-cooper"
   - "blue-coupe"

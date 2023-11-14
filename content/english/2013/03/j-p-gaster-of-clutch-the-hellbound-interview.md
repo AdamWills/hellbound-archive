@@ -1,11 +1,12 @@
 ---
 title: "J.P. Gaster of Clutch: The Hellbound Interview"
+edited: false
 date: "2013-03-15"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "clutch"
   - "fu-manchu"
   - "hellfest"

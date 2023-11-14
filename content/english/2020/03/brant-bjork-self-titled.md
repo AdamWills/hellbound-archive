@@ -1,7 +1,8 @@
 ---
 title: "Brant Bjork – self-titled"
+edited: false
 date: "2020-03-16"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

@@ -1,12 +1,13 @@
 ---
 title: "Staff Playlists, April 2019"
+edited: false
 date: "2019-05-01"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "music"

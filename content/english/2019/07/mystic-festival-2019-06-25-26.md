@@ -1,9 +1,10 @@
 ---
 title: "Mystic Festival 2019.06.25-26"
+edited: false
 date: "2019-07-16"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "festival"
   - "live"
   - "metal"

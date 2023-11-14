@@ -1,9 +1,10 @@
 ---
 title: "Renaissance – Novella"
+edited: false
 date: "2019-08-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "progressive-rock"
   - "review"
   - "rock"

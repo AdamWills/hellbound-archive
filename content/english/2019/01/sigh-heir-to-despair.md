@@ -1,9 +1,10 @@
 ---
 title: "Sigh – Heir To Despair"
+edited: false
 date: "2019-01-31"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
 ---

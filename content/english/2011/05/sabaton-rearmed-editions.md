@@ -1,11 +1,12 @@
 ---
 title: "Sabaton - Primo Victoria / Attero Dominatus / Metalizer / The Art of War [ReArmed Editions]"
+edited: false
 date: "2011-05-10"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "bolt-thrower"
   - "nuclear-blast"

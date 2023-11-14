@@ -1,11 +1,12 @@
 ---
 title: "High on Fire – De Vermis Mysteriis"
+edited: false
 date: "2012-05-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gruesome-greg"
   - "high-on-fire"
   - "matt-pike"

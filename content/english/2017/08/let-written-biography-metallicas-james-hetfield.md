@@ -1,9 +1,10 @@
 ---
 title: "So Let It Be Written: The Biography of Metallica's James Hetfield"
+edited: false
 date: "2017-08-14"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "books"
   - "james-hetfield"
   - "jason-newsted"

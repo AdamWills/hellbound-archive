@@ -1,11 +1,12 @@
 ---
 title: "Altar of Oblivion – Grand Gesture of Defiance"
+edited: false
 date: "2012-08-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "altar-of-oblivion"
   - "atlantean-kodex"
   - "candlemass"

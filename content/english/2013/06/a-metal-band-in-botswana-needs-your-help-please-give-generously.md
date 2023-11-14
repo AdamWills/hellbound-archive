@@ -1,11 +1,12 @@
 ---
 title: "A metal band in Botswana needs your help.  Please give generously..."
+edited: false
 date: "2013-06-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "botswana"
   - "documentary"
   - "gruesome-greg"

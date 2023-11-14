@@ -1,10 +1,11 @@
 ---
 title: "Horse Head – Terminal"
+edited: false
 date: "2017-09-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "horse-head"
   - "review"
 ---

@@ -1,10 +1,11 @@
 ---
 title: "Minsk: With Echoes In The Movement Of Stone"
+edited: false
 date: "2009-06-16"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "minsk"
   - "psychedelic"

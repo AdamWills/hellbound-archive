@@ -1,9 +1,10 @@
 ---
 title: "The Bar Stool Preachers – One Fool Down 7'' single"
+edited: false
 date: "2015-03-31"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "punk"
   - "punk-rock"

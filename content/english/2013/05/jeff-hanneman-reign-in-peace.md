@@ -1,12 +1,13 @@
 ---
 title: "Jeff Hanneman - Reign In Peace"
+edited: false
 date: "2013-05-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "adrien-begrand"
   - "banzai-axe"
   - "banzai-records"

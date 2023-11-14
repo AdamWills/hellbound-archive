@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: PENTAGRAM/Electric Citizen/Satan's Satyrs @ Grog Shop, Cleveland, October 11, 2015"
+edited: false
 date: "2015-10-14"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "cleveland"
   - "concert-photography"
   - "concert-photos"

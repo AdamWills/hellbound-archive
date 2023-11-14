@@ -1,9 +1,10 @@
 ---
 title: "The Algorithm @ The Asylum in Birmingham, November 2018"
+edited: false
 date: "2018-11-27"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "birmingham"
   - "concert"
   - "dance"

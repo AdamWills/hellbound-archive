@@ -1,11 +1,12 @@
 ---
 title: "Untimely Demise/ Grand Master/ Mares of Thrace/ Agony Spawn @ Amigos, Saskatoon SK, May 4, 2012"
+edited: false
 date: "2012-05-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "agony-spawn"
   - "death"
   - "destruction"

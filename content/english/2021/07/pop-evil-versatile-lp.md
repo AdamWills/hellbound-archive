@@ -1,9 +1,10 @@
 ---
 title: "Pop Evil - Versatile LP"
+edited: false
 date: "2021-07-15"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-rock"
   - "e1"
   - "evil-vinyl"

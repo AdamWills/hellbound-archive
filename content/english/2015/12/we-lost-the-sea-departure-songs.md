@@ -1,10 +1,11 @@
 ---
 title: "We Lost the Sea – Departure Songs"
+edited: false
 date: "2015-12-10"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "instrumental"
   - "post-rock"

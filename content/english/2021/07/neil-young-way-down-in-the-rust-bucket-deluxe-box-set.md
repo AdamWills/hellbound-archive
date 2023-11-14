@@ -1,10 +1,11 @@
 ---
 title: "Neil Young - Way Down In The Rust Bucket [Deluxe box set]"
+edited: false
 date: "2021-07-15"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "box-set"
   - "dvd"
   - "neil-young"

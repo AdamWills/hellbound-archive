@@ -1,7 +1,8 @@
 ---
 title: "Maryland Deathfest 2010 Recap Part 3"
+edited: false
 date: "2010-06-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"

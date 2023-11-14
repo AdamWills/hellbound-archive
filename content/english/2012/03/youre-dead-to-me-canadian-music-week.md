@@ -1,11 +1,12 @@
 ---
 title: "You're dead to me, Canadian Music Week!"
+edited: false
 date: "2012-03-18"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "bobby-liebling"
   - "canadian-music-week"
   - "cmw"

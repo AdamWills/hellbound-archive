@@ -1,11 +1,12 @@
 ---
 title: "The Year Of Our Lord: Dead To You"
+edited: false
 date: "2009-12-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "carcass"
   - "death-metal"
   - "the-year-of-our-lord"

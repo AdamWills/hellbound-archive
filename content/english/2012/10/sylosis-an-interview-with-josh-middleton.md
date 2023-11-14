@@ -1,12 +1,13 @@
 ---
 title: "Sylosis – An Interview With Josh Middleton"
+edited: false
 date: "2012-10-19"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "interviews"
-tags: 
+tags:
   - "cilu"
   - "heavy-metal"
   - "interview"

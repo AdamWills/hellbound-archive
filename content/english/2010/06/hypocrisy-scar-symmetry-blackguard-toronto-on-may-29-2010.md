@@ -1,11 +1,12 @@
 ---
 title: "Hypocrisy/ Scar Symmetry/ Blackguard @ The Wreckroom, Toronto ON, May 29 2010"
+edited: false
 date: "2010-06-03"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "blackguard"
   - "canada"

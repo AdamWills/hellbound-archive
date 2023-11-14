@@ -1,9 +1,10 @@
 ---
 title: "Diamond Head – Diamond Head"
+edited: false
 date: "2016-06-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "diamond-head"
   - "heavy-metal"

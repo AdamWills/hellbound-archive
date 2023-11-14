@@ -1,7 +1,8 @@
 ---
 title: "Preservation Hall Jazz Band – So It Is LP"
+edited: false
 date: "2017-12-27"
-categories: 
+categories:
   - "reviews-vinyl"
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: "The Dirty Nil - Free Rein To Passions LP"
+edited: false
 date: "2023-07-27"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "dine-alone"
   - "freen-rein-to-passions"
   - "punk"

@@ -1,7 +1,8 @@
 ---
 title: "Pale Divine – Consequence of Time"
+edited: false
 date: "2020-06-12"
-categories: 
+categories:
   - "gruesome_greg"
   - "reviews"
   - "reviews-audio"

@@ -1,10 +1,11 @@
 ---
 title: "Ayahuasca – Yin"
+edited: false
 date: "2016-11-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ayahuasca"
   - "metal"
   - "review"

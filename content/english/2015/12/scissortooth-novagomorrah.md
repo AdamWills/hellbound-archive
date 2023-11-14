@@ -1,9 +1,10 @@
 ---
 title: "Scissortooth – Novagomorrah"
+edited: false
 date: "2015-12-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "metal"
   - "review"

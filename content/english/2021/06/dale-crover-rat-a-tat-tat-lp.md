@@ -1,9 +1,10 @@
 ---
 title: "Dale Crover - Rat A Tat Tat LP"
+edited: false
 date: "2021-06-30"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "crover"
   - "dale"
   - "melvins"

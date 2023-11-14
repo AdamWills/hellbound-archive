@@ -1,9 +1,10 @@
 ---
 title: "Mars Red Sky – Apex III (Praise For The Burning Soul)"
+edited: false
 date: "2016-05-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "france"
   - "mars-red-sky"

@@ -1,9 +1,10 @@
 ---
 title: "Shining – Animal"
+edited: false
 date: "2019-02-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
 ---

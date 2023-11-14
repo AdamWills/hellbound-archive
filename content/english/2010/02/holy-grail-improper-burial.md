@@ -1,11 +1,12 @@
 ---
 title: "Holy Grail - Improper Burial"
+edited: false
 date: "2010-02-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "holy-grail"
   - "los-angeles"

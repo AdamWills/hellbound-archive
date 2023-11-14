@@ -1,9 +1,10 @@
 ---
 title: "Red Cain – Red Cain"
+edited: false
 date: "2016-12-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "melodic-metal"
   - "modern-metal"
   - "red-cain"

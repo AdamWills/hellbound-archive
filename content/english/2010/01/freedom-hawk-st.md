@@ -1,11 +1,12 @@
 ---
 title: "Freedom Hawk – s/t"
+edited: false
 date: "2010-01-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "freedom-hawk"
   - "metal"
   - "meteorcity"

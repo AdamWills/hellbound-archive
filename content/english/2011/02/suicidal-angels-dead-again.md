@@ -1,11 +1,12 @@
 ---
 title: "Suicidal Angels - Dead Again"
+edited: false
 date: "2011-02-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ed-repka"
   - "kreator"
   - "rob-kachluba"

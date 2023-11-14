@@ -1,12 +1,13 @@
 ---
 title: "Anthrax/ Testament/ Death Angel @ The Fillmore, Charlotte NC, November 5, 2011"
+edited: false
 date: "2011-11-14"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "alex-skolnick"
   - "anthrax"
   - "chuck-billy"

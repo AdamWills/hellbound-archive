@@ -1,9 +1,10 @@
 ---
 title: "Pup – The Dream Is Over"
+edited: false
 date: "2016-06-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "pup"
   - "review"
   - "rock"

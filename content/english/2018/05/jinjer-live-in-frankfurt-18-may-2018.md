@@ -1,9 +1,10 @@
 ---
 title: "Jinjer live in Frankfurt, 18 May 2018"
+edited: false
 date: "2018-05-31"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "frankfurt"
   - "instrumental"

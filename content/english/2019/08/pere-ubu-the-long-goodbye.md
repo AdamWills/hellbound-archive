@@ -1,9 +1,10 @@
 ---
 title: "Pere Ubu – The Long Goodbye"
+edited: false
 date: "2019-08-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "music"
   - "review"
   - "rock"

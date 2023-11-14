@@ -1,11 +1,12 @@
 ---
 title: "U.D.O. – Rev-Raptor"
+edited: false
 date: "2011-05-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "afm-records"
   - "mark-tornillo"

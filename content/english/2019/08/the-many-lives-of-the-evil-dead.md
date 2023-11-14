@@ -1,9 +1,10 @@
 ---
 title: "The Many Lives of The Evil Dead"
+edited: false
 date: "2019-08-15"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "evil-dead"
   - "horror"

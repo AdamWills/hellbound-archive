@@ -1,9 +1,10 @@
 ---
 title: "American Heritage – Prolapse"
+edited: false
 date: "2015-02-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "american-heritage"
   - "gutter-punk"

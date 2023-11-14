@@ -1,10 +1,11 @@
 ---
 title: "Bright Curse – Before the Shore"
+edited: false
 date: "2016-05-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bright-curse"
   - "psychedelic"
   - "retro-rock"

@@ -1,11 +1,12 @@
 ---
 title: "Sinner: Judgement Day/The Nature of Evil/There Will Be Execution"
+edited: false
 date: "2009-08-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "germany"
   - "metal-mind"
   - "power-metal"

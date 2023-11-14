@@ -1,11 +1,12 @@
 ---
 title: "Rhapsody of Fire – The Frozen Tears of Angels"
+edited: false
 date: "2011-03-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "christopher-lee"
   - "italy"
   - "nuclear-blast"

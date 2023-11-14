@@ -1,9 +1,10 @@
 ---
 title: "Windhand + Satan’s Satyrs @ Horseshoe Tavern, Toronto May 19, 2017"
+edited: false
 date: "2017-06-03"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "live"
   - "review"

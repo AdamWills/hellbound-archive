@@ -1,11 +1,12 @@
 ---
 title: "Aggressor - Beyond All Reckoning"
+edited: false
 date: "2012-02-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "aggressor"
   - "eviile"
   - "jason-wellwood"

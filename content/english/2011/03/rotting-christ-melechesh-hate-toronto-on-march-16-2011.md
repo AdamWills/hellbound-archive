@@ -1,11 +1,12 @@
 ---
 title: "Rotting Christ / Melechesh / Hate / Abigail Williams / Lecherous Nocturne @The Mod Club, Toronto ON, March 16th, 2011"
+edited: false
 date: "2011-03-23"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "abigail-williams"
   - "adam-wills"
   - "hate"

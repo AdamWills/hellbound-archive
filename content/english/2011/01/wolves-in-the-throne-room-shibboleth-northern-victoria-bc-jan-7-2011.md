@@ -1,11 +1,12 @@
 ---
 title: "Wolves in the Throne Room / Shibboleth / Northern @ Sons of Norway Hall, Victoria BC, Jan. 7, 2011"
+edited: false
 date: "2011-01-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "atmospheric"
   - "black-metal"
   - "cara-cross"

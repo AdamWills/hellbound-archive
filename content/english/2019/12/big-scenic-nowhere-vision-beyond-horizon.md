@@ -1,10 +1,11 @@
 ---
 title: "Big Scenic Nowhere – Vision Beyond Horizon"
+edited: false
 date: "2019-12-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
   - "rock"

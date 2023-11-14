@@ -1,13 +1,14 @@
 ---
 title: "WOLVES IN THE THRONE ROOM: The Hellbound Interview"
+edited: false
 date: "2011-10-11"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "features"
   - "headline"
   - "jonathan_smith"
-tags: 
+tags:
   - "black-metal"
   - "burzum"
   - "interview"

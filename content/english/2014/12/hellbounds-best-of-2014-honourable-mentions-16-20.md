@@ -1,10 +1,11 @@
 ---
 title: "Hellbound's best of 2014: honourable mentions (#16-20)"
+edited: false
 date: "2014-12-26"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-metal-of-2014"
   - "best-of-2014"
   - "earth"

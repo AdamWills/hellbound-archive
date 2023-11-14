@@ -1,10 +1,11 @@
 ---
 title: "Usnea – Portals Into Futility"
+edited: false
 date: "2017-08-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "death-doom"
   - "doom"

@@ -1,11 +1,12 @@
 ---
 title: "Iggy and The Stooges - Ready To Die"
+edited: false
 date: "2013-05-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "fat-possum"
   - "iggy-and-the-stooges"

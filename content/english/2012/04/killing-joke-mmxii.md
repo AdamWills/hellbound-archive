@@ -1,11 +1,12 @@
 ---
 title: "Killing Joke - MMXII"
+edited: false
 date: "2012-04-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fear-factory"
   - "jaz-coleman"
   - "killing-joke"

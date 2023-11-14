@@ -1,9 +1,10 @@
 ---
 title: "AFTERSHOCK, Sacramento CA, 21-22 October 2017"
+edited: false
 date: "2017-10-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "aftershock"
   - "concert"
   - "festival"

@@ -1,11 +1,12 @@
 ---
 title: "Nightbringer - <em>Apocalypse Sun</em>"
+edited: false
 date: "2011-01-03"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ajna-offensive"
   - "black-metal"
   - "nightbringer"

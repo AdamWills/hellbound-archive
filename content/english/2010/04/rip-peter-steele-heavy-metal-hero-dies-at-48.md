@@ -1,11 +1,12 @@
 ---
 title: "RIP Peter Steele - Heavy metal hero dies at 48"
+edited: false
 date: "2010-04-26"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "johnny-kelly"
   - "kenny-hickey"
   - "pete-steele"

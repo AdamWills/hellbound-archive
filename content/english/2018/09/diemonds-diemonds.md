@@ -1,10 +1,11 @@
 ---
 title: "Diemonds – Diemonds"
+edited: false
 date: "2018-09-05"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "diemonds"
   - "glam-rock"
   - "hard-rock"

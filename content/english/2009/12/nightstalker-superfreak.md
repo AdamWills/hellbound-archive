@@ -1,11 +1,12 @@
 ---
 title: "Nightstalker: Superfreak"
+edited: false
 date: "2009-12-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "greece"
   - "kyuss"
   - "meteorcity"

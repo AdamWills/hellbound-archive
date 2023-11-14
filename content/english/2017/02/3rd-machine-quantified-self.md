@@ -1,9 +1,10 @@
 ---
 title: "3rd Machine – Quantified Self"
+edited: false
 date: "2017-02-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "3rd-machine"
   - "heavy-metal"
   - "industrial"

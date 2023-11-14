@@ -1,11 +1,12 @@
 ---
 title: "The Red Chord: Fed Through The Teeth Machine"
+edited: false
 date: "2009-10-16"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal-blade"
   - "metalcore"
   - "the-red-chord"

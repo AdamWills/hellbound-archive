@@ -1,9 +1,10 @@
 ---
 title: "Iggy Pop – Post Pop Depression"
+edited: false
 date: "2016-04-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "iggy-pop"
   - "review"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Fight Amp – Constantly Off"
+edited: false
 date: "2015-06-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-flag"
   - "fight-amp"

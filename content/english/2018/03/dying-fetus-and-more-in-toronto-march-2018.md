@@ -1,9 +1,10 @@
 ---
 title: "Dying Fetus and more in Toronto, March 2018"
+edited: false
 date: "2018-03-23"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "dying-fetus"
   - "live"

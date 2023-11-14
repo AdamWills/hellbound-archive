@@ -1,11 +1,12 @@
 ---
 title: "Voivod - To the Death 84"
+edited: false
 date: "2012-02-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative-tentacles"
   - "hellhammer"
   - "mercyful-fate"

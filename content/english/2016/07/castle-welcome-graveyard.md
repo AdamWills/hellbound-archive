@@ -1,10 +1,11 @@
 ---
 title: "Castle – Welcome to the Graveyard"
+edited: false
 date: "2016-07-13"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "castle"
   - "metal"
   - "occult-rock"

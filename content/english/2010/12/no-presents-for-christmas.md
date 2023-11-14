@@ -1,11 +1,12 @@
 ---
 title: "No presents for Christmas...but we wish only the best of health for King Diamond"
+edited: false
 date: "2010-12-27"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "christmas"
   - "king-diamond"
 ---

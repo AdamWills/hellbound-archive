@@ -1,11 +1,12 @@
 ---
 title: "World Junior Hockey Final tonight - CANADA or USA To Win?"
+edited: false
 date: "2010-01-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "canada"
   - "hockey"
   - "sean-palmerston"

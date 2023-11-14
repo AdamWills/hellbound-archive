@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: TRUCKFIGHTERS/Kings Destroy @ Hard Luck Bar, January 22, 2017"
+edited: false
 date: "2017-01-26"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "hard-luck-bar"

@@ -1,11 +1,12 @@
 ---
 title: "Festival Recap - Scion Rock Festival, Columbus OH, March 13, 2010"
+edited: false
 date: "2010-03-22"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-anvil"
   - "black-tusk"
   - "columbus"

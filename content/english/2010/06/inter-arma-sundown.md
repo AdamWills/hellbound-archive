@@ -1,11 +1,12 @@
 ---
 title: "Inter Arma - Sundown"
+edited: false
 date: "2010-06-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "1349"
   - "baroness"
   - "forcefield"

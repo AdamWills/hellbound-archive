@@ -1,10 +1,11 @@
 ---
 title: "New Canadian metal releases: the May 2016 edition"
+edited: false
 date: "2016-05-28"
-categories: 
+categories:
   - "features"
   - "psa"
-tags: 
+tags:
   - "canadian-metal"
   - "canuck-metal"
   - "new-releases"

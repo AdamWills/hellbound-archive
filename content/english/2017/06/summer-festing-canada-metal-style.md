@@ -1,9 +1,10 @@
 ---
 title: "Summer festing in Canada, metal style"
+edited: false
 date: "2017-06-23"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "canada"
   - "fest"
   - "festival"

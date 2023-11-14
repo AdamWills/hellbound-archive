@@ -1,9 +1,10 @@
 ---
 title: "VHS – Screaming Mad Gore"
+edited: false
 date: "2016-03-31"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "goregrind"
   - "grind"
   - "punk"

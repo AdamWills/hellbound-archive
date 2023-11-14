@@ -1,12 +1,13 @@
 ---
 title: "HELLBOUND’s TOP 10 CANADIAN METAL ALBUMS OF 2010"
+edited: false
 date: "2010-12-30"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "staff_picks"
-tags: 
+tags:
   - "adrien-begrand"
   - "ajna-offensive"
   - "annihilator"

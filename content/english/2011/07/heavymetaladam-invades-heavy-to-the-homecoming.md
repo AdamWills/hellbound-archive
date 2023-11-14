@@ -1,11 +1,12 @@
 ---
 title: "HeavyMetalAdam Invades Heavy TO: The Homecoming"
+edited: false
 date: "2011-07-23"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "heavy-mtl"
   - "toronto"

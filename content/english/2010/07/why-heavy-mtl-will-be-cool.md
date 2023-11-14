@@ -1,12 +1,13 @@
 ---
 title: "The Top 10 Reasons Why HEAVY MTL Will Be Cool"
+edited: false
 date: "2010-07-23"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "headline"
   - "editors_blog"
-tags: 
+tags:
   - "alice-cooper"
   - "anvil"
   - "halford"

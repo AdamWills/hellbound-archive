@@ -1,13 +1,14 @@
 ---
 title: "Jay H. Gorania's SXSW 2011 - Part 2"
+edited: false
 date: "2011-03-28"
-categories: 
+categories:
   - "blogs"
   - "headline"
   - "jay_gorania"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "brooklyn-vegan"
   - "castavet"
   - "crowbar"

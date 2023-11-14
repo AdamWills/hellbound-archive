@@ -1,10 +1,11 @@
 ---
 title: "SAHG: II"
+edited: false
 date: "2009-07-15"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "norway"
   - "regain"

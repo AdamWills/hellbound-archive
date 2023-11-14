@@ -1,9 +1,10 @@
 ---
 title: "Razor + Anvil @ Club Absinthe, Hamilton, June 3, 2017"
+edited: false
 date: "2017-06-28"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "anvil"
   - "concert"
   - "hamilton"

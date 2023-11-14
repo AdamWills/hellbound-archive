@@ -1,10 +1,11 @@
 ---
 title: "Sahg – Memento Mori"
+edited: false
 date: "2016-08-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "prog-rock"

@@ -1,11 +1,12 @@
 ---
 title: "UnexpecT/ Hallows Die/ Legions @ The New Hard Luck Bar, Toronto, ON, November 18th 2011"
+edited: false
 date: "2011-11-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "dragonforce"
   - "hallows-die"
   - "hard-luck-bar"

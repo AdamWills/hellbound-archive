@@ -1,9 +1,10 @@
 ---
 title: "Slavestate – Illicit Mandate"
+edited: false
 date: "2016-03-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "review"
   - "slavestate"

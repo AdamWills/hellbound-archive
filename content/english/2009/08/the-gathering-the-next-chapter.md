@@ -1,11 +1,12 @@
 ---
 title: "The Gathering: The Next Chapter"
+edited: false
 date: "2009-08-21"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "atmospheric"
   - "holland"
   - "season-of-mist"

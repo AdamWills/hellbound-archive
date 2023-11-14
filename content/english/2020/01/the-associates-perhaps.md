@@ -1,9 +1,10 @@
 ---
 title: "The Associates – Perhaps"
+edited: false
 date: "2020-01-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "80s"
   - "music"
   - "pop"

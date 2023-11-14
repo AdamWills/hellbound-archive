@@ -1,11 +1,12 @@
 ---
 title: "Sanctification: Black Reign"
+edited: false
 date: "2009-12-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "entombed"
   - "hate-eternal"

@@ -1,7 +1,8 @@
 ---
 title: "The Glands - Double Thriller/The Glands/Double Coda"
+edited: false
 date: "2020-09-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

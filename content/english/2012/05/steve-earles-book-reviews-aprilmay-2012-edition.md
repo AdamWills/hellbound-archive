@@ -1,12 +1,13 @@
 ---
 title: "Steve Earles' Book Reviews - April/May 2012 edition"
+edited: false
 date: "2012-05-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "aleister-crowley"
   - "book"
   - "bruce-dickinson"

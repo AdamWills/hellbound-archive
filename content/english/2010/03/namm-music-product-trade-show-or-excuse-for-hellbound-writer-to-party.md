@@ -1,11 +1,12 @@
 ---
 title: "NAMM - Music product trade show, or excuse for Hellbound writer to party?"
+edited: false
 date: "2010-03-25"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "between-the-buried-and-me"
   - "blog"
   - "california"

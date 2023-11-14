@@ -1,9 +1,10 @@
 ---
 title: "Hellfest 2018 in review: Day 3"
+edited: false
 date: "2018-08-02"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "arch-enemy"
   - "at-the-gates"
   - "concert"

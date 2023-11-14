@@ -1,9 +1,10 @@
 ---
 title: "Cusses – Here Comes The Rat EP"
+edited: false
 date: "2015-05-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "cusses"
   - "glam-slam-punk-core"

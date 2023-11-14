@@ -1,11 +1,12 @@
 ---
 title: "A Storm of Light: Forgive Us Our Trespasses"
+edited: false
 date: "2009-12-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "a-storm-of-light"
   - "doom"
   - "neurosis"

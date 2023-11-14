@@ -1,10 +1,11 @@
 ---
 title: "Leaves' Eyes / Blackguard / Borealis @ The Opera House, Toronto ON, September 19 2010"
+edited: false
 date: "2010-09-27"
-categories: 
+categories:
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "blackguard"
   - "borealis"

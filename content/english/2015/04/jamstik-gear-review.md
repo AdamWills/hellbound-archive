@@ -1,9 +1,10 @@
 ---
 title: "Jamstik (gear review)"
+edited: false
 date: "2015-04-02"
-categories: 
+categories:
   - "reviews"
-tags: 
+tags:
   - "garageband"
   - "gear"
   - "guitar"

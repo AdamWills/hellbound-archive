@@ -1,9 +1,10 @@
 ---
 title: "NEEDS – Limitations (LP)"
+edited: false
 date: "2018-07-25"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "canadian"
   - "hardcore"
   - "needs"

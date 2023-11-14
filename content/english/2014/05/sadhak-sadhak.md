@@ -1,9 +1,10 @@
 ---
 title: "Sadhak – Sadhak"
+edited: false
 date: "2014-05-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "40-watt-sun"
   - "doom"
   - "sadhak"

@@ -1,11 +1,12 @@
 ---
 title: "Baptized In Blood - s/t"
+edited: false
 date: "2010-11-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baptized-in-blood"
   - "matt-lewis"
   - "roadrunner"

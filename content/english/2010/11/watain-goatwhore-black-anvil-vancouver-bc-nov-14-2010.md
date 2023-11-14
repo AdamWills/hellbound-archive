@@ -1,11 +1,12 @@
 ---
 title: "Watain/ Goatwhore/ Black Anvil @ Rickshaw Theater, Vancouver BC, Nov 14, 2010"
+edited: false
 date: "2010-11-19"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-anvil"
   - "black-metal"
   - "galgamex"

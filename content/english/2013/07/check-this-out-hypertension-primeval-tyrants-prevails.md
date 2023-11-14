@@ -1,11 +1,12 @@
 ---
 title: "Check This Out: Hypertension - Primeval Tyrants Prevails"
+edited: false
 date: "2013-07-24"
-categories: 
+categories:
   - "blogs"
   - "headline"
   - "editors_blog"
-tags: 
+tags:
   - "black-metal"
   - "death"
   - "hellbound-metal"

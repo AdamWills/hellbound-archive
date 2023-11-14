@@ -1,11 +1,12 @@
 ---
 title: "Unearthly Trance – V"
+edited: false
 date: "2010-11-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "gruesome-greg"
   - "kirk-winsdtein"

@@ -1,9 +1,10 @@
 ---
 title: "Viathyn – Cynosure"
+edited: false
 date: "2014-11-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "power-metal"
   - "prog-power"

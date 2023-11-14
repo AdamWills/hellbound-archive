@@ -1,11 +1,12 @@
 ---
 title: "Dimmu Borgir - Abrahadabra"
+edited: false
 date: "2010-11-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "abrahadabra"
   - "dimmu-borgir"
   - "emperor"

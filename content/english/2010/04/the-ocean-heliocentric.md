@@ -1,11 +1,12 @@
 ---
 title: "The Ocean – Heliocentric"
+edited: false
 date: "2010-04-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "between-the-buried-and-me"
   - "germany"
   - "metal-blade"

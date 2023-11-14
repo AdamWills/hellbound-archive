@@ -1,10 +1,11 @@
 ---
 title: "Rancid – ...And Out Come The Wolves (5 x 7'' vinyl set)"
+edited: false
 date: "2015-06-05"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "classic-review"
   - "hellcat"
   - "pirates-press"
@@ -50,6 +51,6 @@ As it would turn out, it didn't take long at all. While ._..And Out Come The Wol
 
 [www.twitter.com/rancid](https://twitter.com/rancid)
 
-_And for contrast, the digital version:_ 
+_And for contrast, the digital version:_
 
 <iframe src="https://www.youtube.com/embed/XcccqG6-dDg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

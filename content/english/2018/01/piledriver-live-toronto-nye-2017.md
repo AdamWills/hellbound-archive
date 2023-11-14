@@ -1,9 +1,10 @@
 ---
 title: "Piledriver live in Toronto, NYE 2017"
+edited: false
 date: "2018-01-09"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "coalition-to"
   - "concert"
   - "crossover"

@@ -1,9 +1,10 @@
 ---
 title: "Erroll Garner – Ready Take One"
+edited: false
 date: "2017-01-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "erroll-garner"
   - "jazz"
   - "piano"

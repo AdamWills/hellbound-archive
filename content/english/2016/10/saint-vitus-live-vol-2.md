@@ -1,10 +1,11 @@
 ---
 title: "Saint Vitus – Live Vol 2"
+edited: false
 date: "2016-10-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "live"
   - "review"

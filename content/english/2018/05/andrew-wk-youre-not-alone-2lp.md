@@ -1,9 +1,10 @@
 ---
 title: "Andrew WK – You're Not Alone 2LP"
+edited: false
 date: "2018-05-28"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "andrew-w-k"
   - "hard-rock"
   - "heavy-rock"

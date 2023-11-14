@@ -1,9 +1,10 @@
 ---
 title: "Hellbound interviews Genocide Pact in San Francisco"
+edited: false
 date: "2018-10-25"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "concert"
   - "death-metal"
   - "genocide-pact"

@@ -1,11 +1,12 @@
 ---
 title: "Current Playlist: Bruce Franklin of Trouble"
+edited: false
 date: "2009-12-16"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "alice-cooper"
   - "captain-beyond"
   - "deep-purple"

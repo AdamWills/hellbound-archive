@@ -1,7 +1,8 @@
 ---
 title: "Lion's Law - The Pain, The Blood and The Sword"
+edited: false
 date: "2020-07-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

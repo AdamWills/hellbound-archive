@@ -1,11 +1,12 @@
 ---
 title: "Wacken Metal Battle Canada returns to Hamilton, ON"
+edited: false
 date: "2018-02-06"
-categories: 
+categories:
   - "features"
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "concert"
   - "hamilton"
   - "live"

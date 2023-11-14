@@ -1,11 +1,12 @@
 ---
 title: "Culted – Oblique to All Paths"
+edited: false
 date: "2014-01-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "culted"
   - "death-doom"
   - "gruesome-greg"

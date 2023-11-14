@@ -1,11 +1,12 @@
 ---
 title: "Hellbound audio interview: Craig Goldy (DIO)"
+edited: false
 date: "2010-12-16"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "audio-interview"
   - "craig-goldy"
   - "dio"

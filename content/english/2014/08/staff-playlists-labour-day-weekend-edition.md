@@ -1,10 +1,11 @@
 ---
 title: "Staff playlists: the Labour Day weekend edition"
+edited: false
 date: "2014-08-29"
-categories: 
+categories:
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "metal"
   - "staff-playlists"
 ---

@@ -1,10 +1,11 @@
 ---
 title: "Sirenia – The Enigma of Life"
+edited: false
 date: "2011-03-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
-tags: 
+tags:
   - "adrien-begrand"
   - "gothic-metal"
   - "nuclear-blast"

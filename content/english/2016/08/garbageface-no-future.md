@@ -1,9 +1,10 @@
 ---
 title: "Garbageface – No FUTUR(E)"
+edited: false
 date: "2016-08-19"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "doom"
   - "experimental"
   - "heavy-beats"

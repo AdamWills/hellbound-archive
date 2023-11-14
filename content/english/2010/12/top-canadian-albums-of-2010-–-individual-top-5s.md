@@ -1,11 +1,12 @@
 ---
 title: "TOP CANADIAN ALBUMS OF 2010 – Individual Top 5s"
+edited: false
 date: "2010-12-31"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "staff_picks"
-tags: 
+tags:
   - "mares-of-thrace"
   - "wake"
   - "weapon"

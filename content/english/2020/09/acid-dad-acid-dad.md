@@ -1,7 +1,8 @@
 ---
 title: "Acid Dad - Acid Dad"
+edited: false
 date: "2020-09-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

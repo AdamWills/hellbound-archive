@@ -1,11 +1,12 @@
 ---
 title: "Metal Picks for Bandcamp Friday - March 2023"
+edited: false
 date: "2023-03-03"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "anatomy-of-habit"
   - "bandcamp-friday"
   - "black-openings"

@@ -1,11 +1,12 @@
 ---
 title: "Ravens Creed - The Power"
+edited: false
 date: "2013-02-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ben-ward"
   - "cronos"
   - "discharge"

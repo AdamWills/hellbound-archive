@@ -1,11 +1,12 @@
 ---
 title: "Pilgrim – Misery Wizard"
+edited: false
 date: "2012-02-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "argus"
   - "candlemass"
   - "doom-metal"

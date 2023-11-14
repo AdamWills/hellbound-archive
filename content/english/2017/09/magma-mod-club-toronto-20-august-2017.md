@@ -1,9 +1,10 @@
 ---
 title: "Magma @ The Mod Club in Toronto, 20 August 2017"
+edited: false
 date: "2017-09-07"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "avant-garde"
   - "classical"
   - "concert"

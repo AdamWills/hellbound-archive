@@ -1,14 +1,15 @@
 ---
 title: "Three Inches of Blood - Long Live Heavy Metal album review and interview"
+edited: false
 date: "2012-05-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cam-pipes"
   - "century-media"
   - "heavy-metal"

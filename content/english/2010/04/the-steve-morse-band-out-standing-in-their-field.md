@@ -1,11 +1,12 @@
 ---
 title: "The Steve Morse Band—Out Standing in Their Field"
+edited: false
 date: "2010-04-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "classic-rock"
   - "deep-purple"
   - "dixie-dregs"

@@ -1,11 +1,12 @@
 ---
 title: "Ross The Boss: New Metal Leader"
+edited: false
 date: "2009-08-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "manowar"
   - "ross-the-boss"

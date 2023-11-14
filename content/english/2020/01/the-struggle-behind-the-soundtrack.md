@@ -1,9 +1,10 @@
 ---
 title: "The Struggle Behind the Soundtrack"
+edited: false
 date: "2020-01-02"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "film-music"
   - "film-scores"

@@ -1,9 +1,10 @@
 ---
 title: "Temple of Baal – Mysterium"
+edited: false
 date: "2015-10-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "temple-of-baal"

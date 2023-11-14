@@ -1,7 +1,8 @@
 ---
 title: "NWOBHM THUNDER - The New Wave Of British Heavy Metal: 1978-1986"
+edited: false
 date: "2020-08-31"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

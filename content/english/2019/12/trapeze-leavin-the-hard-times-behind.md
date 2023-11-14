@@ -1,9 +1,10 @@
 ---
 title: "Trapeze – Leavin’ The Hard Times Behind"
+edited: false
 date: "2019-12-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "review"
   - "rock"
 ---

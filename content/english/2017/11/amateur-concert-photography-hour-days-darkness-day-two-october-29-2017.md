@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR @ DAYS OF DARKNESS: Day Two, October 29, 2017"
+edited: false
 date: "2017-11-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "asthma-castle"
   - "bongripper"
   - "boris"

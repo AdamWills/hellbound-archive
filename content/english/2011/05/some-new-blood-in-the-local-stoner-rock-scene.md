@@ -1,11 +1,12 @@
 ---
 title: "Some new blood in the local stoner rock scene..."
+edited: false
 date: "2011-05-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "stoner-rock"
   - "toronto"

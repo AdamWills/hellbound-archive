@@ -1,11 +1,12 @@
 ---
 title: "Converge/ Burning Love/ Loma Prieta/ Vilipend @ the Mod Club, Toronto ON, April 6th 2012"
+edited: false
 date: "2012-05-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "burning-love"
   - "chris-gramlich"
   - "converge"

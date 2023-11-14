@@ -1,9 +1,10 @@
 ---
 title: "Suffocation @ Lee's Palace, 24 October 2018"
+edited: false
 date: "2018-11-12"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "cattle-decapitation"
   - "concert"
   - "death-metal"

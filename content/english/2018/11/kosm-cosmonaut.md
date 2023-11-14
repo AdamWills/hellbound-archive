@@ -1,10 +1,11 @@
 ---
 title: "Kosm – Cosmonaut"
+edited: false
 date: "2018-11-20"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "kosm"
   - "metal"
   - "progressive-metal"

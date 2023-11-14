@@ -1,11 +1,12 @@
 ---
 title: "Deep Purple and Beyond: Scenes From The Life of a Rock Star"
+edited: false
 date: "2011-11-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "black-county-communion"
   - "black-sabbath"
   - "deep-purple"

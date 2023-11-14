@@ -1,12 +1,13 @@
 ---
 title: "Hauntingly Epic: Agalloch, Worm Ouroboros, and Musk Ox @ London Music Hall, March 25th, 2011"
+edited: false
 date: "2011-03-30"
-categories: 
+categories:
   - "features"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "adrian-bromley"
   - "agalloch"

@@ -1,9 +1,10 @@
 ---
 title: "Protokult – No Beer In Heaven"
+edited: false
 date: "2014-08-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "folk-metal"
   - "hoslips"
   - "protokult"

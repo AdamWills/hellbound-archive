@@ -1,11 +1,12 @@
 ---
 title: "Exhumed - All Guts, No Glory"
+edited: false
 date: "2011-07-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "cattle-decapitation"
   - "exhumed"

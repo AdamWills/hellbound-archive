@@ -1,10 +1,11 @@
 ---
 title: "Toxic Holocaust/Bludwulf: Speed N Spikes Vol. 1 7\""
+edited: false
 date: "2009-06-25"
-categories: 
+categories:
   - "featured"
   - "reviews-vinyl"
-tags: 
+tags:
   - "punk"
   - "relapse"
   - "thrash-metal"

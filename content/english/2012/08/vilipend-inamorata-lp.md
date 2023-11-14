@@ -1,11 +1,12 @@
 ---
 title: "Vilipend - Inamorata LP"
+edited: false
 date: "2012-08-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "a389"
   - "a389-records"
   - "matt-hinch"

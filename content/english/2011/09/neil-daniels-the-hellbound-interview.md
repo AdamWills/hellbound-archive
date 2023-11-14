@@ -1,11 +1,12 @@
 ---
 title: "Neil Daniels: The Hellbound Interview"
+edited: false
 date: "2011-09-21"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "all-pens-blazing"
   - "hellbound"
   - "interview"

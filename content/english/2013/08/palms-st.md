@@ -1,11 +1,12 @@
 ---
 title: "Palms - s/t"
+edited: false
 date: "2013-08-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "deftones"
   - "ipecac"

@@ -1,11 +1,12 @@
 ---
 title: "Circle Jerks – Group Sex"
+edited: false
 date: "2016-02-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "circle-jerks"
   - "classics"

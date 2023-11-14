@@ -1,11 +1,12 @@
 ---
 title: "Iggy And The Stooges Return From The Brink"
+edited: false
 date: "2010-06-16"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "classic-rock"
   - "columbia-legacy"
   - "iggy-and-the-stooges"

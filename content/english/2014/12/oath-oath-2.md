@@ -1,9 +1,10 @@
 ---
 title: "The Oath – The Oath"
+edited: false
 date: "2014-12-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "angel-witch"
   - "germany"
   - "occult-rock"

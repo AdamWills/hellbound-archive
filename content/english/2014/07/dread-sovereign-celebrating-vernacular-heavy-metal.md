@@ -1,9 +1,10 @@
 ---
 title: "Dread Sovereign: Celebrating the vernacular of heavy metal"
+edited: false
 date: "2014-07-10"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "dread-sovereign"
   - "interview"
   - "nemtheanga"

@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Electric Wizard/Blood Ceremony/Satan's Satyrs @ Lee's Palace, April 5, 2015"
+edited: false
 date: "2015-04-11"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blood-ceremony"
   - "electric-wizard"
   - "lees-palace"

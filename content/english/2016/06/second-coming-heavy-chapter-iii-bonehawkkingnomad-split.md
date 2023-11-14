@@ -1,10 +1,11 @@
 ---
 title: "The Second Coming of Heavy, Chapter III (BoneHawk/Kingnomad split)"
+edited: false
 date: "2016-06-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bonehawk"
   - "doom"
   - "kingnomad"

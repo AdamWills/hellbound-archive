@@ -1,9 +1,10 @@
 ---
 title: "Book reviews by Steve Earles"
+edited: false
 date: "2019-03-29"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "civil-war"
   - "history"

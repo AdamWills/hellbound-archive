@@ -1,10 +1,11 @@
 ---
 title: "IRON MAIDEN: Archive of Previously Published Reviews"
+edited: false
 date: "2009-06-19"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "iron-maiden"
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: "Hellbound @ Tuska Open Air: The Review - Day 1"
+edited: false
 date: "2013-09-03"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "abhorrence"
   - "amorphis"
   - "bolt-thrower"

@@ -1,10 +1,11 @@
 ---
 title: "Fire Down Below – Viper, Vixen, Goddess, Saint"
+edited: false
 date: "2017-05-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fire-down-below"
   - "metal"
   - "review"

@@ -1,11 +1,12 @@
 ---
 title: "The Shrine – Bless Off"
+edited: false
 date: "2014-03-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "angel-witch"
   - "dave-chandler"
   - "dust"

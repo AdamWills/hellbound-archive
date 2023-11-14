@@ -1,11 +1,12 @@
 ---
 title: "Trivium/Chimaira/Whitechapel @ Odeon, Saskatoon, SK, November 20, 2009"
+edited: false
 date: "2009-11-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "chimaira"
   - "dirge-within"
   - "ferret"

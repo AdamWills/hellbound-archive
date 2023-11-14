@@ -1,9 +1,10 @@
 ---
 title: "Damn The Machine – by David E. Gehlke"
+edited: false
 date: "2017-07-31"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "noise-records"
   - "review"

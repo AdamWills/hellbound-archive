@@ -1,11 +1,12 @@
 ---
 title: "Turisas – Stand Up and Fight"
+edited: false
 date: "2011-04-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "folk-metal"
   - "laura-wiebe"

@@ -1,7 +1,8 @@
 ---
 title: "Paradise Lost & Moonspell - Glasgow, UK"
+edited: false
 date: "2022-02-24"
-categories: 
+categories:
   - "featured"
   - "features"
   - "headline"
@@ -9,7 +10,7 @@ categories:
   - "reviews-audio"
   - "reviews-live"
   - "reviews-visual"
-tags: 
+tags:
   - "glasgow"
   - "live-review"
   - "moonspell"

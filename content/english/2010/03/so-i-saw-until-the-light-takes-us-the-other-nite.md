@@ -1,7 +1,8 @@
 ---
 title: "So, I saw Until the Light Takes Us the other nite..."
+edited: false
 date: "2010-03-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

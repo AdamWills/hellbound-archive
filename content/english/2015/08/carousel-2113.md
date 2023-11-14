@@ -1,9 +1,10 @@
 ---
 title: "Carousel – 2113"
+edited: false
 date: "2015-08-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "carousel"
   - "pentagram"

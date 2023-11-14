@@ -1,11 +1,12 @@
 ---
 title: "OM: God Is Good"
+edited: false
 date: "2009-09-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "drag-city"
   - "om"

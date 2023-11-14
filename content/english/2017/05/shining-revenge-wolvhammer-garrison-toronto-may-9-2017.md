@@ -1,11 +1,12 @@
 ---
 title: "Shining, Revenge, Wolvhammer @ The Garrison, Toronto ON, May 9, 2017"
+edited: false
 date: "2017-05-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "canada"
   - "elena-francis"

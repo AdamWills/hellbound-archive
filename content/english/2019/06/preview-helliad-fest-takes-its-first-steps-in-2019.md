@@ -1,10 +1,11 @@
 ---
 title: "PREVIEW: Helliad Fest takes its first steps in 2019"
+edited: false
 date: "2019-06-05"
-categories: 
+categories:
   - "features"
   - "psa"
-tags: 
+tags:
   - "festival"
   - "metal"
   - "preview"

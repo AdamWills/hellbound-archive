@@ -1,9 +1,10 @@
 ---
 title: "NXNE 2014 Diaries: Sumo Cyco"
+edited: false
 date: "2014-06-20"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "bovine-sex-club"
   - "nxne"
   - "sumo-cyco"

@@ -1,11 +1,12 @@
 ---
 title: "View From the Vault: Warpig Wails Again"
+edited: false
 date: "2013-03-20"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "black-sabbath"
   - "deep-purple"
   - "elp"

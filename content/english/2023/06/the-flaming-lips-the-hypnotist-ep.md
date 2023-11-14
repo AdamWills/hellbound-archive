@@ -1,10 +1,11 @@
 ---
 title: "The Flaming Lips - The Hypnotist EP"
+edited: false
 date: "2023-06-26"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "acid"
   - "alt-rock"
   - "battles"

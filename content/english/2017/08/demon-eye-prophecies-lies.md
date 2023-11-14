@@ -1,10 +1,11 @@
 ---
 title: "Demon Eye – Prophecies and Lies"
+edited: false
 date: "2017-08-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "demon-eye"
   - "doom"
   - "heavy-metal"

@@ -1,13 +1,14 @@
 ---
 title: "Bridear - October 7th, 2021 - Birmingham, UK"
+edited: false
 date: "2021-10-14"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"
   - "reviews-audio"
   - "reviews-live"
-tags: 
+tags:
   - "birmingham"
   - "bridear"
   - "live"

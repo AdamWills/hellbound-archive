@@ -1,14 +1,15 @@
 ---
 title: "The Witchfinder Radio/Hellbound.ca interview with Oderus Urungus"
+edited: false
 date: "2013-09-19"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "interviews"
   - "witchfinder"
-tags: 
+tags:
   - "albert-mansour"
   - "battle-maximus"
   - "bill-adams"

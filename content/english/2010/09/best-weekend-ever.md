@@ -1,11 +1,12 @@
 ---
 title: "Best weekend ever..."
+edited: false
 date: "2010-09-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "doom"
   - "gruesome-greg"
   - "neurosis"

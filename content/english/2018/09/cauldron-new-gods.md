@@ -1,10 +1,11 @@
 ---
 title: "Cauldron – New Gods"
+edited: false
 date: "2018-09-20"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "canadian-metal"
   - "cauldron"

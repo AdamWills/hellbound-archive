@@ -1,10 +1,11 @@
 ---
 title: "Riot @ Scout Bar, San Antonio TX, June 2, 2009"
+edited: false
 date: "2009-06-08"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "live"
   - "power-metal"
   - "riot"

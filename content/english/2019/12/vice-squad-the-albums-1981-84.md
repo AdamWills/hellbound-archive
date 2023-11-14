@@ -1,10 +1,11 @@
 ---
 title: "Vice Squad – The Albums 1981-84"
+edited: false
 date: "2019-12-26"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
-tags: 
+tags:
   - "heavy"
   - "punk"
   - "review"

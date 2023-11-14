@@ -1,11 +1,12 @@
 ---
 title: "Watain: The Hellbound Interview"
+edited: false
 date: "2010-05-19"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "bathory"
   - "death-metal"
   - "season-of-mist"

@@ -1,11 +1,12 @@
 ---
 title: "Fullforce - One"
+edited: false
 date: "2011-08-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cloudscape"
   - "dream-evil"
   - "fullforce"

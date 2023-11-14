@@ -1,10 +1,11 @@
 ---
 title: "JANE'S ADDICTION - Live Voodoo (DVD Review)"
+edited: false
 date: "2010-09-10"
-categories: 
+categories:
   - "featured"
   - "reviews-visual"
-tags: 
+tags:
   - "bill-adams"
   - "dvd-review"
   - "janes-addiction"

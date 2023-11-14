@@ -1,11 +1,12 @@
 ---
 title: "Subhumans(Canada) - Same Thoughts Different Day"
+edited: false
 date: "2010-04-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative-tentacles"
   - "canada"
   - "punk"

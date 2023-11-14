@@ -1,7 +1,8 @@
 ---
 title: "Tom Petty – Full Moon Fever LP"
+edited: false
 date: "2017-08-21"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
 ---

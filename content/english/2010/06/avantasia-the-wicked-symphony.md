@@ -1,11 +1,12 @@
 ---
 title: "Avantasia – The Wicked Symphony"
+edited: false
 date: "2010-06-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "andre-matos"
   - "avantasia"
   - "bob-catley"

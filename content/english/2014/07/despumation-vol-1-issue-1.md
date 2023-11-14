@@ -1,9 +1,10 @@
 ---
 title: "Despumation Vol 1: Issue 1"
+edited: false
 date: "2014-07-31"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "metal"
   - "voivod"

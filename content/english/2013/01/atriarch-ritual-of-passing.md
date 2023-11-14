@@ -1,11 +1,12 @@
 ---
 title: "Atriarch - Ritual Of Passing"
+edited: false
 date: "2013-01-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atriarch"
   - "black-metal"
   - "doom"

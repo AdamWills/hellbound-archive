@@ -1,9 +1,10 @@
 ---
 title: "Calgary 420 Music & Arts Fest 2018: Dopethrone and many more"
+edited: false
 date: "2018-02-20"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "420"
   - "calgary"
   - "desert-rock"

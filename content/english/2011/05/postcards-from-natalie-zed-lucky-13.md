@@ -1,11 +1,12 @@
 ---
 title: "Postcards From Natalie Zed: Lucky #13"
+edited: false
 date: "2011-05-06"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm"
   - "century"
   - "melechesh"

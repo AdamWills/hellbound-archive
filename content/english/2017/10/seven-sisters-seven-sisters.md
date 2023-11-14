@@ -1,9 +1,10 @@
 ---
 title: "Seven Sisters – Seven Sisters"
+edited: false
 date: "2017-10-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "review"
   - "seven-sisters"
 ---

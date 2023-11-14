@@ -1,11 +1,12 @@
 ---
 title: "Bandcamp Friday Picks - September 2022"
+edited: false
 date: "2022-09-02"
-categories: 
+categories:
   - "psa"
   - "reviews-audio"
   - "staff_picks"
-tags: 
+tags:
   - "bandcamp-friday"
   - "danielle"
   - "danielle-griscti"

@@ -1,11 +1,12 @@
 ---
 title: "Descendents/ OFF! @ Yonge Dundas Square, Toronto ON, June 16 2011"
+edited: false
 date: "2011-06-24"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-flag"
   - "descendents"
   - "iggy-and-the-stooges"

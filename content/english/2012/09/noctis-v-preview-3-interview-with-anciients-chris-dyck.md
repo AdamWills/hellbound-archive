@@ -1,11 +1,12 @@
 ---
 title: "Noctis V Preview #3: Interview with ANCIIENTS' Chris Dyck"
+edited: false
 date: "2012-09-27"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "anciients"
   - "archspire"
   - "blood-ceremony"

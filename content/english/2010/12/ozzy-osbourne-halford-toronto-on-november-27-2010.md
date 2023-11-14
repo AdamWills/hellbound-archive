@@ -1,11 +1,12 @@
 ---
 title: "Ozzy Osbourne / Halford @ Air Canada Centre, Toronto ON, November 27, 2010"
+edited: false
 date: "2010-12-06"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "heaven-hell"
   - "dying-fetus"
   - "halford"

@@ -1,11 +1,12 @@
 ---
 title: "Umbah – Trilobeth"
+edited: false
 date: "2010-04-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cynic"
   - "england"
   - "fear-factory"

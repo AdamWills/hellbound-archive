@@ -1,11 +1,12 @@
 ---
 title: "Poe - Hello LP reissue"
+edited: false
 date: "2023-06-14"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "hello"
   - "mnrk-music-group"
   - "poe"

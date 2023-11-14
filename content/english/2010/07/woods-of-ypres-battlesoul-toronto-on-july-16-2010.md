@@ -1,11 +1,12 @@
 ---
 title: "Woods of Ypres/ Battlesoul/ The Great Collapse-The Womb @ The Blue Moon, Toronto ON, July 16 2010"
+edited: false
 date: "2010-07-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "battlesoul"
   - "canada"

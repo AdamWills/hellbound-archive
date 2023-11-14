@@ -1,10 +1,11 @@
 ---
 title: "The Drew Thomson Foundation – s/t LP"
+edited: false
 date: "2020-01-06"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
 ---
 

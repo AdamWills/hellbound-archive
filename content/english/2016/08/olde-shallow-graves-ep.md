@@ -1,9 +1,10 @@
 ---
 title: "Olde – Shallow Graves EP"
+edited: false
 date: "2016-08-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "olde"
   - "review"

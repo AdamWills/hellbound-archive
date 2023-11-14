@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: ELDER/King Buffalo/Ol' Time Moonshine @ Velvet Underground, October 14, 2017"
+edited: false
 date: "2017-10-18"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "elder"

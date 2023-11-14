@@ -1,10 +1,11 @@
 ---
 title: "Kings Destroy – None More"
+edited: false
 date: "2017-01-16"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "epic-doom"
   - "kings-destroy"
   - "metal"

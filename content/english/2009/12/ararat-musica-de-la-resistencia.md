@@ -1,11 +1,12 @@
 ---
 title: "Ararat: Musica de la Resistencia"
+edited: false
 date: "2009-12-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ararat"
   - "argentina"
   - "las-natas"

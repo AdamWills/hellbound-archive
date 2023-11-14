@@ -1,11 +1,12 @@
 ---
 title: "Alcest – Shelter"
+edited: false
 date: "2014-01-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "alcest"
   - "black-metal"

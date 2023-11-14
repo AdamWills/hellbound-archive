@@ -1,11 +1,12 @@
 ---
 title: "Thou/ Moloch - Tears That Soak a Callous Heart split 12”"
+edited: false
 date: "2010-08-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "crust"
   - "doom"
   - "england"

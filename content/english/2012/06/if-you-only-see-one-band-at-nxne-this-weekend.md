@@ -1,11 +1,12 @@
 ---
 title: "If you only see one band at NXNE this weekend..."
+edited: false
 date: "2012-06-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert"
   - "doom"
   - "drone"

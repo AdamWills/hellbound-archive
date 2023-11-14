@@ -1,9 +1,10 @@
 ---
 title: "Lars Frederiksen - To Victory 12'' EP"
+edited: false
 date: "2021-12-08"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "12"
   - "bastards"
   - "debut"

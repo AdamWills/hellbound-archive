@@ -1,11 +1,12 @@
 ---
 title: "Announcing Our Year End Contest Winner!!!"
+edited: false
 date: "2010-01-25"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "albet-mansour"
   - "century-media"
   - "contest"

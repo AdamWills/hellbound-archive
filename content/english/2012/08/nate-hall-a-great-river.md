@@ -1,11 +1,12 @@
 ---
 title: "Nate Hall - A Great River"
+edited: false
 date: "2012-08-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "craig-haze"
   - "nate-hall"
   - "neurosis"

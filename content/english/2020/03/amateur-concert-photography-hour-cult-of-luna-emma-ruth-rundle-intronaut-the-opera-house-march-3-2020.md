@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: CULT OF LUNA/Emma Ruth Rundle/Intronaut @ The Opera House, March 3, 2020"
+edited: false
 date: "2020-03-04"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "cult-of-luna"

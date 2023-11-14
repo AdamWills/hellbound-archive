@@ -1,9 +1,10 @@
 ---
 title: "Devin Townsend Project, Animals as Leaders and Monuments in Toronto, Nov 30, 2014"
+edited: false
 date: "2014-12-15"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "animals-as-leaders"
   - "concert-photos"
   - "devin-townsend"

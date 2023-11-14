@@ -1,9 +1,10 @@
 ---
 title: "Transmaniacon – The Strange World of Suzie Pellet"
+edited: false
 date: "2018-10-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "heavy-rock"
   - "progressive-rock"

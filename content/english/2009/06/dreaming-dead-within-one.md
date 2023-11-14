@@ -1,10 +1,11 @@
 ---
 title: "Dreaming Dead: Within One"
+edited: false
 date: "2009-06-25"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "dreaming-dead"
   - "ibex-moon-records"

@@ -1,9 +1,10 @@
 ---
 title: "Various Artists – Meantime [Redux]"
+edited: false
 date: "2017-01-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "covers"
   - "helmet"
   - "magnetic-eye"

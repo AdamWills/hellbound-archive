@@ -1,9 +1,10 @@
 ---
 title: "‘The Duke of Monmouth: Life and Rebellion’ by Laura Brennan"
+edited: false
 date: "2019-02-05"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "british-history"
   - "history"

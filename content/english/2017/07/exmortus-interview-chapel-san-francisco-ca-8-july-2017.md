@@ -1,9 +1,10 @@
 ---
 title: "EXMORTUS interview: at The Chapel, San Francisco CA, 8 July 2017"
+edited: false
 date: "2017-07-18"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "exmortus"
   - "interview"
   - "metal"

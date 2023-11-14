@@ -1,12 +1,13 @@
 ---
 title: "Biff Byford: The Hellbound Interview"
+edited: false
 date: "2011-10-21"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "editors_blog"
-tags: 
+tags:
   - "biff-byford"
   - "interview"
   - "nwobhm"

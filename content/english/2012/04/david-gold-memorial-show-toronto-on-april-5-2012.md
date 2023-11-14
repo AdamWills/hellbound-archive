@@ -1,11 +1,12 @@
 ---
 title: "David Gold Memorial Show @ Annex Wreckroom, Toronto ON, April 5, 2012"
+edited: false
 date: "2012-04-26"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "david-gold"
   - "eclipse-eternal"
   - "inertia-entertainment"

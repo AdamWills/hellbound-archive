@@ -1,9 +1,10 @@
 ---
 title: "KREATOR live in Berkeley, CA, 10 Feb 2018"
+edited: false
 date: "2018-02-13"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "exmortus"
   - "heavy-metal"

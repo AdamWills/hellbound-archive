@@ -1,10 +1,11 @@
 ---
 title: "TK and The Holy Know-Nothings - The Incredible Heat Machine LP"
+edited: false
 date: "2021-12-10"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "country"
   - "great"
   - "mama-bird-recording-co"

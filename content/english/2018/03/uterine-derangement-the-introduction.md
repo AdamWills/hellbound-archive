@@ -1,10 +1,11 @@
 ---
 title: "UTERINE DERANGEMENT: the introduction"
+edited: false
 date: "2018-03-09"
-categories: 
+categories:
   - "blogs"
   - "editors_blog"
-tags: 
+tags:
   - "asylum"
   - "blog"
   - "cfmu"

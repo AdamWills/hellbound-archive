@@ -1,11 +1,12 @@
 ---
 title: "So, Toronto finally gets to see a Ghost gig this Sunday!"
+edited: false
 date: "2012-01-21"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blood-ceremony"
   - "enslaved"
   - "ghost"

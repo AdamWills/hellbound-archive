@@ -1,9 +1,10 @@
 ---
 title: "Dan Rico – Flesh & Bone b/w Gold Volvo (7-inch single)"
+edited: false
 date: "2018-01-31"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "dan-rico"
   - "garage-rock"
   - "glam"

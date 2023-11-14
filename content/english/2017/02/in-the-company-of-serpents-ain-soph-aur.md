@@ -1,10 +1,11 @@
 ---
 title: "In the Company of Serpents – Ain-Soph Aur"
+edited: false
 date: "2017-02-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "country"
   - "doom"
   - "in-the-company-of-serpents"

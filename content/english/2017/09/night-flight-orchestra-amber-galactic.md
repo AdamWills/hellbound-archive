@@ -1,9 +1,10 @@
 ---
 title: "The Night Flight Orchestra – Amber Galactic"
+edited: false
 date: "2017-09-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "aor"
   - "nostalgia"
   - "nuclear-blast"

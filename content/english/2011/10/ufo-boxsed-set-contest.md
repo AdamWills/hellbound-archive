@@ -1,11 +1,12 @@
 ---
 title: "CONTEST: Win UFO - The Chrysalis Years (1973-1979) 5 CD Boxed Set"
+edited: false
 date: "2011-10-20"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "contest"
   - "emi"
   - "michael-schenker"

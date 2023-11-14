@@ -1,9 +1,10 @@
 ---
 title: "Weird Owl – Bubblegum Brainwaves LP"
+edited: false
 date: "2017-11-30"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "psychedelic"
   - "psychedelic-rock"
   - "review"

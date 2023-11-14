@@ -1,12 +1,13 @@
 ---
 title: "Barge To Hell Cruise Recap Part 4"
+edited: false
 date: "2013-02-04"
-categories: 
+categories:
   - "features"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "000-tons"
   - "70"
   - "adrien-begrand"

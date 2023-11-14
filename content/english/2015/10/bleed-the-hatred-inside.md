@@ -1,9 +1,10 @@
 ---
 title: "Bleed – The Hatred Inside"
+edited: false
 date: "2015-10-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bleed"
   - "metal"

@@ -1,10 +1,11 @@
 ---
 title: "Beastwars – IV"
+edited: false
 date: "2019-05-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

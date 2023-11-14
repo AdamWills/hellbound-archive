@@ -1,9 +1,10 @@
 ---
 title: "Hellbound @ Heavy Montreal, Day 2: August 8, 2015"
+edited: false
 date: "2015-08-09"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "abbath"
   - "battlecross"
   - "billy-talent"

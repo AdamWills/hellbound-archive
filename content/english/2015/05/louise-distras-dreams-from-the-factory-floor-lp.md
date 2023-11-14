@@ -1,9 +1,10 @@
 ---
 title: "Louise Distras – Dreams From The Factory Floor LP"
+edited: false
 date: "2015-05-27"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "louise-distras"
   - "punk-rock"

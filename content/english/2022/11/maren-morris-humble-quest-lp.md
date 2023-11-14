@@ -1,10 +1,11 @@
 ---
 title: "Maren Morris - Humble Quest LP"
+edited: false
 date: "2022-11-07"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "country"
   - "maren"
   - "morris"

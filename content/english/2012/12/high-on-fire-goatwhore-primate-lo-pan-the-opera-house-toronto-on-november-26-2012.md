@@ -1,13 +1,14 @@
 ---
 title: "High On Fire / Goatwhore / Primate / Lo Pan @ The Opera House, Toronto, ON, November 26, 2012"
+edited: false
 date: "2012-12-10"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "bill-kelliher"
   - "black-flag"
   - "brutal-truth"

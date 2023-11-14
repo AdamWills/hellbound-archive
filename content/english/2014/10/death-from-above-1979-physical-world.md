@@ -1,9 +1,10 @@
 ---
 title: "Death From Above 1979 – The Physical World"
+edited: false
 date: "2014-10-07"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "death-from-above-1979"
   - "hardcore"

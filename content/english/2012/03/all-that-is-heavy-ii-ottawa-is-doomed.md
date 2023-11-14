@@ -1,11 +1,12 @@
 ---
 title: "All That is Heavy II: Ottawa is Doomed!"
+edited: false
 date: "2012-03-10"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blizaro"
   - "blood-ceremony"
   - "corrosion-of-conformity"

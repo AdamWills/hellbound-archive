@@ -1,10 +1,11 @@
 ---
 title: "Oranssi Pazuzu at Velvet Underground - October 12, 2019"
+edited: false
 date: "2019-10-17"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "2019"
   - "a-flock-named-murder"
   - "black-metal"

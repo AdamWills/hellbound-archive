@@ -1,9 +1,10 @@
 ---
 title: "Hawkeyes – Poison Slows You Down"
+edited: false
 date: "2015-05-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "hawkeyes"
   - "psychedelic-sludgedoom"

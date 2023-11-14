@@ -1,7 +1,8 @@
 ---
 title: "Sabbath Assembly – Restored to One"
+edited: false
 date: "2010-06-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"

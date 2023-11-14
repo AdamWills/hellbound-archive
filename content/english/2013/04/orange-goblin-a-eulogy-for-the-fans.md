@@ -1,12 +1,13 @@
 ---
 title: "Orange Goblin – A Eulogy for the Fans"
+edited: false
 date: "2013-04-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "candlelight-usa"
   - "clutch"
   - "gruesome-greg"

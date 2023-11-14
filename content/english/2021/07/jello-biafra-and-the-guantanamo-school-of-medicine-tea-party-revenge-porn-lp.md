@@ -1,9 +1,10 @@
 ---
 title: "Jello Biafra and the Guantanamo School of Medicine - Tea Party Revenge Porn LP"
+edited: false
 date: "2021-07-14"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative-tentacles"
   - "guantanamo-school-of-medicine"
   - "jello-biafra"

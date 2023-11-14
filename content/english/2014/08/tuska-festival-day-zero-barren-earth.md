@@ -1,9 +1,10 @@
 ---
 title: "HELLBOUND @ TUSKA OPEN AIR 2014: DAY ZERO"
+edited: false
 date: "2014-08-08"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "amorphis"
   - "barren-earth"
   - "finland"

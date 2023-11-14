@@ -1,9 +1,10 @@
 ---
 title: "Booze & Glory - Vespa & Londonians 12'' EP"
+edited: false
 date: "2021-12-10"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "booze-glory"
   - "ep"
   - "pirates"

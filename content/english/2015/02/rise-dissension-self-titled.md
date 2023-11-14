@@ -1,9 +1,10 @@
 ---
 title: "Rise of Dissension – self-titled"
+edited: false
 date: "2015-02-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "independent-release"
   - "rise-of-dissension"

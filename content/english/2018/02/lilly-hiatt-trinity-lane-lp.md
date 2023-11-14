@@ -1,9 +1,10 @@
 ---
 title: "Lilly Hiatt – Trinity Lane LP"
+edited: false
 date: "2018-02-16"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-country"
   - "alternative"
   - "country"

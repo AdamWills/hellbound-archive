@@ -1,10 +1,11 @@
 ---
 title: "Forbidden/ Evile/ Gama Bomb/ Bonded by Blood @ The Mod Club, Toronto ON, November 23rd 2010"
+edited: false
 date: "2010-11-29"
-categories: 
+categories:
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "bonded-by-blood"
   - "evile"

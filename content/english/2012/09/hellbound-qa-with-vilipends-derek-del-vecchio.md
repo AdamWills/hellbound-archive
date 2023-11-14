@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Q&A with...  Vilipend's Derek Del Vecchio"
+edited: false
 date: "2012-09-11"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "a389"
   - "converge"
   - "derek-del-vecchio"

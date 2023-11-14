@@ -1,9 +1,10 @@
 ---
 title: "Sirenia + Arkona + MindMaze @ Mod Club Theatre, Toronto, May 17, 2017"
+edited: false
 date: "2017-05-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "arkona"
   - "concert"
   - "live"

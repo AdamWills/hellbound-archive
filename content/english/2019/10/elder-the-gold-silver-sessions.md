@@ -1,10 +1,11 @@
 ---
 title: "Elder – The Gold &amp; Silver Sessions"
+edited: false
 date: "2019-10-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "krautrock"
   - "post-rock"
   - "progressive"

@@ -1,10 +1,11 @@
 ---
 title: "The Chemical Brothers – Dig Your Own Hole (2LP reissue)"
+edited: false
 date: "2017-03-03"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "chemical-brothers"
   - "classics"
   - "review"

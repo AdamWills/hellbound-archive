@@ -1,10 +1,11 @@
 ---
 title: "Against the Grain – Cheated Death"
+edited: false
 date: "2018-02-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "against-the-grain"
   - "doom"
   - "heavy"

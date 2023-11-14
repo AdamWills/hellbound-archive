@@ -1,9 +1,10 @@
 ---
 title: "Corrosion of Conformity – IX"
+edited: false
 date: "2014-06-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "candlelight"
   - "corrosion-of-conformity"

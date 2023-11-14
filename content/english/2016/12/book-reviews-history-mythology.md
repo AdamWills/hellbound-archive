@@ -1,9 +1,10 @@
 ---
 title: "Book reviews: history and mythology"
+edited: false
 date: "2016-12-21"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "archaeology"
   - "book-review"
   - "history"

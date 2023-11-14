@@ -1,9 +1,10 @@
 ---
 title: "Nightingale – Retribution"
+edited: false
 date: "2015-01-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "dan-swano"
   - "hard-rock"

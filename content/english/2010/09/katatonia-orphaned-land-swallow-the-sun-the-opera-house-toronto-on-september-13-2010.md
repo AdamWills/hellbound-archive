@@ -1,10 +1,11 @@
 ---
 title: "Katatonia / Orphaned Land / Swallow The Sun @ The Opera House, Toronto ON, September 13 2010"
+edited: false
 date: "2010-09-17"
-categories: 
+categories:
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "concert"
   - "israel"

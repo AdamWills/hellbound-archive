@@ -1,11 +1,12 @@
 ---
 title: "Black Breath - Heavy Breathing"
+edited: false
 date: "2010-12-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-breath"
   - "death-metal"
   - "entombed"

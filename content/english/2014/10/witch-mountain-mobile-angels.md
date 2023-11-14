@@ -1,9 +1,10 @@
 ---
 title: "Witch Mountain – Mobile of Angels"
+edited: false
 date: "2014-10-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "witch-mountain"

@@ -1,9 +1,10 @@
 ---
 title: "Bevar Sea – Invoke the Bizarre"
+edited: false
 date: "2015-09-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bevar-sea"
   - "doom"
   - "reverend-bizarre"

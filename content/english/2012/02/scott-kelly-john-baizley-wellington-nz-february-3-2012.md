@@ -1,11 +1,12 @@
 ---
 title: "Scott Kelly/ John Baizley/ Craig Radford/ Desbot @ SFBH, Wellington, New Zealand, February 3rd, 2012"
+edited: false
 date: "2012-02-06"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "baroness"
   - "craig-haze"
   - "jesu"

@@ -1,11 +1,12 @@
 ---
 title: "Redemption - This Mortal Coil"
+edited: false
 date: "2011-10-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "inside-out"
   - "prog-metal"
   - "ray-alder"

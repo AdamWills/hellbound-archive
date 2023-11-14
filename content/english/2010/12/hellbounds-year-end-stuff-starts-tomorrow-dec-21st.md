@@ -1,11 +1,12 @@
 ---
 title: "Hellbound's Year End Stuff starts tomorrow! (Dec 21st)"
+edited: false
 date: "2010-12-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "sean"
   - "year-end"
   - "year-end-contest"

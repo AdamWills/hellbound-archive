@@ -1,11 +1,12 @@
 ---
 title: "Six Feet Under - Graveyard Classics III"
+edited: false
 date: "2010-03-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "acid-king"
   - "anvil"
   - "bto"

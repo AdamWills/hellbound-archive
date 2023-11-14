@@ -1,9 +1,10 @@
 ---
 title: "High Spirits – You Are Here"
+edited: false
 date: "2014-08-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "chicago"
   - "hells-headbangers"
   - "high-spirits"

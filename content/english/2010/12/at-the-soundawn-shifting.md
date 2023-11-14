@@ -1,11 +1,12 @@
 ---
 title: "At The Soundawn – Shifting"
+edited: false
 date: "2010-12-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "at-the-soundawn"
   - "lifeforce-america"
   - "ola-mazzuca"

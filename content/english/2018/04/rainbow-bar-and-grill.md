@@ -1,10 +1,11 @@
 ---
 title: "Rainbow Bar and Grill"
+edited: false
 date: "2018-04-30"
-categories: 
+categories:
   - "blogs"
   - "reviews"
-tags: 
+tags:
   - "bar"
   - "hollywood"
   - "lemmy"

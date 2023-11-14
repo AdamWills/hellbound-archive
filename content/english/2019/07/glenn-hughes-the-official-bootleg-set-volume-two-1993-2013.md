@@ -1,9 +1,10 @@
 ---
 title: "Glenn Hughes – The Official Bootleg Set: Volume Two, 1993-2013"
+edited: false
 date: "2019-07-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "classic"
   - "deep-purple"
   - "hard-rock"

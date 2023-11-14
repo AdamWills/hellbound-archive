@@ -1,9 +1,10 @@
 ---
 title: "Mortals – Cursed to See the Future"
+edited: false
 date: "2014-07-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "brooklyn"
   - "doom"

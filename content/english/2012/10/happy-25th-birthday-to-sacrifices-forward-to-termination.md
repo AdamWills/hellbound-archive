@@ -1,11 +1,12 @@
 ---
 title: "Happy 25th birthday to... Sacrifice's Forward To Termination!"
+edited: false
 date: "2012-10-12"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "diabolic-force"
   - "fringe"
   - "metal-blade"

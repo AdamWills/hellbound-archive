@@ -1,11 +1,12 @@
 ---
 title: "Heron – A Low Winter’s Sun"
+edited: false
 date: "2018-05-07"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "doom"
   - "heavy"

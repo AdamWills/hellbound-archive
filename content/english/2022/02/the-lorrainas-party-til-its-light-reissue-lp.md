@@ -1,11 +1,12 @@
 ---
 title: "The Lorrainas - Party 'Til It's Dark [Reissue] LP"
+edited: false
 date: "2022-02-16"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "til"
   - "its"
   - "ki"

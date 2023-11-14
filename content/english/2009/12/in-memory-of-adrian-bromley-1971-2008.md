@@ -1,11 +1,12 @@
 ---
 title: "In Memory Of - ADRIAN BROMLEY: 1971-2008"
+edited: false
 date: "2009-12-07"
-categories: 
+categories:
   - "blogs"
   - "headline"
   - "editors_blog"
-tags: 
+tags:
   - "adrian-bromley"
   - "canada"
   - "metal-maniacs"

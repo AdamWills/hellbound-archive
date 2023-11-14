@@ -1,10 +1,11 @@
 ---
 title: "Charger - Warhorse LP"
+edited: false
 date: "2022-05-04"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "charger"
   - "freeman"
   - "matt"

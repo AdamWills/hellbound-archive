@@ -1,11 +1,12 @@
 ---
 title: "Panopticon - Kentucky"
+edited: false
 date: "2012-10-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "black-metal"
   - "bluegrass"
   - "handmade-birds"

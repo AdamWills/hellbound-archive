@@ -1,9 +1,10 @@
 ---
 title: "Create a Kill – Summoned to Rise"
+edited: false
 date: "2018-10-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "exhumed"
   - "extreme-metal"

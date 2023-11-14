@@ -1,10 +1,11 @@
 ---
 title: "Metal You Don't Want to Miss, Toronto - Summer 2019"
+edited: false
 date: "2019-07-15"
-categories: 
+categories:
   - "blogs"
   - "psa"
-tags: 
+tags:
   - "2019"
   - "concerts"
   - "events"

@@ -1,11 +1,12 @@
 ---
 title: "Eluveitie: Evocation 1 - The Arcane Dominion"
+edited: false
 date: "2009-06-26"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews-audio"
-tags: 
+tags:
   - "eluveitie"
   - "napalm"
   - "nuclear-blast"

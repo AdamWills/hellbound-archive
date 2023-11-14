@@ -1,10 +1,11 @@
 ---
 title: "Bison – You Are Not the Ocean, You Are the Patient"
+edited: false
 date: "2017-06-02"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bison"
   - "heavy-sludge"
   - "noise-rock"

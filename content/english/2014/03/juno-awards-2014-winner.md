@@ -1,10 +1,11 @@
 ---
 title: "Juno Awards 2014 - And the Winner Is...."
+edited: false
 date: "2014-03-30"
-categories: 
+categories:
   - "adam_wills"
   - "psa"
-tags: 
+tags:
   - "anciients"
   - "gorguts"
   - "junos"

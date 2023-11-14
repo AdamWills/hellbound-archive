@@ -1,11 +1,12 @@
 ---
 title: "Baptized In Blood – Gutterbound"
+edited: false
 date: "2010-04-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baptized-in-blood"
   - "canada"
   - "metalcore"

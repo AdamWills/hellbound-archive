@@ -1,10 +1,11 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Ufomammut/Sons of OTIS/Usnea @ Mod Club, May 16, 2015"
+edited: false
 date: "2015-05-17"
-categories: 
+categories:
   - "blogs"
   - "gruesome_greg"
-tags: 
+tags:
   - "mod-club"
   - "sons-of-otis"
   - "ufomammut"

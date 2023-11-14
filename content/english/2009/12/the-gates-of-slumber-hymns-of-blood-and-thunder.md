@@ -1,11 +1,12 @@
 ---
 title: "The Gates of Slumber: Hymns of Blood And Thunder"
+edited: false
 date: "2009-12-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "classic-metal"
   - "doom-metal"
   - "rise-above"

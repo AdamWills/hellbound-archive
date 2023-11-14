@@ -1,10 +1,11 @@
 ---
 title: "EXHUMED interview: Matt Harvey in Oakland, 23 May 2017"
+edited: false
 date: "2017-06-05"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "exhumed"
   - "interview"

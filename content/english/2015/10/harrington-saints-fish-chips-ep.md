@@ -1,9 +1,10 @@
 ---
 title: "Harrington Saints – Fish & Chips EP"
+edited: false
 date: "2015-10-26"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "agnostic-front"
   - "descendents"
   - "green-day"

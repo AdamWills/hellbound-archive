@@ -1,11 +1,12 @@
 ---
 title: "Savage Messiah: Insurrection Rising"
+edited: false
 date: "2010-01-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "england"
   - "savage-messiah"

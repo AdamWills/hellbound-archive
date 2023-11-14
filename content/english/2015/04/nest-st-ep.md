@@ -1,9 +1,10 @@
 ---
 title: "Nest – S/T EP"
+edited: false
 date: "2015-04-01"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "doom-metal"

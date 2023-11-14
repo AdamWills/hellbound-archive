@@ -1,10 +1,11 @@
 ---
 title: "Jungle Rot interview - Dave Matrise, May 2019"
+edited: false
 date: "2019-05-28"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "interview"
   - "metal"
   - "video"
@@ -20,15 +21,15 @@ Hellbound's Gene Gaona in conversation with JUNGLE ROT's Dave Matrise. Recorded 
 
 **Remaining tour dates:**
 
-May 28 - Toronto, ON @ Mod Club  
-May 29 - Montreal, QC @ L'Astral  
-May 30 - Quebec City, QC @ Le d'Auteuil  
-May 31 - Manchester, NH @ Jewel Nightclub  
+May 28 - Toronto, ON @ Mod Club
+May 29 - Montreal, QC @ L'Astral
+May 30 - Quebec City, QC @ Le d'Auteuil
+May 31 - Manchester, NH @ Jewel Nightclub
 Jun. 01 - New York, NY @ Gramercy Theater
 
 **Jungle Rot in Europe:**
 
-Jul. 19 - Gefle Metal Festival Gavle, SE  
+Jul. 19 - Gefle Metal Festival Gavle, SE
 Jul. 27 - Stonehenge Festival Steenwijk, NL
 
 [http://www.jungle-rot.com](http://www.jungle-rot.com)

@@ -1,11 +1,12 @@
 ---
 title: "70,000 Tons of Metal 2013, Part Three"
+edited: false
 date: "2013-02-15"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "ronnie-james-dio"
   - "3-inches-of-blood"
   - "70000-tons-of-metal"

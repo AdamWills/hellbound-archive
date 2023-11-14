@@ -1,10 +1,11 @@
 ---
 title: "Ramoms – Teacher's Pet 7\""
+edited: false
 date: "2020-02-06"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
 ---
 

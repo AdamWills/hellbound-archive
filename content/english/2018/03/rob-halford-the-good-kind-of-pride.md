@@ -1,7 +1,8 @@
 ---
 title: "Rob Halford: The Good Kind of Pride"
+edited: false
 date: "2018-03-13"
-categories: 
+categories:
   - "blogs"
   - "features"
 ---

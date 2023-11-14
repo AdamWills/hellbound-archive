@@ -1,11 +1,12 @@
 ---
 title: "Killing Joke / Cowards @ Venue, Vancouver BC, December 14, 2010"
+edited: false
 date: "2010-12-20"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "absolute-dissent"
   - "jaz-coleman"
   - "killing-joke"

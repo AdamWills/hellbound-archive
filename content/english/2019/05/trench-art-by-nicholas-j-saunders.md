@@ -1,9 +1,10 @@
 ---
 title: "Trench Art by Nicholas J. Saunders"
+edited: false
 date: "2019-05-16"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "art"
   - "book-review"
   - "history"

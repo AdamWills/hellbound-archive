@@ -1,11 +1,12 @@
 ---
 title: "Church Of Misery: Houses of the Unholy"
+edited: false
 date: "2009-09-08"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "church-of-misery"
   - "doom"
   - "japan"

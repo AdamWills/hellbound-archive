@@ -1,10 +1,11 @@
 ---
 title: "Cretus – Dux Mea Lux"
+edited: false
 date: "2015-11-17"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "occult-rock"
   - "punk-rock"

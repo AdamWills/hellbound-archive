@@ -1,9 +1,10 @@
 ---
 title: "Ready For Prog? Festival, 12-13 October 2018"
+edited: false
 date: "2018-10-23"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "amon-sethis"
   - "caligulas-horse"
   - "concert"

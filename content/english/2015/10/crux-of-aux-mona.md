@@ -1,9 +1,10 @@
 ---
 title: "Crux of Aux – Mona"
+edited: false
 date: "2015-10-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "crux-of-aux"
   - "metal"

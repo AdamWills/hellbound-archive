@@ -1,7 +1,8 @@
 ---
 title: "Tell HELLBOUND What You To Want To Read Here"
+edited: false
 date: "2009-08-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"

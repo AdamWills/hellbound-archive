@@ -1,10 +1,11 @@
 ---
 title: "Various Artists - Voodoo Rhythm Records Label Compilation Vol. 5"
+edited: false
 date: "2022-01-10"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "artists"
   - "bad-mojos"
   - "compilation"

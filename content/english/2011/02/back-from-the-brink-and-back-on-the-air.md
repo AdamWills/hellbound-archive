@@ -1,11 +1,12 @@
 ---
 title: "Back from the brink--and back on the air!"
+edited: false
 date: "2011-02-12"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "cathedral"
   - "ckln"
   - "crowbar"

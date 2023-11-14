@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Handshake Clip Of The Week: Pentagram live at MDF VIII"
+edited: false
 date: "2010-08-05"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "handshake-inc-hellbound-video-of-the-week"
   - "heavy-metal"
   - "live"

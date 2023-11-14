@@ -1,9 +1,10 @@
 ---
 title: "August Burns Red – Toronto, 25 June 2019"
+edited: false
 date: "2019-07-03"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "hardcore"
   - "heavy"

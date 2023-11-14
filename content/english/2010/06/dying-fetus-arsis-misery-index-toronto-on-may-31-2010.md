@@ -1,11 +1,12 @@
 ---
 title: "Dying Fetus/ Arsis/ Misery Index @ Mod Club, Toronto ON, May 31, 2010"
+edited: false
 date: "2010-06-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "arsis"
   - "death-metal"
   - "dying-fetus"

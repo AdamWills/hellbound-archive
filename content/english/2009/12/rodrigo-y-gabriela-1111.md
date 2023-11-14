@@ -1,11 +1,12 @@
 ---
 title: "Rodrigo y Gabriela: 11:11"
+edited: false
 date: "2009-12-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alex-skolnick"
   - "ato"
   - "folk"

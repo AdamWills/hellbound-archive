@@ -1,9 +1,10 @@
 ---
 title: "Interview: NECROT"
+edited: false
 date: "2019-05-21"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "california"
   - "death-metal"
   - "extreme-metal"
@@ -19,8 +20,8 @@ Recorded at Eli's Mile High Club in Oakland, California on April 27, 2019.
 
 **Necrot is:**
 
-Luca Indrio  
-Sonny Reinhardt  
+Luca Indrio
+Sonny Reinhardt
 Chad Gailey
 
 [NECROT on Facebook](https://www.facebook.com/cyclesofpain/)

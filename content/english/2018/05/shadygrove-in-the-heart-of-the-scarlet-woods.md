@@ -1,9 +1,10 @@
 ---
 title: "Shadygrove – In The Heart of the Scarlet Woods"
+edited: false
 date: "2018-05-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
   - "shadygrove"

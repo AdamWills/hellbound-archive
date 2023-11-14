@@ -1,11 +1,12 @@
 ---
 title: "Ratt - Infestation"
+edited: false
 date: "2010-03-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "eighties"
   - "hair-metal"
   - "los-angeles"

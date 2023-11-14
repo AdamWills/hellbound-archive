@@ -1,9 +1,10 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: BORIS/Uniform @ Lee's Palace, September 14, 2019"
+edited: false
 date: "2019-09-18"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "boris"
   - "concert-photography"
   - "concert-photos"

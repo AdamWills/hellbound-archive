@@ -1,9 +1,10 @@
 ---
 title: "Katusha: Girl Soldier Of The Great Patriotic War"
+edited: false
 date: "2019-08-17"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "graphic-novel"
   - "war"

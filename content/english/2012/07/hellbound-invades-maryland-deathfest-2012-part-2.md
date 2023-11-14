@@ -1,11 +1,12 @@
 ---
 title: "Hellbound invades Maryland Deathfest 2012, Part 2"
+edited: false
 date: "2012-07-11"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "anvil"
   - "black-witchery"

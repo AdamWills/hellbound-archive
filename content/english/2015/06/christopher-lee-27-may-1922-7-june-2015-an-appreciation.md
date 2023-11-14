@@ -1,9 +1,10 @@
 ---
 title: "Christopher Lee (27 May 1922 – 7 June 2015): An Appreciation"
+edited: false
 date: "2015-06-17"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "christopher-lee"
 ---
 

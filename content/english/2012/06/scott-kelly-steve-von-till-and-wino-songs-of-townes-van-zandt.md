@@ -1,11 +1,12 @@
 ---
 title: "Scott Kelly, Steve Von Till and Wino: Songs of Townes Van Zandt"
+edited: false
 date: "2012-06-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "harvestman"
   - "metal"
   - "neurosis"

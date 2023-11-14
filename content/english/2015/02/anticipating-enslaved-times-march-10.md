@@ -1,10 +1,11 @@
 ---
 title: "Anticipating: Enslaved – In Times (March 10)"
+edited: false
 date: "2015-02-17"
-categories: 
+categories:
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "enslaved"
   - "nuclear-blast"
   - "progressive-black-metal"

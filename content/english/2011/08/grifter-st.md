@@ -1,11 +1,12 @@
 ---
 title: "Grifter – s/t"
+edited: false
 date: "2011-08-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "clutch"
   - "coc"
   - "diablo-red"

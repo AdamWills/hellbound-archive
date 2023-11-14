@@ -1,11 +1,12 @@
 ---
 title: "Way to kill the buzz for your acoustic tour, Wino!"
+edited: false
 date: "2012-08-04"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "cleveland"
   - "doom"
   - "gruesome-greg"

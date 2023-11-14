@@ -1,10 +1,11 @@
 ---
 title: "Asatta – Spiraling Into Oblivion"
+edited: false
 date: "2016-08-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "asatta"
   - "doom"
   - "drone"

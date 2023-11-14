@@ -1,10 +1,11 @@
 ---
 title: "Snow Burial – Victory in Ruin"
+edited: false
 date: "2016-02-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "chicago"
   - "noise"
   - "oxblood"

@@ -1,9 +1,10 @@
 ---
 title: "Full Metal Parenting #8: GODS"
+edited: false
 date: "2015-04-08"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "full-metal-parenting"
   - "heavy-metal"
   - "parenting"

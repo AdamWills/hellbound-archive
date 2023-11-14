@@ -1,9 +1,10 @@
 ---
 title: "The Beatles Through A Glass Onion"
+edited: false
 date: "2019-12-28"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "beatles"
   - "book-review"
   - "review"

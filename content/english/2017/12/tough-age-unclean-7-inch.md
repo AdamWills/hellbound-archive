@@ -1,10 +1,11 @@
 ---
 title: "Tough Age – Unclean (7-inch)"
+edited: false
 date: "2017-12-28"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "indie"
   - "pop-punk"
   - "punk"

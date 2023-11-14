@@ -1,11 +1,12 @@
 ---
 title: "New Keepers Of The Water Towers: Chronicles"
+edited: false
 date: "2009-07-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "clutch"
   - "mastodon"
   - "meteorcity"

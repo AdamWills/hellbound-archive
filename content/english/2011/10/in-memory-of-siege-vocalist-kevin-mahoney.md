@@ -1,12 +1,13 @@
 ---
 title: "In Memory of Siege vocalist Kevin Mahoney (September 6, 1965 - October 14, 2011)"
+edited: false
 date: "2011-10-31"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "headline"
   - "jay_gorania"
-tags: 
+tags:
   - "agoraphobic-nosebleed"
   - "anal-cunt"
   - "arson-anthem"

@@ -1,11 +1,12 @@
 ---
 title: "BLOG: Adam Wills: The Right Music For The Right Time"
+edited: false
 date: "2009-09-12"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "adam-wills"
   - "alcest"
   - "blog"

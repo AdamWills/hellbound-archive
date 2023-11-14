@@ -1,11 +1,12 @@
 ---
 title: "Film Review: Laid to Rest"
+edited: false
 date: "2010-01-20"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "chrome-skull"
   - "gore"
   - "horror"

@@ -1,11 +1,12 @@
 ---
 title: "Matt Finney: The Hellbound Interview"
+edited: false
 date: "2011-10-05"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "heinali-and-matt-finney"
   - "interview"
   - "kyle-harcott"

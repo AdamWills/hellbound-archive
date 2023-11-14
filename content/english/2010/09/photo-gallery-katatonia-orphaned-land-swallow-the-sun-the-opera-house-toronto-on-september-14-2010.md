@@ -1,10 +1,11 @@
 ---
 title: "Photo Gallery: Katatonia / Orphaned Land / Swallow the Sun @ The Opera House, Toronto ON, September 14, 2010"
+edited: false
 date: "2010-09-15"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "katatonia"
   - "orphaned-land"

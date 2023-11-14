@@ -1,9 +1,10 @@
 ---
 title: "Dread Sovereign – All Hell’s Martyrs"
+edited: false
 date: "2014-04-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "dread-sovereign"
   - "primordial"

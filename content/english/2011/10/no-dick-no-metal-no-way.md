@@ -1,11 +1,12 @@
 ---
 title: "No Dick, No Metal? No Effin' Way!"
+edited: false
 date: "2011-10-05"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "laina-dawes"
   - "metal"
   - "metalsucks"

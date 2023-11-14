@@ -1,11 +1,12 @@
 ---
 title: "Meshuggah – Koloss"
+edited: false
 date: "2012-03-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "animals-as-leaders"
   - "meshuggah"
   - "nuclear-blast"

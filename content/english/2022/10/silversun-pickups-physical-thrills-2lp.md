@@ -1,10 +1,11 @@
 ---
 title: "Silversun Pickups - Physical Thrills 2LP"
+edited: false
 date: "2022-10-05"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "new-machine-records"
   - "physical-thrills"
   - "review"

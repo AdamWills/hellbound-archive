@@ -1,10 +1,11 @@
 ---
 title: "Hirax – Noise, Chaos, War"
+edited: false
 date: "2011-01-25"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "hirax"
   - "jason-wellwood"
   - "old-school"

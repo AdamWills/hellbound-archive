@@ -1,11 +1,12 @@
 ---
 title: "Paganfest Tour @ Tremont Music Hall, Charlotte NC, April 8, 2012"
+edited: false
 date: "2012-05-14"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "alestorm"
   - "arkona"
   - "charlotte"

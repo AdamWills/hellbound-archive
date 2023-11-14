@@ -1,9 +1,10 @@
 ---
 title: "Lou Reed – The RCA & Arista Album Collection 17CD box set"
+edited: false
 date: "2016-11-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "lou-reed"
   - "review"

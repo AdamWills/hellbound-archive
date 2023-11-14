@@ -1,11 +1,12 @@
 ---
 title: "Liberteer - Better To Die On Your Feet Than Live On Your Knees"
+edited: false
 date: "2012-02-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "citizen"
   - "craig-haze"
   - "cretin"

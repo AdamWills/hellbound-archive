@@ -1,11 +1,12 @@
 ---
 title: "Darkness Shade Records Round Up"
+edited: false
 date: "2011-11-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "cassette"
   - "cradle-of-filth"
   - "darkness-shade-records"

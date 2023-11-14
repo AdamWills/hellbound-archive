@@ -1,10 +1,11 @@
 ---
 title: "Red Fang – Only Ghosts"
+edited: false
 date: "2016-10-31"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-rock"
   - "red-fang"

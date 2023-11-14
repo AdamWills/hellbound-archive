@@ -1,9 +1,10 @@
 ---
 title: "Behemoth – I Loved You At Your Darkest"
+edited: false
 date: "2018-10-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "behemoth"
   - "black-metal"
   - "extreme-metal"

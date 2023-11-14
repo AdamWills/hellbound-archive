@@ -1,9 +1,10 @@
 ---
 title: "Kadavar – Berlin"
+edited: false
 date: "2015-09-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "hard-rock"
   - "kadavar"

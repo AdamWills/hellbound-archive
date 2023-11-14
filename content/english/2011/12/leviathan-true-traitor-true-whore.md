@@ -1,11 +1,12 @@
 ---
 title: "Leviathan - True Traitor, True Whore"
+edited: false
 date: "2011-12-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "kyle-harcott"
   - "leviathan"

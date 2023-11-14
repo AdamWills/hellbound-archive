@@ -1,9 +1,10 @@
 ---
 title: "Temple of Void / Tomb Mold  in Toronto, December 2017"
+edited: false
 date: "2017-12-22"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "coalition"
   - "concert"
   - "death-metal"

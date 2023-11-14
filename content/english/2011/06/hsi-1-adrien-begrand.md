@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Staff Interrogation #1: Adrien Begrand"
+edited: false
 date: "2011-06-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "70000-tons-of-metal"
   - "adrien-begrand"
   - "amon-amarth"

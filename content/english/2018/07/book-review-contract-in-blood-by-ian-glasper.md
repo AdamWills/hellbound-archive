@@ -1,7 +1,8 @@
 ---
 title: "BOOK REVIEW: Contract in Blood by Ian Glasper"
+edited: false
 date: "2018-07-13"
-categories: 
+categories:
   - "reviews-books"
 ---
 

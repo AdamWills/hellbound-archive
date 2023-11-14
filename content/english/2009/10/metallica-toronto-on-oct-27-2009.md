@@ -1,11 +1,12 @@
 ---
 title: "Metallica/Lamb Of God/Volbeat @ Air Canada Centre, Toronto ON, Oct 27, 2009"
+edited: false
 date: "2009-10-30"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "denmark"
   - "lamb-of-god"
   - "live-review"

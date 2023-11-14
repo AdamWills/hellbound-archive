@@ -1,11 +1,12 @@
 ---
 title: "Christian Mistress - Possession"
+edited: false
 date: "2012-01-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "chris-dyck"
   - "christian-mistress"
   - "diamond-head"

@@ -1,9 +1,10 @@
 ---
 title: "Children of Bodom, Tyr, Death Angel in Charlotte NC, March 19, 2014"
+edited: false
 date: "2014-06-11"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "children-of-bodom"
   - "concert-photos"
   - "concert-review"

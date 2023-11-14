@@ -1,9 +1,10 @@
 ---
 title: "Joe Strummer – Gangsterville 12-inch single"
+edited: false
 date: "2016-05-06"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "joe-strummer"
   - "punk"
   - "record-store-day"

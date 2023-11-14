@@ -1,9 +1,10 @@
 ---
 title: "Nick Oliveri goes it alone. With help."
+edited: false
 date: "2014-11-21"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "alt-rock"
   - "dwarves"
   - "hardcore"

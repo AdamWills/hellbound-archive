@@ -1,11 +1,12 @@
 ---
 title: "I've got these two Troubles troublin' me..."
+edited: false
 date: "2012-02-11"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "bill-ward"
   - "black-sabbath"
   - "bobby-liebling"

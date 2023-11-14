@@ -1,11 +1,12 @@
 ---
 title: "Fates Warning - Darkness In A Different Light"
+edited: false
 date: "2013-09-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "archmatheos"
   - "bobby-jarzombek"
   - "fates-warning"

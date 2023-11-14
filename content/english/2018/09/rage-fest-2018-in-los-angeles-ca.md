@@ -1,9 +1,10 @@
 ---
 title: "RAGE Fest 2018 in Los Angeles, CA"
+edited: false
 date: "2018-09-03"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "attila"
   - "california"
   - "concert"

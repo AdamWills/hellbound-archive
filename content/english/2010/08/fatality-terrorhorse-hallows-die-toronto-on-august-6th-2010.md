@@ -1,11 +1,12 @@
 ---
 title: "Fatality/ Terrorhorse/ Hallows Die @ El Mocambo, Toronto ON, August 6th 2010"
+edited: false
 date: "2010-08-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "canada"
   - "fatality"
   - "hallows-die"

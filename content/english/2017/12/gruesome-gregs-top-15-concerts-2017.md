@@ -1,11 +1,12 @@
 ---
 title: "GRUESOME GREG'S TOP 15 CONCERTS OF 2017"
+edited: false
 date: "2017-12-22"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "april-wine"
   - "concert-photography"
   - "concert-photos"

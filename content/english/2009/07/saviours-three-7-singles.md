@@ -1,11 +1,12 @@
 ---
 title: "Saviours: Three 7\" Singles"
+edited: false
 date: "2009-07-22"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "high-on-fire"
   - "judas-priest"
   - "kemado"

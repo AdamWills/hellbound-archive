@@ -1,11 +1,12 @@
 ---
 title: "Black Pyramid – II"
+edited: false
 date: "2011-12-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atlantean-kodex"
   - "black-pyramid"
   - "demontage"

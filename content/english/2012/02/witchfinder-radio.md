@@ -1,11 +1,12 @@
 ---
 title: "Coming Up On Witchfinder Radio"
+edited: false
 date: "2012-02-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "aggressor"
   - "amoral"
   - "axel-rudi-pell"

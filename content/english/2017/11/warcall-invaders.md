@@ -1,9 +1,10 @@
 ---
 title: "WarCall – Invaders"
+edited: false
 date: "2017-11-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "death-metal"
   - "heavy-metal"

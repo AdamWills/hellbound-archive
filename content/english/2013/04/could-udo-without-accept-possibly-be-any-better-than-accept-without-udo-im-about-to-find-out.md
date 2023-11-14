@@ -1,11 +1,12 @@
 ---
 title: "Could Udo without Accept possibly be any better than Accept without Udo?  I'm about to find out..."
+edited: false
 date: "2013-04-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "accept"
   - "gruesome-greg"
   - "mark-tornillo"

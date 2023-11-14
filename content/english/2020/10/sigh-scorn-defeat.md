@@ -1,7 +1,8 @@
 ---
 title: "Sigh - Scorn Defeat"
+edited: false
 date: "2020-10-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

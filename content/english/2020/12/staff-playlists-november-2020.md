@@ -1,7 +1,8 @@
 ---
 title: "Staff Playlists - November 2020"
+edited: false
 date: "2020-12-01"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"

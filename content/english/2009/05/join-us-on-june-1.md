@@ -1,7 +1,8 @@
 ---
 title: "Join Us On June 1"
+edited: false
 date: "2009-05-17"
-categories: 
+categories:
   - "psa"
 ---
 

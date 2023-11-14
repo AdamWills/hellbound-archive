@@ -1,11 +1,12 @@
 ---
 title: "Death, taxes and Acid Mothers Temple..."
+edited: false
 date: "2011-04-09"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "acid-mothers-temple"
   - "el-mocambo"
   - "gruesome-greg"

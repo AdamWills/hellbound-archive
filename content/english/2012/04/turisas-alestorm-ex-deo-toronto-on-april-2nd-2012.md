@@ -1,11 +1,12 @@
 ---
 title: "Turisas/ Alestorm/ Ex Deo/ Arkona/ Huntress/ Protokult @ The Opera House, Toronto ON, April 2nd, 2012"
+edited: false
 date: "2012-04-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "arkona"
   - "ex-deo"
   - "holy-grail"

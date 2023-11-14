@@ -1,11 +1,12 @@
 ---
 title: "Fleshgod Apocalypse – Labyrinth"
+edited: false
 date: "2013-09-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blackened-death-metal"
   - "death-metal"

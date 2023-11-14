@@ -1,11 +1,12 @@
 ---
 title: "Rotting Christ - Aealo"
+edited: false
 date: "2010-02-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "diamanda-galas"
   - "greece"

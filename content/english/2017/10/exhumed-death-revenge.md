@@ -1,9 +1,10 @@
 ---
 title: "Exhumed – Death Revenge"
+edited: false
 date: "2017-10-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "exhumed"
   - "extreme-metal"

@@ -1,9 +1,10 @@
 ---
 title: "Sunder – self-titled"
+edited: false
 date: "2015-10-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "psych"
   - "retro-rock"

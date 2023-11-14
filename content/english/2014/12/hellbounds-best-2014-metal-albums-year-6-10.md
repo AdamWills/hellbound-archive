@@ -1,10 +1,11 @@
 ---
 title: "Hellbound's best of 2014: metal albums of the year (#6-10)"
+edited: false
 date: "2014-12-30"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "at-the-gates"
   - "best-metal-of-2014"
   - "best-of-2014"
@@ -22,7 +23,7 @@ Hellbound’s end-of-the-year metal coverage continues with the first batch of t
 
 Time to party with the people who cheer as the effigies burn. The second full-length from Midnight continues their revelry in high-speed Satanism, flesh, and death. The sound is still a jagged, thrashing version of Motorhead blues, but this time multi-instrumentalist Anthenar has pushed in some NWOBHM-style guitars to add more flash to the upbeat debauchery. Soaring leads and solos match the roaring tongue-in-cheek nihilism of songs celebrating metal’s ridiculous awesomeness, like “Try Suicide” or “Whiplash Disaster.” Absolutely the most fun album of the past year.
 
-**Justin** 
+**Justin**
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/album=907603227/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://hellsheadbangers.bandcamp.com/album/no-mercy-for-mayhem">No Mercy For Mayhem by MIDNIGHT</a></iframe>
 

@@ -1,11 +1,12 @@
 ---
 title: "Contest: Win Autographed DIVINITY CDs!"
+edited: false
 date: "2010-10-07"
-categories: 
+categories:
   - "articles"
   - "contests"
   - "featured"
-tags: 
+tags:
   - "candlelight-usa"
   - "contest"
   - "divinity"

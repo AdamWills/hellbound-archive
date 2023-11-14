@@ -1,11 +1,12 @@
 ---
 title: "Knight Area: Realm Of Shadows"
+edited: false
 date: "2009-09-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "knight-area"
   - "lasers-edge"
   - "netherlands"

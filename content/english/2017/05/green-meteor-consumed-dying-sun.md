@@ -1,10 +1,11 @@
 ---
 title: "Green Meteor – Consumed by a Dying Sun"
+edited: false
 date: "2017-05-05"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fuzz"
   - "green-meteor"
   - "review"

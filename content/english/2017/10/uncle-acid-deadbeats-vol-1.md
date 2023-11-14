@@ -1,10 +1,11 @@
 ---
 title: "Uncle Acid and the Deadbeats – Vol 1"
+edited: false
 date: "2017-10-05"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-psych"
   - "kevin-starrs"
   - "prog-rock"

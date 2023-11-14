@@ -1,9 +1,10 @@
 ---
 title: "NOFX and Jeff Alulis – The Hepatitis Bathtub and Other Stories"
+edited: false
 date: "2016-04-13"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "nofx"
   - "punk"

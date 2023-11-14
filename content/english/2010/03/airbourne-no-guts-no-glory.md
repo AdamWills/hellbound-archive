@@ -1,11 +1,12 @@
 ---
 title: "Airbourne - No Guts, No Glory"
+edited: false
 date: "2010-03-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "acdc"
   - "airbourne"
   - "australia"

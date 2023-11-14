@@ -1,11 +1,12 @@
 ---
 title: "Matt Harvey of Exhumed:The Hellbound Interview"
+edited: false
 date: "2011-06-29"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "carcass"
   - "exhumed"
   - "gravehill"

@@ -1,11 +1,12 @@
 ---
 title: "Forest Stream: Nature and Society, Misery and Hope"
+edited: false
 date: "2009-09-11"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "candlelight-usa"
   - "doom"
   - "forest-stream"

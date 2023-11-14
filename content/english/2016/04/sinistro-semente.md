@@ -1,10 +1,11 @@
 ---
 title: "Sinistro – Semente"
+edited: false
 date: "2016-04-26"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "portuguese-metal"
   - "review"

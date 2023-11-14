@@ -1,11 +1,12 @@
 ---
 title: "Scorpions - Sting In The Tail"
+edited: false
 date: "2010-03-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "germany"
   - "heavy-metal"
   - "scorpions"

@@ -1,11 +1,12 @@
 ---
 title: "Soilwork-The Panic Broadcast"
+edited: false
 date: "2010-07-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dark-tranquillity"
   - "melodic-death-metal"
   - "nuclear-blast"

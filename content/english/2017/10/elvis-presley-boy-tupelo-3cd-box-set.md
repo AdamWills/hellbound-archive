@@ -1,9 +1,10 @@
 ---
 title: "Elvis Presley – Boy From Tupelo (3CD box set)"
+edited: false
 date: "2017-10-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "country"
   - "elvis-presley"
   - "rb"

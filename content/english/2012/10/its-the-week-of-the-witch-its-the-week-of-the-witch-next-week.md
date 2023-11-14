@@ -1,11 +1,12 @@
 ---
 title: "It's the Week of the Witch, it's the Week of the Witch next week..."
+edited: false
 date: "2012-10-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blood-ceremony"
   - "castle"
   - "concert"

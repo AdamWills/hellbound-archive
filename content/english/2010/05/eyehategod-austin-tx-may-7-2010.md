@@ -1,11 +1,12 @@
 ---
 title: "Eyehategod / Iron Age / The Roller @ Emo's, Austin, TX, May 7, 2010"
+edited: false
 date: "2010-05-11"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "austin"
   - "crust"
   - "down"

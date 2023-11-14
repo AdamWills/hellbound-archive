@@ -1,11 +1,12 @@
 ---
 title: "USX – The Valley Path"
+edited: false
 date: "2011-04-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "across-tundras"
   - "dead-meadow"
   - "earth"

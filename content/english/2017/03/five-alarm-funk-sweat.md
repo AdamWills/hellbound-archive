@@ -1,9 +1,10 @@
 ---
 title: "Five Alarm Funk – Sweat"
+edited: false
 date: "2017-03-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "five-alarm-funk"
   - "funk"
   - "jazz"

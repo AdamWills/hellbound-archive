@@ -1,11 +1,12 @@
 ---
 title: "John Arch: The Hellbound Audio Interview"
+edited: false
 date: "2012-01-16"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "fates-warning"
   - "interview"
   - "jason-wellwood"

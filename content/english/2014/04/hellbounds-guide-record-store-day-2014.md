@@ -1,9 +1,10 @@
 ---
 title: "Hellbound's Guide to Record Store Day 2014"
+edited: false
 date: "2014-04-15"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "adam-wills"
   - "independent-record-stores"
   - "limited-edition"

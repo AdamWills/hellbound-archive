@@ -1,12 +1,13 @@
 ---
 title: "Maryland Deathfest 2012 - The Images - Part II"
+edited: false
 date: "2012-07-12"
-categories: 
+categories:
   - "albert_mansour"
   - "blogs"
   - "featured"
   - "features"
-tags: 
+tags:
   - "albert-mansour"
   - "maryland-deathfest"
 ---

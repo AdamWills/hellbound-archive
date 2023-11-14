@@ -1,11 +1,12 @@
 ---
 title: "WOLVES IN THE THRONE ROOM/ THOU/ THANTIFAXATH/ GATES @Soybomb, Toronto ON, September 6, 2011"
+edited: false
 date: "2011-09-09"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "jonathan-smith"
   - "live-review"
   - "thantafaxath"

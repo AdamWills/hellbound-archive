@@ -1,9 +1,10 @@
 ---
 title: "Scorched – Ecliptic Butchery"
+edited: false
 date: "2018-08-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "extreme-metal"
   - "metal"

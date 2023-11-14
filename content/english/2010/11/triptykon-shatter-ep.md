@@ -1,11 +1,12 @@
 ---
 title: "Triptykon - Shatter EP"
+edited: false
 date: "2010-11-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "celtic-frost"
   - "century-media"
   - "darkthrone"

@@ -1,11 +1,12 @@
 ---
 title: "Revamp – Revamp"
+edited: false
 date: "2010-08-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "after-forever"
   - "gothic-metal"
   - "nuclear-blast"

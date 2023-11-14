@@ -1,9 +1,10 @@
 ---
 title: "Punishment of Luxury – Puppet Life: The Complete Recordings"
+edited: false
 date: "2019-12-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "post-punk"
   - "review"
   - "rock"

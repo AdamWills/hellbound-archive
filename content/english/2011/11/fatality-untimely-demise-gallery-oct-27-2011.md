@@ -1,12 +1,13 @@
 ---
 title: "Photo Gallery: Fatality / Untimely Demise @ This Ain't Hollywood, Hamilton ON, October 27, 2011"
+edited: false
 date: "2011-11-29"
-categories: 
+categories:
   - "albert_mansour"
   - "articles"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "albert-mansour"
   - "fatality"
   - "photos"

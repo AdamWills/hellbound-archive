@@ -1,7 +1,8 @@
 ---
 title: "Heavy Metal Adam's Quarterly Report - Q1 2018"
+edited: false
 date: "2018-04-24"
-categories: 
+categories:
   - "adam_wills"
   - "reviews-audio"
   - "staff_picks"

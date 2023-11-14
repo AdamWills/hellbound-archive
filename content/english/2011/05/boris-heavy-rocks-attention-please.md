@@ -1,11 +1,12 @@
 ---
 title: "Boris - Heavy Rocks / Attention Please"
+edited: false
 date: "2011-05-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "boris"
   - "can"
   - "celtic-frost"

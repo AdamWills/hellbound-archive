@@ -1,11 +1,12 @@
 ---
 title: "Impiety: Terroreign"
+edited: false
 date: "2009-08-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "agonia"
   - "black-metal"
   - "impiety"

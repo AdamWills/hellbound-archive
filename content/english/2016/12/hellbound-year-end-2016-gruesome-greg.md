@@ -1,10 +1,11 @@
 ---
 title: "Hellbound Year End 2016: Gruesome Greg"
+edited: false
 date: "2016-12-20"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2016"
   - "end-of-year"
   - "staff-picks"

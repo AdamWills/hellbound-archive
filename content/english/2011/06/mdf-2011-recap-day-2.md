@@ -1,11 +1,12 @@
 ---
 title: "Maryland Deathfest 2011 Recap Day 2"
+edited: false
 date: "2011-06-06"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "albert-mansour"
   - "aura-noir"

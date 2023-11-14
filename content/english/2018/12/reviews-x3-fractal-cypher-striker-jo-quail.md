@@ -1,11 +1,12 @@
 ---
 title: "Reviews x3: Fractal Cypher, Striker, Jo Quail"
+edited: false
 date: "2018-12-20"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "cello"
   - "fractal-cypher"

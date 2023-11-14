@@ -1,10 +1,11 @@
 ---
 title: "Bloodiest – self-titled"
+edited: false
 date: "2016-01-26"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bloodiest"
   - "post-sludge"

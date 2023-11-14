@@ -1,9 +1,10 @@
 ---
 title: "The Tragically Hip – Fully Completely (20th anniversary vinyl reissue)"
+edited: false
 date: "2016-08-24"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "gord-downie"
   - "review"
   - "tragically-hip"

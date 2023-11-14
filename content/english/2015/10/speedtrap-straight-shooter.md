@@ -1,9 +1,10 @@
 ---
 title: "Speedtrap – Straight Shooter"
+edited: false
 date: "2015-10-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "heavy-meta"
   - "l-finland"

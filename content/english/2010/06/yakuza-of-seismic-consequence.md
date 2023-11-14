@@ -1,11 +1,12 @@
 ---
 title: "Yakuza – Of Seismic Consequence"
+edited: false
 date: "2010-06-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bruce-lamont"
   - "chicago"
   - "experimental-metal"

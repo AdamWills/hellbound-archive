@@ -1,7 +1,8 @@
 ---
 title: "STAFF INTERROGATIONS: Matt Hinch"
+edited: false
 date: "2017-04-20"
-categories: 
+categories:
   - "interviews"
   - "staff_picks"
   - "staff_playlists"

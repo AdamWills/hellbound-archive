@@ -1,9 +1,10 @@
 ---
 title: "Interview: Ben Claus of GOROD"
+edited: false
 date: "2019-05-03"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "interview"
   - "metal"
@@ -19,13 +20,13 @@ Recorded at the Metro Opera House in Oakland, California on April 25, 2019.
 
 **GOROD is:**
 
-Julien "Nutz" DEYRES: Voices  
-Mathieu PASCAL: Guitars  
-Ben "Barby" CLAUS: Bass  
-Nicolas ALBERNY: Guitars  
+Julien "Nutz" DEYRES: Voices
+Mathieu PASCAL: Guitars
+Ben "Barby" CLAUS: Bass
+Nicolas ALBERNY: Guitars
 Karol Diers: Drums
 
-[http://www.facebook.com/GorodOfficial](http://www.facebook.com/GorodOfficial)  
+[http://www.facebook.com/GorodOfficial](http://www.facebook.com/GorodOfficial)
 
 **Psycroptic / Cannabis Corpse / Gorod / Micawber US tour:**
 

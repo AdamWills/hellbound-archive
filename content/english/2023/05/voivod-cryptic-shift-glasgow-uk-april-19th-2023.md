@@ -1,7 +1,8 @@
 ---
 title: "Voivod & Cryptic Shift - Glasgow, UK - April 19th, 2023"
+edited: false
 date: "2023-05-25"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"

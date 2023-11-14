@@ -1,9 +1,10 @@
 ---
 title: "MOUNT AIRY CELEBRATES 30 YEARS OF GEOFF TATE’S “EMPIRE”"
+edited: false
 date: "2020-03-10"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "classic-metal"
   - "concert"
   - "heavy-metal"

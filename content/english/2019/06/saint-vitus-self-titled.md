@@ -1,10 +1,11 @@
 ---
 title: "Saint Vitus – self-titled"
+edited: false
 date: "2019-06-05"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

@@ -1,11 +1,12 @@
 ---
 title: "Barghest / False split LP"
+edited: false
 date: "2012-07-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "barghest"
   - "black-metal"
   - "false"

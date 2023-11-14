@@ -1,9 +1,10 @@
 ---
 title: "Pilgrim – II: Void Worship"
+edited: false
 date: "2014-05-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal-blade"
   - "pilgrim"

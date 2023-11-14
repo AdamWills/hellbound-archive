@@ -1,7 +1,8 @@
 ---
 title: "Metal Cats Coloring Book"
+edited: false
 date: "2017-08-15"
-categories: 
+categories:
   - "reviews-books"
 ---
 

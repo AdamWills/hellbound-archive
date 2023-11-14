@@ -1,9 +1,10 @@
 ---
 title: "Black Khox – AKAB"
+edited: false
 date: "2015-02-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-khox"
   - "quebec-city"

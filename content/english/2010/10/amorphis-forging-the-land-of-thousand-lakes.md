@@ -1,11 +1,12 @@
 ---
 title: "Amorphis – Forging the Land of Thousand Lakes"
+edited: false
 date: "2010-10-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "amorphis"
   - "finland"
   - "live-dvd"

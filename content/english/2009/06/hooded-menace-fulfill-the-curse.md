@@ -1,10 +1,11 @@
 ---
 title: "Hooded Menace: Fulfill The Curse"
+edited: false
 date: "2009-06-01"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "asphyx"
   - "candlemass"
   - "cathedral"

@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: High on Fire/Power Trip @ Danforth Music Hall, November 25, 2019"
+edited: false
 date: "2019-11-28"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "danforth-music-hall"

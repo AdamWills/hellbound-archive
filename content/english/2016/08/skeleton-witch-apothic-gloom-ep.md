@@ -1,9 +1,10 @@
 ---
 title: "Skeleton Witch – The Apothic Gloom EP"
+edited: false
 date: "2016-08-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "blackened-thrash"
   - "review"
   - "skeleton-witch"

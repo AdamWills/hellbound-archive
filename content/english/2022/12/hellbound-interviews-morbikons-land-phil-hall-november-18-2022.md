@@ -1,13 +1,14 @@
 ---
 title: "Hellbound Interviews : MORBIKON's \"Land\" Phil Hall - November 18, 2022"
+edited: false
 date: "2022-12-08"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "danielle-griscti"
   - "hellbound-interview"
   - "morbikon"

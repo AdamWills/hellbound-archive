@@ -1,11 +1,12 @@
 ---
 title: "Ufomammut – Oro: Opus Primum"
+edited: false
 date: "2012-03-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "acid-mothers-temple"
   - "doom"
   - "neurot"

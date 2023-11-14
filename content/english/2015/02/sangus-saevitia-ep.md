@@ -1,9 +1,10 @@
 ---
 title: "Sangus – Saevitia EP"
+edited: false
 date: "2015-02-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
 ---
 

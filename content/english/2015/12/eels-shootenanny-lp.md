@@ -1,9 +1,10 @@
 ---
 title: "Eels – Shootenanny! LP"
+edited: false
 date: "2015-12-27"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "alt-rock"
   - "blues-rock"

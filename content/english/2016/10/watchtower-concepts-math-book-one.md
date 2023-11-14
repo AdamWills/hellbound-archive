@@ -1,9 +1,10 @@
 ---
 title: "Watchtower – Concepts Of Math: Book One"
+edited: false
 date: "2016-10-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "progressive"
   - "review"

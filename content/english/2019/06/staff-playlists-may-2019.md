@@ -1,12 +1,13 @@
 ---
 title: "Staff Playlists, May 2019"
+edited: false
 date: "2019-06-01"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "live"
   - "metal"
   - "playlists"

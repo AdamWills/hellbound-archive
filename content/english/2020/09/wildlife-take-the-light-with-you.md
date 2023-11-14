@@ -1,7 +1,8 @@
 ---
 title: "Wildlife - Take the Light With You"
+edited: false
 date: "2020-09-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

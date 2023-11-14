@@ -1,10 +1,11 @@
 ---
 title: "Spirit Adrift – Curse of Conception"
+edited: false
 date: "2017-09-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "classic-metal"
   - "death-metal"
   - "gatecreeper"

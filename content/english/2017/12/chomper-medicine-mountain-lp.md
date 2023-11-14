@@ -1,9 +1,10 @@
 ---
 title: "Chomper – Medicine Mountain LP"
+edited: false
 date: "2017-12-22"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "pop"
   - "review"

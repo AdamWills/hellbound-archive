@@ -1,11 +1,12 @@
 ---
 title: "SERAPHIM – S/T 7” / GLUTTONS – S/T 7”"
+edited: false
 date: "2010-05-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "a389-records"
   - "crust"
   - "gluttons"

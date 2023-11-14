@@ -1,11 +1,12 @@
 ---
 title: "Hellfest 2018: The Preview"
+edited: false
 date: "2018-02-28"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "psa"
-tags: 
+tags:
   - "concert"
   - "festival"
   - "france"

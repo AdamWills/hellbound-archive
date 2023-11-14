@@ -1,7 +1,8 @@
 ---
 title: "Staff Playlists - September 2020"
+edited: false
 date: "2020-10-02"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"

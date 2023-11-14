@@ -1,12 +1,13 @@
 ---
 title: "Eve Of Darkness Book Explores Toronto's Heavy Metal Scene From 1980-1989"
+edited: false
 date: "2021-09-10"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
-tags: 
+tags:
   - "80s"
   - "80s-metal"
   - "anvil"

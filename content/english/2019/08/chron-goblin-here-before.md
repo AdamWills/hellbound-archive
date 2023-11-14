@@ -1,11 +1,12 @@
 ---
 title: "Chron Goblin – Here Before"
+edited: false
 date: "2019-08-26"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
   - "stoner-rock"

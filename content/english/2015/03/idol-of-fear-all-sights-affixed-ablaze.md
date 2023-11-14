@@ -1,9 +1,10 @@
 ---
 title: "Idol of Fear – All Sights Affixed, Ablaze"
+edited: false
 date: "2015-03-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "bandcamp"
   - "barrie"

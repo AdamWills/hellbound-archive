@@ -1,9 +1,10 @@
 ---
 title: "Interview with Matt Hollenberg of JOHN FRUM"
+edited: false
 date: "2017-10-04"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "cleric"
   - "interview"
   - "john-frum"

@@ -1,10 +1,11 @@
 ---
 title: "Tinkerbelles – Fine Asses EP"
+edited: false
 date: "2014-12-01"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "chicago"
   - "garage"

@@ -1,11 +1,12 @@
 ---
 title: "Photo gallery: Tribute To Joe"
+edited: false
 date: "2009-09-28"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "blitz"
   - "blog"
   - "joe"

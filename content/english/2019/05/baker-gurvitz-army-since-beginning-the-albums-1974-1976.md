@@ -1,9 +1,10 @@
 ---
 title: "Baker Gurvitz Army – Since Beginning: The Albums 1974-1976"
+edited: false
 date: "2019-05-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "blues"
   - "hard-rock"
   - "jazz"

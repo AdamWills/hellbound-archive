@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: DOPETHRONE/Sons of OTIS @ Bovine Sex Club, September 30, 2016"
+edited: false
 date: "2016-10-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "bovine-sex-club"
   - "concert-photography"
   - "concert-photos"

@@ -1,11 +1,12 @@
 ---
 title: "Annotations Of An Autopsy – The Reign Of Darkness"
+edited: false
 date: "2010-02-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "annotations-of-an-autopsy"
   - "death-metal"
   - "metalcore"

@@ -1,12 +1,13 @@
 ---
 title: "Rotting Christ: Non Serviam: A 20 Year Apocryphal Story DVD/CD"
+edited: false
 date: "2009-08-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "rotting-christ"
   - "seasons-of-mist"
 ---

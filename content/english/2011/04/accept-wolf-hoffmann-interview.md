@@ -1,11 +1,12 @@
 ---
 title: "ACCEPT: In Conversation With Wolf Hoffmann"
+edited: false
 date: "2011-04-25"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "accept"
   - "allan-grusie"
   - "feature-interview"

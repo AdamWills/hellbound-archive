@@ -1,12 +1,13 @@
 ---
 title: "70000 TONS OF METAL Cruise Recap Part 1"
+edited: false
 date: "2011-01-31"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "70000-tons-of-metal"
   - "adrien-begrand"
   - "albert-mansour"

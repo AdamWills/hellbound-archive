@@ -1,7 +1,8 @@
 ---
 title: "Ken Hensley – The Bronze Years 1973-1981"
+edited: false
 date: "2020-01-03"
-categories: 
+categories:
   - "reviews-audio"
 ---
 

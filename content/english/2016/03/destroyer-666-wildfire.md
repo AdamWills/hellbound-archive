@@ -1,9 +1,10 @@
 ---
 title: "Destroyer 666 – Wildfire"
+edited: false
 date: "2016-03-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "destroyer-666"
   - "review"

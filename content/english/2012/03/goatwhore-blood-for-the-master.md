@@ -1,11 +1,12 @@
 ---
 title: "Goatwhore - Blood For The Master"
+edited: false
 date: "2012-03-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bathory"
   - "celtic-frost"
   - "craig-haze"

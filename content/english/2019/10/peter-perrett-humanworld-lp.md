@@ -1,10 +1,11 @@
 ---
 title: "Peter Perrett – Humanworld LP"
+edited: false
 date: "2019-10-14"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "pop"
   - "review"

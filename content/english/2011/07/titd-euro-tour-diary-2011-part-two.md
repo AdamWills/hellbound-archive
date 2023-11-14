@@ -1,12 +1,13 @@
 ---
 title: "Today Is The Day European Tour Diary 2011, Part Two"
+edited: false
 date: "2011-07-15"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "black-label-society"
   - "crowbar"
   - "destruction"

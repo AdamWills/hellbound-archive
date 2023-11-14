@@ -1,11 +1,12 @@
 ---
 title: "Musk Ox: The Hellbound Interview"
+edited: false
 date: "2012-08-17"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "agalloch"
   - "anathema"
   - "dysrhythmia"

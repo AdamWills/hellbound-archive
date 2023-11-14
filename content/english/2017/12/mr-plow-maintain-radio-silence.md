@@ -1,10 +1,11 @@
 ---
 title: "Mr. Plow – Maintain Radio Silence"
+edited: false
 date: "2017-12-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "heavy"
   - "mr-plow"

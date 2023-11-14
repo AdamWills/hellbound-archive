@@ -1,9 +1,10 @@
 ---
 title: "Windhand – Grief’s Infernal Flower"
+edited: false
 date: "2015-09-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "relapse"

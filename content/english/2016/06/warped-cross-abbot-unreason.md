@@ -1,9 +1,10 @@
 ---
 title: "Warped Cross – Abbot of Unreason"
+edited: false
 date: "2016-06-01"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doom-metal"
   - "review"

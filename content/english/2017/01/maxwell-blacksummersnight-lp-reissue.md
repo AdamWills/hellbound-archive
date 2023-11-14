@@ -1,9 +1,10 @@
 ---
 title: "Maxwell – BLACKsummers'night LP (reissue)"
+edited: false
 date: "2017-01-19"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "maxwell"
   - "rb"
   - "reissue"

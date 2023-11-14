@@ -1,12 +1,13 @@
 ---
 title: "CONTEST: Go See Metallica, Slayer, Megadeth and Anthrax AGAIN On July 19th!"
+edited: false
 date: "2010-07-09"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "anthrax"
   - "cineplex-entertainment"
   - "contest"

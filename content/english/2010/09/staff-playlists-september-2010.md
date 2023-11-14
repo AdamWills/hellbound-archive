@@ -1,11 +1,12 @@
 ---
 title: "STAFF PLAYLISTS: September 2010"
+edited: false
 date: "2010-09-20"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "staff_playlists"
-tags: 
+tags:
   - "accept"
   - "adam-wills"
   - "anathema"

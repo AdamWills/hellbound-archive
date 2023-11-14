@@ -1,11 +1,12 @@
 ---
 title: "Gulch: Uphill Both Ways"
+edited: false
 date: "2009-09-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bar-metal"
   - "brand-new-sin"
   - "gulch"

@@ -1,11 +1,12 @@
 ---
 title: "Corrosion of Conformity – Megalodon EP"
+edited: false
 date: "2012-12-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "corrosion-of-conformity"
   - "gruesome-greg"
   - "melvins"

@@ -1,9 +1,10 @@
 ---
 title: "Sass Jordan – Racine Revisited"
+edited: false
 date: "2018-01-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "review"
   - "rock"

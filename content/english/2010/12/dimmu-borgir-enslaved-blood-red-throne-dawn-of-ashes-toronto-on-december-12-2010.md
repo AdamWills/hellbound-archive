@@ -1,11 +1,12 @@
 ---
 title: "Dimmu Borgir / Enslaved / Blood Red Throne / Dawn of Ashes @ The Sound Academy, Toronto ON, December 12 2010"
+edited: false
 date: "2010-12-17"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "black-metal"
   - "blood-red-throne"

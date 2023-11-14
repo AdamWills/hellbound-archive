@@ -1,11 +1,12 @@
 ---
 title: "Defiance: The Prophecy"
+edited: false
 date: "2010-01-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "defiance"
   - "metallica"

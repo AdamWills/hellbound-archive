@@ -1,10 +1,11 @@
 ---
 title: "Atala – Shaman’s Path of the Serpent"
+edited: false
 date: "2016-04-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atala"
   - "desert-rock"
   - "doom"

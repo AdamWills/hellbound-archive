@@ -1,9 +1,10 @@
 ---
 title: "Pallbearer + Kayo Dot @ Lee’s Palace, Toronto, 30 August 2017"
+edited: false
 date: "2017-09-18"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "concert-photography"
   - "doom"

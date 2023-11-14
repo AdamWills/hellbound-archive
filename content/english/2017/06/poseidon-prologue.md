@@ -1,10 +1,11 @@
 ---
 title: "Poseidon – Prologue"
+edited: false
 date: "2017-06-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy"
   - "metal"

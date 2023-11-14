@@ -1,9 +1,10 @@
 ---
 title: "Arcadea – Arcadea"
+edited: false
 date: "2017-09-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "arcadea"
   - "electronic"
   - "heavy-metal"

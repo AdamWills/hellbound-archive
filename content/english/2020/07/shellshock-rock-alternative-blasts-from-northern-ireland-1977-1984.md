@@ -1,7 +1,8 @@
 ---
 title: "Shellshock Rock: Alternative Blasts From Northern Ireland 1977-1984"
+edited: false
 date: "2020-07-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-books"

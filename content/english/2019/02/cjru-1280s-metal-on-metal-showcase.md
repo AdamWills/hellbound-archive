@@ -1,9 +1,10 @@
 ---
 title: "CJRU 1280's Metal on Metal Showcase"
+edited: false
 date: "2019-02-20"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "campus-radio"
   - "canadian"
   - "community-radio"

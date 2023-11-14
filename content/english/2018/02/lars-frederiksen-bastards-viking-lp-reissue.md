@@ -1,10 +1,11 @@
 ---
 title: "Lars Frederiksen and the Bastards – Viking LP (reissue)"
+edited: false
 date: "2018-02-07"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "lars-frederiksen-and-the-bastards"
   - "punk"
   - "review"

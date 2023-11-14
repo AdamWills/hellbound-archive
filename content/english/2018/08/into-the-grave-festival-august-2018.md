@@ -1,9 +1,10 @@
 ---
 title: "Into the Grave Festival, August 2018"
+edited: false
 date: "2018-08-20"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "at-the-gates"
   - "behemoth"
   - "black-metal"

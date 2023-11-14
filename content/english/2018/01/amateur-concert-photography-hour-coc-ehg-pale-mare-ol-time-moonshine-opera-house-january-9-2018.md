@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: COC/EHG/Pale Mare/Ol' Time Moonshine @ Opera House, January 9, 2018"
+edited: false
 date: "2018-01-11"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "corrosion-of-conformity"

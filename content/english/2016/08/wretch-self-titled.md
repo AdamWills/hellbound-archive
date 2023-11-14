@@ -1,9 +1,10 @@
 ---
 title: "Wretch – self-titled"
+edited: false
 date: "2016-08-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "doom"
   - "review"

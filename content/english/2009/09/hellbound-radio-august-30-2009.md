@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Radio: August 30, 2009"
+edited: false
 date: "2009-09-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "albert-mansour"
   - "heavy-metal"
   - "hellbound-radio"

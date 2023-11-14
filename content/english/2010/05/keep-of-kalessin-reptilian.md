@@ -1,11 +1,12 @@
 ---
 title: "Keep of Kalessin - Reptilian"
+edited: false
 date: "2010-05-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "keep-of-kalessin"
   - "norway"

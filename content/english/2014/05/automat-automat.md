@@ -1,9 +1,10 @@
 ---
 title: "Automat – Automat"
+edited: false
 date: "2014-05-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "automat"
   - "bass"
   - "bureau-b"

@@ -1,12 +1,13 @@
 ---
 title: "Porcupine Tree @ Sound Academy, Toronto, ON, May 8, 2010"
+edited: false
 date: "2010-05-12"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "live-review"
   - "natalie-zed"

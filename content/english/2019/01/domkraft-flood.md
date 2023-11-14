@@ -1,10 +1,11 @@
 ---
 title: "Domkraft – Flood"
+edited: false
 date: "2019-01-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "progressive-stoner-sludge"
   - "review"

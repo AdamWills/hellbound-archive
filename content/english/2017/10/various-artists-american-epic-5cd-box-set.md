@@ -1,9 +1,10 @@
 ---
 title: "Various Artists – American Epic (5CD Box Set)"
+edited: false
 date: "2017-10-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "american"
   - "compilation"
   - "history"

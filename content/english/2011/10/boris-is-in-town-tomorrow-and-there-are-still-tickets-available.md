@@ -1,11 +1,12 @@
 ---
 title: "Boris is in town tomorrow--and there are still tickets available!"
+edited: false
 date: "2011-10-22"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "boris"
   - "doom"
   - "drone"

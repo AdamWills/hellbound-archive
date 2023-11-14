@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Horror: I Spit On Your Grave (2010) Review"
+edited: false
 date: "2010-09-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "hellbound-horror"
-tags: 
+tags:
   - "adam-wills"
   - "anchor-bay-entertainment"
   - "film-reviews"

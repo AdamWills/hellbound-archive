@@ -1,11 +1,12 @@
 ---
 title: "Jucifer: The Hellbound Interview Part 2"
+edited: false
 date: "2010-08-06"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "interview"
   - "jay-h-gorania"
   - "jucifer"

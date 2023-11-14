@@ -1,11 +1,12 @@
 ---
 title: "Postcards From Natalie Zed, Set #9"
+edited: false
 date: "2011-01-05"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "aborym"
   - "aeternam"
   - "castavet"

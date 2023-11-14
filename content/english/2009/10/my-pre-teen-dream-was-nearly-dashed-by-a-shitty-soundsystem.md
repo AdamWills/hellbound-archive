@@ -1,7 +1,8 @@
 ---
 title: "My pre-teen dream was nearly dashed by a shitty soundsystem..."
+edited: false
 date: "2009-10-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

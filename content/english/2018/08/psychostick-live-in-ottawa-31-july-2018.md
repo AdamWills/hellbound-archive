@@ -1,9 +1,10 @@
 ---
 title: "Psychostick live in Ottawa, 31 July 2018"
+edited: false
 date: "2018-08-10"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "heavy"
   - "live"

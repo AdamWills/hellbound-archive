@@ -1,11 +1,12 @@
 ---
 title: "Black Sabbath - 13"
+edited: false
 date: "2013-06-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ronnie-james-dio"
   - "bill-adams"
   - "black-sabbath"

@@ -1,10 +1,11 @@
 ---
 title: "STAFF PLAYLISTS: May 2011"
+edited: false
 date: "2011-05-19"
-categories: 
+categories:
   - "featured"
   - "staff_playlists"
-tags: 
+tags:
   - "adam-wills"
   - "adrien-begrand"
   - "albert-mansour"

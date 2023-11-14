@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: CLUTCH @ Rebel, October 23, 2018"
+edited: false
 date: "2018-10-28"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "clutch"
   - "concert-photography"
   - "concert-photos"

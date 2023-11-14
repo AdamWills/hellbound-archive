@@ -1,11 +1,12 @@
 ---
 title: "Kyuss Lives!  Long Live Kyuss!"
+edited: false
 date: "2011-09-17"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "gruesomeviews"
   - "kyuss"

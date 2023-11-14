@@ -1,12 +1,13 @@
 ---
 title: "NastyFacts - “Drive My Car” (Limited Edition Deluxe 12'' single)"
+edited: false
 date: "2022-12-02"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "nastyfacts"
   - "new-york"
   - "punk"

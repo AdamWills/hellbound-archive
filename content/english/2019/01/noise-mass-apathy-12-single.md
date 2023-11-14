@@ -1,9 +1,10 @@
 ---
 title: "NOi!SE – Mass Apathy 12\" single"
+edited: false
 date: "2019-01-10"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "punk"
   - "punk-rock"
   - "review"

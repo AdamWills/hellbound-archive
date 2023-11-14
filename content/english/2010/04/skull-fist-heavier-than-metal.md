@@ -1,11 +1,12 @@
 ---
 title: "Skull Fist – Heavier Than Metal"
+edited: false
 date: "2010-04-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "heavy-metal"
   - "nwobhm"

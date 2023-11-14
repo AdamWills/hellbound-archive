@@ -1,11 +1,12 @@
 ---
 title: "Hail! Hornet – Disperse the Curse"
+edited: false
 date: "2011-07-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alabama-thunderpussy"
   - "dixie-dave"
   - "hail-hornet"

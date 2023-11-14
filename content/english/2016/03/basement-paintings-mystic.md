@@ -1,9 +1,10 @@
 ---
 title: "The Basement Paintings – Mystic"
+edited: false
 date: "2016-03-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "heavy"
   - "progressive"

@@ -1,11 +1,12 @@
 ---
 title: "Grave Miasma - Odori Sepulcrorum"
+edited: false
 date: "2013-09-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "death-metal"
   - "doom"

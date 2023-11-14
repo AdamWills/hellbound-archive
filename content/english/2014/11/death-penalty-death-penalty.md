@@ -1,9 +1,10 @@
 ---
 title: "Death Penalty – Death Penalty"
+edited: false
 date: "2014-11-05"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "cathedral"
   - "death-penalty"
   - "fredrick-cozy-cosemans"

@@ -1,11 +1,12 @@
 ---
 title: "Lewd Acts - Black Eye Blues"
+edited: false
 date: "2010-03-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "converge"
   - "cursed"
   - "deathwish-inc"

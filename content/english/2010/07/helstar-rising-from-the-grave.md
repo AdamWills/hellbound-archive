@@ -1,11 +1,12 @@
 ---
 title: "Helstar - Rising From The Grave"
+edited: false
 date: "2010-07-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "helstar"
   - "metal-blade"

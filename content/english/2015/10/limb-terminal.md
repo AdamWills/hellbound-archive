@@ -1,9 +1,10 @@
 ---
 title: "Limb – Terminal"
+edited: false
 date: "2015-10-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "limb"

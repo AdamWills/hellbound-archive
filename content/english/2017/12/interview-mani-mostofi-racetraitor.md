@@ -1,9 +1,10 @@
 ---
 title: "Interview: Mani Mostofi of Racetraitor"
+edited: false
 date: "2017-12-29"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "alternative"
   - "hardcore"
   - "interview"

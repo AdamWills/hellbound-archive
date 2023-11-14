@@ -1,7 +1,8 @@
 ---
 title: "Fruupp: Maid in Ireland - The Best of Fruupp"
+edited: false
 date: "2020-07-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

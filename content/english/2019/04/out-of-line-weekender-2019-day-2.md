@@ -1,9 +1,10 @@
 ---
 title: "Out Of Line Weekender 2019, Day 2"
+edited: false
 date: "2019-04-26"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "berlin"
   - "electronic-music"
   - "festival"
@@ -57,177 +58,177 @@ Then a massive skull head appeared on stage followed by a pair of skeleton hands
 [www.hocico.com](http://www.hocico.com)
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Blind-Channel.jpg)
-    
+
     Blind Channel
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Blind-Channel01.jpg)
-    
+
     Blind Channel
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Blind-Channel02.jpg)
-    
+
     Blind Channel
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Blind-Channel03.jpg)
-    
+
     Blind Channel
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Blind-Channel04.jpg)
-    
+
     Blind Channel
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Blind-Channel05.jpg)
-    
+
     Blind Channel
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Blind-Channel06.jpg)
-    
+
     Blind Channel
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Blind-Channel07.jpg)
-    
+
     Blind Channel
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Erdling.jpg)
-    
+
     Erdling
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Erdling01.jpg)
-    
+
     Erdling
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Erdling02.jpg)
-    
+
     Erdling
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Erdling03.jpg)
-    
+
     Erdling
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Erdling04.jpg)
-    
+
     Erdling
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Erdling05.jpg)
-    
+
     Erdling
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Eskimo-Callboy.jpg)
-    
+
     Eskimo Callboy
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Eskimo-Callboy01.jpg)
-    
+
     Eskimo Callboy
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Eskimo-Callboy02.jpg)
-    
+
     Eskimo Callboy
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Eskimo-Callboy03.jpg)
-    
+
     Eskimo Callboy
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Eskimo-Callboy04.jpg)
-    
+
     Eskimo Callboy
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Eskimo-Callboy05.jpg)
-    
+
     Eskimo Callboy
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Eskimo-Callboy06.jpg)
-    
+
     Eskimo Callboy
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Fear-Of-Domination.jpg)
-    
+
     Fear of Domination
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Fear-Of-Domination01.jpg)
-    
+
     Fear of Domination
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Fear-Of-Domination02.jpg)
-    
+
     Fear of Domination
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Fear-Of-Domination03.jpg)
-    
+
     Fear of Domination
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Fear-Of-Domination04.jpg)
-    
+
     Fear of Domination
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Fear-Of-Domination05.jpg)
-    
+
     Fear of Domination
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Hocico.jpg)
-    
+
     Hocico
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Hocico01.jpg)
-    
+
     Hocico
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Hocico02.jpg)
-    
+
     Hocico
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Hocico03.jpg)
-    
+
     Hocico
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Hocico04.jpg)
-    
+
     Hocico
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Hocico05.jpg)
-    
+
     Hocico
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Incubite-DJ-Set.jpg)
-    
+
     Incubite DJ
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Incubite-DJ-Set01.jpg)
-    
+
     Incubite DJ
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Incubite-DJ-Set02.jpg)
-    
+
     Incubite DJ
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Rave-The-Reqviem.jpg)
-    
+
     Rave the Reqviem
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Rave-The-Reqviem01.jpg)
-    
+
     Rave the Reqviem
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Rave-The-Reqviem02.jpg)
-    
+
     Rave the Reqviem
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Rave-The-Reqviem03.jpg)
-    
+
     Rave the Reqviem
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Rave-The-Reqviem04.jpg)
-    
+
     Rave the Reqviem
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Rave-The-Reqviem05.jpg)
-    
+
     Rave the Reqviem
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/04/Rave-The-Reqviem06.jpg)
-    
+
     Rave the Reqviem
-    
+
 
 #### Full line-up
 

@@ -1,9 +1,10 @@
 ---
 title: "Virgin Black – Requiem Pianissimo"
+edited: false
 date: "2018-11-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "australia"
   - "avant-garde"
   - "avant-garde-metal"

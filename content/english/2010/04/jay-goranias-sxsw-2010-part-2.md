@@ -1,11 +1,12 @@
 ---
 title: "Jay Gorania's SXSW 2010 - Part 2"
+edited: false
 date: "2010-04-05"
-categories: 
+categories:
   - "blogs"
   - "headline"
   - "jay_gorania"
-tags: 
+tags:
   - "20-buck-spin"
   - "coffinworm"
   - "dark-castle"

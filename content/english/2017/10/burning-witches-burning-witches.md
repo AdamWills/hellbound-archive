@@ -1,9 +1,10 @@
 ---
 title: "Burning Witches – Burning Witches"
+edited: false
 date: "2017-10-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "burning-witches"
   - "heavy-metal"
   - "metal"

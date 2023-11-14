@@ -1,11 +1,12 @@
 ---
 title: "Landmine Marathon @ Club Diablo, Buffalo NY, July 11, 2010"
+edited: false
 date: "2010-07-14"
-categories: 
+categories:
   - "features"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "buffalo-ny"
   - "grindcore"
   - "landmine-marathon"

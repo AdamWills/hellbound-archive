@@ -1,7 +1,8 @@
 ---
 title: "Staff Playlists - June 2020"
+edited: false
 date: "2020-07-04"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"
@@ -12,14 +13,14 @@ Another months goes by and we give you another month’s worth of staff picks an
 
 ## Steve Earles
 
-**Listening to:**  Cherry Red's beautifully curated box set of six Goblin  
-albums. Alongside acknowledged classics like the soundtracks to Zombi  
-(AKA Dawn Of The Dead, and a great infliuence on the supurb band  
-Zombi) and Susperia (one of the greatest soundtracks of all-time, even  
-an influence on John Carpenter's seminal Halloween soundtrack) are  
-original studio albums like the excellent Roller. I can't recommend  
-this collection enough, it takes you on a inner voyage spiritually and  
-mentally, it helps you cope with being alone, which we need now more  
+**Listening to:**  Cherry Red's beautifully curated box set of six Goblin
+albums. Alongside acknowledged classics like the soundtracks to Zombi
+(AKA Dawn Of The Dead, and a great infliuence on the supurb band
+Zombi) and Susperia (one of the greatest soundtracks of all-time, even
+an influence on John Carpenter's seminal Halloween soundtrack) are
+original studio albums like the excellent Roller. I can't recommend
+this collection enough, it takes you on a inner voyage spiritually and
+mentally, it helps you cope with being alone, which we need now more
 than ever.
 
 ## Gruesome Greg

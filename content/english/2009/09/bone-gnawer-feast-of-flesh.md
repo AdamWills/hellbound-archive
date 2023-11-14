@@ -1,11 +1,12 @@
 ---
 title: "Bone Gnawer: Feast Of Flesh"
+edited: false
 date: "2009-09-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bone-gnawer"
   - "death-metal"
   - "denial-fiend"

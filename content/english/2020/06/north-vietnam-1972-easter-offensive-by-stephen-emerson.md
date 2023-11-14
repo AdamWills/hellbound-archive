@@ -1,7 +1,8 @@
 ---
 title: "North Vietnam 1972 Easter Offensive by Stephen Emerson"
+edited: false
 date: "2020-06-09"
-categories: 
+categories:
   - "reviews-books"
 ---
 

@@ -1,9 +1,10 @@
 ---
 title: "Kicker – Rendered Obsolete LP"
+edited: false
 date: "2016-11-29"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "kicker"
   - "punk"
   - "punk-rock"

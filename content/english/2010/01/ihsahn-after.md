@@ -1,11 +1,12 @@
 ---
 title: "Ihsahn: After"
+edited: false
 date: "2010-01-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "candlelight-usa"
   - "emperor"

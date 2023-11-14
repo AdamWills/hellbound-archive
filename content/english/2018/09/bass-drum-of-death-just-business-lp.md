@@ -1,7 +1,8 @@
 ---
 title: "Bass Drum of Death – “Just Business” LP"
+edited: false
 date: "2018-09-12"
-categories: 
+categories:
   - "reviews-vinyl"
 ---
 

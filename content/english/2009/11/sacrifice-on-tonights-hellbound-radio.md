@@ -1,11 +1,12 @@
 ---
 title: "SACRIFICE Interview On Tonight's HELLBOUND RADIO"
+edited: false
 date: "2009-11-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "canada"
   - "hellbound-radio"
   - "indi-101"

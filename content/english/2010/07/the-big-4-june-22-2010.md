@@ -1,11 +1,12 @@
 ---
 title: "The Big Four @ Silver City Mountain, Hamilton ON, June 22, 2010"
+edited: false
 date: "2010-07-06"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "anthrax"
   - "bulgaria"
   - "cineplex-entertainment"

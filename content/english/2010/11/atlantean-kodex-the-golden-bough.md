@@ -1,11 +1,12 @@
 ---
 title: "Atlantean Kodex – The Golden Bough"
+edited: false
 date: "2010-11-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "atlantean-kodex"
   - "candlemass"

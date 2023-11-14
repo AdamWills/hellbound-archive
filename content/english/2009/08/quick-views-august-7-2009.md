@@ -1,12 +1,13 @@
 ---
 title: "Quick VIEWs: August 7, 2009"
+edited: false
 date: "2009-08-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "cauldron"
   - "chickenfoot"
   - "eagle-vision"

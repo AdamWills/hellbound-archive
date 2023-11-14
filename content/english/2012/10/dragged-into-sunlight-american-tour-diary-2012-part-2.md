@@ -1,13 +1,14 @@
 ---
 title: "Dragged Into Sunlight - American tour diary 2012 - Part 2"
+edited: false
 date: "2012-10-11"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "features"
   - "headline"
   - "jay_gorania"
-tags: 
+tags:
   - "cathedral"
   - "coffinworm"
   - "crowbar"

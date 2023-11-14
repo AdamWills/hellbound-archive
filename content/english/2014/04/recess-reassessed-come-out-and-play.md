@@ -1,10 +1,11 @@
 ---
 title: "Recess, Reassessed: Come Out and Play by Twisted Sister"
+edited: false
 date: "2014-04-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-classics"
-tags: 
+tags:
   - "classic-albums"
   - "craig-hayes"
   - "twisted-sister"

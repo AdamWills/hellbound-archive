@@ -1,9 +1,10 @@
 ---
 title: "Anathema – Internal Landscapes 2008-2018"
+edited: false
 date: "2018-11-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "anathema"
   - "best-of"
   - "heavy-rock"

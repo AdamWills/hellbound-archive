@@ -1,9 +1,10 @@
 ---
 title: "Avatar @ The Ranch Roadhouse, Edmonton - May 31, 2019"
+edited: false
 date: "2019-06-03"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "acoustic"
   - "live"
   - "metal"

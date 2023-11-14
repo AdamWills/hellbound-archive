@@ -1,10 +1,11 @@
 ---
 title: "Nightwish at The Fillmore in Charlotte"
+edited: false
 date: "2018-04-04"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "charlotte"
   - "concert"
   - "decades-tour"

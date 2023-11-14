@@ -1,9 +1,10 @@
 ---
 title: "Round Eye – s/t LP"
+edited: false
 date: "2015-06-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "punk"
   - "punk-rock"
   - "round-eye"

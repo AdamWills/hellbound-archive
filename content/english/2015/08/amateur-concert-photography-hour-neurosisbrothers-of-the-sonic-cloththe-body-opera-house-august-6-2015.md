@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Neurosis/Brothers of the Sonic Cloth/The Body @ Opera House, August 6, 2015"
+edited: false
 date: "2015-08-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "brothers-of-the-sonic-cloth"
   - "concert-photography"
   - "concert-photos"

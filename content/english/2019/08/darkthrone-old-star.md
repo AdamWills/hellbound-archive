@@ -1,9 +1,10 @@
 ---
 title: "Darkthrone – Old Star"
+edited: false
 date: "2019-08-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "extreme-metal"
   - "metal"

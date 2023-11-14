@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO Playlist – Sunday, July 7, 2013"
+edited: false
 date: "2013-07-09"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "agrimonia"
   - "albert-mansour"
   - "all-pigs-must-die"

@@ -1,9 +1,10 @@
 ---
 title: "Feeding Back – Conversations With Alternative Guitarists From Proto-Punk To Post-Rock"
+edited: false
 date: "2014-08-14"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "david-todd"
   - "feeding-back"
   - "guitarists"

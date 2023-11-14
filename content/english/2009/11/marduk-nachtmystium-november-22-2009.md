@@ -1,11 +1,12 @@
 ---
 title: "Marduk/Nachtmystium @ Annex Wreckroom, Toronto, ON, November 22, 2009"
+edited: false
 date: "2009-11-25"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-anvil"
   - "black-metal"
   - "century-media"

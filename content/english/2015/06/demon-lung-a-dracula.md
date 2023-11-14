@@ -1,9 +1,10 @@
 ---
 title: "Demon Lung – A Dracula"
+edited: false
 date: "2015-06-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "candlelight"
   - "demon-lung"

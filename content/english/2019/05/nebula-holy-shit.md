@@ -1,10 +1,11 @@
 ---
 title: "Nebula – Holy Shit"
+edited: false
 date: "2019-05-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-rock"
   - "review"
   - "stoner-rock"

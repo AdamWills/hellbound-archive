@@ -1,10 +1,11 @@
 ---
 title: "The best so far: celebrating five years of Hellbound.ca"
+edited: false
 date: "2014-06-27"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "70000-tons-of-metal"
   - "adrian-bromley"
   - "anciients"
@@ -168,14 +169,14 @@ _— Your Fearsome Web Goddess, Leanne Palmerston_
 
 ### Renee Trotier
 
-1\. [**Postcards From Natalie Zed (Installments #1-#13)**](https://hellbound.ca/2011/05/postcards-from-natalie-zed-lucky-13/) - When I started reading Hellbound.ca, just before I started writing for the site, I looked forward to reading new installments of the Postcards From Natalie Zed column. These brief album reviews were as quirky, poetic and down right beautiful as they were easy to digest. If you have the time, read all thirteen.   
-  
-2\. [**Staff Picks: Favourite Canadian Metal Song**](https://hellbound.ca/2011/07/staff-picks-favourite-canadian-metal-songs/) - This was a really fun article to both read and contribute to. We were asked to write a quick blurb on our favourite Canadian metal songs for a Canada Day feature. The resulting article was an illumination of what this great country has to offer the world of metal and it makes for a great, celebratory summer playlist to boot!   
-  
-3\. [**Portal/ Krallace/ Bloody Panda review by Natalie Zed with photography by Adam Wills**](https://hellbound.ca/2010/05/portal-krallice-bloody-panda-buffalo-ny-may-24-2010/) - Natalie Zed strikes again. I read this review when it was first posted on Hellbound.ca, and at the time I had never heard of any of the bands on this lineup. But the review intrigued me, haunted me, pushed me to explore. From this article I learned that the power of metal is universal, and that how a band makes you feel is just as important as how they sound.   
-  
-4\. [**70,000 Tons of Metal recap**](https://hellbound.ca/2013/02/70000-tons-of-metal-2013-part-one) - Since the cruise's inaugural departure from shore, I have longed to be on the boat. Sadly, I have never quite found the money in which to make it happen. That's why I loved reading Adrian Begrand's excellent recap of exactly what I was missing out on. I've always admired his professional honesty as a writer and I trust his opinion. Sidenote: looks like I missed out on some good times!   
-  
+1\. [**Postcards From Natalie Zed (Installments #1-#13)**](https://hellbound.ca/2011/05/postcards-from-natalie-zed-lucky-13/) - When I started reading Hellbound.ca, just before I started writing for the site, I looked forward to reading new installments of the Postcards From Natalie Zed column. These brief album reviews were as quirky, poetic and down right beautiful as they were easy to digest. If you have the time, read all thirteen. 
+
+2\. [**Staff Picks: Favourite Canadian Metal Song**](https://hellbound.ca/2011/07/staff-picks-favourite-canadian-metal-songs/) - This was a really fun article to both read and contribute to. We were asked to write a quick blurb on our favourite Canadian metal songs for a Canada Day feature. The resulting article was an illumination of what this great country has to offer the world of metal and it makes for a great, celebratory summer playlist to boot! 
+
+3\. [**Portal/ Krallace/ Bloody Panda review by Natalie Zed with photography by Adam Wills**](https://hellbound.ca/2010/05/portal-krallice-bloody-panda-buffalo-ny-may-24-2010/) - Natalie Zed strikes again. I read this review when it was first posted on Hellbound.ca, and at the time I had never heard of any of the bands on this lineup. But the review intrigued me, haunted me, pushed me to explore. From this article I learned that the power of metal is universal, and that how a band makes you feel is just as important as how they sound. 
+
+4\. [**70,000 Tons of Metal recap**](https://hellbound.ca/2013/02/70000-tons-of-metal-2013-part-one) - Since the cruise's inaugural departure from shore, I have longed to be on the boat. Sadly, I have never quite found the money in which to make it happen. That's why I loved reading Adrian Begrand's excellent recap of exactly what I was missing out on. I've always admired his professional honesty as a writer and I trust his opinion. Sidenote: looks like I missed out on some good times! 
+
 5\. [**Torche/ Big Business/ Helm's Alee review by Renee Trotier**](https://hellbound.ca/2011/07/torche-big-business-helms-alee-buffalo-ny-july-22-2011/) - This review is one that I was particularly proud of when it went up on the site. Plus, the day was so hot and the music was so good that it was a memorable show, and one that I'm happy to say is stuck to the pages of Hellbound.ca's history books. 
 
 [![immortal-birthday-1](https://hellbound.ca/wp-content/uploads/2014/06/immortal-birthday-1-261x300.jpg)](https://hellbound.ca/wp-content/uploads/2014/06/immortal-birthday-1.jpg)

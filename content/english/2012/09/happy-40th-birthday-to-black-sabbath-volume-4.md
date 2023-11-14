@@ -1,11 +1,12 @@
 ---
 title: "Happy 40th birthday to... Black Sabbath's Volume 4"
+edited: false
 date: "2012-09-25"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "brutal-truth"
   - "geezer-butler"
   - "hydra-head"

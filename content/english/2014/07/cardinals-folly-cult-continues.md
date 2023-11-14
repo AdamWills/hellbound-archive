@@ -1,9 +1,10 @@
 ---
 title: "Cardinals Folly – Our Cult Continues"
+edited: false
 date: "2014-07-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "cardinals-folly"
   - "doom"

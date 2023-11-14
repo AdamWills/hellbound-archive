@@ -1,9 +1,10 @@
 ---
 title: "Desolate Shrine – The Heart of the Netherword"
+edited: false
 date: "2015-03-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blackened-death-doom"
   - "dark-descent"

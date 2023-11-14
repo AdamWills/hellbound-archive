@@ -1,9 +1,10 @@
 ---
 title: "Mastiff - Leave Me The Ashes Of The Earth LP"
+edited: false
 date: "2021-10-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "e1"
   - "leave-me-the-ashes-of-the-earth"
   - "mastiff"

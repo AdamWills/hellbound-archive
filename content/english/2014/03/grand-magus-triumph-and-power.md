@@ -1,11 +1,12 @@
 ---
 title: "Grand Magus – Triumph and Power"
+edited: false
 date: "2014-03-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "doom"
   - "epic"

@@ -1,9 +1,10 @@
 ---
 title: "id. – Sagittarius A"
+edited: false
 date: "2015-03-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "id"
   - "progressive-metal"

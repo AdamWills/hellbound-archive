@@ -1,11 +1,12 @@
 ---
 title: "Pill-poppers and head-trippers, put this one on yer neon-green radar screen!"
+edited: false
 date: "2012-10-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "diablo-red"
   - "galaxies-in-the-river"
   - "gruesome-greg"

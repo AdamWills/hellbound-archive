@@ -1,11 +1,12 @@
 ---
 title: "Truckfighters – Universe"
+edited: false
 date: "2014-02-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "desert-rock"
   - "doom"

@@ -1,11 +1,12 @@
 ---
 title: "Darkest Era - The Last Caress of Light"
+edited: false
 date: "2011-08-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "darkest-era"
   - "ireland"
   - "metal-blade"

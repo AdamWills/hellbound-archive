@@ -1,9 +1,10 @@
 ---
 title: "Giant Squid – Minoans"
+edited: false
 date: "2014-11-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "giant-squid"
   - "post-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Serpent’s Knight - <em>Silent Knight…of Myth and Destiny</em>"
+edited: false
 date: "2011-01-07"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "jag-panzer"
   - "judas-priest"

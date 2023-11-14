@@ -1,9 +1,10 @@
 ---
 title: "Ken Mode announce European tour with Hark"
+edited: false
 date: "2014-07-14"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "hark"
   - "housecore"
   - "housecore-horror"

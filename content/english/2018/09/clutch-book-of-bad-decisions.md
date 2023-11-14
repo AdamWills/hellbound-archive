@@ -1,10 +1,11 @@
 ---
 title: "Clutch – Book of Bad Decisions"
+edited: false
 date: "2018-09-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blues"
   - "clutch"
   - "funk"

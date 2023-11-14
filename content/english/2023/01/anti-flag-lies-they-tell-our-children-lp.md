@@ -1,10 +1,11 @@
 ---
 title: "Anti-Flag - Lies They Tell Our Children LP"
+edited: false
 date: "2023-01-24"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "anti-flag"
   - "chris"
   - "chris-head"

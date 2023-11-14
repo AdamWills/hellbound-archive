@@ -1,11 +1,12 @@
 ---
 title: "Black Tusk – Passage through Purgatory"
+edited: false
 date: "2011-05-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-tusk"
   - "gruesome-greg"
   - "helmet"

@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: WEEDEATER/Author &amp; Punisher/Today is the Day @ Hard Luck Bar, May 20, 2016"
+edited: false
 date: "2016-05-21"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "author-punisher"
   - "concert-photography"
   - "concert-photos"

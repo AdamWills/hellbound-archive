@@ -1,11 +1,12 @@
 ---
 title: "Triptykon - Eparistera Daimones"
+edited: false
 date: "2010-03-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "80s-metal"
   - "avant-garde"
   - "celtic-frost"

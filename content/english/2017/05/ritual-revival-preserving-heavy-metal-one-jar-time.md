@@ -1,13 +1,14 @@
 ---
 title: "Ritual & Revival: Preserving heavy metal, one jar at a time"
+edited: false
 date: "2017-05-04"
-categories: 
+categories:
   - "blasphemyblog"
   - "features"
   - "interviews"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "blasphemous-meals"
   - "foodie"
   - "interview"

@@ -1,10 +1,11 @@
 ---
 title: "Wo Fat – Midnight Cometh"
+edited: false
 date: "2016-05-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "review"
   - "wo-fat"
 ---

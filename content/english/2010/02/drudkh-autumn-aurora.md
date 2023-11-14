@@ -1,11 +1,12 @@
 ---
 title: "Drudkh - Autumn Aurora"
+edited: false
 date: "2010-02-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atmospheric"
   - "black-metal"
   - "drudkh"

@@ -1,10 +1,11 @@
 ---
 title: "Hark – Machinations"
+edited: false
 date: "2017-02-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "hark"
   - "heavy-metal"

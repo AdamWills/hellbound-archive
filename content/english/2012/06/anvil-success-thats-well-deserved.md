@@ -1,11 +1,12 @@
 ---
 title: "Anvil: No longer bottom feeders with success that’s well deserved"
+edited: false
 date: "2012-06-08"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "ronnie-james-dio"
   - "anvil"
   - "candlemass"

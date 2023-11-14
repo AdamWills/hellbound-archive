@@ -1,11 +1,12 @@
 ---
 title: "All Pens Blazing: A Rock & Heavy Metal Writer’s Handbook, Volumes 1 & 2, by Neil Daniels"
+edited: false
 date: "2011-08-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "all-pens-blazing"
   - "book-review"
   - "kevin-stewart-panko"

@@ -1,13 +1,14 @@
 ---
 title: "Photo Gallery: Mares of Thrace rocked Hamilton"
+edited: false
 date: "2012-05-29"
-categories: 
+categories:
   - "adam_wills"
   - "articles"
   - "blogs"
   - "featured"
   - "features"
-tags: 
+tags:
   - "adam-wills"
   - "hamilton"
   - "mares-of-thrace"

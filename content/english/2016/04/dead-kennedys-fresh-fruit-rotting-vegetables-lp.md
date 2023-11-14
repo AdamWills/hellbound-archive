@@ -1,9 +1,10 @@
 ---
 title: "Dead Kennedys – Fresh Fruit For Rotting Vegetables LP"
+edited: false
 date: "2016-04-28"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "dead-kennedys"
   - "punk"
   - "vinyl-review"

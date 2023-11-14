@@ -1,10 +1,11 @@
 ---
 title: "Cold weather, death metal and beer"
+edited: false
 date: "2015-02-03"
-categories: 
+categories:
   - "blogs"
   - "psa"
-tags: 
+tags:
   - "beer-fest"
   - "cannibal-corpse"
   - "exhumed"

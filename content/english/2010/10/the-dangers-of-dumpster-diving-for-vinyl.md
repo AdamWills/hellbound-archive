@@ -1,11 +1,12 @@
 ---
 title: "The dangers of dumpster-diving for vinyl..."
+edited: false
 date: "2010-10-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "deep-purple"
   - "gruesome-greg"
   - "kiss"

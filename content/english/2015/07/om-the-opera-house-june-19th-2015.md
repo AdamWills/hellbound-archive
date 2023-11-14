@@ -1,9 +1,10 @@
 ---
 title: "Om @ The Opera House – June 19th, 2015"
+edited: false
 date: "2015-07-30"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "doom-metal"
   - "live-metal"
   - "nxne"

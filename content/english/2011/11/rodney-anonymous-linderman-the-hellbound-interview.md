@@ -1,11 +1,12 @@
 ---
 title: "Rodney “Anonymous” Linderman of The Dead Milkmen: The Hellbound Interview"
+edited: false
 date: "2011-11-22"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "black-flag"
   - "brutal-truth"
   - "justin-m-norton"

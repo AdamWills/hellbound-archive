@@ -1,11 +1,12 @@
 ---
 title: "Jon Oliva’s Pain - Festival"
+edited: false
 date: "2010-06-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm-records"
   - "jon-olivas-pain"
   - "power-metal"

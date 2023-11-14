@@ -1,9 +1,10 @@
 ---
 title: "Iron Reagan/Gatecreeper split"
+edited: false
 date: "2018-03-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "gatecreeper"
   - "hardcore"

@@ -1,11 +1,12 @@
 ---
 title: "Holy Grail: Better The Second Time Around"
+edited: false
 date: "2010-10-25"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "accept"
   - "amon-amarth"
   - "blind-guardian"

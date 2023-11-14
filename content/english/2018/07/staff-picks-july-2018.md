@@ -1,10 +1,11 @@
 ---
 title: "STAFF PICKS, JULY 2018"
+edited: false
 date: "2018-07-27"
-categories: 
+categories:
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "staff-picks"

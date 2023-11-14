@@ -1,10 +1,11 @@
 ---
 title: "Tom Petty and the Heartbreakers – Let Me Up (I've Had Enough) LP"
+edited: false
 date: "2017-08-18"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "classic-rock"
   - "review"
   - "rock"

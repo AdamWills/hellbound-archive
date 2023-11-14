@@ -1,11 +1,12 @@
 ---
 title: "Hellbound audio interview: David Gold (WOODS OF YPRES)"
+edited: false
 date: "2011-03-16"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "audio"
   - "cilu-fm"
   - "david-gold"

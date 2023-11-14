@@ -1,12 +1,13 @@
 ---
 title: "Augury: Fragmentary Evidence"
+edited: false
 date: "2009-08-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "augury"
   - "can"
   - "canada"

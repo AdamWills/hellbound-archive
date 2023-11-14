@@ -1,10 +1,11 @@
 ---
 title: "Gerry Rafferty – Who Knows What the Day Will Bring"
+edited: false
 date: "2019-12-14"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
-tags: 
+tags:
   - "music"
   - "review"
   - "rock"

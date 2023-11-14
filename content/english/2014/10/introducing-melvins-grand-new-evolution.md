@@ -1,9 +1,10 @@
 ---
 title: "Introducing the Melvins' Grand New Evolution"
+edited: false
 date: "2014-10-23"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "butthole-surfers"
   - "buzz-osborne"
   - "interview"

@@ -1,11 +1,12 @@
 ---
 title: "Alice Cooper - Old School 1964-1974"
+edited: false
 date: "2011-08-10"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alice-cooper"
   - "dennis-dunaway"
   - "detroit"

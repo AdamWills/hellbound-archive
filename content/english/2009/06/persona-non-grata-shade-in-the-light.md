@@ -1,10 +1,11 @@
 ---
 title: "Persona Non Grata: Shade In The Light"
+edited: false
 date: "2009-06-03"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "greece"
   - "progressive-metal"
   - "sensory"

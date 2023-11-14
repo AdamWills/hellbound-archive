@@ -1,11 +1,12 @@
 ---
 title: "Section 302!? Damn you, Iron Maiden Fan Club!"
+edited: false
 date: "2012-03-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "iron-maiden"
   - "iron-maiden-fan-club"

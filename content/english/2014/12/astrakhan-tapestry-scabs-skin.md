@@ -1,9 +1,10 @@
 ---
 title: "Astrakhan – A Tapestry of Scabs and Skin"
+edited: false
 date: "2014-12-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "astrakhan"
   - "djent"

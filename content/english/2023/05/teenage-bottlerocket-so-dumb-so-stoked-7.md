@@ -1,10 +1,11 @@
 ---
 title: "Teenage Bottlerocket - So Dumb, So Stoked 7''"
+edited: false
 date: "2023-05-04"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "7"
   - "bottlerocket"
   - "ep"

@@ -1,11 +1,12 @@
 ---
 title: "Paradise Lost: Faith Divides Us – Death Unites Us"
+edited: false
 date: "2009-11-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "doom-metal"
   - "opeth"

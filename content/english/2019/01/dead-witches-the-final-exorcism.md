@@ -1,10 +1,11 @@
 ---
 title: "Dead Witches – The Final Exorcism"
+edited: false
 date: "2019-01-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-psych"
   - "metal"
   - "psychedelic-rock"

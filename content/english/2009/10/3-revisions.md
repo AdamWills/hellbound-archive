@@ -1,11 +1,12 @@
 ---
 title: "3: Revisions"
+edited: false
 date: "2009-10-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "3"
   - "coheed-and-cambria"
   - "dream-theater"

@@ -1,9 +1,10 @@
 ---
 title: "Riot – Live In America"
+edited: false
 date: "2019-09-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "nwobhm"
 ---

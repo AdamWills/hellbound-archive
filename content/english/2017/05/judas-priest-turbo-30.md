@@ -1,9 +1,10 @@
 ---
 title: "Judas Priest – Turbo 30"
+edited: false
 date: "2017-05-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "judas-priest"
   - "reissue"

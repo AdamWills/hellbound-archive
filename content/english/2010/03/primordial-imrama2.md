@@ -1,11 +1,12 @@
 ---
 title: "Primordial - Imrama (expanded reissue)"
+edited: false
 date: "2010-03-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "ireland"
   - "primordial"

@@ -1,9 +1,10 @@
 ---
 title: "Judas Priest  – Redeemer Of Souls"
+edited: false
 date: "2014-07-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "classic-metal"
   - "glenn-tipton"
   - "heay-metal"

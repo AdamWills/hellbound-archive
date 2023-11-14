@@ -1,9 +1,10 @@
 ---
 title: "The Culture and Art of Death in 19th Century America"
+edited: false
 date: "2019-08-14"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "books"
   - "death"

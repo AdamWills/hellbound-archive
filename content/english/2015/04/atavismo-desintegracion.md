@@ -1,9 +1,10 @@
 ---
 title: "Atavismo – Desintegración"
+edited: false
 date: "2015-04-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "atavismo"
   - "space-rock"

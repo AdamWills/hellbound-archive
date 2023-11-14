@@ -1,11 +1,12 @@
 ---
 title: "Wildernessking - The Writing of Gods in the Sand"
+edited: false
 date: "2012-01-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "antithetic-records"
   - "black-metal"
   - "enslaved"

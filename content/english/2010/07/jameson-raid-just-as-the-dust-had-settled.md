@@ -1,11 +1,12 @@
 ---
 title: "Jameson Raid - Just As the Dust Had Settled"
+edited: false
 date: "2010-07-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "jameson-raid"
   - "metal-for-muthas-ii"
   - "nwobhm"

@@ -1,11 +1,12 @@
 ---
 title: "Cyco Miko & Infectious Grooves - Live in France ’95"
+edited: false
 date: "2011-01-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bad-religion"
   - "brooks-wackerman"
   - "cyco-miko"

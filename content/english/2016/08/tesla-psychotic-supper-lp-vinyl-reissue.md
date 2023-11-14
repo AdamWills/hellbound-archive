@@ -1,9 +1,10 @@
 ---
 title: "Tesla – Psychotic Supper LP (vinyl reissue)"
+edited: false
 date: "2016-08-18"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "glam-metal"
   - "hair-metal"
   - "hard-rock"

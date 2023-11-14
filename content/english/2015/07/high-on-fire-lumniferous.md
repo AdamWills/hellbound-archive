@@ -1,9 +1,10 @@
 ---
 title: "High on Fire - Lumniferous"
+edited: false
 date: "2015-07-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom-metal"
   - "sleep"
   - "stoner-metal"

@@ -1,9 +1,10 @@
 ---
 title: "Aggression – live in Toronto, 6 November 2017"
+edited: false
 date: "2017-11-29"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "aggression"
   - "canadian"
   - "concert"

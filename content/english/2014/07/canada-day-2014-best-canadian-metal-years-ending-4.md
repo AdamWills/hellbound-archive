@@ -1,10 +1,11 @@
 ---
 title: "Canada Day 2014: Best Canadian metal from years ending in '4…"
+edited: false
 date: "2014-07-01"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "archspire"
   - "augury"

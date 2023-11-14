@@ -1,11 +1,12 @@
 ---
 title: "Cancer Bats / 3 Inches of Blood / Barn Burner @ The Mod Club, Toronto ON, May 19th, 2011"
+edited: false
 date: "2011-05-27"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "barn-burner"
   - "cancer-bats"

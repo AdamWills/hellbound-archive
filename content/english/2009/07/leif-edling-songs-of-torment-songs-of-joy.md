@@ -1,11 +1,12 @@
 ---
 title: "Leif Edling: Songs of Torment, Songs of Joy"
+edited: false
 date: "2009-07-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "candlemass"
   - "leif-edling"

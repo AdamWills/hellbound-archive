@@ -1,11 +1,12 @@
 ---
 title: "Shooting Guns - Brotherhood of the Ram LP"
+edited: false
 date: "2013-08-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "deep-purple"
   - "heavy"
   - "hellbound-metal"

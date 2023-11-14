@@ -1,11 +1,12 @@
 ---
 title: "Toxic Holocaust – Conjure and Command"
+edited: false
 date: "2011-07-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "joel-grind"
   - "relapse"
   - "renee-trotier"

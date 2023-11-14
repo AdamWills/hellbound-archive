@@ -1,11 +1,12 @@
 ---
 title: "Egypt: s/t"
+edited: false
 date: "2009-12-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "egypt"
   - "meteorcity"
   - "sleep"

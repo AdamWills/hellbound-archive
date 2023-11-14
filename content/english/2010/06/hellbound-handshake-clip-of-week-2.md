@@ -1,13 +1,14 @@
 ---
 title: "Hellbound Handshake Clip of the Week: TOTAL FUCKING DESTRUCTION live at MDF 2010"
+edited: false
 date: "2010-06-25"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "grindcore"
   - "handshake-inc-hellbound-video-of-the-week"
   - "handshake-inc"

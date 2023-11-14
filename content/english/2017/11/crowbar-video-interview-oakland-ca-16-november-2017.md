@@ -1,9 +1,10 @@
 ---
 title: "CROWBAR video interview, Oakland CA, 16 November 2017"
+edited: false
 date: "2017-11-23"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "crowbar"
   - "doom"
   - "doomcore"

@@ -1,11 +1,12 @@
 ---
 title: "Nebula, The Entrance Band, Skull, Eaglefight @ The Casbah, Hamilton ON, August 19, 2009"
+edited: false
 date: "2009-08-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "eaglefight"
   - "jonathan-smith"
   - "live-review"

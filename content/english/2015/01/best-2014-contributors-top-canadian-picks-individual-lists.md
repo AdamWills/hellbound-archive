@@ -1,10 +1,11 @@
 ---
 title: "BEST OF 2014 - our contributors' top Canadian picks (individual lists)"
+edited: false
 date: "2015-01-01"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2014"
   - "canadian-metal"
 ---

@@ -1,11 +1,12 @@
 ---
 title: "Nazxul: Iconoclast"
+edited: false
 date: "2010-01-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "australia"
   - "black-metal"
   - "moribund"

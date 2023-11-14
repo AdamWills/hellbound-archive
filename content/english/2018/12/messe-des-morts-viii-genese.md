@@ -1,11 +1,12 @@
 ---
 title: "Messe des Morts VIII - Genèse"
+edited: false
 date: "2018-12-04"
-categories: 
+categories:
   - "canadian-metal"
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "2018"
   - "black-metal"
   - "canadian-metal"

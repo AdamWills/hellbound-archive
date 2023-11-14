@@ -1,12 +1,13 @@
 ---
 title: "Gone Fishing on Monday!"
+edited: false
 date: "2010-05-24"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "fishing"
 ---
 

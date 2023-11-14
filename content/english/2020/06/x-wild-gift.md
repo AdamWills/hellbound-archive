@@ -1,7 +1,8 @@
 ---
 title: "X - Wild Gift"
+edited: false
 date: "2020-06-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

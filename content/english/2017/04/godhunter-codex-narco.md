@@ -1,10 +1,11 @@
 ---
 title: "Godhunter – Codex Narco"
+edited: false
 date: "2017-04-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "experimental"
   - "godhunter"

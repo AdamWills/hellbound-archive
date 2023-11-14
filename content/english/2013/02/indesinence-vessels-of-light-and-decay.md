@@ -1,11 +1,12 @@
 ---
 title: "Indesinence - Vessels of Light and Decay"
+edited: false
 date: "2013-02-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "indesincence"
   - "matt-hinch"
   - "profound-lore"

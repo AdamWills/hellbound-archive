@@ -1,9 +1,10 @@
 ---
 title: "Harrington Saints – Upright Citizen 7''"
+edited: false
 date: "2015-12-30"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "harrington-saints"
   - "punk"
   - "review"

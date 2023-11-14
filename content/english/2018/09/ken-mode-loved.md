@@ -1,11 +1,12 @@
 ---
 title: "KEN Mode – Loved"
+edited: false
 date: "2018-09-06"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy"
   - "ken-mode"
   - "noise-rock"

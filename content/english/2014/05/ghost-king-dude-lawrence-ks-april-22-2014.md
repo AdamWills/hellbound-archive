@@ -1,9 +1,10 @@
 ---
 title: "Ghost and King Dude, Lawrence KS, April 22, 2014"
+edited: false
 date: "2014-05-06"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "ghost"
   - "kansas"
   - "king-dude"

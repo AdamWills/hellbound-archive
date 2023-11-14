@@ -1,9 +1,10 @@
 ---
 title: "Slagduster – Deadweight"
+edited: false
 date: "2017-06-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "british-columbia"
   - "grand-forks"
   - "heavy-metal"

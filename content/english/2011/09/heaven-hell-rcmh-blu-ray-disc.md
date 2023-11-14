@@ -1,11 +1,12 @@
 ---
 title: "Heaven & Hell - Radio City Music Hall Blu-Ray Disc"
+edited: false
 date: "2011-09-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "heaven-hell"
   - "ronnie-james-dio"
   - "alice-cooper"

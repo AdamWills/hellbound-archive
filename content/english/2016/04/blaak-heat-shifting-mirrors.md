@@ -1,10 +1,11 @@
 ---
 title: "Blaak Heat – Shifting Mirrors"
+edited: false
 date: "2016-04-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blaak-heat"
   - "french"
   - "middle-eastern"

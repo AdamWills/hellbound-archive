@@ -1,11 +1,12 @@
 ---
 title: "Nile – At The Gates Of Sethu"
+edited: false
 date: "2012-06-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cannibal-corpse"
   - "death-metal"
   - "morbid-angel"

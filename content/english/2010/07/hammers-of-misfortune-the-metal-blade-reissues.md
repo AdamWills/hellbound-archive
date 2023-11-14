@@ -1,11 +1,12 @@
 ---
 title: "HAMMERS OF MISFORTUNE: The Metal Blade Reissues"
+edited: false
 date: "2010-07-28"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hammers-of-misfortune"
   - "heavy-metal"
   - "kyle-harcott"

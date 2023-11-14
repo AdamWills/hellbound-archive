@@ -1,9 +1,10 @@
 ---
 title: "Wacken Metal Battle Canada updates – round 4"
+edited: false
 date: "2014-03-31"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "neck-of-the-woods"
   - "santuarium"
   - "shattered-remains"
@@ -13,7 +14,7 @@ tags:
 
 Round four of **Wacken Metal Battle Canada** – the Toronto and Vancouver editions, at least – took place this past weekend.
 
-From the Toronto competition, [**Santuarium**](http://www.santuarium.com/santuarium/) and [**Shattered Remains**](http://shattered-remains.bandcamp.com/track/unbreakable) emerge as winners and will move on to compete at one of two Toronto semi-finals: [April 26 @ Hard Luck Bar](https://www.facebook.com/events/1461026537458437/) or [May 3 @ The Rivoli](https://www.facebook.com/events/714280651930391/). 
+From the Toronto competition, [**Santuarium**](http://www.santuarium.com/santuarium/) and [**Shattered Remains**](http://shattered-remains.bandcamp.com/track/unbreakable) emerge as winners and will move on to compete at one of two Toronto semi-finals: [April 26 @ Hard Luck Bar](https://www.facebook.com/events/1461026537458437/) or [May 3 @ The Rivoli](https://www.facebook.com/events/714280651930391/).
 
 <iframe src="//www.youtube.com/embed/tYFZieiqty4" height="315" width="560" allowfullscreen frameborder="0"></iframe>
 

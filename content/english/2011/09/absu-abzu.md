@@ -1,11 +1,12 @@
 ---
 title: "Absu - Abzu"
+edited: false
 date: "2011-09-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "absu"
   - "black-metal"
   - "kyle-harcott"

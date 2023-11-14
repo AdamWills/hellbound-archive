@@ -1,11 +1,12 @@
 ---
 title: "Execration: Syndicate of Lethargy"
+edited: false
 date: "2009-08-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "execration"
   - "norway"

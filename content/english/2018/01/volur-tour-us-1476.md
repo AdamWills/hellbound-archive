@@ -1,10 +1,11 @@
 ---
 title: "Völur to tour US with 1476"
+edited: false
 date: "2018-01-31"
-categories: 
+categories:
   - "features"
   - "psa"
-tags: 
+tags:
   - "1476"
   - "doom"
   - "events"

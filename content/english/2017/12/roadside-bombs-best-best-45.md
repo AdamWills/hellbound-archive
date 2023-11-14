@@ -1,9 +1,10 @@
 ---
 title: "Roadside Bombs – Best of the Best / 45"
+edited: false
 date: "2017-12-01"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "bruce-roehrs"
   - "pirates-press"
   - "punk"

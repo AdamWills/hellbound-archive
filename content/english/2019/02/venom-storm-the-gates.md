@@ -1,9 +1,10 @@
 ---
 title: "Venom – Storm The Gates"
+edited: false
 date: "2019-02-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
 ---

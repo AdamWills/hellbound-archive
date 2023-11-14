@@ -1,9 +1,10 @@
 ---
 title: "Black Sheep Wall – I’m Going to Kill Myself"
+edited: false
 date: "2015-01-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "california"
   - "grindcore"

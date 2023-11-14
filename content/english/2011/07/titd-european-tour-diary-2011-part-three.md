@@ -1,12 +1,13 @@
 ---
 title: "Today Is The Day European Tour Diary 2011, Part Three"
+edited: false
 date: "2011-07-18"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "headline"
   - "jay_gorania"
-tags: 
+tags:
   - "alcest"
   - "christ-inversion"
   - "corrosion-of-conformity"

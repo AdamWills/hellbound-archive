@@ -1,10 +1,11 @@
 ---
 title: "Argus – From Fields of Fire"
+edited: false
 date: "2017-08-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "argus"
   - "doom"
   - "heavy-metal"

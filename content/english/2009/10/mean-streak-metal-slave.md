@@ -1,11 +1,12 @@
 ---
 title: "Mean Streak: Metal Slave"
+edited: false
 date: "2009-10-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "battleaxe"
   - "black-lodge"

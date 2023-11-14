@@ -1,11 +1,12 @@
 ---
 title: "Unleashed – As Yggdrasil Trembles"
+edited: false
 date: "2010-03-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "death-metal"
   - "nihilist"

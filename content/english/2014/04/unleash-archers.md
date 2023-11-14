@@ -1,9 +1,10 @@
 ---
 title: "Unleash the Archers: creating a lasting impression"
+edited: false
 date: "2014-04-17"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "canadian-metal"
   - "canuck-metal-you-dont-want-to-miss"
   - "interview"

@@ -1,9 +1,10 @@
 ---
 title: "Metal Church – The Elektra Years 1984-1989"
+edited: false
 date: "2020-02-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "review"
 ---

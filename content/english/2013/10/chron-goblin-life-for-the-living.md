@@ -1,11 +1,12 @@
 ---
 title: "Chron Goblin – Life for the Living"
+edited: false
 date: "2013-10-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "calgary"
   - "chron-goblin"
   - "desert-rock"

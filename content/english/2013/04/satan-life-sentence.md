@@ -1,11 +1,12 @@
 ---
 title: "Satan – Life Sentence"
+edited: false
 date: "2013-04-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "blue-oyster-cult"
   - "gruesome-greg"

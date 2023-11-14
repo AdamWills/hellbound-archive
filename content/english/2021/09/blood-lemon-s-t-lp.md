@@ -1,9 +1,10 @@
 ---
 title: "Blood Lemon - s/t LP"
+edited: false
 date: "2021-09-25"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "blood"
   - "lemon"
   - "record"

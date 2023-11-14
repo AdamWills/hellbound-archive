@@ -1,12 +1,13 @@
 ---
 title: "Interview With ANCIIENTS From Witchfinder Radio"
+edited: false
 date: "2013-11-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "features"
   - "witchfinder"
-tags: 
+tags:
   - "102-7fm"
   - "anciients"
   - "ca"

@@ -1,11 +1,12 @@
 ---
 title: "Canis Dirus: A Somber Wind from a Distant Shore"
+edited: false
 date: "2009-10-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "canis-dirus"
   - "moribund"

@@ -1,10 +1,11 @@
 ---
 title: "Hellbound @ Tuska Open Air 2017 in Helsinki"
+edited: false
 date: "2017-07-27"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "accept"
   - "amorphis"
   - "anneke-van-giersbergen"

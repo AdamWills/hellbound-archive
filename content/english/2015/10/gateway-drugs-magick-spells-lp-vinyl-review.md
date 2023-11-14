@@ -1,9 +1,10 @@
 ---
 title: "Gateway Drugs – Magick Spells LP (vinyl review)"
+edited: false
 date: "2015-10-22"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-rock"
   - "gateway-drugs"
   - "stoner-rock"

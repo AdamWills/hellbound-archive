@@ -1,10 +1,11 @@
 ---
 title: "Tom Petty and the Heartbreakers – Into The Great Wide Open (vinyl reissue)"
+edited: false
 date: "2017-08-22"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "classic-rock"
   - "reissue"
   - "review"

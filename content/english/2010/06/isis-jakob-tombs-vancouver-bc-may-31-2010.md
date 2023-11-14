@@ -1,11 +1,12 @@
 ---
 title: "ISIS/ Tombs/ Jakob @ Rickshaw Theatre, Vancouver BC, May 31, 2010"
+edited: false
 date: "2010-06-09"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "cara-cross"
   - "isis"
   - "jakob"

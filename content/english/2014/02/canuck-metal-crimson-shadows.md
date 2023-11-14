@@ -1,9 +1,10 @@
 ---
 title: "Crimson Shadows: Ready to Take on the World"
+edited: false
 date: "2014-02-12"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "arch-enemy"
   - "bandcamp"
   - "battlecross"

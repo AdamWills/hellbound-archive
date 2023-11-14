@@ -1,9 +1,10 @@
 ---
 title: "Triptykon – Melana Chasmata"
+edited: false
 date: "2014-07-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "avant-garde-metal"
   - "celtic-frost"

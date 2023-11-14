@@ -1,11 +1,12 @@
 ---
 title: "Cathedral - Anniversary"
+edited: false
 date: "2011-12-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cathedral"
   - "craig-haze"
   - "doom"

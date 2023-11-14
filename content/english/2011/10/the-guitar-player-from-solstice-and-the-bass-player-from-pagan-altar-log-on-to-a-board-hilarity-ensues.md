@@ -1,11 +1,12 @@
 ---
 title: "The guitar player from Solstice and the bass player from Pagan Altar log on to a board.  Hilarity ensues!"
+edited: false
 date: "2011-10-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "bobby-liebling"
   - "doom"
   - "doom-metal"

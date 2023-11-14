@@ -1,11 +1,12 @@
 ---
 title: "Revisiting Testament's <em>The Formation of Damnation</em>"
+edited: false
 date: "2010-03-17"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "deluxe-tour-edition"
   - "megadeth"
   - "nuclear-blast"

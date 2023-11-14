@@ -1,11 +1,12 @@
 ---
 title: "Stratovarius – Elysium"
+edited: false
 date: "2011-02-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "armoury-records"
   - "jason-wellwood"
   - "power-metal"

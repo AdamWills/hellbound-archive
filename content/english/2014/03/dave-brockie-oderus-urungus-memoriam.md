@@ -1,9 +1,10 @@
 ---
 title: "Dave Brockie, Oderus Urungus, In Memoriam"
+edited: false
 date: "2014-03-25"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "dave-brockie"
   - "gwar"
   - "oderus-urungus"

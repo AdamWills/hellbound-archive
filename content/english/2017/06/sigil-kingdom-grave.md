@@ -1,9 +1,10 @@
 ---
 title: "Sigil – Kingdom of the Grave"
+edited: false
 date: "2017-06-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "crust"
   - "death-metal"

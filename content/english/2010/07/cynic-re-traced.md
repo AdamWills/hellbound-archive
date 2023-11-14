@@ -1,11 +1,12 @@
 ---
 title: "Cynic - Re-Traced"
+edited: false
 date: "2010-07-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cynic"
   - "death"
   - "progressive-metal"

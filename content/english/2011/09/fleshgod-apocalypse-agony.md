@@ -1,11 +1,12 @@
 ---
 title: "Fleshgod Apocalypse – Agony"
+edited: false
 date: "2011-09-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "carcass"
   - "fleshgod-apocalypse"
   - "nuclear-blast"

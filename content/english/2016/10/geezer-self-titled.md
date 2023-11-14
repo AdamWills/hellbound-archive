@@ -1,10 +1,11 @@
 ---
 title: "Geezer – self-titled"
+edited: false
 date: "2016-10-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "garage"
   - "geezer"
   - "heavy-rock"

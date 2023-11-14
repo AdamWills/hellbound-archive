@@ -1,11 +1,12 @@
 ---
 title: "Iced Earth / Symphony X / Warbringer @ Phoenix Concert Theatre, Toronto ON, February 6, 2012"
+edited: false
 date: "2012-02-10"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "exodus"
   - "iced-earth"

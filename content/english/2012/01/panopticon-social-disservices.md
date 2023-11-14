@@ -1,11 +1,12 @@
 ---
 title: "Panopticon - Social Disservices"
+edited: false
 date: "2012-01-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "altar-of-plagues"
   - "black-metal"
   - "flesner-records"

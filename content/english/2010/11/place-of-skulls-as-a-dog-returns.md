@@ -1,11 +1,12 @@
 ---
 title: "Place of Skulls – As a Dog Returns"
+edited: false
 date: "2010-11-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bobby-liebling"
   - "death-row"
   - "doom"

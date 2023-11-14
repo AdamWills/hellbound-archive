@@ -1,11 +1,12 @@
 ---
 title: "Earth – Angels of Darkness, Demons of Light II"
+edited: false
 date: "2012-01-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dylan-carlson"
   - "earth"
   - "souithern-lord"

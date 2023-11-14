@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: COC/Crowbar/The Obsessed/Mothership @ Opera House, February 20, 2019"
+edited: false
 date: "2019-02-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "corrosion-of-conformity"

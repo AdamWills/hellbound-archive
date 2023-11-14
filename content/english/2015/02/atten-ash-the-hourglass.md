@@ -1,9 +1,10 @@
 ---
 title: "Atten Ash – The Hourglass"
+edited: false
 date: "2015-02-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-doom"
   - "doomvs"
   - "katatonia"

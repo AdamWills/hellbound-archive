@@ -1,9 +1,10 @@
 ---
 title: "Holy Beach – All That Matters Is This Matter LP"
+edited: false
 date: "2019-12-13"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
   - "rock"
   - "vinyl"

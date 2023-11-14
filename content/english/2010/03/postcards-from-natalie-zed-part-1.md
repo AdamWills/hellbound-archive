@@ -1,11 +1,12 @@
 ---
 title: "Postcards From Natalie Zed, Part 1"
+edited: false
 date: "2010-03-05"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm"
   - "all-the-remains"
   - "axxis"

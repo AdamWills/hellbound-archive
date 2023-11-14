@@ -1,10 +1,11 @@
 ---
 title: "BOOK REVIEW - The Explosive Early Years of the NWOBHM"
+edited: false
 date: "2016-02-17"
-categories: 
+categories:
   - "featured"
   - "reviews-books"
-tags: 
+tags:
   - "angel-witch"
   - "book-review"
   - "diamond-head"

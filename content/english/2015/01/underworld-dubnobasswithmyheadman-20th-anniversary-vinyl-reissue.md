@@ -1,10 +1,11 @@
 ---
 title: "Underworld – Dubnobasswithmyheadman (20th Anniversary vinyl reissue)"
+edited: false
 date: "2015-01-14"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "ambient"
   - "dance"
   - "david-bowie"

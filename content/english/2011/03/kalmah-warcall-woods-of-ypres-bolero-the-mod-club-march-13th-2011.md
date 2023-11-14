@@ -1,10 +1,11 @@
 ---
 title: "Kalmah / Warcall / Woods of Ypres / Bolero @ The Mod Club, March 13th 2011"
+edited: false
 date: "2011-03-17"
-categories: 
+categories:
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "bolero"
   - "david-gold"

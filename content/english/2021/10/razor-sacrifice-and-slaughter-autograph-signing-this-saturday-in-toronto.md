@@ -1,14 +1,15 @@
 ---
 title: "RAZOR, SACRIFICE and SLAUGHTER autograph signing this Saturday in Toronto"
+edited: false
 date: "2021-10-22"
-categories: 
+categories:
   - "blogs"
   - "canadian-metal"
   - "featured"
   - "features"
   - "headline"
   - "editors_blog"
-tags: 
+tags:
   - "autograph-session"
   - "metal"
   - "october"

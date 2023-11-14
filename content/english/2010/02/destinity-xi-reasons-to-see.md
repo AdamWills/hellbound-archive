@@ -1,11 +1,12 @@
 ---
 title: "Destinity - XI Reasons To See"
+edited: false
 date: "2010-02-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "behemoth"
   - "children-of-bodom"
   - "dark-tranquillity"

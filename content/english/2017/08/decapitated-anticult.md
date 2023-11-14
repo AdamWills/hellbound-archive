@@ -1,9 +1,10 @@
 ---
 title: "Decapitated – Anticult"
+edited: false
 date: "2017-08-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "decapitated"
   - "nuclear-blast"

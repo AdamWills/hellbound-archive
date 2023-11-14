@@ -1,11 +1,12 @@
 ---
 title: "Soooo, where do I buy my Black Sabbath tickets next weekend?"
+edited: false
 date: "2013-04-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "air-canada-centre"
   - "black-sabbath"
   - "gruesome-greg"

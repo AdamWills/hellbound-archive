@@ -1,11 +1,12 @@
 ---
 title: "Thinking Back To...  SXSW 1998"
+edited: false
 date: "2013-03-17"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "altamont"
   - "austin"
   - "bloodlet"

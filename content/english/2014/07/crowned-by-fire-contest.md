@@ -1,10 +1,11 @@
 ---
 title: "Crowned by Fire contest – Space Music for Cave People"
+edited: false
 date: "2014-07-24"
-categories: 
+categories:
   - "contests"
   - "features"
-tags: 
+tags:
   - "black-label-society"
   - "crowned-by-fire"
   - "hard-rock"

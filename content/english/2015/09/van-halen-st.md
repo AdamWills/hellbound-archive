@@ -1,10 +1,11 @@
 ---
 title: "Van Halen – s/t"
+edited: false
 date: "2015-09-07"
-categories: 
+categories:
   - "reviews-classics"
   - "staff_picks"
-tags: 
+tags:
   - "album-review"
   - "classics"
   - "hard-rock"

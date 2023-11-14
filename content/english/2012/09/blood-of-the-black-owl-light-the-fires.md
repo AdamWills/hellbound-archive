@@ -1,11 +1,12 @@
 ---
 title: "Blood Of The Black Owl - Light the Fires"
+edited: false
 date: "2012-09-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "agalloch"
   - "bindrune-recordings"
   - "blood-of-the-black-owl"

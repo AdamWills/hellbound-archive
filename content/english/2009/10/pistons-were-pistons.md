@@ -1,10 +1,11 @@
 ---
 title: "Pistons: We're Pistons"
+edited: false
 date: "2009-10-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "italy"
   - "metal"
   - "motorhead"

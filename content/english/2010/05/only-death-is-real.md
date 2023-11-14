@@ -1,11 +1,12 @@
 ---
 title: "Book review - Only Death is Real: An Illustrated History of Hellhammer and Early Celtic Frost 1981–1985"
+edited: false
 date: "2010-05-21"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "bazillion-points"
   - "black-metal"
   - "book-review"

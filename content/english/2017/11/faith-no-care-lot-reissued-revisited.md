@@ -1,9 +1,10 @@
 ---
 title: "FAITH NO MORE – We Care a Lot [reissued and revisited]"
+edited: false
 date: "2017-11-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "chuck-mosley"
   - "faith-no-more"

@@ -1,9 +1,10 @@
 ---
 title: "Caïna – Setter of Unseen Snares"
+edited: false
 date: "2015-05-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "caina"

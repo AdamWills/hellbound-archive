@@ -1,7 +1,8 @@
 ---
 title: "Man, whatever happened to my Woods of Ypres \"Batman\" shirt..."
+edited: false
 date: "2010-07-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

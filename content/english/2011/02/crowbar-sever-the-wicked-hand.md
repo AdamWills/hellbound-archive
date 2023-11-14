@@ -1,11 +1,12 @@
 ---
 title: "Crowbar – Sever the Wicked Hand"
+edited: false
 date: "2011-02-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "crowbar"
   - "e1-metal"
   - "gruesome-greg"

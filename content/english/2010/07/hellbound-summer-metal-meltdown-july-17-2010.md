@@ -1,7 +1,8 @@
 ---
 title: "Hellbound Summer Metal Meltdown: July 17, 2010 Playlist"
+edited: false
 date: "2010-07-18"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"

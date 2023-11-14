@@ -1,10 +1,11 @@
 ---
 title: "Doom Side of the Moon – self-titled"
+edited: false
 date: "2017-07-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom-side-of-the-moon"
   - "metal"
   - "pink-floyd"

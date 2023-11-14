@@ -1,9 +1,10 @@
 ---
 title: "Cynic – Kindly Bent to Free Us"
+edited: false
 date: "2014-05-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "cynic"
   - "porcupine-tree"
   - "progressive"

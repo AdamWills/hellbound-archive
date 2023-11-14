@@ -1,12 +1,13 @@
 ---
 title: "Blasphemous Meals #4: Hail The Goatfish"
+edited: false
 date: "2011-09-26"
-categories: 
+categories:
   - "articles"
   - "blasphemyblog"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "bazillion-points"
   - "blasphemous-meals"
   - "bulldozer"

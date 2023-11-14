@@ -1,9 +1,10 @@
 ---
 title: "Ruby the Hatchet – Valley of the Snake"
+edited: false
 date: "2015-01-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "acid-rock"
   - "album-review"
   - "doom-rock"

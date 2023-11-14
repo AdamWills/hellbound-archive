@@ -1,11 +1,12 @@
 ---
 title: "Bison BC - Lovelessness"
+edited: false
 date: "2012-10-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bison-bc"
   - "matt-hinch"
   - "metal-blade"

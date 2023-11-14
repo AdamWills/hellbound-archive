@@ -1,7 +1,8 @@
 ---
 title: "So, Barn Burner is (apparently) playing Sneaky Dee's tonite..."
+edited: false
 date: "2010-05-22"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

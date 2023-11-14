@@ -1,9 +1,10 @@
 ---
 title: "Cradle of Filth - Hammer of the Witches"
+edited: false
 date: "2015-07-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "british-metal"
   - "hammer-films"

@@ -1,11 +1,12 @@
 ---
 title: "Machine Head / Suicide Silence / Darkest Hour @ The Sound Academy, Toronto ON, January 28th 2012"
+edited: false
 date: "2012-02-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "darkest-hour"
   - "machine-head"
   - "sound-academy"

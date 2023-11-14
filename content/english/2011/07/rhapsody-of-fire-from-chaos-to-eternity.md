@@ -1,11 +1,12 @@
 ---
 title: "Rhapsody of Fire - From Chaos To Eternity"
+edited: false
 date: "2011-07-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "jason-wellwood"
   - "nuclear-blast"
   - "rhapsody-of-fire"

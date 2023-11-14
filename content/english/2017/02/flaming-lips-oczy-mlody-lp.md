@@ -1,9 +1,10 @@
 ---
 title: "Flaming Lips – Oczy Mlody LP"
+edited: false
 date: "2017-02-10"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "flaming-lips"
   - "pop"

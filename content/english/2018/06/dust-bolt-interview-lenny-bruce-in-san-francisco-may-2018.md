@@ -1,9 +1,10 @@
 ---
 title: "Dust Bolt interview: Lenny Bruce in San Francisco, May 2018"
+edited: false
 date: "2018-06-28"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "dust-bolt"
   - "interview"
   - "lenny-bruce"

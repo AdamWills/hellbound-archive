@@ -1,9 +1,10 @@
 ---
 title: "Power Trip @ The Velvet Underground, 25 September 2017"
+edited: false
 date: "2017-10-09"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "crossover"
   - "hardcore"

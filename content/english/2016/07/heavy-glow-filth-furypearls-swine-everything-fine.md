@@ -1,10 +1,11 @@
 ---
 title: "Heavy Glow – The Filth &amp; the Fury/Pearls &amp; Swine and Everything Fine"
+edited: false
 date: "2016-07-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fuzz-rock"
   - "heavy-glow"
   - "psych-rock"

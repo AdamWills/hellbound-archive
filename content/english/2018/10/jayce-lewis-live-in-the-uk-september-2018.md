@@ -1,9 +1,10 @@
 ---
 title: "Jayce Lewis live in the UK, September 2018"
+edited: false
 date: "2018-10-10"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "birmingham"
   - "concert"
   - "electro-rock"

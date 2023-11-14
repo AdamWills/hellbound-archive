@@ -1,10 +1,11 @@
 ---
 title: "KEN Mode/ Engineer/ Vilipend/ Gray Acre @ Sneaky Dee’s, Toronto ON, August 31 2010"
+edited: false
 date: "2010-09-09"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "engineer"
   - "gray-acre"
   - "ken-mode"

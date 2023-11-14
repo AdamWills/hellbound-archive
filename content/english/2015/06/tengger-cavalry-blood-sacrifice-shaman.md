@@ -1,9 +1,10 @@
 ---
 title: "TENGGER CAVALRY - Blood Sacrifice Shaman"
+edited: false
 date: "2015-06-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "folk-metal"
   - "mongolian-metal"

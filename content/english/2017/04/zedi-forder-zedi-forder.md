@@ -1,9 +1,10 @@
 ---
 title: "Zedi Forder – Zedi Forder"
+edited: false
 date: "2017-04-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alt-metal"
   - "heavy-rock"
   - "review"

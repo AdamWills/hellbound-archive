@@ -1,9 +1,10 @@
 ---
 title: "NXNE 2015 - Urvah Khan, Cold Cave, Deafheaven"
+edited: false
 date: "2015-07-28"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert-photos"
   - "concert-review"
   - "deafheaven"

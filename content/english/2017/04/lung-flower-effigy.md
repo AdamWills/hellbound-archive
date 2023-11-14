@@ -1,9 +1,10 @@
 ---
 title: "Lung Flower – Effigy"
+edited: false
 date: "2017-04-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alt-metal"
   - "alternative"
   - "doom"

@@ -1,11 +1,12 @@
 ---
 title: "Construcdead: Endless Echo"
+edited: false
 date: "2009-07-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-lodge"
   - "construcdead"
   - "darkane"

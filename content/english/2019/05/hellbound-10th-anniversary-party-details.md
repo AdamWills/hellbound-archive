@@ -1,14 +1,15 @@
 ---
 title: "Hellbound 10th Anniversary Party Details! See you on June 1st!"
+edited: false
 date: "2019-05-20"
-categories: 
+categories:
   - "blogs"
   - "canadian-metal"
   - "features"
   - "headline"
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "anthropic"
   - "astral-witch"
   - "chainbreaker"

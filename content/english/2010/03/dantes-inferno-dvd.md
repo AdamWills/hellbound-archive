@@ -1,11 +1,12 @@
 ---
 title: "Dante's Inferno: An Animated Epic"
+edited: false
 date: "2010-03-01"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "anchor-bay-entertainment"
   - "animated-film"
   - "dvd-review"

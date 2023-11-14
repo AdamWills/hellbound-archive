@@ -1,11 +1,12 @@
 ---
 title: "Katatonia: Twenty Years Down the Road"
+edited: false
 date: "2011-09-22"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "anders-nystrom"
   - "century-media"
   - "hellbound"

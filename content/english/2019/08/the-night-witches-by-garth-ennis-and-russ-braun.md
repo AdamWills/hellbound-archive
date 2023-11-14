@@ -1,9 +1,10 @@
 ---
 title: "The Night Witches by Garth Ennis and Russ Braun"
+edited: false
 date: "2019-08-21"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "graphic-novel"
   - "history"

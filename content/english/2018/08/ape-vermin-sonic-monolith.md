@@ -1,9 +1,10 @@
 ---
 title: "Ape Vermin – Sonic Monolith"
+edited: false
 date: "2018-08-28"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
   - "sludge-metal"

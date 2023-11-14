@@ -1,11 +1,12 @@
 ---
 title: "Decapitated – Carnival Is Forever"
+edited: false
 date: "2011-08-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "decapitated"
   - "nuclear-blast"
   - "ola-mazzuca"

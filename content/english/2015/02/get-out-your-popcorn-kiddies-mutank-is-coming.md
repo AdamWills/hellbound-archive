@@ -1,9 +1,10 @@
 ---
 title: "Get out your popcorn kiddies, MUTANK is coming"
+edited: false
 date: "2015-02-23"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "canadian-metal"
   - "interview"
   - "montreal"

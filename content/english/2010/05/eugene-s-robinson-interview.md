@@ -1,11 +1,12 @@
 ---
 title: "Eugene S. Robinson: The Hellbound.ca Interview"
+edited: false
 date: "2010-05-07"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "eugene-s-robinson"
   - "harpercollins"
   - "hydra-head"

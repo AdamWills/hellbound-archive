@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: December 5th, 2010 playlist"
+edited: false
 date: "2010-12-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "atheist"
   - "blind-guardian"
   - "cough"

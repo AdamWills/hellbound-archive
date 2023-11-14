@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: ANGEL WITCH/Blood Ceremony/Cauldron @ Lee's Palace, May 16, 2018"
+edited: false
 date: "2018-05-18"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "angel-witch"
   - "blood-ceremony"
   - "cauldron"

@@ -1,9 +1,10 @@
 ---
 title: "Worthless – Life's A Garden LP"
+edited: false
 date: "2017-06-30"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
   - "vinyl"
   - "worthless"

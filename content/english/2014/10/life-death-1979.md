@@ -1,9 +1,10 @@
 ---
 title: "Life After Death From Above 1979"
+edited: false
 date: "2014-10-08"
-categories: 
+categories:
   - "reviews-visual"
-tags: 
+tags:
   - "coachella"
   - "death-from-above-1979"
   - "documentary"

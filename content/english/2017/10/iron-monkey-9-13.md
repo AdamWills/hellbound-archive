@@ -1,10 +1,11 @@
 ---
 title: "Iron Monkey – 9-13"
+edited: false
 date: "2017-10-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "crust"
   - "doom"
   - "iron-monkey"

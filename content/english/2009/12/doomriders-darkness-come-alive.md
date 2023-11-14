@@ -1,11 +1,12 @@
 ---
 title: "Doomriders: Darkness Come Alive"
+edited: false
 date: "2009-12-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "converge"
   - "deathwish-inc"
   - "doomriders"

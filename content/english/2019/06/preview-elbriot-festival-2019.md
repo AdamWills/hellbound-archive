@@ -1,10 +1,11 @@
 ---
 title: "PREVIEW: Elbriot Festival 2019"
+edited: false
 date: "2019-06-04"
-categories: 
+categories:
   - "features"
   - "psa"
-tags: 
+tags:
   - "festival"
   - "metal"
   - "preview"

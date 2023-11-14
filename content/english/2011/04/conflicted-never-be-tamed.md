@@ -1,11 +1,12 @@
 ---
 title: "Conflicted – Never be Tamed"
+edited: false
 date: "2011-04-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "allan-grusie"
   - "conflicted"
   - "kamelot"

@@ -1,11 +1,12 @@
 ---
 title: "The Body's in The Shop.  Parts and Labour: $10"
+edited: false
 date: "2011-05-14"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "doom"
   - "gruesome-greg"
   - "parts-and-labour"

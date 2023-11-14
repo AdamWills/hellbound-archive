@@ -1,10 +1,11 @@
 ---
 title: "High Reeper – self-titled"
+edited: false
 date: "2017-09-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "desert-rock"
   - "doom"
   - "doom-metal"

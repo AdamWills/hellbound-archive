@@ -1,10 +1,11 @@
 ---
 title: "Numenorean – Home"
+edited: false
 date: "2016-08-02"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "blackened-doom"
   - "calgary"

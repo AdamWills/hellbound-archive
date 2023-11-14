@@ -1,10 +1,11 @@
 ---
 title: "Anti-Flag – American Spring LP"
+edited: false
 date: "2015-06-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "anti-flag"
   - "punk"
   - "punk-rock"

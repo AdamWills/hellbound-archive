@@ -1,11 +1,12 @@
 ---
 title: "Suicidal Tendencies: Live At The Olympic Auditorium"
+edited: false
 date: "2010-01-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "dvd"
   - "fontana-distribution"
   - "hardcore"

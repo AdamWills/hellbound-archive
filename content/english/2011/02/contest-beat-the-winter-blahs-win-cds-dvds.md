@@ -1,10 +1,11 @@
 ---
 title: "CONTEST: Beat The Winter Blahs! Win CDs & DVDs!"
+edited: false
 date: "2011-02-20"
-categories: 
+categories:
   - "contests"
   - "featured"
-tags: 
+tags:
   - "candlelight-usa"
   - "contest"
   - "death-angel"

@@ -1,10 +1,11 @@
 ---
 title: "The Obsessed – Sacred"
+edited: false
 date: "2017-03-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "review"

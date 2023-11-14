@@ -1,9 +1,10 @@
 ---
 title: "Lee Bains III and The Glory Fires – Dereconstructed"
+edited: false
 date: "2014-06-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "blues"
   - "blues-rock"
   - "hard-rock"

@@ -1,11 +1,12 @@
 ---
 title: "Cruickshank – self-titled"
+edited: false
 date: "2019-08-05"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "doom"
   - "metal"

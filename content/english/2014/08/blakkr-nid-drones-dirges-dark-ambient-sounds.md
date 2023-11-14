@@ -1,9 +1,10 @@
 ---
 title: "Blakkr Nið – Drones, Dirges, and Dark Ambient Sounds"
+edited: false
 date: "2014-08-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bandcamp"
   - "blakkr-nid"
   - "drone"

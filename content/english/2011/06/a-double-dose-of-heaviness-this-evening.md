@@ -1,11 +1,12 @@
 ---
 title: "A double dose of heaviness this evening..."
+edited: false
 date: "2011-06-11"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "a-storm-of-light"
   - "atmospheric"
   - "grind"

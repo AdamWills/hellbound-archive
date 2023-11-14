@@ -1,9 +1,10 @@
 ---
 title: "Stevie Ray Vaughan and Double Trouble – A Legend in the Making LP"
+edited: false
 date: "2016-01-01"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "blues"
   - "review"
   - "stevie-ray-vaughn"

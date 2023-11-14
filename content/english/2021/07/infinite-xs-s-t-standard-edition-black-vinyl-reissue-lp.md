@@ -1,10 +1,11 @@
 ---
 title: "Infinite X's - S/T (Standard Edition black vinyl reissue) LP"
+edited: false
 date: "2021-07-30"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "butcher"
   - "debut"
   - "infinite-xs"

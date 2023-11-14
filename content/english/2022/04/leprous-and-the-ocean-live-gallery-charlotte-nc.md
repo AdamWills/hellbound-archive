@@ -1,7 +1,8 @@
 ---
 title: "Leprous and The Ocean - Live Gallery: Charlotte, NC"
+edited: false
 date: "2022-04-25"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"

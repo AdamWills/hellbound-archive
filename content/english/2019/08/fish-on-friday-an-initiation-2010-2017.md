@@ -1,9 +1,10 @@
 ---
 title: "Fish On Friday – An Initiation (2010-2017)"
+edited: false
 date: "2019-08-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "progressive-rock"
   - "review"
   - "rock"

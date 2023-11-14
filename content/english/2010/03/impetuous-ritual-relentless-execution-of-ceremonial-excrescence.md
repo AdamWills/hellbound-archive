@@ -1,11 +1,12 @@
 ---
 title: "Impetuous Ritual - Relentless Execution of Ceremonial Excrescence"
+edited: false
 date: "2010-03-31"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "australia"
   - "death-metal"
   - "impetuous-ritual"

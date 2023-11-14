@@ -1,11 +1,12 @@
 ---
 title: "Sons of Tonatiuh – s/t"
+edited: false
 date: "2010-12-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "darkthrone"
   - "eyehategod"

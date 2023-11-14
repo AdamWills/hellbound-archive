@@ -1,11 +1,12 @@
 ---
 title: "YOB – Atma"
+edited: false
 date: "2011-07-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gruesome-greg"
   - "mike-scheidt"
   - "profound-lore"

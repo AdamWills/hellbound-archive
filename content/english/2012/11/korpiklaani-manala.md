@@ -1,11 +1,12 @@
 ---
 title: "Korpiklaani – Manala"
+edited: false
 date: "2012-11-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cancer-bats"
   - "classic-metal"
   - "folk"

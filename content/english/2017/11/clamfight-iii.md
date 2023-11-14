@@ -1,10 +1,11 @@
 ---
 title: "Clamfight – III"
+edited: false
 date: "2017-11-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "clamfight"
   - "doom"
   - "metal"

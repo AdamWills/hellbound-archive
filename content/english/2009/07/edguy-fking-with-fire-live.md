@@ -1,11 +1,12 @@
 ---
 title: "Edguy: F**king With Fire-Live"
+edited: false
 date: "2009-07-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "edguy"
   - "germany"
   - "live-album"

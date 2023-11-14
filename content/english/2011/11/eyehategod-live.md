@@ -1,11 +1,12 @@
 ---
 title: "Eyehategod – Live"
+edited: false
 date: "2011-11-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "adrien-begrand"
   - "eyehategod"
   - "jimmy-bower"

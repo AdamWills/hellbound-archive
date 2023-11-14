@@ -1,7 +1,8 @@
 ---
 title: "Why ProgPower Still Matters"
+edited: false
 date: "2014-11-17"
-categories: 
+categories:
   - "articles"
   - "features"
 ---

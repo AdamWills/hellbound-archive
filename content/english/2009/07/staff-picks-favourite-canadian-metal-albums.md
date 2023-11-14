@@ -1,7 +1,8 @@
 ---
 title: "Staff Picks: Favourite Canadian Metal Albums"
+edited: false
 date: "2009-07-01"
-categories: 
+categories:
   - "features"
   - "headline"
   - "staff_picks"

@@ -1,10 +1,11 @@
 ---
 title: "Arduini/Balich – Dawn of Ages"
+edited: false
 date: "2017-01-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "progressive"

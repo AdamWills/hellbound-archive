@@ -1,9 +1,10 @@
 ---
 title: "Greber: hanging out, playing riffs, losing money, making noise"
+edited: false
 date: "2014-11-05"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "fuck-the-facts"
   - "greber"
   - "handshake-inc"

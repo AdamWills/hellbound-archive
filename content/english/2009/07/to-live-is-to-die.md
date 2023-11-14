@@ -1,11 +1,12 @@
 ---
 title: "Book Review: To Live Is To Die: The Life And Death Of Metallica's Cliff Burton by Joel McIver"
+edited: false
 date: "2009-07-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "cliff-burton"
   - "metallica"

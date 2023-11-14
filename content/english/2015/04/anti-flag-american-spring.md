@@ -1,9 +1,10 @@
 ---
 title: "Anti-Flag – American Spring"
+edited: false
 date: "2015-04-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "anti-flag"
   - "punk"

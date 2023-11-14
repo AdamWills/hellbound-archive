@@ -1,9 +1,10 @@
 ---
 title: "Enslaved – E"
+edited: false
 date: "2017-10-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "enslaved"
   - "epic"

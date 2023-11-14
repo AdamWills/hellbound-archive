@@ -1,11 +1,12 @@
 ---
 title: "Auroch - From Forgotten Worlds"
+edited: false
 date: "2012-12-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "auroch"
   - "death-metal"
   - "dimebag-darrell"

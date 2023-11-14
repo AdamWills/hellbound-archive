@@ -1,9 +1,10 @@
 ---
 title: "ProgPower 2015: Day 2 (Thu, Sep 10)"
+edited: false
 date: "2015-10-15"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "almah"
   - "armored-saint"
   - "dragonland"

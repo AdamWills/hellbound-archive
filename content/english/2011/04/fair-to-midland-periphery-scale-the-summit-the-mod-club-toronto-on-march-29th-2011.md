@@ -1,11 +1,12 @@
 ---
 title: "Fair to Midland / Periphery / Scale the Summit @ the Mod Club, Toronto ON, March 29th 2011"
+edited: false
 date: "2011-04-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "between-the-buried-and-me"
   - "cynic"
   - "darkest-hour"

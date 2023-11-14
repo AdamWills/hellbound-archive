@@ -1,11 +1,12 @@
 ---
 title: "Soilwork/ Death Angel/ Mutiny Within @ The Opera House, Toronto ON, July 19 2010"
+edited: false
 date: "2010-07-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "death-angel"
   - "mutiny-within"
   - "nuclear-blast"

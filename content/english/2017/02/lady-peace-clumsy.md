@@ -1,9 +1,10 @@
 ---
 title: "Our Lady Peace – Clumsy"
+edited: false
 date: "2017-02-02"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative-rock"
   - "our-lady-peace"
   - "review"

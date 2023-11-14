@@ -1,9 +1,10 @@
 ---
 title: "Spirit – Two Sides of a Rainbow: Live at the Rainbow 1978"
+edited: false
 date: "2019-12-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "review"
   - "rock"
 ---

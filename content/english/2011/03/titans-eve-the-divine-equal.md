@@ -1,10 +1,11 @@
 ---
 title: "Titan’s Eve - The Divine Equal"
+edited: false
 date: "2011-03-21"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "jason-wellwood"
   - "thrash"

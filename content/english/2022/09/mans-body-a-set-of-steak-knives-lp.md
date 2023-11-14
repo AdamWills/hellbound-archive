@@ -1,10 +1,11 @@
 ---
 title: "Man's Body - A Set Of Steak Knives LP"
+edited: false
 date: "2022-09-05"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "a-set-of-steak-knives"
   - "mans-body"
   - "nocturnalsol-records"

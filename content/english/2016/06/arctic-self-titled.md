@@ -1,10 +1,11 @@
 ---
 title: "Arctic – self-titled"
+edited: false
 date: "2016-06-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "arctic"
   - "heavy-psych"
   - "metal"

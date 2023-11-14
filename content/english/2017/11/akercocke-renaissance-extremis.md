@@ -1,9 +1,10 @@
 ---
 title: "Akercocke – Renaissance In Extremis"
+edited: false
 date: "2017-11-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "akercocke"
   - "black-metal"
   - "death-metal"

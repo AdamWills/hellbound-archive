@@ -1,11 +1,12 @@
 ---
 title: "DragonForce/Sonata Arctica/Taking Dawn @ Odeon, Saskatoon, SK, September 25, 2009"
+edited: false
 date: "2009-09-28"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "dragonforce"
   - "finland"
   - "nuclear-blast"

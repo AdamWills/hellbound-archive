@@ -1,12 +1,13 @@
 ---
 title: "Blackfield - NYC: Blackfield Live in New York City"
+edited: false
 date: "2010-02-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "aviv-geffen"
   - "blackfield"
   - "israel"
@@ -19,8 +20,8 @@ tags:
   - "uk"
 ---
 
-[![blackfield](http://www.hellbound.ca/wp-content/uploads/2010/02/blackfield-223x300.jpg "blackfield")](http://www.hellbound.ca/wp-content/uploads/2010/02/blackfield.jpg)  
-**  
+[![blackfield](http://www.hellbound.ca/wp-content/uploads/2010/02/blackfield-223x300.jpg "blackfield")](http://www.hellbound.ca/wp-content/uploads/2010/02/blackfield.jpg)
+**
 By Sean Palmerston**
 
 This is probably the least metal thing that has ever been reviewed to date on Hellbound.ca, but I think when you take into consideration who is in this band it will likely make a little bit more sense that it is reviewed here.

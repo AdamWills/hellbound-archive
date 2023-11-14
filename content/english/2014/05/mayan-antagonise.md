@@ -1,9 +1,10 @@
 ---
 title: "MaYan – Antagonise"
+edited: false
 date: "2014-05-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "gothic-metal"
   - "mayan"

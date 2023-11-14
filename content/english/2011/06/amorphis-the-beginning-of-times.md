@@ -1,11 +1,12 @@
 ---
 title: "Amorphis - The Beginning Of Times"
+edited: false
 date: "2011-06-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "amorphis"
   - "nuclear-blast"
   - "rob-kachluba"

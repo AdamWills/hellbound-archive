@@ -1,11 +1,12 @@
 ---
 title: "DTRASH + Schizoid & Melt Banana in Toronto, 17 May 2015"
+edited: false
 date: "2015-06-19"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-live"
   - "editors_blog"
-tags: 
+tags:
   - "album-review"
   - "concert-photos"
   - "concert-review"

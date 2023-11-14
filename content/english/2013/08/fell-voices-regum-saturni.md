@@ -1,11 +1,12 @@
 ---
 title: "Fell Voices - Regum Saturni"
+edited: false
 date: "2013-08-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "ash-borer"
   - "black-metal"
   - "fell-voices"

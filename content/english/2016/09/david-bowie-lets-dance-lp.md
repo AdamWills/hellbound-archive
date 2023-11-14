@@ -1,10 +1,11 @@
 ---
 title: "David Bowie – Let's Dance LP"
+edited: false
 date: "2016-09-21"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "david-bowie"
   - "review"
   - "rock"

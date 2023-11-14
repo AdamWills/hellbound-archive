@@ -1,11 +1,12 @@
 ---
 title: "Fear Factory: Reborn To Mechanize"
+edited: false
 date: "2010-01-08"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "candlelight-usa"
   - "fear-factory"
   - "gene-hoglan"

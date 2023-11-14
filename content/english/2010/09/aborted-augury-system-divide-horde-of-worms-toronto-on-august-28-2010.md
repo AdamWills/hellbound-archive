@@ -1,11 +1,12 @@
 ---
 title: "Aborted/ Augury/ System Divide/ Horde of Worms @ Sneaky Dee's, Toronto ON, August 28th 2010"
+edited: false
 date: "2010-09-03"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "aborted"
   - "adam-wills"
   - "augury"

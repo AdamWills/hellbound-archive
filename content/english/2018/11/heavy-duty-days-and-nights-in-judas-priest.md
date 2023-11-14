@@ -1,9 +1,10 @@
 ---
 title: "Heavy Duty: Days and Nights in Judas Priest"
+edited: false
 date: "2018-11-05"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "autobiography"
   - "book"
   - "book-review"

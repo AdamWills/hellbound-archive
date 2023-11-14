@@ -1,11 +1,12 @@
 ---
 title: "Primus @ Sound Academy, Toronto, ON, July 27, 2010"
+edited: false
 date: "2010-08-04"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "blind-illusion"
   - "experimental"
   - "funk"

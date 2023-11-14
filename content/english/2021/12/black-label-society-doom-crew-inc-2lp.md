@@ -1,10 +1,11 @@
 ---
 title: "Black Label Society - Doom Crew Inc. [2LP]"
+edited: false
 date: "2021-12-29"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "black-label-society"
   - "doom-crew-inc"
   - "eone"

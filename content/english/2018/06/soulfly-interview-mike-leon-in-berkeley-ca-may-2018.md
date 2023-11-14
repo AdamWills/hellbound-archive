@@ -1,9 +1,10 @@
 ---
 title: "Soulfly INTERVIEW: Mike Leon in Berkeley CA, May 2018"
+edited: false
 date: "2018-06-04"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "berkeley"
   - "california"
   - "heavy-metal"

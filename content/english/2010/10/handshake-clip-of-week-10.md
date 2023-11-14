@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Handshake Clip Of The Week: Today Is The Day"
+edited: false
 date: "2010-10-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "handshake-hellbound-clip-of-the-week"
   - "handshake-inc-hellbound-video-of-the-week"
   - "handshake-inc"

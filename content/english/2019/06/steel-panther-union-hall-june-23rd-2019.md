@@ -1,9 +1,10 @@
 ---
 title: "Steel Panther @ Union Hall - June 23rd 2019"
+edited: false
 date: "2019-06-24"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "live"
   - "photography"
@@ -15,7 +16,7 @@ Starting off the night was Edmonton’s own **Striker**. I’ve seen these guys 
 
 \[gallery ids="37705,37704,37703,37707,37708,37709,37710,37711,37712,37714,37713,37715"\]
 
-  
+
 This was my third time seeing **Steel Panther** and every time I see them the shows just get better and better. While I was in the photo pit I just about teared up from laughing so hard at the jokes after jokes. With song names like "Asian Hooker," "Poontang Boomerang," and "Gloryhole" it’s really hard to take these guys seriously, and they're definitely going to offend some people. It’s kind of the beauty of them though – they are all great musicians but their song lyrics are just ridiculous. During the performance of "Asian Hooker" they invited a lovely Asian lady to come up on stage and dance with them, as well a little later in the night they had the whole stage full of lovely ladies dancing away.
 
 With these guys it’s almost a guarantee that you’re going to see some boobs on stage but last night I think some people got a little more of a view than that when one of the ladies on stage pulled up her dress rather than pulling it down. From where I was standing on the upper level of the venue I can’t confirm exactly what was seen but either which way people got a show, music and otherwise. Both bands were a blast to photograph and watch. I would definitely check them both out if you haven’t already!
@@ -36,13 +37,13 @@ With these guys it’s almost a guarantee that you’re going to see some boobs 
 
 ## STRIKER
 
-**Striker Headlining Dates**  
-July 2 - Kelowna, BC - Muninn's Post \*with Lost Nebula  
-July 3 - Vancouver, BC - Astoria \*with Lost Nebula  
-July 5 - Seattle, WA – El Corazon \*with Neck of the Woods  
-July 6 - Portland, OR – High Water Mark  \*with Neck of the Woods    
-July 7 - Eugene, OR – Old Nicks  \*with Neck of the Woods  
-  
+**Striker Headlining Dates**
+July 2 - Kelowna, BC - Muninn's Post \*with Lost Nebula
+July 3 - Vancouver, BC - Astoria \*with Lost Nebula
+July 5 - Seattle, WA – El Corazon \*with Neck of the Woods
+July 6 - Portland, OR – High Water Mark  \*with Neck of the Woods  
+July 7 - Eugene, OR – Old Nicks  \*with Neck of the Woods
+
 
 **Striker w/ Holy Grail, Bewitcher**
 

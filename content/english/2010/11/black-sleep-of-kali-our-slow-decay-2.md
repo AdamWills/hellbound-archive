@@ -1,11 +1,12 @@
 ---
 title: "Black Sleep of Kali – Our Slow Decay"
+edited: false
 date: "2010-11-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "black-sleep-of-kali"
   - "gruesome-greg"

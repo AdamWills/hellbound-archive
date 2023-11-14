@@ -1,9 +1,10 @@
 ---
 title: "Canadian metal new release round-up: April 2016 edition"
+edited: false
 date: "2016-04-23"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "canadian-metal"
   - "canuck-metal"
   - "new-releases"
@@ -17,19 +18,19 @@ Another Hellbound / Kill Eat Exploit the Weak run down of recent Canadian metal 
 
 #### Catching up:
 
-**Frostbite – Etching Obscurity** released 5 Feb 2016 (Montreal, Québec) 
+**Frostbite – Etching Obscurity** released 5 Feb 2016 (Montreal, Québec)
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2657980799/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://frostbitemontreal.bandcamp.com/album/etching-obscurity">Etching Obscurity by Frostbite</a></iframe>
 
-**Alder – Sun Worshipper** released 20 Feb 2016 (Calgary, Alberta) 
+**Alder – Sun Worshipper** released 20 Feb 2016 (Calgary, Alberta)
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1132687445/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://alder-can.bandcamp.com/album/sun-worshipper">Sun Worshipper by Alder</a></iframe>
 
-**Scars from a Dead Room – Vengeance** released 29 Feb 2016 (Montreal, Québec) 
+**Scars from a Dead Room – Vengeance** released 29 Feb 2016 (Montreal, Québec)
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2557462131/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://scarsfromadeadroom.bandcamp.com/album/vengeance">Vengeance by Scars from a dead room</a></iframe>
 
-**The End of Gallia – That Was the End - This is the Beginning** released 12 Mar 2016 (Montreal, Québec) 
+**The End of Gallia – That Was the End - This is the Beginning** released 12 Mar 2016 (Montreal, Québec)
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4105151246/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://theendofgallia.bandcamp.com/album/that-was-the-end-this-is-the-beginning">That Was the End // This is the Beginning by The End of Gallia</a></iframe>
 
@@ -41,11 +42,11 @@ Another Hellbound / Kill Eat Exploit the Weak run down of recent Canadian metal 
 
 **Idolatry – Visions From The Throne Of Eyes** released 25 March 2016 (Edmonton, Alberta) [idolatry.bigcartel.com](http://idolatry.bigcartel.com)
 
-**Necronomicon – Advent of the Human God** released 25 Mar 2016 (Montreal, Québec) 
+**Necronomicon – Advent of the Human God** released 25 Mar 2016 (Montreal, Québec)
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=4208861281/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://necronomiconbm.bandcamp.com/album/advent-of-the-human-god">Advent of the Human God by Necronomicon</a></iframe>
 
-**Gypsy Chief Goliath – Citizens of Nowhere** released 15 April 2016 (Toronto, Ontario) 
+**Gypsy Chief Goliath – Citizens of Nowhere** released 15 April 2016 (Toronto, Ontario)
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3908325002/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://pitchblackrecords.bandcamp.com/album/citizens-of-nowhere">Citizens of Nowhere by GYPSY CHIEF GOLIATH</a></iframe>
 
@@ -53,7 +54,7 @@ Another Hellbound / Kill Eat Exploit the Weak run down of recent Canadian metal 
 
 #### Upcoming:
 
-**Greber – Split 7" with Anthesis** releases 17 May 2016 
+**Greber – Split 7" with Anthesis** releases 17 May 2016
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2208647417/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://greber.bandcamp.com/album/split-7-with-anthesis">Split 7" with Anthesis by Greber</a></iframe>
 

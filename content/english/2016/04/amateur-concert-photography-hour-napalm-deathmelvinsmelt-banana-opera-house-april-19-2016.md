@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Napalm Death/Melvins/Melt Banana @ Opera House, April 19, 2016"
+edited: false
 date: "2016-04-21"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "melt-banana"

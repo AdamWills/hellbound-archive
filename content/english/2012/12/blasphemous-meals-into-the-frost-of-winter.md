@@ -1,12 +1,13 @@
 ---
 title: "Blasphemous Meals #7: Into The Frost Of Winter"
+edited: false
 date: "2012-12-03"
-categories: 
+categories:
   - "articles"
   - "blasphemyblog"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "blasphemous-meals"
   - "frank-mazzuca"
   - "mayhem"

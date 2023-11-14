@@ -1,10 +1,11 @@
 ---
 title: "Iron Maiden: Flight 666"
+edited: false
 date: "2009-06-19"
-categories: 
+categories:
   - "headline"
   - "reviews-visual"
-tags: 
+tags:
   - "dvd"
   - "emi"
   - "flight-666"

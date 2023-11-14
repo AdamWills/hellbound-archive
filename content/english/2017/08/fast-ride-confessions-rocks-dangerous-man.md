@@ -1,9 +1,10 @@
 ---
 title: "A Fast Ride Out of Here: Confessions of Rock’s Most Dangerous Man"
+edited: false
 date: "2017-08-28"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "autobiography"
   - "biography"
   - "book-review"

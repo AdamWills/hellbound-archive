@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Handshake Clip Of The Week: Woods Of Ypres video outtakes"
+edited: false
 date: "2010-07-25"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "canada"
   - "handshake-inc-hellbound-video-of-the-week"
   - "video-shoot"

@@ -1,11 +1,12 @@
 ---
 title: "Formloff: Spyhorelandet"
+edited: false
 date: "2012-08-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "arcturus"
   - "black-metal"
   - "craig-haze"

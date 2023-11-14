@@ -1,12 +1,13 @@
 ---
 title: "Chris Broderick of Megadeth: The Hellbound Audio Interview"
+edited: false
 date: "2012-02-09"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
-tags: 
+tags:
   - "alex-skolnick"
   - "chris-broderick"
   - "gigantour"

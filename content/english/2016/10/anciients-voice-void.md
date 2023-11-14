@@ -1,10 +1,11 @@
 ---
 title: "Anciients – Voice of the Void"
+edited: false
 date: "2016-10-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anciients"
   - "metal"
   - "post-sludge"

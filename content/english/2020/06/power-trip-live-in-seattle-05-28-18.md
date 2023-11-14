@@ -1,10 +1,11 @@
 ---
 title: "POWER TRIP - Live In Seattle 05.28.18"
+edited: false
 date: "2020-06-12"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "crossover"
   - "dark-operative"

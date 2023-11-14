@@ -1,10 +1,11 @@
 ---
 title: "WARBRINGER interview: John Kevill in Oakland CA, 22 May 2017"
+edited: false
 date: "2017-05-30"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "interview"
   - "live"
   - "metal"

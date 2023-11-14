@@ -1,11 +1,12 @@
 ---
 title: "NEBULA vs The Entrance Band?  That's not even a fair fight!"
+edited: false
 date: "2009-08-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "live"
   - "nebula"
   - "the-entrance-band"

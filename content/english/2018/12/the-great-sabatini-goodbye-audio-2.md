@@ -1,11 +1,12 @@
 ---
 title: "The Great Sabatini – Goodbye Audio"
+edited: false
 date: "2018-12-19"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "hardcore"
   - "heavy"

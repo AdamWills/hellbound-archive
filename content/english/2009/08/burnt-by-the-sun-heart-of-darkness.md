@@ -1,11 +1,12 @@
 ---
 title: "Burnt By The Sun: Heart Of Darkness"
+edited: false
 date: "2009-08-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "burnt-by-the-sun"
   - "metalcore"
   - "relapse"

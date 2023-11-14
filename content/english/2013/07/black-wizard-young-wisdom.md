@@ -1,11 +1,12 @@
 ---
 title: "Black Wizard—Young Wisdom"
+edited: false
 date: "2013-07-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adam-grant"
   - "anciients"
   - "black-sabbath"

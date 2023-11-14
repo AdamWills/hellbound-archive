@@ -1,11 +1,12 @@
 ---
 title: "Helix – Vagabond Bones"
+edited: false
 date: "2010-02-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "1983"
   - "1984"
   - "brian-vollmer"

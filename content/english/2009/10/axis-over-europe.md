@@ -1,11 +1,12 @@
 ---
 title: "Axis Over Europe: Today Is The Day/Jucifer Tour Diary, Part One"
+edited: false
 date: "2009-10-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "euopean-tour"
   - "four-question-marks"
   - "genghis-tron"

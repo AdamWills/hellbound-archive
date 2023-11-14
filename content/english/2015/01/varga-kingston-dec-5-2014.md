@@ -1,10 +1,11 @@
 ---
 title: "Varga in Kingston ON, Dec 5, 2014"
+edited: false
 date: "2015-01-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "death-metal"
   - "emperor"
   - "grind"

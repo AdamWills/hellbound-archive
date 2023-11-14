@@ -1,11 +1,12 @@
 ---
 title: "Threshold – March Of Progress"
+edited: false
 date: "2012-07-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "nuclear-blast"
   - "prog"
   - "raymond-westland"

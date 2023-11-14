@@ -1,10 +1,11 @@
 ---
 title: "The Residents – God In Three Persons"
+edited: false
 date: "2019-08-28"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
-tags: 
+tags:
   - "alternative"
   - "concept-album"
   - "experimental"

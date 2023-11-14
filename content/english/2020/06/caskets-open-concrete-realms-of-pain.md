@@ -1,7 +1,8 @@
 ---
 title: "Caskets Open – Concrete Realms of Pain"
+edited: false
 date: "2020-06-21"
-categories: 
+categories:
   - "gruesome_greg"
   - "reviews"
   - "reviews-audio"

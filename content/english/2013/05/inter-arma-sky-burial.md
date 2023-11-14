@@ -1,11 +1,12 @@
 ---
 title: "Inter Arma - Sky Burial"
+edited: false
 date: "2013-05-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "inter-arma"
   - "matt-hinch"
   - "metal"

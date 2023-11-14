@@ -1,10 +1,11 @@
 ---
 title: "Wo Fat – Live Juju (at Freak Valley and Beyond)"
+edited: false
 date: "2017-10-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "psychedelic"

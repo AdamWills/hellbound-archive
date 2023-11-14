@@ -1,9 +1,10 @@
 ---
 title: "The Wallflowers - Exit Wounds LP"
+edited: false
 date: "2021-09-25"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "dylan"
   - "exit"
   - "jakob"

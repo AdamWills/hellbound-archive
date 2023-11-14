@@ -1,12 +1,13 @@
 ---
 title: "Metal Picks to check out this Bandcamp Friday - December 2, 2022"
+edited: false
 date: "2022-12-02"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "a-flock-named-murder"
   - "bandcamp-friday"
   - "casket-robbery"

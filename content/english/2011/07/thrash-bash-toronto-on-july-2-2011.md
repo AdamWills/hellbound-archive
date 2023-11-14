@@ -1,11 +1,12 @@
 ---
 title: "Fatality/ Reanimator/ Ash Lee Blade/ Eternal Judgement/ Titan’s Eve/ Spewgore @ The Blue Moon, Toronto, ON, July 2, 2011"
+edited: false
 date: "2011-07-15"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "ash-lee-blade"
   - "eternal-judgement"
   - "fatality"

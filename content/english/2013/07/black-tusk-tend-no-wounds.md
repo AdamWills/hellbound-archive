@@ -1,11 +1,12 @@
 ---
 title: "Black Tusk – Tend No Wounds"
+edited: false
 date: "2013-07-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-tusk"
   - "georgia"
   - "gruesome-greg"

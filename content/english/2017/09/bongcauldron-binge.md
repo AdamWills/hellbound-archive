@@ -1,10 +1,11 @@
 ---
 title: "BongCauldron – Binge"
+edited: false
 date: "2017-09-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bongcauldron"
   - "doom"
   - "hard-rock"

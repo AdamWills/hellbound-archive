@@ -1,10 +1,11 @@
 ---
 title: "Bachman Turner Overdrive – Not Fragile (1974)"
+edited: false
 date: "2014-07-01"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
-tags: 
+tags:
   - "bachman-turner-overdrive"
   - "bto"
   - "classics"

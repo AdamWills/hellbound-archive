@@ -1,10 +1,11 @@
 ---
 title: "The Slackers - \"New York Berlin\" b/w \"Tell Them No\" 12'' single"
+edited: false
 date: "2022-10-05"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "picture-disc"
   - "pirates-press"
   - "punk"

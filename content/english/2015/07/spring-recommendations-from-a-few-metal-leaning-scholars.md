@@ -1,11 +1,12 @@
 ---
 title: "Recent recommendations (from a few metal-leaning scholars)"
+edited: false
 date: "2015-07-31"
-categories: 
+categories:
   - "blogs"
   - "staff_picks"
   - "editors_blog"
-tags: 
+tags:
   - "death-metal"
   - "doom-metal"
   - "drone-metal"

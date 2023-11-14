@@ -1,9 +1,10 @@
 ---
 title: "Bloodclot – Up In Arms"
+edited: false
 date: "2017-07-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bloodclot"
   - "hardcore"
   - "punk"

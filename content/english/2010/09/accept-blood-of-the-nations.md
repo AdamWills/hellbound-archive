@@ -1,11 +1,12 @@
 ---
 title: "Accept – Blood Of The Nations"
+edited: false
 date: "2010-09-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "germany"
   - "heavy-metal"

@@ -1,7 +1,8 @@
 ---
 title: "The Residents - It's Metal, Meat & Bone: The Songs Of Dyin' Dog"
+edited: false
 date: "2020-07-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

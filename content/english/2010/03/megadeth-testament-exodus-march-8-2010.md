@@ -1,11 +1,12 @@
 ---
 title: "Megadeth: Rust in Peace 20th Anniversary Tour w/ Testament and Exodus, Prairieland Park, Saskatoon, SK, March 8, 2010"
+edited: false
 date: "2010-03-10"
-categories: 
+categories:
   - "features"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "combat-records"
   - "exodus"
   - "live-review"

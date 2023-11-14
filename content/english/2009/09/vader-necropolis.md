@@ -1,11 +1,12 @@
 ---
 title: "Vader: Necropolis"
+edited: false
 date: "2009-09-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "nuclear-blast"
   - "poland"

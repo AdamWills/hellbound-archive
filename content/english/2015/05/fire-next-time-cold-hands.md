@@ -1,9 +1,10 @@
 ---
 title: "Fire Next Time – Cold Hands"
+edited: false
 date: "2015-05-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "emo"
   - "fire-next-time"

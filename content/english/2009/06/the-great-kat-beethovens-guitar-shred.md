@@ -1,10 +1,11 @@
 ---
 title: "The Great Kat: Beethoven's Guitar Shred"
+edited: false
 date: "2009-06-12"
-categories: 
+categories:
   - "featured"
   - "reviews-visual"
-tags: 
+tags:
   - "dvd"
   - "roadrunner"
   - "shred"

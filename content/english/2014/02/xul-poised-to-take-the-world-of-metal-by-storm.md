@@ -1,11 +1,12 @@
 ---
 title: "XUL: Poised to take the world of metal by storm"
+edited: false
 date: "2014-02-27"
-categories: 
+categories:
   - "features"
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "bailey-gottlieb"
   - "bandcamp"
   - "black-metal"

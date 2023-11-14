@@ -1,13 +1,14 @@
 ---
 title: "Terror / Trapped Under Ice / Backtrack / Harm’s Way / Letlive @ The Pine Box, Midland, TX, November 15, 2011"
+edited: false
 date: "2012-01-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "harms-way"
   - "jay-h-gorania"
   - "phil-anselmo"

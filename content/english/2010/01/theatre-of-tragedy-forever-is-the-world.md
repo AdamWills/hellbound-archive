@@ -1,11 +1,12 @@
 ---
 title: "Theatre of Tragedy: Forever is the World"
+edited: false
 date: "2010-01-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm"
   - "afm-records"
   - "gothic-metal"

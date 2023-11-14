@@ -1,9 +1,10 @@
 ---
 title: "Paradise Lost – Host"
+edited: false
 date: "2018-02-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "dark"
   - "host"
   - "metal"

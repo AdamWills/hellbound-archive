@@ -1,12 +1,13 @@
 ---
 title: "Melvins/ Totimoshi @ Rickshaw Theater, Vancouver BC, July 5, 2010"
+edited: false
 date: "2010-07-09"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "crucial-blast"
   - "grunge"
   - "ipecac"

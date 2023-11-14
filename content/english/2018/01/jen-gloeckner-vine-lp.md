@@ -1,9 +1,10 @@
 ---
 title: "Jen Gloeckner – Vine LP"
+edited: false
 date: "2018-01-18"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "ambient"
   - "experimental"

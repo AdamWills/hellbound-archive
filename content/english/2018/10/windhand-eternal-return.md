@@ -1,10 +1,11 @@
 ---
 title: "Windhand – Eternal Return"
+edited: false
 date: "2018-10-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doom-metal"
   - "fuzz"

@@ -1,11 +1,12 @@
 ---
 title: "Pulling Teeth: Paranoid Delusions/Paradise Illusions"
+edited: false
 date: "2009-12-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "converge"
   - "deathwish-inc"
   - "hardcore"

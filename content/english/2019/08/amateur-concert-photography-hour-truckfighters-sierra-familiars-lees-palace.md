@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: TRUCKFIGHTERS/Sierra/Familiars @ Lee's Palace"
+edited: false
 date: "2019-08-17"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "familiars"

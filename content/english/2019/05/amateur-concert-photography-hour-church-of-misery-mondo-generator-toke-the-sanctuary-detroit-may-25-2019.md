@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: CHURCH OF MISERY/Mondo Generator/Toke @ The Sanctuary, Detroit, May 25, 2019"
+edited: false
 date: "2019-05-29"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "church-of-misery"
   - "concert-photography"
   - "concert-photos"

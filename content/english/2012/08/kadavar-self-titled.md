@@ -1,11 +1,12 @@
 ---
 title: "Kadavar – self-titled"
+edited: false
 date: "2012-08-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-sabbath"
   - "blood-ceremony"
   - "graveyard"

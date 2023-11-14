@@ -1,10 +1,11 @@
 ---
 title: "Fatalist: Rechanneling Swedish Death Metal In Ventura County"
+edited: false
 date: "2009-06-17"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "death-metal"
   - "fatalist"
   - "ibex-moon-records"

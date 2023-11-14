@@ -1,10 +1,11 @@
 ---
 title: "Sithter – Chaotic Fiend"
+edited: false
 date: "2016-12-14"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-doom"
   - "japan"
   - "review"

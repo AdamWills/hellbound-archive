@@ -1,10 +1,11 @@
 ---
 title: "C.C. Voltage - \"Berliner Pilsner\" 7''"
+edited: false
 date: "2023-04-20"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "7"
   - "berliner"
   - "british-columbia"

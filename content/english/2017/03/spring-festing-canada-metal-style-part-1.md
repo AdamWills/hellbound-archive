@@ -1,9 +1,10 @@
 ---
 title: "Spring festing in Canada, metal style (part 1)"
+edited: false
 date: "2017-03-22"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "420-music-arts-festival"
   - "briefcasefest"
   - "live-music"

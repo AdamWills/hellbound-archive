@@ -1,11 +1,12 @@
 ---
 title: "No Skeletons in the Closet: An Interview with Evan Linger of Skeletonwitch"
+edited: false
 date: "2013-12-09"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "black-dahlia-murder"
   - "evan-linger"

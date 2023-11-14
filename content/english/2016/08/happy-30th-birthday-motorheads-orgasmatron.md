@@ -1,11 +1,12 @@
 ---
 title: "Happy 30th birthday to... Motorhead's Orgasmatron"
+edited: false
 date: "2016-08-09"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "motorhead"
   - "saxon"
   - "sean-palmerston"

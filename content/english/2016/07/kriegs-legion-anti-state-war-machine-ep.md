@@ -1,9 +1,10 @@
 ---
 title: "Kriegs Legion – The Anti-State War Machine EP"
+edited: false
 date: "2016-07-14"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hardcore"
   - "kriegs-legion"
   - "post-punk"

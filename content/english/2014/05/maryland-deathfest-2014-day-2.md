@@ -1,10 +1,11 @@
 ---
 title: "Maryland Deathfest 2014: Day 2"
+edited: false
 date: "2014-05-24"
-categories: 
+categories:
   - "reviews-live"
   - "editors_blog"
-tags: 
+tags:
   - "agalloch"
   - "at-the-gates"
   - "baltimore"

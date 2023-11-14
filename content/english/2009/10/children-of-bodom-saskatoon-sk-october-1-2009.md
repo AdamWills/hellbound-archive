@@ -1,11 +1,12 @@
 ---
 title: "Children of Bodom/The Black Dahlia Murder/Skeletonwitch @ Odeon, Saskatoon, SK, October 1, 2009"
+edited: false
 date: "2009-10-05"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adrien-begrand"
   - "children-of-bodom"
   - "finland"

@@ -1,9 +1,10 @@
 ---
 title: "Aaron Lee Tasjan – Karma For Cheap LP"
+edited: false
 date: "2018-10-05"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "aaron-lee-tasjan"
   - "alternative"
   - "folk-rock"

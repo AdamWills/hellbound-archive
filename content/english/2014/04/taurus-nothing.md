@@ -1,9 +1,10 @@
 ---
 title: "Taurus – No/Thing"
+edited: false
 date: "2014-04-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "atmospheric-drone"
   - "bandcamp"
   - "doom"

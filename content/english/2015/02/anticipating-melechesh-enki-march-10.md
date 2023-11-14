@@ -1,10 +1,11 @@
 ---
 title: "Anticipating: Melechesh – Enki (out March 10)"
+edited: false
 date: "2015-02-13"
-categories: 
+categories:
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "max-cavalera"
   - "melechesh"
   - "nuclear-blast"

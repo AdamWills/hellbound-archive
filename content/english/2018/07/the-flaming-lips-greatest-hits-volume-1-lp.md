@@ -1,9 +1,10 @@
 ---
 title: "The Flaming Lips – Greatest Hits Volume 1 (LP)"
+edited: false
 date: "2018-07-30"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "alternative-rock"
   - "best-of"

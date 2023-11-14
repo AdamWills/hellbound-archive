@@ -1,11 +1,12 @@
 ---
 title: "Wolfbane – s/t"
+edited: false
 date: "2010-03-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "angelwitch"
   - "black-sabbath"
   - "chateaux"

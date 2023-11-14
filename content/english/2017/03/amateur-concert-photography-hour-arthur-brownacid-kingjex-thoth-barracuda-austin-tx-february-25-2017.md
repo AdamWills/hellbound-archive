@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: ARTHUR BROWN/Acid King/Jex Thoth @ Barracuda, Austin, TX, February 25, 2017"
+edited: false
 date: "2017-03-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "acid-king"
   - "austin-tx"
   - "concert-photography"

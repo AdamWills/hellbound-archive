@@ -1,11 +1,12 @@
 ---
 title: "Judas Priest: Metal Gods Revisit British Steel"
+edited: false
 date: "2009-07-08"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "heavy-metal"
   - "judas-priest"
   - "sony"

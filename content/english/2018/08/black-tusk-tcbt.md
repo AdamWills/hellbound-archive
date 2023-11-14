@@ -1,10 +1,11 @@
 ---
 title: "Black Tusk – TCBT"
+edited: false
 date: "2018-08-16"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-tusk"
   - "hardcore"
   - "metal"

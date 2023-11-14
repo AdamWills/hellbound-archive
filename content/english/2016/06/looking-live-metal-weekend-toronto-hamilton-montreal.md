@@ -1,9 +1,10 @@
 ---
 title: "Looking for some live metal this week/end? (Toronto, Hamilton, Montreal)"
+edited: false
 date: "2016-06-17"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "concerts"
   - "events"
   - "hamilton"

@@ -1,9 +1,10 @@
 ---
 title: "JoeCephus & the George Jonestown Massacre – Five Minutes To Live 12-inch EP"
+edited: false
 date: "2017-12-08"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
   - "vinyl"
 ---

@@ -1,12 +1,13 @@
 ---
 title: "From The Archives: AC/DC Live Review From 2009"
+edited: false
 date: "2010-11-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
   - "editors_blog"
-tags: 
+tags:
   - "acdc"
   - "deep-purple"
   - "exclaim"

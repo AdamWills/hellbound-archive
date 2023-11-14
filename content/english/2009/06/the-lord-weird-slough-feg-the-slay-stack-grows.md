@@ -1,10 +1,11 @@
 ---
 title: "The Lord Weird Slough Feg: The Slay Stack Grows"
+edited: false
 date: "2009-06-17"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "power-metal"
   - "shadow-kingdom-records"

@@ -1,11 +1,12 @@
 ---
 title: "Canadian metal playlist - Canada Day 2016"
+edited: false
 date: "2016-07-01"
-categories: 
+categories:
   - "reviews-audio"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "canada-day"
   - "canadian-metal"
   - "staff-picks"

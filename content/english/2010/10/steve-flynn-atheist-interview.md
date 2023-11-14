@@ -1,11 +1,12 @@
 ---
 title: "Steve Flynn of Atheist: The Hellbound Interview"
+edited: false
 date: "2010-10-29"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "atheist"
   - "brutal-truth"
   - "cynic"

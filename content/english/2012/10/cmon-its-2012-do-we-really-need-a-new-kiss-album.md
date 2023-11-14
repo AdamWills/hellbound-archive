@@ -1,11 +1,12 @@
 ---
 title: "C'mon, it's 2012.  Do we really need a new KISS album?"
+edited: false
 date: "2012-10-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "aerosmith"
   - "gene-simmons"
   - "gruesome-greg"

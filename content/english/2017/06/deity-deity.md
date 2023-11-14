@@ -1,9 +1,10 @@
 ---
 title: "Deity – Deity"
+edited: false
 date: "2017-06-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "deity"
   - "heavy-metal"

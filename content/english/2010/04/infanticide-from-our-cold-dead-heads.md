@@ -1,11 +1,12 @@
 ---
 title: "Infanticide - From Our Cold, Dead Heads"
+edited: false
 date: "2010-04-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "grindcore"
   - "infanticide"

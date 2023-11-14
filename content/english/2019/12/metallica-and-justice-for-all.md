@@ -1,10 +1,11 @@
 ---
 title: "Metallica – …And Justice For All"
+edited: false
 date: "2019-12-15"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
-tags: 
+tags:
   - "metal"
   - "review"
   - "thrash-metal"

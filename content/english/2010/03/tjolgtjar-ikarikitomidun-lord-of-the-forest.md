@@ -1,11 +1,12 @@
 ---
 title: "Tjolgtjar - Ikarikitomidun, Lord Of The Forest"
+edited: false
 date: "2010-03-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "dark-throne"
   - "one-man-band"

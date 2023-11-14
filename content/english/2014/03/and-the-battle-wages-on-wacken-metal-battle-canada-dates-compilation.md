@@ -1,9 +1,10 @@
 ---
 title: "And the battle wages on – Wacken Metal Battle Canada dates & compilation"
+edited: false
 date: "2014-03-15"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "bandcamp"
   - "canadian-metal"
   - "edmonton"

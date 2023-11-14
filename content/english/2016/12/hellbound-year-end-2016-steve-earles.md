@@ -1,10 +1,11 @@
 ---
 title: "Hellbound Year End 2016: Steve Earles"
+edited: false
 date: "2016-12-19"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2016"
   - "end-of-year"
   - "metal"

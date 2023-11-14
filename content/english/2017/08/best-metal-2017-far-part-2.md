@@ -1,7 +1,8 @@
 ---
 title: "Best metal of 2017 so far, part 2"
+edited: false
 date: "2017-08-01"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"

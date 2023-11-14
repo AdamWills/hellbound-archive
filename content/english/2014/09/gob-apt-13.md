@@ -1,9 +1,10 @@
 ---
 title: "Gob – Apt. 13"
+edited: false
 date: "2014-09-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "gob"
   - "melodic-hardcore"

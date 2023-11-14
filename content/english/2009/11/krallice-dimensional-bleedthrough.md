@@ -1,11 +1,12 @@
 ---
 title: "Krallice: Dimensional Bleedthrough"
+edited: false
 date: "2009-11-16"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "behold-the-arctopus"
   - "black-metal"
   - "dysrhythmia"

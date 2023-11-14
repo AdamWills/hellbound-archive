@@ -1,11 +1,12 @@
 ---
 title: "Dark Descent Double Shot: Vorum and Paroxsihzem"
+edited: false
 date: "2013-01-29"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "adversarial"
   - "antediluvian"
   - "asphyx"

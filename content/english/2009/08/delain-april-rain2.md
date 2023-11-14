@@ -1,11 +1,12 @@
 ---
 title: "Delain: April Rain"
+edited: false
 date: "2009-08-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "delain"
   - "gothic-metal"
   - "netherlands"

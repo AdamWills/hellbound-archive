@@ -1,10 +1,11 @@
 ---
 title: "Völur – Disir"
+edited: false
 date: "2016-06-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "disir"
   - "doom"
   - "metal"

@@ -1,11 +1,12 @@
 ---
 title: "Ozzy Osbourne - Scream"
+edited: false
 date: "2010-06-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "black-sabbath"
   - "ozzy"

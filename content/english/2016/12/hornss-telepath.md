@@ -1,10 +1,11 @@
 ---
 title: "Hornss – Telepath"
+edited: false
 date: "2016-12-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy"
   - "hornss"
   - "metal"

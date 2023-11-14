@@ -1,9 +1,10 @@
 ---
 title: "Hard Charger + Satanarchist @ Coalition, Toronto on June 8, 2017"
+edited: false
 date: "2017-06-22"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "black-metal"
   - "concert"
   - "crust-punk"

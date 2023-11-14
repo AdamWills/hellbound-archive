@@ -1,12 +1,13 @@
 ---
 title: "Blasphemous Meals #6 | At The Heart of Winter’s End"
+edited: false
 date: "2012-05-22"
-categories: 
+categories:
   - "articles"
   - "blasphemyblog"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "abigail"
   - "blasphemy-blog"
   - "hellbent-for-cooking"

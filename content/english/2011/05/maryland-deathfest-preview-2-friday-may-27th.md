@@ -1,11 +1,12 @@
 ---
 title: "Maryland Deathfest Preview #2: Friday, May 27th"
+edited: false
 date: "2011-05-25"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "a389-records"
   - "baroness"
   - "cripple-bastards"

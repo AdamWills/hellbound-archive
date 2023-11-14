@@ -1,10 +1,11 @@
 ---
 title: "Olde – Temple"
+edited: false
 date: "2017-07-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "olde"

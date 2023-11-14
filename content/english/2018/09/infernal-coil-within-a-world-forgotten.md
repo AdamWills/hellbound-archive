@@ -1,9 +1,10 @@
 ---
 title: "Infernal Coil – Within a World Forgotten"
+edited: false
 date: "2018-09-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "extreme-metal"
   - "infernal-coil"

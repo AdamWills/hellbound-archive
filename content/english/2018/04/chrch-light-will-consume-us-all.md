@@ -1,10 +1,11 @@
 ---
 title: "CHRCH – Light Will Consume Us All"
+edited: false
 date: "2018-04-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "blackened-sludge"
   - "chrch"

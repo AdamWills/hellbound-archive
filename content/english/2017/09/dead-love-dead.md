@@ -1,10 +1,11 @@
 ---
 title: "With the Dead – Love from With the Dead"
+edited: false
 date: "2017-09-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cathedral"
   - "doom"
   - "lee-dorrian"

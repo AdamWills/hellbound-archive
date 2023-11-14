@@ -1,9 +1,10 @@
 ---
 title: "Hater – s/t LP (reissue)"
+edited: false
 date: "2016-08-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-rock"
   - "desert-rock"
   - "grunge"

@@ -1,10 +1,11 @@
 ---
 title: "Kylesa / Rosetta / Fight Amp @ The Annex Wreckroom, January 22nd 2011"
+edited: false
 date: "2011-01-28"
-categories: 
+categories:
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "annex-wreckroom"
   - "astronauts"
   - "fight-amp"

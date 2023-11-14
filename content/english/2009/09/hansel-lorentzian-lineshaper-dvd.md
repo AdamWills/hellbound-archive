@@ -1,11 +1,12 @@
 ---
 title: "Hansel: Lorentzian Lineshaper CD Release Party Live DVD"
+edited: false
 date: "2009-09-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "d-trash-records"
   - "digital-hardcore"
   - "hansel"

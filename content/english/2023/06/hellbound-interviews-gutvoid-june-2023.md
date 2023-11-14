@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Interviews : GUTVOID - June 2023"
+edited: false
 date: "2023-06-14"
-categories: 
+categories:
   - "canadian-metal"
   - "features"
   - "interviews"
-tags: 
+tags:
   - "blood-harvest-records"
   - "brendan-dean"
   - "canadian-metal"

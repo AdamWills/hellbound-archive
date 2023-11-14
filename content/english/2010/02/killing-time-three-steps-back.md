@@ -1,11 +1,12 @@
 ---
 title: "Killing Time - Three Steps Back"
+edited: false
 date: "2010-02-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dead-city"
   - "hardcore"
   - "killing-time"

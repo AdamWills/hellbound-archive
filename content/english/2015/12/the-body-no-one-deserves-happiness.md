@@ -1,10 +1,11 @@
 ---
 title: "The Body – No One Deserves Happiness"
+edited: false
 date: "2015-12-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "goth"
   - "industrial"

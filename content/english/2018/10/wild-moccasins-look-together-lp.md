@@ -1,9 +1,10 @@
 ---
 title: "Wild Moccasins – Look Together LP"
+edited: false
 date: "2018-10-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "pop"
   - "review"
   - "rock"

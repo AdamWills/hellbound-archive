@@ -1,9 +1,10 @@
 ---
 title: "Headbanging for a Cure 2014"
+edited: false
 date: "2014-07-11"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "call-of-the-wild"
   - "concert-photos"
   - "cromlech"

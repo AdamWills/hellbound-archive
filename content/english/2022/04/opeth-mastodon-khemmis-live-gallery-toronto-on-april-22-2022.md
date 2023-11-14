@@ -1,10 +1,11 @@
 ---
 title: "Opeth, Mastodon and Khemmis - Live Gallery: Toronto, ON - April 22 2022"
+edited: false
 date: "2022-04-29"
-categories: 
+categories:
   - "features"
   - "reviews-live"
-tags: 
+tags:
   - "2022"
   - "danielle-griscti"
   - "khemmis"

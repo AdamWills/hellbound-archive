@@ -1,7 +1,8 @@
 ---
 title: "J.B. Morrison – A Godawful Small Affair b/w Harvey King Unboxes His Family"
+edited: false
 date: "2020-03-28"
-categories: 
+categories:
   - "reviews-books"
 ---
 

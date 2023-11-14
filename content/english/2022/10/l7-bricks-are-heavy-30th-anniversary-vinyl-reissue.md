@@ -1,11 +1,12 @@
 ---
 title: "L7 - Bricks Are Heavy 30th Anniversary vinyl reissue"
+edited: false
 date: "2022-10-21"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "bricks-are-heavy"
   - "hard-rock"
   - "l7"

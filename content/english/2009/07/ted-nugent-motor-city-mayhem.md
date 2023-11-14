@@ -1,11 +1,12 @@
 ---
 title: "Ted Nugent: Motor City Mayhem"
+edited: false
 date: "2009-07-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "eagle-records"
   - "live"
   - "ted-nugent"

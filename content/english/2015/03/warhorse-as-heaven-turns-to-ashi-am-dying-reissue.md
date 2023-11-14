@@ -1,9 +1,10 @@
 ---
 title: "Warhorse – As Heaven Turns to Ash/I Am Dying reissue"
+edited: false
 date: "2015-03-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom-metal"
   - "sludge"

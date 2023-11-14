@@ -1,11 +1,12 @@
 ---
 title: "Jag Panzer: The Hellbound Audio Interview"
+edited: false
 date: "2011-04-19"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "audio-interview"
   - "jag-panzer"
   - "mark-briody"
@@ -16,11 +17,11 @@ tags:
 
 Earlier this year veteran US power metal outfit **Jag Panzer** raged back into the spotlight with their excellent new album **The Scourge Of The Light**, the band's first album for new label SPV. Hellbound's **Jason Wellwood** recently had the chance to interview Jag Panzer guitarist and founding member **Mark Briody** for his weekly radio program on CILU-FM, but here is that audio interview presented in its entirety for your listening pleasure.
 
-Part 1 
+Part 1
 
 <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/D5efjQt0mGc" frameborder="0" allowfullscreen></iframe>
 
-Part 2 
+Part 2
 
 <iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/b_kxmLZL53s" frameborder="0" allowfullscreen></iframe>
 

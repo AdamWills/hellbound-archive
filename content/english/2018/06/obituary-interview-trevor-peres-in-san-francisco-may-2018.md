@@ -1,9 +1,10 @@
 ---
 title: "Obituary interview: Trevor Peres in San Francisco, May 2018"
+edited: false
 date: "2018-06-25"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "death-metal"
   - "extreme-metal"
   - "interview"

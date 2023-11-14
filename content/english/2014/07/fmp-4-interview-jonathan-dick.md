@@ -1,10 +1,11 @@
 ---
 title: "Full Metal Parenting #4: Interview with Jonathan Dick"
+edited: false
 date: "2014-07-09"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "full-metal-parenting"
   - "judas-priest"
   - "mastodon"

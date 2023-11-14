@@ -1,11 +1,12 @@
 ---
 title: "Death From Above 1979 and Old Lines - last minute xmas vinyl suggestions"
+edited: false
 date: "2014-12-22"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
   - "staff_picks"
-tags: 
+tags:
   - "album-review"
   - "alternative"
   - "death-from-above-1979"

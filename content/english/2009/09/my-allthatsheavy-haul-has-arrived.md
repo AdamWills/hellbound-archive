@@ -1,7 +1,8 @@
 ---
 title: "My AllThat'sHeavy haul has arrived!"
+edited: false
 date: "2009-09-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

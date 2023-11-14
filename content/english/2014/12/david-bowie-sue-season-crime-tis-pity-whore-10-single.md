@@ -1,10 +1,11 @@
 ---
 title: "David Bowie – Sue (Or in a Season of Crime) / 'Tis A Pity She Was A Whore 10\" single"
+edited: false
 date: "2014-12-16"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "david-bowie"
   - "vinyl-review"

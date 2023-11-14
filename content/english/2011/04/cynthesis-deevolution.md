@@ -1,11 +1,12 @@
 ---
 title: "Cynthesis-DeEvolution"
+edited: false
 date: "2011-04-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cynthesis"
   - "prog-metal"
   - "sensory"

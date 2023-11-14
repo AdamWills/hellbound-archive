@@ -1,11 +1,12 @@
 ---
 title: "Spirit Descent – Seven Chapters in Minor"
+edited: false
 date: "2012-03-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "argus"
   - "candlemass"
   - "doom"

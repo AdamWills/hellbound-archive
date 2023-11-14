@@ -1,11 +1,12 @@
 ---
 title: "Jello Biafra is the man!"
+edited: false
 date: "2012-09-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert"
   - "danko-jones"
   - "dead-kennedys"

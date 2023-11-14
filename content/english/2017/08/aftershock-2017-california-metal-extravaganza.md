@@ -1,10 +1,11 @@
 ---
 title: "Aftershock 2017: California metal extravaganza"
+edited: false
 date: "2017-08-09"
-categories: 
+categories:
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "a-perfect-circle"
   - "aftershock"
   - "festival"

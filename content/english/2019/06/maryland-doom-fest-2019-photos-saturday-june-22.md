@@ -1,11 +1,12 @@
 ---
 title: "MARYLAND DOOM FEST 2019 PHOTOS: Saturday, June 22"
+edited: false
 date: "2019-06-29"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "apostle-of-solitude"
   - "atala"
   - "beelzefuzz"

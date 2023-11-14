@@ -1,9 +1,10 @@
 ---
 title: "Damnation Festival 2018"
+edited: false
 date: "2018-11-18"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "damnation-festival"
   - "extreme-metal"

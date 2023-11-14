@@ -1,11 +1,12 @@
 ---
 title: "Wodensthrone: Loss"
+edited: false
 date: "2009-09-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bindrune"
   - "pagan-metal"
   - "uk"

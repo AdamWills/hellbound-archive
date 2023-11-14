@@ -1,9 +1,10 @@
 ---
 title: "Na Cruithne – Gairm An Fhiantais"
+edited: false
 date: "2017-11-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "folk"
   - "folk-metal"
   - "irish"

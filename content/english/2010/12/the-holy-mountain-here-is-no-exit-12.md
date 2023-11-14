@@ -1,11 +1,12 @@
 ---
 title: "The Holy Mountain - Here Is No Exit 12\""
+edited: false
 date: "2010-12-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "16"
   - "disfear"
   - "kevin-stewart-panko"

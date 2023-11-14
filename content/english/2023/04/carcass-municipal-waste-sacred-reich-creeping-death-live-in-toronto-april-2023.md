@@ -1,11 +1,12 @@
 ---
 title: "Carcass, Municipal Waste, Sacred Reich, Creeping Death - Live in Toronto - April 2023"
+edited: false
 date: "2023-04-17"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "april-2023"
   - "carcass"
   - "concert-photography"

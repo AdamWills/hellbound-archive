@@ -1,9 +1,10 @@
 ---
 title: "Hellbound @ Tuska Open Air 2018 in Helsinki"
+edited: false
 date: "2018-08-04"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "beast-in-black"
   - "black-metal"
   - "body-count"

@@ -1,11 +1,12 @@
 ---
 title: "Accept: Third time's slightly less charming..."
+edited: false
 date: "2012-09-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "accept"
   - "blood-of-the-nations"
   - "gruesome-greg"

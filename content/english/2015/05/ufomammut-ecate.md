@@ -1,9 +1,10 @@
 ---
 title: "Ufomammut – Ecate"
+edited: false
 date: "2015-05-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "church-of-misery"
   - "neurosis"
   - "neurot-recordings"

@@ -1,9 +1,10 @@
 ---
 title: "Yawning Man – The Revolt Against Tired Noises"
+edited: false
 date: "2019-05-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy"
   - "metal"
   - "review"

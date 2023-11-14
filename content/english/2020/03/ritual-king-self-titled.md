@@ -1,7 +1,8 @@
 ---
 title: "Ritual King – self-titled"
+edited: false
 date: "2020-03-17"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Minsk – The Crash and the Draw"
+edited: false
 date: "2015-04-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blackened-sludge"
   - "chicago"

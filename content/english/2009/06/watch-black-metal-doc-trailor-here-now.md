@@ -1,10 +1,11 @@
 ---
 title: "Watch Black Metal Doc Trailer Here, Now"
+edited: false
 date: "2009-06-28"
-categories: 
+categories:
   - "articles"
   - "featured"
-tags: 
+tags:
   - "black-metal"
   - "film"
   - "movies"

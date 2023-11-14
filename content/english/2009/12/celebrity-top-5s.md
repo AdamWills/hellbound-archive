@@ -1,11 +1,12 @@
 ---
 title: "TOP CANADIAN ALBUMS - \"Celebrity\" Top 5s"
+edited: false
 date: "2009-12-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "2009"
   - "canada"
   - "playlist"

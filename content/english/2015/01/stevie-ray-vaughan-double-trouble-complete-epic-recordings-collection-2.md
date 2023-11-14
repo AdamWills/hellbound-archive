@@ -1,9 +1,10 @@
 ---
 title: "Stevie Ray Vaughan and Double Trouble – The Complete Epic Recordings Collection"
+edited: false
 date: "2015-01-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "blues"
   - "jimi-hendrix"
   - "judas-priest"

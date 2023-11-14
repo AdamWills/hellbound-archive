@@ -1,9 +1,10 @@
 ---
 title: "Behemoth live in Toronto, November 2018"
+edited: false
 date: "2018-12-04"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "at-the-gates"
   - "behemoth"
   - "black-metal"

@@ -1,12 +1,13 @@
 ---
 title: "Korpiklaani / Moonsorrow / Tyr / Metsatoll @ The Opera House, Toronto ON, August 30, 2012"
+edited: false
 date: "2012-09-10"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "folk-metal"
   - "korpiklaani"

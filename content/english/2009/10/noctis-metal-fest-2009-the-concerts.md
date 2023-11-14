@@ -1,11 +1,12 @@
 ---
 title: "Noctis Metal Fest 2009: The Concerts"
+edited: false
 date: "2009-10-26"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "ares-kingdom"
   - "aura-noir"
   - "begrime-extremious"

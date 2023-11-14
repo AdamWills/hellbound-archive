@@ -1,10 +1,11 @@
 ---
 title: "Wasted Theory – Defenders of the Riff"
+edited: false
 date: "2016-11-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "review"
   - "sludge"

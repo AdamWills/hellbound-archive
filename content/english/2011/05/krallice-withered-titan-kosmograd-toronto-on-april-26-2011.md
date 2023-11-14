@@ -1,11 +1,12 @@
 ---
 title: "Krallice / Withered / Titan / Kosmograd @ Sneaky Dee’s, Toronto ON, April 26th, 2011"
+edited: false
 date: "2011-05-04"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "bloody-panda"
   - "colin-marston"

@@ -1,10 +1,11 @@
 ---
 title: "Interview: Albert Bell of Sacro Sanctus"
+edited: false
 date: "2017-05-18"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "albert-bell"
   - "doom-metal"
   - "epic-metal"

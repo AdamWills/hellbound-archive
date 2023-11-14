@@ -1,10 +1,11 @@
 ---
 title: "Come Closer - Pretty Garbage LP"
+edited: false
 date: "2022-03-03"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "closer"
   - "come"
   - "garbage"

@@ -1,11 +1,12 @@
 ---
 title: "Grime - s/t EP"
+edited: false
 date: "2012-08-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cavity"
   - "eyehategod"
   - "grime"

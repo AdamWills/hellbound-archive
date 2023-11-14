@@ -1,11 +1,12 @@
 ---
 title: "In Flames/Killswitch Engage/Protest the Hero/Between the Buried and Me @ Prairieland, Saskatoon, SK, September 13, 2009"
+edited: false
 date: "2009-09-16"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adrien-begrand"
   - "between-the-buried-and-me"
   - "in-flames"

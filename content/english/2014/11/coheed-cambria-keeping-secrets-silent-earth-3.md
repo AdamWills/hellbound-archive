@@ -1,10 +1,11 @@
 ---
 title: "Coheed and Cambria – In Keeping Secrets of Silent Earth: 3"
+edited: false
 date: "2014-11-12"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "coheed-and-cambria"
   - "glam"

@@ -1,11 +1,12 @@
 ---
 title: "Primordial - Live at Cernunnos Festival preview"
+edited: false
 date: "2015-04-01"
-categories: 
+categories:
   - "blogs"
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "live"
   - "metal"
   - "metal-blade"

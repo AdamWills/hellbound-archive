@@ -1,11 +1,12 @@
 ---
 title: "Voivod - Warriors of Ice"
+edited: false
 date: "2011-10-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "live"
   - "montreal"
   - "sonic-unyon-metal"

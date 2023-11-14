@@ -1,9 +1,10 @@
 ---
 title: "Subhumans – Crisis Point LP"
+edited: false
 date: "2019-11-07"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "hardcore"
   - "punk"
   - "review"

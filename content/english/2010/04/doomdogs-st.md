@@ -1,11 +1,12 @@
 ---
 title: "DoomDogs - s/t"
+edited: false
 date: "2010-04-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doomdogs"
   - "doomentia-records"

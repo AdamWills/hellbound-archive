@@ -1,11 +1,12 @@
 ---
 title: "Weapon: Drakonian Paradigm"
+edited: false
 date: "2010-01-15"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ajna-offensive"
   - "black-metal"
   - "blackened-thrash"

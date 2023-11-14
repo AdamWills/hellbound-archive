@@ -1,11 +1,12 @@
 ---
 title: "Buzzoven - Violence From The Vault"
+edited: false
 date: "2010-04-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "buzzoven"
   - "eyehategod"
   - "relapse"

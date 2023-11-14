@@ -1,9 +1,10 @@
 ---
 title: "Social Code – Words From Se7eN Goza of Social 66"
+edited: false
 date: "2014-05-22"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "interview"
   - "rock"
   - "se7en-goza"

@@ -1,11 +1,12 @@
 ---
 title: "Blatant Self-Promotion: Gov't Mule Live Review on Exclaim.ca"
+edited: false
 date: "2009-11-04"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "concert-review"
   - "exclaim"
   - "govt-mule"

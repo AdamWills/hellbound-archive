@@ -1,9 +1,10 @@
 ---
 title: "Control / Harrington Saints – Pick Your Poison"
+edited: false
 date: "2016-08-09"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "control"
   - "harrington-saints"
   - "punk"

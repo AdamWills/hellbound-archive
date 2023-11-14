@@ -1,9 +1,10 @@
 ---
 title: "Book reviews by Steve Earles: Everybody Lies"
+edited: false
 date: "2018-01-14"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "internet"
   - "review"

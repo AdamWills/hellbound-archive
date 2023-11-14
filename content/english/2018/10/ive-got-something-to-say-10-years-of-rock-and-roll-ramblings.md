@@ -1,9 +1,10 @@
 ---
 title: "I’VE GOT SOMETHING TO SAY: 10 YEARS OF ROCK AND ROLL RAMBLINGS"
+edited: false
 date: "2018-10-04"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "danko-jones"

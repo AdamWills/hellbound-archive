@@ -1,11 +1,12 @@
 ---
 title: "Finsterforst - Rastlos"
+edited: false
 date: "2012-11-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "finsterforst"
   - "jonathan-smith"

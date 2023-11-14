@@ -1,12 +1,13 @@
 ---
 title: "STAFF INTERROGATIONS: Josh Sullivan"
+edited: false
 date: "2017-05-01"
-categories: 
+categories:
   - "features"
   - "interviews"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "feature"
   - "interview"
   - "staff-interrogation"

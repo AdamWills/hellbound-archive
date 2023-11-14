@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Handshake Clip Of The Week: DECEASED \"The Silent Creature\" Live at MDF 2010"
+edited: false
 date: "2010-07-09"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "death-metal"
   - "deceased"
   - "fearless-undead-machines"

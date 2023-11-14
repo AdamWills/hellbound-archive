@@ -1,11 +1,12 @@
 ---
 title: "Avantasia - The Flying Opera: Around the World In Twenty Days Live"
+edited: false
 date: "2011-07-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "avantasia"
   - "jason-wellwood"
   - "jorne-lande"

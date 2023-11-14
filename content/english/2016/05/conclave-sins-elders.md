@@ -1,10 +1,11 @@
 ---
 title: "Conclave – Sins of the Elders"
+edited: false
 date: "2016-05-31"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "conclave"
   - "doom"
   - "grief"

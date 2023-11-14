@@ -1,9 +1,10 @@
 ---
 title: "Deafheaven and Programm, Toronto ON, Nov 21, 2014"
+edited: false
 date: "2014-12-08"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert-photos"
   - "concert-review"
   - "converse-rubber-tracks"

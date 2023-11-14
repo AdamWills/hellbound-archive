@@ -1,11 +1,12 @@
 ---
 title: "Armored Saint – La Raza"
+edited: false
 date: "2010-03-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anthrax"
   - "armored-saint"
   - "fates-warning"

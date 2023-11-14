@@ -1,9 +1,10 @@
 ---
 title: "Gigan & Sunless in Toronto, May 2018"
+edited: false
 date: "2018-05-16"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "gigan"
   - "live"

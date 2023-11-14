@@ -1,10 +1,11 @@
 ---
 title: "Monolith Cult – Gospel of Despair"
+edited: false
 date: "2017-12-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "metal"

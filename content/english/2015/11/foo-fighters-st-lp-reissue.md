@@ -1,9 +1,10 @@
 ---
 title: "Foo Fighters – s/t LP (reissue)"
+edited: false
 date: "2015-11-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "alt-rock"
   - "foo-fighters"

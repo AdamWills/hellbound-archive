@@ -1,9 +1,10 @@
 ---
 title: "Booze & Glory - Carry On"
+edited: false
 date: "2016-06-29"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "booze-and-glory"
   - "contra"
   - "pirates-press"

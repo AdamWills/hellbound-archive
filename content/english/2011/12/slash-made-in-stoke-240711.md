@@ -1,12 +1,13 @@
 ---
 title: "Slash - Made In Stoke 24/07/11"
+edited: false
 date: "2011-12-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "armoury-records"
   - "guns-n-roses"
   - "slash"

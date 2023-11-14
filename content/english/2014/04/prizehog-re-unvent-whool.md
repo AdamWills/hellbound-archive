@@ -1,7 +1,8 @@
 ---
 title: "Prizehog – Re-Unvent the Whool"
+edited: false
 date: "2014-04-04"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "eolian-empire"

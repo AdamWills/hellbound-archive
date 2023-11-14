@@ -1,10 +1,11 @@
 ---
 title: "Staff Picks, May 2018"
+edited: false
 date: "2018-05-29"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "new-releases"

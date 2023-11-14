@@ -1,10 +1,11 @@
 ---
 title: "Monster Truck – True Rockers"
+edited: false
 date: "2018-09-19"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "hard-rock"
   - "heavy-blues"

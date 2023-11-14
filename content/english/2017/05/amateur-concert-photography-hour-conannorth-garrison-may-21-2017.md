@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: Conan/North @ The Garrison, May 21, 2017"
+edited: false
 date: "2017-05-22"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "conan"
   - "concert-photography"
   - "concert-photos"

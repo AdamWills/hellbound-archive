@@ -1,11 +1,12 @@
 ---
 title: "Devil to Pay – Fate is Your Muse"
+edited: false
 date: "2013-05-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "apostle-of-solitude"
   - "devil-to-pay"
   - "doom"

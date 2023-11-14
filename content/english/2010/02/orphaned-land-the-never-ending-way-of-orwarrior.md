@@ -1,11 +1,12 @@
 ---
 title: "Orphaned Land – The Never Ending Way of ORwarriOR"
+edited: false
 date: "2010-02-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "israel"
   - "orphaned-land"

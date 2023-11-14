@@ -1,7 +1,8 @@
 ---
 title: "Longstocking - Once Upon A Time Called Now LP"
+edited: false
 date: "2021-07-15"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
 ---

@@ -1,13 +1,14 @@
 ---
 title: "KNOWING YOUR HERITAGE WHILE LOOKING AHEAD: Opeth/Katatonia @ Guelph Concert Theatre, October 30th, 2011"
+edited: false
 date: "2011-11-03"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "jonathan-smith"
   - "katatonia"

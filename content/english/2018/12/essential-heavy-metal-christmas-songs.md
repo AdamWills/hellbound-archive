@@ -1,12 +1,13 @@
 ---
 title: "Essential Heavy Metal Christmas Songs"
+edited: false
 date: "2018-12-24"
-categories: 
+categories:
   - "adam_wills"
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "arnocorps"
   - "christopher-lee"
   - "fight"

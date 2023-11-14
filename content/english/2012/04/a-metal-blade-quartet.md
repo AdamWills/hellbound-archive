@@ -1,11 +1,12 @@
 ---
 title: "A Metal Blade quartet"
+edited: false
 date: "2012-04-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "rainbow"
   - "angel-witch"
   - "archmatheos"

@@ -1,9 +1,10 @@
 ---
 title: "Cancer – Shadow Gripped"
+edited: false
 date: "2018-12-12"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "cancer"
   - "death-metal"
   - "peaceville"

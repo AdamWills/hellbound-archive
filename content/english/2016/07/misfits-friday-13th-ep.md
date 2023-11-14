@@ -1,9 +1,10 @@
 ---
 title: "Misfits – Friday the 13th EP"
+edited: false
 date: "2016-07-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "misfits"
   - "punk"
   - "review"

@@ -1,10 +1,11 @@
 ---
 title: "The Atomic Bitchwax – Force Field"
+edited: false
 date: "2017-11-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "heavy-metal"
   - "power-trio"

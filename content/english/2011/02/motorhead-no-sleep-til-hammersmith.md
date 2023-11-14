@@ -1,11 +1,12 @@
 ---
 title: "Motörhead - No Sleep 'Til Hammersmith"
+edited: false
 date: "2011-02-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "iron-maiden"
   - "jonathan-smith"
   - "kiss"

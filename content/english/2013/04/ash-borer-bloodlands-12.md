@@ -1,11 +1,12 @@
 ---
 title: "Ash Borer - Bloodlands 12\""
+edited: false
 date: "2013-04-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "ash-borer"
   - "gilead-media"
   - "matt-hinch"

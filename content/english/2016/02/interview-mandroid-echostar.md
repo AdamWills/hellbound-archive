@@ -1,9 +1,10 @@
 ---
 title: "Interview: Mandroid Echostar"
+edited: false
 date: "2016-02-19"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "canadian-metal"
   - "interview"
   - "mandroid-echostar"

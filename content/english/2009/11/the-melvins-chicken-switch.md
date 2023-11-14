@@ -1,11 +1,12 @@
 ---
 title: "The Melvins: Chicken Switch"
+edited: false
 date: "2009-11-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "experimental"
   - "ipecac"
   - "remix-album"

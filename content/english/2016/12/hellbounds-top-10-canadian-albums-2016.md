@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND'S TOP 10 CANADIAN ALBUMS OF 2016"
+edited: false
 date: "2016-12-29"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "best-of-2016"
   - "canadian-metal"
   - "end-of-year"

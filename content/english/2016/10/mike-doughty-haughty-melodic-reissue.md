@@ -1,9 +1,10 @@
 ---
 title: "Mike Doughty – Haughty Melodic (reissue)"
+edited: false
 date: "2016-10-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alternative-rock"
   - "grunge"
   - "mike-doughty"

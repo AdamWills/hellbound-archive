@@ -1,10 +1,11 @@
 ---
 title: "Graveyard – Peace"
+edited: false
 date: "2018-06-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blues"
   - "graveyard"
   - "metal"

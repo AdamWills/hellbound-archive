@@ -1,11 +1,12 @@
 ---
 title: "Black River – Black N’ Roll"
+edited: false
 date: "2010-08-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "armoury-records"
   - "behemoth"
   - "black-river"

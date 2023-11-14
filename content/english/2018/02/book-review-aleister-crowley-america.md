@@ -1,9 +1,10 @@
 ---
 title: "BOOK REVIEW: Aleister Crowley in America"
+edited: false
 date: "2018-02-01"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "aleister-crowley"
   - "book"
   - "churton"

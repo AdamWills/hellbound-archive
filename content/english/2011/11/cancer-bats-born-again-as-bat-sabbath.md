@@ -1,11 +1,12 @@
 ---
 title: "Cancer Bats Born Again as... Bat Sabbath!"
+edited: false
 date: "2011-11-28"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "acdc"
   - "black-sabbath"
   - "cancer-bats"

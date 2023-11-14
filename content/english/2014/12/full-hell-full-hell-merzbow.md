@@ -1,9 +1,10 @@
 ---
 title: "Full of Hell – Full of Hell & Merzbow"
+edited: false
 date: "2014-12-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "full-of-hell"
   - "grind"

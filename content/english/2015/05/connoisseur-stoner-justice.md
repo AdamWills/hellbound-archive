@@ -1,9 +1,10 @@
 ---
 title: "Connoisseur – Stoner Justice"
+edited: false
 date: "2015-05-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "connoisseur"
   - "crust-punk"

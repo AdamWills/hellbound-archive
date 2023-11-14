@@ -1,12 +1,13 @@
 ---
 title: "Dragged Into Sunlight - American tour diary 2012 - Part 1"
+edited: false
 date: "2012-08-31"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "headline"
   - "jay_gorania"
-tags: 
+tags:
   - "dragged-into-sunlight"
   - "jay-h-gorania"
   - "maryland-deathfest"

@@ -1,10 +1,11 @@
 ---
 title: "SUAKA song premiere: I Am The Way"
+edited: false
 date: "2017-07-20"
-categories: 
+categories:
   - "featured"
   - "psa"
-tags: 
+tags:
   - "heavy-metal"
   - "indonesia"
   - "song-premiere"

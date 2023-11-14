@@ -1,12 +1,13 @@
 ---
 title: "Dark Tranquillity: Where Death is Most Alive"
+edited: false
 date: "2009-12-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "at-the-gates"
   - "century-media"
   - "dark-tranquility"

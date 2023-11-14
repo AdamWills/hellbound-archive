@@ -1,9 +1,10 @@
 ---
 title: "Run-DMC – “Christmas In Hollis” (12'' Picture Disc Single)"
+edited: false
 date: "2016-12-22"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "christmas"
   - "hip-hop"
   - "rap"

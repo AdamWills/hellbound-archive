@@ -1,11 +1,12 @@
 ---
 title: "Classic Albums Revisited: Type O Negative’s October Rust"
+edited: false
 date: "2010-04-19"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "classic-album"
   - "death"
   - "gothic-metal"

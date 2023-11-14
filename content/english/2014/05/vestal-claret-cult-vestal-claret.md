@@ -1,9 +1,10 @@
 ---
 title: "Vestal Claret – The Cult of Vestal Claret"
+edited: false
 date: "2014-05-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "cruz-del-sur"
   - "doom"
   - "occult-metal"

@@ -1,10 +1,11 @@
 ---
 title: "The Wombats - Is This What It Feels Like To Feel Like This EP"
+edited: false
 date: "2022-12-25"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "brit-pop"
   - "indie-rock"
   - "is-this-what-it-feels-like-to-feel-like-this-ep"

@@ -1,10 +1,11 @@
 ---
 title: "Bloody Panda @ Smiling Buddha, Toronto, ON, August 13, 2009"
+edited: false
 date: "2009-08-19"
-categories: 
+categories:
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "bloody-panda"
   - "doom-metal"

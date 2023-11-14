@@ -1,11 +1,12 @@
 ---
 title: "Necronomicon - The Return of the Witch"
+edited: false
 date: "2010-06-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "behemoth"
   - "black-metal"
   - "canada"

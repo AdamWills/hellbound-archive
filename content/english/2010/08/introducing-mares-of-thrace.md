@@ -1,11 +1,12 @@
 ---
 title: "Introducing: Mares of Thrace"
+edited: false
 date: "2010-08-11"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adrien-begrand"
   - "calgary"
   - "canada"

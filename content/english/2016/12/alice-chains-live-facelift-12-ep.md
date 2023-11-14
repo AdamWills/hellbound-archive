@@ -1,9 +1,10 @@
 ---
 title: "Alice In Chains – Live Facelift 12\" EP"
+edited: false
 date: "2016-12-09"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alice-in-chains"
   - "alt-rock"
   - "metal"

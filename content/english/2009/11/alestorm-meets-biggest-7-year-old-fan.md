@@ -1,11 +1,12 @@
 ---
 title: "Alestorm Meets Their Biggest 7 Year Old Fan"
+edited: false
 date: "2009-11-06"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "alestorm"
   - "belphegor"
   - "eluveitie"

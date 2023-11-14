@@ -1,9 +1,10 @@
 ---
 title: "Eels – Daisies Of The Galaxy LP"
+edited: false
 date: "2015-12-23"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "eels"
   - "review"
   - "vinyl-review"

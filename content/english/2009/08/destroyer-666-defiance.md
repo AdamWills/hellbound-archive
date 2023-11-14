@@ -1,11 +1,12 @@
 ---
 title: "Destroyer 666: Defiance"
+edited: false
 date: "2009-08-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "australia"
   - "black-metal"
   - "death-metal"

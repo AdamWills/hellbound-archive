@@ -1,9 +1,10 @@
 ---
 title: "‘Cause I Ain't Too Old To Die, But I Sure Am Hard To Beat"
+edited: false
 date: "2017-11-18"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "acdc"
   - "blues"
   - "blues-rock"

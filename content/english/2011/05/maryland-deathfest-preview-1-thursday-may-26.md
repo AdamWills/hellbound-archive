@@ -1,11 +1,12 @@
 ---
 title: "Maryland Deathfest Preview #1: Thursday, May 26"
+edited: false
 date: "2011-05-23"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "black-sabbath"
   - "buzzov•en"

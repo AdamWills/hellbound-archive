@@ -1,10 +1,11 @@
 ---
 title: "The Lion’s Daughter – Existence is Horror"
+edited: false
 date: "2015-12-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "blackened-sludge"
   - "noise-rock"

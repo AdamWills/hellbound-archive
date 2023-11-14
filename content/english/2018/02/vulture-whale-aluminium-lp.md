@@ -1,9 +1,10 @@
 ---
 title: "Vulture Whale – Aluminium LP"
+edited: false
 date: "2018-02-13"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
   - "rock"
   - "vinyl"

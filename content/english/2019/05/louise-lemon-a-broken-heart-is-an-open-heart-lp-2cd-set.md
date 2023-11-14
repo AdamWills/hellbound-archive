@@ -1,10 +1,11 @@
 ---
 title: "Louise Lemon – A Broken Heart is an Open Heart (LP/2CD set)"
+edited: false
 date: "2019-05-02"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "music"
   - "review"
 ---

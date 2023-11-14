@@ -1,9 +1,10 @@
 ---
 title: "Striker – Striker"
+edited: false
 date: "2017-02-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "canadian-metal"
   - "heavy-metal"
   - "striker"

@@ -1,9 +1,10 @@
 ---
 title: "My Silent Wake – There Was Death"
+edited: false
 date: "2018-04-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "death-doom"
   - "doom-metal"

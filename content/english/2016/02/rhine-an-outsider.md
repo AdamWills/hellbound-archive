@@ -1,9 +1,10 @@
 ---
 title: "Rhine – An Outsider"
+edited: false
 date: "2016-02-11"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "progressive-heavy-metal"
   - "progressive-metal"

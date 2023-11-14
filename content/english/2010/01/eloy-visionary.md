@@ -1,11 +1,12 @@
 ---
 title: "Eloy: Visionary"
+edited: false
 date: "2010-01-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "eloy"
   - "germany"
   - "progressive-rock"

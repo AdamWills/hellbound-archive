@@ -1,10 +1,11 @@
 ---
 title: "The Visit – Through Darkness Into Light"
+edited: false
 date: "2015-10-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "avant-garde"
   - "chamber"

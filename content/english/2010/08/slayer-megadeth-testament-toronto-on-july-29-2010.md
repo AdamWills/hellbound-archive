@@ -1,11 +1,12 @@
 ---
 title: "Slayer/ Megadeth/ Testament @ Molson Canadian Amphitheatre, Toronto ON, July 29, 2010"
+edited: false
 date: "2010-08-03"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "american"
   - "live-review"
   - "megadeth"

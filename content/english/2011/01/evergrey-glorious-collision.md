@@ -1,11 +1,12 @@
 ---
 title: "Evergrey – Glorious Collision"
+edited: false
 date: "2011-01-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "evergrey"
   - "jason-wellwood"
   - "progressive"

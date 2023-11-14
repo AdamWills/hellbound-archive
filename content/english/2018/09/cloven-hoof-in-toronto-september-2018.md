@@ -1,9 +1,10 @@
 ---
 title: "Cloven Hoof in Toronto, September 2018"
+edited: false
 date: "2018-09-27"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "cloven-hoof"
   - "concert"
   - "hard-rock"

@@ -1,9 +1,10 @@
 ---
 title: "Ghost – Prequelle"
+edited: false
 date: "2018-06-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "ghost"
   - "hard-rock"
   - "heavy-metal"

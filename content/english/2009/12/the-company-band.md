@@ -1,11 +1,12 @@
 ---
 title: "The Company Band : s/t"
+edited: false
 date: "2009-12-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cky"
   - "clutch"
   - "fireball-ministry"

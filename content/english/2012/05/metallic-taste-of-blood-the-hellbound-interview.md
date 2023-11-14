@@ -1,11 +1,12 @@
 ---
 title: "Metallic Taste Of Blood: The Hellbound Interview"
+edited: false
 date: "2012-05-23"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "maruta"
   - "merzbow"
   - "metallic-taste-of-blood"

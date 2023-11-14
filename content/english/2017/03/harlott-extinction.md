@@ -1,9 +1,10 @@
 ---
 title: "Harlott – Extinction"
+edited: false
 date: "2017-03-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "harlott"
   - "metal-blade"
   - "review"

@@ -1,11 +1,12 @@
 ---
 title: "SOUNDS FROM THE STONER ROCK UNDERGROUND: Electric Magic Edition"
+edited: false
 date: "2013-07-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "buddha-sentenza"
   - "electric-magic-records"
   - "germany"

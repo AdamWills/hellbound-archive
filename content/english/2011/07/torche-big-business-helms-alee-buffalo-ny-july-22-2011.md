@@ -1,11 +1,12 @@
 ---
 title: "Torche/ Big Business/ Helm’s Alee @ Mohawk Place, Buffalo, NY, July 22, 2011"
+edited: false
 date: "2011-07-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "big-business"
   - "buffalo"
   - "helms-alee"

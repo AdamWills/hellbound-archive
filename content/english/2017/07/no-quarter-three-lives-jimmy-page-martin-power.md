@@ -1,9 +1,10 @@
 ---
 title: "No Quarter: The Three Lives of Jimmy Page by Martin Power"
+edited: false
 date: "2017-07-14"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "jimmy-page"
   - "led-zeppelin"

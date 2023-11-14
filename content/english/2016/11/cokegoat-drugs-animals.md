@@ -1,10 +1,11 @@
 ---
 title: "Cokegoat – Drugs and Animals"
+edited: false
 date: "2016-11-18"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "cokegoat"
   - "doom"

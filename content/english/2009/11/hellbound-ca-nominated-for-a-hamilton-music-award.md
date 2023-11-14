@@ -1,7 +1,8 @@
 ---
 title: "Hellbound.ca Nominated For A Hamilton Music Award!"
+edited: false
 date: "2009-11-25"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"

@@ -1,11 +1,12 @@
 ---
 title: "Kylesa - Ultraviolet"
+edited: false
 date: "2013-06-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hellbound-metal"
   - "hellbound-ca"
   - "kylesa"

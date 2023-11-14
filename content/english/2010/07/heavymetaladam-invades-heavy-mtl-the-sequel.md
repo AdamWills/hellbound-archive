@@ -1,11 +1,12 @@
 ---
 title: "HeavyMetalAdam Invades Heavy MTL! The Sequel!"
+edited: false
 date: "2010-07-24"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "blog"
   - "canada"

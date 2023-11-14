@@ -1,11 +1,12 @@
 ---
 title: "Nevermore / Warbringer / Blackguard @ The Opera House, October 22 2010"
+edited: false
 date: "2010-11-02"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "blackguard"
   - "hatesphere"

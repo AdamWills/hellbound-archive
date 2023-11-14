@@ -1,11 +1,12 @@
 ---
 title: "GWAR - Battle Maximus"
+edited: false
 date: "2013-09-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "gwar"
   - "hellbound-metal"

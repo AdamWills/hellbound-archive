@@ -1,11 +1,12 @@
 ---
 title: "MGR y Destructo Swarmbots: Amigos de la Guitarra"
+edited: false
 date: "2009-09-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "drone"
   - "experimental"
   - "isis"

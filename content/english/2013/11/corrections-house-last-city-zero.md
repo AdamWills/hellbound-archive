@@ -1,11 +1,12 @@
 ---
 title: "Corrections House - Last City Zero"
+edited: false
 date: "2013-11-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "bruce-lamont"
   - "corrections-house"

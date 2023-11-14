@@ -1,10 +1,11 @@
 ---
 title: "Heavy Rider: Why Motorcycles Are Metal"
+edited: false
 date: "2009-06-04"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "bleed-the-sky"
   - "chris-barnes"
   - "harley-davidson"

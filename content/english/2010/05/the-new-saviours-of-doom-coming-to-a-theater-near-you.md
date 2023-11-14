@@ -1,7 +1,8 @@
 ---
 title: "The new saviours of doom, coming to a theater near you..."
+edited: false
 date: "2010-05-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

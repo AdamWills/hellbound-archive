@@ -1,11 +1,12 @@
 ---
 title: "The Digital Age, It's Here, Learn How To Use It"
+edited: false
 date: "2012-01-25"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"
-tags: 
+tags:
   - "jason-wellwood"
 ---
 

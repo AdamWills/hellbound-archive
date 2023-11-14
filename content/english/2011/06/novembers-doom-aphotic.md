@@ -1,11 +1,12 @@
 ---
 title: "Novembers Doom – Aphotic"
+edited: false
 date: "2011-06-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anneke-van-giersbergen"
   - "doom"
   - "natalie-zed"

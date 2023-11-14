@@ -1,11 +1,12 @@
 ---
 title: "High on Fire – The Art of Self-Defense"
+edited: false
 date: "2012-07-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "celtic-frost"
   - "gruesome-greg"
   - "high-on-fire"

@@ -1,9 +1,10 @@
 ---
 title: "Book reviews by Steve Earles: The Great War Illustrated 1918"
+edited: false
 date: "2018-08-24"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "great-war"

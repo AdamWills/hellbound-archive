@@ -1,11 +1,12 @@
 ---
 title: "Changes at Hellbound.ca: Welcome our new Editor!"
+edited: false
 date: "2014-02-28"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "exclaim"
   - "hellbound-ca"
   - "laura-wiebe"

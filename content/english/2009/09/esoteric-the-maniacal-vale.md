@@ -1,11 +1,12 @@
 ---
 title: "Esoteric: The Maniacal Vale"
+edited: false
 date: "2009-09-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "england"
   - "esoteric"

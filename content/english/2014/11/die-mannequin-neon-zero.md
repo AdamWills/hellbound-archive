@@ -1,9 +1,10 @@
 ---
 title: "Die Mannequin – Neon Zero"
+edited: false
 date: "2014-11-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "die-mannequin"
   - "disco-punk"

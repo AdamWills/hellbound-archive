@@ -1,10 +1,11 @@
 ---
 title: "Psychedelic Witchcraft – The Vision"
+edited: false
 date: "2016-03-17"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "occult-rock"
   - "psychedelic-witchcraft"
   - "review"

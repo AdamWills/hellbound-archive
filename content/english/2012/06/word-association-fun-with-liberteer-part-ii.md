@@ -1,11 +1,12 @@
 ---
 title: "WORD ASSOCIATION FUN WITH... LIBERTEER, PART II"
+edited: false
 date: "2012-06-11"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "interview"
   - "kevin-stewart-panko"
   - "liberteer"

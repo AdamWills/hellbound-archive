@@ -1,11 +1,12 @@
 ---
 title: "Bison B.C. /Sin Dealer /Teethmarks /Madman @ Sneaky Dee’s, Toronto ON, Oct. 22, 2010"
+edited: false
 date: "2010-10-28"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "bison-bc"
   - "kvelertak"
   - "live-review"

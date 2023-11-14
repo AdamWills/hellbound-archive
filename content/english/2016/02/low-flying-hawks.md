@@ -1,9 +1,10 @@
 ---
 title: "Low Flying Hawks – Kofuku"
+edited: false
 date: "2016-02-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "low-flying-hawks"
   - "magnetic-eye-records"

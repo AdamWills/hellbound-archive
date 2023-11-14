@@ -1,11 +1,12 @@
 ---
 title: "Symphony X-Iconoclast"
+edited: false
 date: "2011-06-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "nuclear-blast"
   - "rob-kachluba"
   - "symphony-x"

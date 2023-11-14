@@ -1,7 +1,8 @@
 ---
 title: "Houston and the Dirty Rats - Songs! From the Bathroom Stall?"
+edited: false
 date: "2020-07-26"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

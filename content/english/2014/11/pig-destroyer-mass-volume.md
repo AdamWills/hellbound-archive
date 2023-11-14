@@ -1,9 +1,10 @@
 ---
 title: "Pig Destroyer – Mass & Volume"
+edited: false
 date: "2014-11-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "doom"
   - "grindcore"

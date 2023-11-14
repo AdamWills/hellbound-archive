@@ -1,11 +1,12 @@
 ---
 title: "Keelhaul: Keelhaul’s Triumphant Return to Obscurity"
+edited: false
 date: "2009-08-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hydra-head"
   - "keelhaul"
   - "noise-rock"

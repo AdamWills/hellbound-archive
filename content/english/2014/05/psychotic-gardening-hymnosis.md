@@ -1,9 +1,10 @@
 ---
 title: "Psychotic Gardening – Hymnosis"
+edited: false
 date: "2014-05-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "celtic-frost"
   - "death"

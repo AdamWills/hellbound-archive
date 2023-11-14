@@ -1,7 +1,8 @@
 ---
 title: "Samurai - Samurai"
+edited: false
 date: "2020-09-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

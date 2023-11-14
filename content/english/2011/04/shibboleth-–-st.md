@@ -1,11 +1,12 @@
 ---
 title: "Shibboleth – S/T"
+edited: false
 date: "2011-04-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "ola-mazzuca"
   - "sam-dunn"

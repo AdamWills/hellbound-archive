@@ -1,11 +1,12 @@
 ---
 title: "Photo Gallery: Rush by Steve Truglio"
+edited: false
 date: "2010-07-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "aquarian"
   - "metal-maniacs"
   - "photo-gallery"

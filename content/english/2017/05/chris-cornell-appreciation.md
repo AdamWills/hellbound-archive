@@ -1,9 +1,10 @@
 ---
 title: "Chris Cornell – An Appreciation"
+edited: false
 date: "2017-05-22"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "audioslave"
   - "chris-cornell"
   - "in-memoriam"

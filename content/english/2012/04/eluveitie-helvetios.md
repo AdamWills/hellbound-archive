@@ -1,11 +1,12 @@
 ---
 title: "Eluveitie – Helvetios"
+edited: false
 date: "2012-04-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "eluveitie"
   - "melodic-death-metal"
   - "nuclear-blast"

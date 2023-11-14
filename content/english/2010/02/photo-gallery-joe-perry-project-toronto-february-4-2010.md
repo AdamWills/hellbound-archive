@@ -1,11 +1,12 @@
 ---
 title: "Photo Gallery: The Joe Perry Project @ Air Canada Centre, Toronto ON, February 4, 2010"
+edited: false
 date: "2010-02-06"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "adam-wills"
   - "aereosmith"
   - "joe-perry"

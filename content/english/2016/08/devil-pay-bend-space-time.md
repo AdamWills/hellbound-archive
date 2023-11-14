@@ -1,10 +1,11 @@
 ---
 title: "Devil to Pay – A Bend in Space and Time"
+edited: false
 date: "2016-08-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "devil-to-pay"
   - "doom"
   - "groove"

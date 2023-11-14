@@ -1,11 +1,12 @@
 ---
 title: "Staff picks, March 2018"
+edited: false
 date: "2018-03-30"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "music"

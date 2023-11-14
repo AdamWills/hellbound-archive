@@ -1,9 +1,10 @@
 ---
 title: "Lecherous Gaze – Zeta Reticuli Blues"
+edited: false
 date: "2014-06-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "garage-punk"

@@ -1,7 +1,8 @@
 ---
 title: "Mayhem & Mortiis Live Review - Glasgow, UK"
+edited: false
 date: "2022-06-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
@@ -9,7 +10,7 @@ categories:
   - "reviews-audio"
   - "reviews-live"
   - "reviews-visual"
-tags: 
+tags:
   - "mayhem"
   - "mortiis"
 ---

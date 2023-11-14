@@ -1,7 +1,8 @@
 ---
 title: "Thee MVPs - Receiver"
+edited: false
 date: "2020-09-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

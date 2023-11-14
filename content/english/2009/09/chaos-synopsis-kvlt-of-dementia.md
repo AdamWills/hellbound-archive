@@ -1,11 +1,12 @@
 ---
 title: "Chaos Synopsis: Kvlt Of Dementia"
+edited: false
 date: "2009-09-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "brazil"
   - "chaos-synopsis"
   - "death-metal"

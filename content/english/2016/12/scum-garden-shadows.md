@@ -1,10 +1,11 @@
 ---
 title: "Scum – Garden of Shadows"
+edited: false
 date: "2016-12-13"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "death-doom"
   - "doom-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Agalloch - Marrow of the Spirit"
+edited: false
 date: "2010-11-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "agalloch"
   - "john-haughm"
   - "jonathan-smith"

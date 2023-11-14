@@ -1,9 +1,10 @@
 ---
 title: "45 Adapters – They Call It Justice 7''"
+edited: false
 date: "2017-05-16"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "45-adapters"
   - "oi"
   - "punk"

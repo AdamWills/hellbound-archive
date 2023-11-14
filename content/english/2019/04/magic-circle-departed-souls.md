@@ -1,10 +1,11 @@
 ---
 title: "Magic Circle – Departed Souls"
+edited: false
 date: "2019-04-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

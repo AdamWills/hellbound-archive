@@ -1,9 +1,10 @@
 ---
 title: "Cathedral – In Memoriam"
+edited: false
 date: "2015-09-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bill-steer"
   - "british"
   - "classic"

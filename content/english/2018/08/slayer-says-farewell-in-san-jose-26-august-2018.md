@@ -1,9 +1,10 @@
 ---
 title: "Slayer says farewell in San Jose, 26 August 2018"
+edited: false
 date: "2018-08-30"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "anthrax"
   - "california"
   - "concert"

@@ -1,11 +1,12 @@
 ---
 title: "Seventeen Questions With... Titan (Canada)"
+edited: false
 date: "2013-01-23"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "buried-inside"
   - "burning-love"
   - "chris-colohan"

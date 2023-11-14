@@ -1,10 +1,11 @@
 ---
 title: "Dealer – Billionaire Boys Club"
+edited: false
 date: "2017-01-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dealer"
   - "grunge"
   - "heavy-metal"

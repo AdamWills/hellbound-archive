@@ -1,10 +1,11 @@
 ---
 title: "Fat White Family – Serfs Up! LP"
+edited: false
 date: "2019-08-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "music"
   - "review"

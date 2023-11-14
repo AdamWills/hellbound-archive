@@ -1,9 +1,10 @@
 ---
 title: "The scene’s softer side: Metal Cats by Alexandra Crockett"
+edited: false
 date: "2014-05-05"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "cats"
   - "metal"
   - "metalheads"

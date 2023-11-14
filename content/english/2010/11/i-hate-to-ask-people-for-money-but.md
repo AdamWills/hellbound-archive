@@ -1,11 +1,12 @@
 ---
 title: "I hate to ask people for money, but..."
+edited: false
 date: "2010-11-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "ckln"
   - "gruesome-greg"
 ---

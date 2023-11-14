@@ -1,9 +1,10 @@
 ---
 title: "Paul Leary - Born Stupid LP"
+edited: false
 date: "2021-06-29"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "born-stupid"
   - "butthole-surfers"
   - "leary"

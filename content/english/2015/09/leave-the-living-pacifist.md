@@ -1,9 +1,10 @@
 ---
 title: "Leave The Living – Pacifist"
+edited: false
 date: "2015-09-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "groove-metal"
   - "leave-the-living"

@@ -1,12 +1,13 @@
 ---
 title: "LISTENING TO THE PAST: Death - Human"
+edited: false
 date: "2013-01-10"
-categories: 
+categories:
   - "articles"
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death"
   - "death-metal"
   - "jonathan-smith"

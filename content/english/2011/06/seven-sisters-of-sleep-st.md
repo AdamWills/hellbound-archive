@@ -1,11 +1,12 @@
 ---
 title: "Seven Sisters of Sleep – s/t"
+edited: false
 date: "2011-06-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gruesome-greg"
   - "seven-sisters-of-sleep"
   - "sleep"

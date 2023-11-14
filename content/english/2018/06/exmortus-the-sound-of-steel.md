@@ -1,9 +1,10 @@
 ---
 title: "Exmortus – The Sound of Steel"
+edited: false
 date: "2018-06-01"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "exmortus"
   - "heavy-metal"

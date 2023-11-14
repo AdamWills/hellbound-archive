@@ -1,7 +1,8 @@
 ---
 title: "Clouds Taste Satanic - Your Doom Has Come"
+edited: false
 date: "2015-11-20"
-categories: 
+categories:
   - "reviews-audio"
 ---
 

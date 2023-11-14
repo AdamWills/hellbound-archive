@@ -1,9 +1,10 @@
 ---
 title: "Expulsion – Nightmare Future"
+edited: false
 date: "2017-07-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "expulsion"
   - "extreme-metal"
   - "grindcore"

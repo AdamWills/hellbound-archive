@@ -1,11 +1,12 @@
 ---
 title: "Finally making my way down to Milwaukee..."
+edited: false
 date: "2013-05-12"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert"
   - "days-of-the-doomed"
   - "doom"

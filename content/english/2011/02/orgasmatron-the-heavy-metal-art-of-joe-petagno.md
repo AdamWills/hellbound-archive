@@ -1,11 +1,12 @@
 ---
 title: "Orgasmatron: The Heavy Metal Art of Joe Petagno"
+edited: false
 date: "2011-02-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "joe-petagno"
   - "krisiun"
   - "laura-wiebe"

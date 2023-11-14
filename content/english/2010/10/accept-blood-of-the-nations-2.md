@@ -1,11 +1,12 @@
 ---
 title: "Accept – Blood of the Nations"
+edited: false
 date: "2010-10-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "germany"
   - "gruesome-greg"

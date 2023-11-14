@@ -1,9 +1,10 @@
 ---
 title: "Barren Earth – On Lonely Towers"
+edited: false
 date: "2015-05-14"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "barren-earth"
   - "prog"

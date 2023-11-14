@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: UNSANE/Big Brave @ Hard Luck, December 16, 2017"
+edited: false
 date: "2017-12-17"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "big-brave"
   - "concert-photography"
   - "concert-photos"

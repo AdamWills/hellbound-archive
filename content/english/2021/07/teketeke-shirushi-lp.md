@@ -1,10 +1,11 @@
 ---
 title: "Teke::Teke - Shirushi LP"
+edited: false
 date: "2021-07-30"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "hard-rock"
   - "japanese"
   - "killrockstars"

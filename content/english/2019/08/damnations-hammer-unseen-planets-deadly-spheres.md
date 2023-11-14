@@ -1,9 +1,10 @@
 ---
 title: "Damnation’s Hammer – Unseen Planets, Deadly Spheres"
+edited: false
 date: "2019-08-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "review"
 ---

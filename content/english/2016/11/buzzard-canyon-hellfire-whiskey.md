@@ -1,10 +1,11 @@
 ---
 title: "Buzzard Canyon – Hellfire &amp; Whiskey"
+edited: false
 date: "2016-11-23"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "buzzard-canyon"
   - "heavy-rock"
   - "review"

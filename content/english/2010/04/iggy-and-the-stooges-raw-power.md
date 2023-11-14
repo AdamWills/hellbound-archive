@@ -1,11 +1,12 @@
 ---
 title: "Iggy And The Stooges - Raw Power (2010 Legacy Edition)"
+edited: false
 date: "2010-04-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "columbia"
   - "iggy-and-the-stooges"
   - "legacy"

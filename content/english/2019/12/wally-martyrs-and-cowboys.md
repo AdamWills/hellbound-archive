@@ -1,7 +1,8 @@
 ---
 title: "Wally - Martyrs and Cowboys"
+edited: false
 date: "2019-12-27"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-classics"
 ---

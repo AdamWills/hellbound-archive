@@ -1,9 +1,10 @@
 ---
 title: "Marty Wilde – Marty"
+edited: false
 date: "2019-07-06"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "classic"
   - "review"
   - "rock"

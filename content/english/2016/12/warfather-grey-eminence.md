@@ -1,9 +1,10 @@
 ---
 title: "WARFATHER – The Grey Eminence"
+edited: false
 date: "2016-12-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "metal"
   - "morbid-angel"

@@ -1,9 +1,10 @@
 ---
 title: "Lux & Ivy Dig The Beatniks"
+edited: false
 date: "2019-08-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "45s"
   - "beatniks"
   - "music"

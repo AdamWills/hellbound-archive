@@ -1,11 +1,12 @@
 ---
 title: "Blizaro—City of the Living Nightmare"
+edited: false
 date: "2011-07-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blizaro"
   - "gruesome-greg"
   - "orodruin"

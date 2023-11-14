@@ -1,9 +1,10 @@
 ---
 title: "Personality Crisis - Creatures For Awhile (Reissue)"
+edited: false
 date: "2021-07-15"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "awhile"
   - "canadian"
   - "craft-pressing"

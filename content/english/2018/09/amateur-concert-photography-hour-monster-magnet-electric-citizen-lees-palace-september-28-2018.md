@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: MONSTER MAGNET/Electric Citizen @ Lee's Palace, September 28, 2018"
+edited: false
 date: "2018-09-29"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "electric-citizen"

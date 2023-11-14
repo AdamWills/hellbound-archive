@@ -1,9 +1,10 @@
 ---
 title: "Beastwars – Beastwars"
+edited: false
 date: "2014-06-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "beastwars"
   - "doom"

@@ -1,9 +1,10 @@
 ---
 title: "Muskets – Chew LP"
+edited: false
 date: "2017-12-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "emo"
   - "emocore"

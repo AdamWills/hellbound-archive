@@ -1,9 +1,10 @@
 ---
 title: "NXNE 2014 Diaries: Redanda"
+edited: false
 date: "2014-06-23"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "concert"
   - "festival"
   - "live-music"

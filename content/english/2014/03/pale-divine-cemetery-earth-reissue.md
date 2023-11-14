@@ -1,11 +1,12 @@
 ---
 title: "Pale Divine – Cemetery Earth (reissue)"
+edited: false
 date: "2014-03-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "earth"
   - "earthride"

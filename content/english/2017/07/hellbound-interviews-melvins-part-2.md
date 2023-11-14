@@ -1,11 +1,12 @@
 ---
 title: "IN CONVERSATION WITH (THE) MELVINS: THE SUB-POP THICKENS"
+edited: false
 date: "2017-07-21"
-categories: 
+categories:
   - "articles"
   - "features"
   - "interviews"
-tags: 
+tags:
   - "dale-crover"
   - "grunge"
   - "heavy"

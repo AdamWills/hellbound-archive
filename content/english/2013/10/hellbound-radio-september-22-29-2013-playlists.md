@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: September 22 & 29, 2013 Playlists"
+edited: false
 date: "2013-10-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "albert-mansour"
   - "axisofmetal-com"
   - "boris"

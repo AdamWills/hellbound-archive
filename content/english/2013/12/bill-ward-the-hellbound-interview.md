@@ -1,7 +1,9 @@
 ---
 title: "Bill Ward: The Hellbound Interview"
+edited: true
 date: "2013-12-16"
 author: "Kyle Harcott"
+coverImage: "http://www.hellbound.ca/wp-content/uploads/2013/12/billward02.020709-590x390.jpg"
 categories:
   - "articles"
   - "features"
@@ -30,8 +32,6 @@ tags:
   - "today-is-the-day"
   - "tony-iommi"
 ---
-
-![Photo (c) Christopher Wagner](http://www.hellbound.ca/wp-content/uploads/2013/12/billward02.020709-590x390.jpg)
 
 It don’t mean a thing if don’t got that caveman swing.
 

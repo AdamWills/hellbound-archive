@@ -1,11 +1,12 @@
 ---
 title: "Watch Sacha from Intronaut fronting Meshuggah last night in Atlanta"
+edited: false
 date: "2013-02-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "animals-as-leaders"
   - "intronaut"
   - "meshuggah"

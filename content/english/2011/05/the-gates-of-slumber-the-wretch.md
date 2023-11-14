@@ -1,11 +1,12 @@
 ---
 title: "The Gates of Slumber – The Wretch"
+edited: false
 date: "2011-05-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bathory"
   - "doom"
   - "gruesome-greg"

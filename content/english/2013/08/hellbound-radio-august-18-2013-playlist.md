@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: August 18, 2013 Playlist"
+edited: false
 date: "2013-08-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "agrimonia"
   - "albert-mansour"
   - "altar-of-plagues"

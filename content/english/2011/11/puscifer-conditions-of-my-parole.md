@@ -1,11 +1,12 @@
 ---
 title: "Puscifer - Conditions of My Parole"
+edited: false
 date: "2011-11-25"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "a-perfect-circle"
   - "bill-adams"
   - "maynard-james-keenan"

@@ -1,10 +1,11 @@
 ---
 title: "Woods of Ypres, Elevator 22, Will of the Ancients, Musk Ox, Seras @ Club Absinthe, Hamilton, ON"
+edited: false
 date: "2009-06-02"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "black-metal"
   - "canada"

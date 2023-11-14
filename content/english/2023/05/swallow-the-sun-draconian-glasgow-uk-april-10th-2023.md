@@ -1,7 +1,8 @@
 ---
 title: "Swallow the Sun & Draconian - Glasgow, UK - April 10th, 2023"
+edited: false
 date: "2023-05-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"

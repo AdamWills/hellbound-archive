@@ -1,12 +1,13 @@
 ---
 title: "Between The Buried and Me/ Job For A Cowboy/ The Ocean @ The Opera House, Toronto ON, April 21, 2011"
+edited: false
 date: "2011-04-28"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "between-the-buried-and-me"
   - "job-for-a-cowboy"
   - "matt-lewis"

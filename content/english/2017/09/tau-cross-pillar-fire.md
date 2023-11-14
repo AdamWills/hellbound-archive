@@ -1,9 +1,10 @@
 ---
 title: "Tau Cross – Pillar of Fire"
+edited: false
 date: "2017-09-19"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "amebix"
   - "heavy-metal"
   - "punk"

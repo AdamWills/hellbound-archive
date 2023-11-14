@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: June 12, 2011 Playlist"
+edited: false
 date: "2011-06-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "a-storm-of-light"
   - "albert-mansour"
   - "amorphis"

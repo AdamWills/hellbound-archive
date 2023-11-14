@@ -1,7 +1,8 @@
 ---
 title: "While y'all were drooling over RUSH, I was getting psyched for MAIDEN!!!"
+edited: false
 date: "2010-07-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

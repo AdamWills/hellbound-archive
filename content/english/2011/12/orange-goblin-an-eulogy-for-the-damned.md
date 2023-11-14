@@ -1,11 +1,12 @@
 ---
 title: "Orange Goblin – An Eulogy for the Damned"
+edited: false
 date: "2011-12-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "motorhead"
   - "orange-goblin"

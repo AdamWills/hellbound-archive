@@ -1,7 +1,8 @@
 ---
 title: "Day Of Phoenix: Mind Funeral - The Recordings of 1968-1972"
+edited: false
 date: "2020-09-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

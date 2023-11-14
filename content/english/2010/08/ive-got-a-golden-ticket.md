@@ -1,7 +1,8 @@
 ---
 title: "I've got a golden ticket..."
+edited: false
 date: "2010-08-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

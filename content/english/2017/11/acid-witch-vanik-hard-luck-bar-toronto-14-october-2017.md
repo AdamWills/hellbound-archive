@@ -1,9 +1,10 @@
 ---
 title: "Acid Witch / Vanik @ Hard Luck Bar, Toronto, 14 October 2017"
+edited: false
 date: "2017-11-07"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "acid-witch"
   - "concert"
   - "death-metal"

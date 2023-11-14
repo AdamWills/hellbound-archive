@@ -1,10 +1,11 @@
 ---
 title: "Hellbound summer metal fest guide (staff picks for 2015)"
+edited: false
 date: "2015-06-10"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "copenhell"
   - "eye-of-the-stoned-goat"
   - "grimposium"

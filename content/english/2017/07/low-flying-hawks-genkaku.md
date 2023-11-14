@@ -1,10 +1,11 @@
 ---
 title: "Low Flying Hawks – Genkaku"
+edited: false
 date: "2017-07-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy"
   - "low-flying-hawks"

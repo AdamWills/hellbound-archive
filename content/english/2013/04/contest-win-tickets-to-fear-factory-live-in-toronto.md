@@ -1,13 +1,14 @@
 ---
 title: "CONTEST: Win tickets to see Fear Factory/Hate Eternal live in Toronto!"
+edited: false
 date: "2013-04-16"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "contest"
   - "fear-factory"
   - "hate-eternal"

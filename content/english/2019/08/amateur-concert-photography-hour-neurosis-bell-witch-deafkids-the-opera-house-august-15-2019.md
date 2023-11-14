@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: NEUROSIS/Bell Witch/DeafKids @ The Opera House, August 15, 2019"
+edited: false
 date: "2019-08-16"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "gruesome_greg"
-tags: 
+tags:
   - "bell-witch"
   - "concert-photography"
   - "concert-photos"

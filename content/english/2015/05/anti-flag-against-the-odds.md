@@ -1,9 +1,10 @@
 ---
 title: "Anti-Flag: Against The Odds"
+edited: false
 date: "2015-05-26"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "amnesty-international"
   - "anti-flag"
   - "interview"

@@ -1,9 +1,10 @@
 ---
 title: "A Metal Day in Portland"
+edited: false
 date: "2014-06-06"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "agalloch"
   - "lord-dying"
   - "portland"

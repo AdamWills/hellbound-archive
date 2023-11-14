@@ -1,11 +1,12 @@
 ---
 title: "Skyfire: Esoteric"
+edited: false
 date: "2009-10-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "esoteric"
   - "melodic-death-metal"
   - "pivotal"

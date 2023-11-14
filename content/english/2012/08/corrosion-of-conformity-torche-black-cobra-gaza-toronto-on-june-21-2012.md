@@ -1,11 +1,12 @@
 ---
 title: "Corrosion of Conformity/ Torche/ Black Cobra/ Gaza @ The Opera House, Toronto ON, June 21 2012"
+edited: false
 date: "2012-08-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "corrosion-of-conformity"
   - "gaza"

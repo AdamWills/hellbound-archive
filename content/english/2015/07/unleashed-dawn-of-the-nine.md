@@ -1,11 +1,12 @@
 ---
 title: "Unleashed - Dawn Of The Nine"
+edited: false
 date: "2015-07-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "heavy-metal"
   - "hellbound-ca"

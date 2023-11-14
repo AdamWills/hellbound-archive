@@ -1,12 +1,13 @@
 ---
 title: "The Devil’s Blood – The Time of No Time Evermore"
+edited: false
 date: "2011-01-26"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-widow"
   - "blood-ceremony"
   - "blue-oyster-cult"

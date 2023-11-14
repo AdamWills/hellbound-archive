@@ -1,14 +1,15 @@
 ---
 title: "Photo Gallery: Diamond Head live at Heavy T.O."
+edited: false
 date: "2011-07-28"
-categories: 
+categories:
   - "adam_wills"
   - "albert_mansour"
   - "articles"
   - "blogs"
   - "featured"
   - "features"
-tags: 
+tags:
   - "adam-wills"
   - "albert-mansour"
   - "diamond-head"

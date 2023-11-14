@@ -1,11 +1,12 @@
 ---
 title: "MARYLAND DOOM FEST 2019 PHOTOS: Friday, June 21"
+edited: false
 date: "2019-06-27"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert-photography"
   - "concert-photos"
   - "lo-pan"

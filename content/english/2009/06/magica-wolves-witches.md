@@ -1,10 +1,11 @@
 ---
 title: "Magica: Wolves & Witches"
+edited: false
 date: "2009-06-12"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "magica"
   - "romania"
 ---

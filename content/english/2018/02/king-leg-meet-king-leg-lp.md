@@ -1,9 +1,10 @@
 ---
 title: "King Leg – Meet King Leg LP"
+edited: false
 date: "2018-02-22"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "country"
   - "king-leg"
   - "review"

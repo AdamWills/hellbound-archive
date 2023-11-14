@@ -1,9 +1,10 @@
 ---
 title: "KEN mode live in Toronto, October 2018"
+edited: false
 date: "2018-11-06"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "birds-in-row"
   - "bovine-sex-club"
   - "concert"

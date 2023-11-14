@@ -1,11 +1,12 @@
 ---
 title: "Soen - Cognitive"
+edited: false
 date: "2012-06-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "a-perfect-circle"
   - "amon-amarth"
   - "danny-carey"

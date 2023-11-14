@@ -1,10 +1,11 @@
 ---
 title: "Sierra – 72"
+edited: false
 date: "2016-02-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "grunge"
   - "metal"

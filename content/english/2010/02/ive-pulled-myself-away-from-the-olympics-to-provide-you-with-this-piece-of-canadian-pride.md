@@ -1,7 +1,8 @@
 ---
 title: "I've pulled myself away from the Olympics to provide you with this piece of Canadian pride..."
+edited: false
 date: "2010-02-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

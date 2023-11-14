@@ -1,11 +1,12 @@
 ---
 title: "Didn't get that Reverend Bizarre backpatch you wanted for Christmas?  Well, this draw's for you!"
+edited: false
 date: "2012-01-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "days-of-the-doomed"
   - "doom"
   - "doom-metal"

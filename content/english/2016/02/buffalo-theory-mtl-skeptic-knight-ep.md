@@ -1,10 +1,11 @@
 ---
 title: "Buffalo Theory MTL – Skeptic Knight EP"
+edited: false
 date: "2016-02-10"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "buffalo-theory-mtl"
   - "doom"
   - "groove"

@@ -1,10 +1,11 @@
 ---
 title: "KING PARROT interview, September 2018"
+edited: false
 date: "2018-10-13"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "australia"
   - "concert"
   - "extreme-metal"

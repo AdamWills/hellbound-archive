@@ -1,9 +1,10 @@
 ---
 title: "More Maryland Deathfest 2014 – going full bore at MDF"
+edited: false
 date: "2014-07-02"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "agalloch"
   - "asphyx"
   - "at-the-gates"

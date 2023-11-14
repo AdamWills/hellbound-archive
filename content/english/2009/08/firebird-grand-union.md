@@ -1,11 +1,12 @@
 ---
 title: "Firebird: Grand Union"
+edited: false
 date: "2009-08-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blues-rock"
   - "carcass"
   - "firebird"

@@ -1,7 +1,8 @@
 ---
 title: "Jamie Wyatt - Neon Cross"
+edited: false
 date: "2020-12-22"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

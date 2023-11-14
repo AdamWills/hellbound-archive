@@ -1,10 +1,11 @@
 ---
 title: "Maryland Deathfest 2014: Day 1"
+edited: false
 date: "2014-05-23"
-categories: 
+categories:
   - "reviews-live"
   - "editors_blog"
-tags: 
+tags:
   - "baltimore"
   - "coffins"
   - "crowbar"

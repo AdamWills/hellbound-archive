@@ -1,11 +1,12 @@
 ---
 title: "GRUESOME GREG'S TOP 18 CONCERTS OF 2018"
+edited: false
 date: "2018-12-31"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "angel-witch"
   - "concert-photography"
   - "concert-photos"

@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Staff Interrogations #19: Jonathan Smith"
+edited: false
 date: "2011-06-27"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "a-storm-of-light"
   - "adam-wills"
   - "alcest"

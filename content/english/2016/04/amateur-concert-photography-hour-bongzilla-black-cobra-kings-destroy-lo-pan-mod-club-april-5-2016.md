@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: BONGZILLA, Black Cobra, Kings Destroy, Lo-Pan @ Mod Club, April 5, 2016"
+edited: false
 date: "2016-04-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-cobra"
   - "bongzilla"
   - "concert-photography"

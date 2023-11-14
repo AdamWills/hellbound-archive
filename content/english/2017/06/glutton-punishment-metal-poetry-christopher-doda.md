@@ -1,9 +1,10 @@
 ---
 title: "Glutton for Punishment – metal poetry by Christopher Doda"
+edited: false
 date: "2017-06-27"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "heavy-metal"
   - "metal"

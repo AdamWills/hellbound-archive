@@ -1,9 +1,10 @@
 ---
 title: "Scott Ian – I’m The Man"
+edited: false
 date: "2014-12-18"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "autobiography"
   - "book"
   - "de-capo-press"

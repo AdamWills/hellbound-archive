@@ -1,10 +1,11 @@
 ---
 title: "Apostle of Solitude – From Gold to Ash"
+edited: false
 date: "2018-01-16"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "apostle-of-solitude"
   - "cruz-del-sur"
   - "doom"

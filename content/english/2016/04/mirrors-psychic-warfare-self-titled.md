@@ -1,10 +1,11 @@
 ---
 title: "Mirrors for Psychic Warfare – self-titled"
+edited: false
 date: "2016-04-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "acoustic"
   - "doom"
   - "folk"

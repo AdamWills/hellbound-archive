@@ -1,9 +1,10 @@
 ---
 title: "Iron Maiden – The Book of Souls"
+edited: false
 date: "2015-09-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "heavy-metal"
   - "iron-maiden"

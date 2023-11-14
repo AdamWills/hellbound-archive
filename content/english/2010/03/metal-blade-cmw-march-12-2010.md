@@ -1,11 +1,12 @@
 ---
 title: "Metal Blade CMW Showcase @ Bovine Sex Club, Toronto ON, March 12, 2010"
+edited: false
 date: "2010-03-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "aeternam"
   - "barn-burner"
   - "bison-bc"

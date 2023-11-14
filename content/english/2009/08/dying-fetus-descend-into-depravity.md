@@ -1,11 +1,12 @@
 ---
 title: "Dying Fetus: Descend Into Depravity"
+edited: false
 date: "2009-08-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "dying-fetus"
   - "relapse"

@@ -1,9 +1,10 @@
 ---
 title: "Killer – Volume One: The Mausoleum Years 1981-1990"
+edited: false
 date: "2019-01-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "nwobhm"
   - "review"

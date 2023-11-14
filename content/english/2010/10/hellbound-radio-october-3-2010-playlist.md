@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: October 3rd, 2010 Playlist"
+edited: false
 date: "2010-10-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "accept"
   - "acephalix"
   - "albert-mansour"

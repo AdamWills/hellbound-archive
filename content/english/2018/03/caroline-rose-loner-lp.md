@@ -1,10 +1,11 @@
 ---
 title: "Caroline Rose – Loner LP"
+edited: false
 date: "2018-03-02"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-country"
   - "caroline-rose"
   - "review"

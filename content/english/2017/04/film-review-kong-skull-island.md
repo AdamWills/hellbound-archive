@@ -1,9 +1,10 @@
 ---
 title: "Film Review – Kong: Skull Island"
+edited: false
 date: "2017-04-20"
-categories: 
+categories:
   - "reviews-visual"
-tags: 
+tags:
   - "cinema"
   - "film-review"
   - "kong-skull-island"

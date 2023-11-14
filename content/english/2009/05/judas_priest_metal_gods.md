@@ -1,10 +1,11 @@
 ---
 title: "Judas Priest - Metal Gods"
+edited: false
 date: "2009-05-26"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "britain"
   - "classic-metal"
 ---

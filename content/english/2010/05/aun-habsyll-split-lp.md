@@ -1,11 +1,12 @@
 ---
 title: "Aun /Habsyll - Split LP"
+edited: false
 date: "2010-05-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "aun"
   - "canada"
   - "drone-metal"

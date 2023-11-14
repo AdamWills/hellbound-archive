@@ -1,9 +1,10 @@
 ---
 title: "Aleister Crowley: Magick, Rock and Roll, and the Most Wicked Man in the World"
+edited: false
 date: "2014-09-24"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "aleister-crowley"
   - "biography"
   - "black-sabbath"

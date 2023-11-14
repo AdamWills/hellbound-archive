@@ -1,7 +1,8 @@
 ---
 title: "Contract In Blood: A History of UK Thrash Metal (book review)"
+edited: false
 date: "2018-08-08"
-categories: 
+categories:
   - "reviews-books"
 ---
 

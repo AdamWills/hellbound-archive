@@ -1,7 +1,8 @@
 ---
 title: "L7: Pretend We're Dead (DVD/Blu-Ray)"
+edited: false
 date: "2017-11-02"
-categories: 
+categories:
   - "reviews-visual"
 ---
 

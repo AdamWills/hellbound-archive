@@ -1,12 +1,13 @@
 ---
 title: "From the Archives: 2002 Interview with Down's Pepper Keenan"
+edited: false
 date: "2013-05-24"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "black-sabbath"
   - "corrosion-of-conformity"
   - "crowbar"

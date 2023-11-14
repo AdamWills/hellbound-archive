@@ -1,11 +1,12 @@
 ---
 title: "Bastard Child Death Cult: Year Zero"
+edited: false
 date: "2009-11-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bastard-child-death-cult"
   - "canada"
   - "hardcore"

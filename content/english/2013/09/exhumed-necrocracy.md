@@ -1,11 +1,12 @@
 ---
 title: "Exhumed - Necrocracy"
+edited: false
 date: "2013-09-10"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "carcass"
   - "death-metal"
   - "deeds-of-flesh"

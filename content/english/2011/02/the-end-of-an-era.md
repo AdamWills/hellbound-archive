@@ -1,11 +1,12 @@
 ---
 title: "The end of an era?"
+edited: false
 date: "2011-02-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "ckln"
   - "gruesome-greg"
   - "smokin-green"

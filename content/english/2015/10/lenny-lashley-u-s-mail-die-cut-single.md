@@ -1,9 +1,10 @@
 ---
 title: "Lenny Lashley – U.S. Mail die-cut single"
+edited: false
 date: "2015-10-20"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "darkbuster"
   - "lenny-lashley"

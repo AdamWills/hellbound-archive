@@ -1,9 +1,10 @@
 ---
 title: "Nomad Son – The Darkening"
+edited: false
 date: "2019-04-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "review"
 ---

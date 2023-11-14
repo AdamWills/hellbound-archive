@@ -1,13 +1,14 @@
 ---
 title: "Editor's playlist – songs for a cold, snowy Thursday"
+edited: false
 date: "2014-03-13"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "staff_picks"
   - "staff_playlists"
   - "editors_blog"
-tags: 
+tags:
   - "arriving-angels"
   - "beautiful-friends"
   - "cello"

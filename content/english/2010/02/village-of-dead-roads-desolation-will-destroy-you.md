@@ -1,11 +1,12 @@
 ---
 title: "Village of Dead Roads – Desolation Will Destroy You"
+edited: false
 date: "2010-02-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "crowbar"
   - "eyehategod"
   - "meteorcity"

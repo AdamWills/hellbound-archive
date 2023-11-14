@@ -1,11 +1,12 @@
 ---
 title: "The Governor's Bash 7 w/ Fuck the Facts, Godstopper, Slyde @ Bovine Sex Club, Toronto ON, November 23, 2013"
+edited: false
 date: "2013-12-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "bovine-sex-club"
   - "danielle-griscti"
   - "fuck-the-facts"

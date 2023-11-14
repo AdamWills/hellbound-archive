@@ -1,9 +1,10 @@
 ---
 title: "Augury live in Toronto, April 2018"
+edited: false
 date: "2018-05-08"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "augury"
   - "centuries-of-decay"
   - "concert"

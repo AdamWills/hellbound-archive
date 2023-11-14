@@ -1,11 +1,12 @@
 ---
 title: "God Dethroned: Passiondale"
+edited: false
 date: "2009-09-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "god-dethroned"
   - "metal-blade"

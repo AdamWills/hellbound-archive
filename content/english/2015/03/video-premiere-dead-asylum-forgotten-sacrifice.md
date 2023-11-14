@@ -1,13 +1,14 @@
 ---
 title: "Video Premiere: DEAD ASYLUM - Forgotten Sacrifice"
+edited: false
 date: "2015-03-30"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "editors_blog"
-tags: 
+tags:
   - "amon-amarth"
   - "dead-asylum"
   - "exodus"

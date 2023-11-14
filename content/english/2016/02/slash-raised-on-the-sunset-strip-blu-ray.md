@@ -1,10 +1,11 @@
 ---
 title: "Slash – Raised On The Sunset Strip Blu-Ray"
+edited: false
 date: "2016-02-09"
-categories: 
+categories:
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "blu-ray"
   - "documentary"
   - "guns-n-roses"

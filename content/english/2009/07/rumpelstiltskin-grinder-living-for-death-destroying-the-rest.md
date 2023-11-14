@@ -1,11 +1,12 @@
 ---
 title: "Rumpelstiltskin Grinder: Living For Death, Destroying The Rest"
+edited: false
 date: "2009-07-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "relapse"
   - "rumpelstiltskin-grinder"
   - "thrash-metal"

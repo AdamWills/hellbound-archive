@@ -1,11 +1,12 @@
 ---
 title: "MARYLAND DOOM FEST 2019 PHOTOS: Sunday, June 23"
+edited: false
 date: "2019-06-29"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "conan"
   - "concert-photography"
   - "concert-photos"

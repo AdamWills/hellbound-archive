@@ -1,9 +1,10 @@
 ---
 title: "Round Eye – Monstervision LP"
+edited: false
 date: "2017-12-29"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "freak-punk"
   - "punk"
   - "review"

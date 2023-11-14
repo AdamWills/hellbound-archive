@@ -1,9 +1,10 @@
 ---
 title: "PREVIEW: Final line-up announcements for Euroblast Festival's 15th edition"
+edited: false
 date: "2019-07-31"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "festival"
   - "metal-festival"
   - "preview"
@@ -80,15 +81,15 @@ https://youtu.be/6M9MvOSh-8E
 
 **Ticket links for Euroblast 2019**
 
-Hard tickets:  
+Hard tickets:
 [https://euroblast.bigcartel.com](https://euroblast.bigcartel.com)
 
-Digital tickets:  
+Digital tickets:
 [https://www.eventbrite.de/e/euroblast-festival-15-2019-tickets-51452911042](https://www.eventbrite.de/e/euroblast-festival-15-2019-tickets-51452911042)
 
 Ticket prices:
 
-3-day festival ticket level 2 (from 01.05.19): 119€  
+3-day festival ticket level 2 (from 01.05.19): 119€
 3-day festival ticket final price (from 01.09.19): 129€
 
 **Festival info:**

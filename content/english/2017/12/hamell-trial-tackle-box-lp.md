@@ -1,9 +1,10 @@
 ---
 title: "Hamell On Trial – Tackle Box LP"
+edited: false
 date: "2017-12-06"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "folk"
   - "hamell-on-trial"
   - "punk"

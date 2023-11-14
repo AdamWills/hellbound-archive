@@ -1,13 +1,14 @@
 ---
 title: "An open love letter to Teresa Roncon - by Jay H. Gorania"
+edited: false
 date: "2012-05-20"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "jay_gorania"
-tags: 
+tags:
   - "jay-h-gorania"
   - "muchmusic"
   - "pepsi-power-hour"

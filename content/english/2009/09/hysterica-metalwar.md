@@ -1,11 +1,12 @@
 ---
 title: "Hysterica: Metalwar"
+edited: false
 date: "2009-09-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hysterica"
   - "nwobhm"
   - "sweden"

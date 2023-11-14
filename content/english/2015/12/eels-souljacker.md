@@ -1,9 +1,10 @@
 ---
 title: "Eels – Souljacker"
+edited: false
 date: "2015-12-24"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "alt-rock"
   - "eels"

@@ -1,10 +1,11 @@
 ---
 title: "Church of Misery – And Then There Were None"
+edited: false
 date: "2016-02-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "church-of-misery"
   - "review"
 ---

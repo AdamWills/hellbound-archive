@@ -1,9 +1,10 @@
 ---
 title: "Gateway Drugs – Magick Spells"
+edited: false
 date: "2015-06-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "drug-pop"
   - "gateway-drugs"

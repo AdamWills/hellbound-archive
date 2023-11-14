@@ -1,11 +1,12 @@
 ---
 title: "Oak: s/t LP"
+edited: false
 date: "2009-07-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "a389-records"
   - "doom"
   - "oak"

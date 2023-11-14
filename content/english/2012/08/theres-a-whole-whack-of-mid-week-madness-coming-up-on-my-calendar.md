@@ -1,11 +1,12 @@
 ---
 title: "There's a whole whack of mid-week madness coming up on my calendar..."
+edited: false
 date: "2012-08-25"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "accept"
   - "bruce-lamont"
   - "concert"

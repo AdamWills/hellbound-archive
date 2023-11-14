@@ -1,9 +1,10 @@
 ---
 title: "Great Apes – California Heart LP"
+edited: false
 date: "2017-01-23"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "great-apes"
   - "heavy-rock"
   - "indie-rock"

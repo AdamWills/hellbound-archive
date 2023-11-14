@@ -1,10 +1,11 @@
 ---
 title: "Ides of Gemini – Women"
+edited: false
 date: "2017-04-13"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "gothic"
   - "ides-of-gemini"

@@ -1,11 +1,12 @@
 ---
 title: "Altar Of Plagues: White Tomb"
+edited: false
 date: "2009-11-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "altar-of-plagues"
   - "black-metal"
   - "ireland"

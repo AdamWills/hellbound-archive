@@ -1,11 +1,12 @@
 ---
 title: "Volbeat/ The Sleeping/ Dommin @ the Mod Club, Toronto ON, August 17, 2010"
+edited: false
 date: "2010-08-20"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "denmark"
   - "dommin"

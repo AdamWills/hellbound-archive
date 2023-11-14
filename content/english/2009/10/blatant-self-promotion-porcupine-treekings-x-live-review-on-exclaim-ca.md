@@ -1,11 +1,12 @@
 ---
 title: "Blatant Self-Promotion: Porcupine Tree/King's X Live Review on Exclaim.ca"
+edited: false
 date: "2009-10-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "exclaim"
   - "kings-x"
   - "live-review"

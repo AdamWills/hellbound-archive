@@ -1,9 +1,10 @@
 ---
 title: "Music Blues – Things Haven’t Gone Well"
+edited: false
 date: "2014-08-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "drone-sludge"
   - "harvey-milk"
   - "instrumental"

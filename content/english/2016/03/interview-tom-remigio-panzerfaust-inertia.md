@@ -1,9 +1,10 @@
 ---
 title: "Interview: Tom Remigio, vocalist of Panzerfaust and Inertia employee"
+edited: false
 date: "2016-03-25"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "inertia"
   - "interview"
   - "panzerfaust"

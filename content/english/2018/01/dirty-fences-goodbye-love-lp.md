@@ -1,9 +1,10 @@
 ---
 title: "Dirty Fences  – Goodbye Love LP"
+edited: false
 date: "2018-01-04"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "dirty-fences"
   - "punk"
   - "review"

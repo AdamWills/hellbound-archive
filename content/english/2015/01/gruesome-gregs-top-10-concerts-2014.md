@@ -1,7 +1,8 @@
 ---
 title: "GRUESOME GREG'S TOP 10 CONCERTS OF 2014"
+edited: false
 date: "2015-01-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

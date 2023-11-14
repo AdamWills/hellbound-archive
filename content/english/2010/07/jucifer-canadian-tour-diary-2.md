@@ -1,11 +1,12 @@
 ---
 title: "Jucifer – Canadian Tour Diary #2"
+edited: false
 date: "2010-07-30"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "canada"
   - "jucifer"
   - "relapse"

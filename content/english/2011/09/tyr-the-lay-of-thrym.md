@@ -1,11 +1,12 @@
 ---
 title: "Tyr - The Lay of Thrym"
+edited: false
 date: "2011-09-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "rainbow"
   - "alestorm"
   - "amon-amarth"

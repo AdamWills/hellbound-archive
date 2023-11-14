@@ -1,11 +1,12 @@
 ---
 title: "King Diamond on tour with Jess and the Ancient Ones"
+edited: false
 date: "2014-10-17"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "editors_blog"
-tags: 
+tags:
   - "concert"
   - "jess-and-the-ancient-ones"
   - "king-diamond"

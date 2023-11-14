@@ -1,10 +1,11 @@
 ---
 title: "Torche – Admission"
+edited: false
 date: "2019-07-17"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "grunge"
   - "punk"
   - "review"

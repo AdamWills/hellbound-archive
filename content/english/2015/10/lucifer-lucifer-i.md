@@ -1,9 +1,10 @@
 ---
 title: "Lucifer – Lucifer I"
+edited: false
 date: "2015-10-01"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom-metal"
   - "lucifer"
   - "new-wave-of-british-heavy-metal"

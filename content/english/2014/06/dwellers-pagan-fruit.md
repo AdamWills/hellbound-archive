@@ -1,9 +1,10 @@
 ---
 title: "Dwellers – Pagan Fruit"
+edited: false
 date: "2014-06-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "baroness"
   - "dwellers"
   - "progressive-sludge"

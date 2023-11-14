@@ -1,9 +1,10 @@
 ---
 title: "Reviewing history"
+edited: false
 date: "2019-04-10"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-reviews"
   - "history"

@@ -1,10 +1,11 @@
 ---
 title: "Tyr: By the Light of the Northern Star"
+edited: false
 date: "2009-06-09"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "faroe-islands"
   - "napalm"
   - "pagan-metal"

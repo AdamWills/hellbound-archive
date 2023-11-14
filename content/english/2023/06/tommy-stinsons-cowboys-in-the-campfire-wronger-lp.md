@@ -1,11 +1,12 @@
 ---
 title: "Tommy Stinson's Cowboys In The Campfire - Wronger LP"
+edited: false
 date: "2023-06-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "cowboys-in-the-campfire"
   - "death"
   - "done"

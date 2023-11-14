@@ -1,10 +1,11 @@
 ---
 title: "The Christian Family - The Raw and Primitive Sound of The Christian Family LP"
+edited: false
 date: "2022-11-07"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "duo"
   - "primitive"
   - "raw"

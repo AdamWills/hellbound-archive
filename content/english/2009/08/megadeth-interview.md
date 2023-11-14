@@ -1,11 +1,12 @@
 ---
 title: "Megadeth: From Vic's Garage To Endgame With Shawn Drover"
+edited: false
 date: "2009-08-28"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "glen-drover"
   - "interview"
   - "kevin-stewart-panko"

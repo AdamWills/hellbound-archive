@@ -1,14 +1,15 @@
 ---
 title: "Metal picks to check out this Bandcamp Friday - November 2022"
+edited: false
 date: "2022-11-04"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "psa"
   - "reviews-audio"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "bandcamp-friday"
   - "danielle"
   - "metal"

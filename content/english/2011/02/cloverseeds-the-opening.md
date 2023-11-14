@@ -1,11 +1,12 @@
 ---
 title: "CloverSeeds—The Opening"
+edited: false
 date: "2011-02-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anathema"
   - "cloverseeds"
   - "marillion"

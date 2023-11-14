@@ -1,11 +1,12 @@
 ---
 title: "Today Is The Day - Pain Is A Warning"
+edited: false
 date: "2011-08-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-market-activities"
   - "curran-reynolds"
   - "kyle-harcott"

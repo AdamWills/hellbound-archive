@@ -1,9 +1,10 @@
 ---
 title: "Cannibal Corpse – Red Before Black"
+edited: false
 date: "2017-10-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "cannibal-corpse"
   - "death-metal"
   - "extreme-metal"

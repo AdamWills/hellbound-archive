@@ -1,9 +1,10 @@
 ---
 title: "Iron Maiden: Album By Album by Martin Popoff"
+edited: false
 date: "2019-01-09"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "heavy-metal"
   - "iron-maiden"

@@ -1,11 +1,12 @@
 ---
 title: "Totimoshi - Avenger"
+edited: false
 date: "2011-07-27"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "at-a-loss"
   - "dale-crover"
   - "gruesome-greg"

@@ -1,12 +1,13 @@
 ---
 title: "Alexisonfire - Otherness LP"
+edited: false
 date: "2022-11-28"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alexisonfire"
   - "alone"
   - "dallas-green"

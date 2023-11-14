@@ -1,9 +1,10 @@
 ---
 title: "Photo Gallery: Biblical, Public Animal & Hollow Earth, Toronto, March 29, 2014"
+edited: false
 date: "2014-04-04"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "anthony-abbatangelo"
   - "biblical"
   - "hollow-earth"

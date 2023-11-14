@@ -1,11 +1,12 @@
 ---
 title: "Postcards From Natalie Zed, Part 4"
+edited: false
 date: "2010-06-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ajna-offensive"
   - "black-metal"
   - "canada"

@@ -1,10 +1,11 @@
 ---
 title: "Hunting Lions - Light 12'' EP"
+edited: false
 date: "2023-05-04"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "ep"
   - "hunting"
   - "light"

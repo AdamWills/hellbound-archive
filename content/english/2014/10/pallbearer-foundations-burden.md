@@ -1,10 +1,11 @@
 ---
 title: "Pallbearer – Foundations of Burden"
+edited: false
 date: "2014-10-24"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "melancholic-doom"

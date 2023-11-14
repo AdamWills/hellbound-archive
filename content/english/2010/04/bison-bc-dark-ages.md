@@ -1,11 +1,12 @@
 ---
 title: "Bison BC - Dark Ages"
+edited: false
 date: "2010-04-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bison-bc"
   - "canada"
   - "high-on-fire"

@@ -1,11 +1,12 @@
 ---
 title: "Hard Charger - This Machine Is Driving"
+edited: false
 date: "2011-12-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hard-charger"
   - "jason-wellwood"
   - "metal"

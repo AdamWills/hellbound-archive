@@ -1,10 +1,11 @@
 ---
 title: "Hunters – Hands on Fire"
+edited: false
 date: "2014-10-28"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "boss-hog"
   - "grunge"
   - "hunters"

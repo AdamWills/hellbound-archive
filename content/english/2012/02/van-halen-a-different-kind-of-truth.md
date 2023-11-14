@@ -1,11 +1,12 @@
 ---
 title: "Van Halen - A Different Kind of Truth"
+edited: false
 date: "2012-02-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "david-lee-roth"
   - "eddie-van-halen"
   - "universal"

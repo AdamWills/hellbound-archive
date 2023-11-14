@@ -1,9 +1,10 @@
 ---
 title: "Prophets of Rage – Prophets of Rage"
+edited: false
 date: "2017-09-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alternative"
   - "cypress-hill"
   - "hip-hop"

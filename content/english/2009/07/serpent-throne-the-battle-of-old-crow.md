@@ -1,11 +1,12 @@
 ---
 title: "Serpent Throne: The Battle Of Old Crow"
+edited: false
 date: "2009-07-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "serpent-throne"
   - "usa"

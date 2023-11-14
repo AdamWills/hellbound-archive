@@ -1,9 +1,10 @@
 ---
 title: "Morbid Saint live in Toronto, March 2018"
+edited: false
 date: "2018-03-14"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "briefcase-show"
   - "coalition-to"
   - "concert"

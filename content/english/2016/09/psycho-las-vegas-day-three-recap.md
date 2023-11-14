@@ -1,11 +1,12 @@
 ---
 title: "PSYCHO LAS VEGAS Day Three Recap"
+edited: false
 date: "2016-09-04"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "alice-cooper"
   - "asg"
   - "candlemass"

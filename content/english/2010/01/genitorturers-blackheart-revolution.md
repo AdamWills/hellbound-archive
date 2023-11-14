@@ -1,11 +1,12 @@
 ---
 title: "Genitorturers: Blackheart Revolution"
+edited: false
 date: "2010-01-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "genitorturers"
   - "metal"
   - "mvd-media"

@@ -1,9 +1,10 @@
 ---
 title: "AURAS – Heliospectrum"
+edited: false
 date: "2017-01-31"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "auras"
   - "djent"
   - "metal"

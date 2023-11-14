@@ -1,10 +1,11 @@
 ---
 title: "Black Pyramid: self-titled"
+edited: false
 date: "2009-07-17"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "black-pyramid"
   - "doom"
   - "meteorcity"

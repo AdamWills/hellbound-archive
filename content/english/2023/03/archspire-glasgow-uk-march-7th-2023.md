@@ -1,7 +1,8 @@
 ---
 title: "Archspire - Glasgow, UK - March 7th, 2023"
+edited: false
 date: "2023-03-21"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews"

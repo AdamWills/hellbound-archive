@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: DIRKSCHNEIDER @ Mod Club, January 10, 2017"
+edited: false
 date: "2017-01-12"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "accept"
   - "concert-photography"
   - "concert-photos"

@@ -1,9 +1,10 @@
 ---
 title: "Various Artists – Contract In Blood: A History of UK Thrash Metal boxset"
+edited: false
 date: "2018-08-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "contract-in-blood"
   - "metal"
   - "review"

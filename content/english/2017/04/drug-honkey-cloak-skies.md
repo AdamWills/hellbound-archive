@@ -1,10 +1,11 @@
 ---
 title: "Drug Honkey – Cloak of Skies"
+edited: false
 date: "2017-04-28"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "doom"
   - "experimental"

@@ -1,11 +1,12 @@
 ---
 title: "Sonic Boom, Two Inches to the Left"
+edited: false
 date: "2011-09-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "40-watt-sun"
   - "gruesome-greg"
   - "hits-n-misses"

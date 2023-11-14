@@ -1,9 +1,10 @@
 ---
 title: "BriefcaseFest: Sunday May 21st @ Coalition, Toronto"
+edited: false
 date: "2017-05-29"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "briefcase-show-inc"
   - "briefcasefest"
   - "concert"

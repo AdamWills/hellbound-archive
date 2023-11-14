@@ -1,10 +1,11 @@
 ---
 title: "Black Lotus: Harvest of Seasons"
+edited: false
 date: "2009-08-24"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "black-lotus"
   - "black-metal"
   - "bleak-art-records"

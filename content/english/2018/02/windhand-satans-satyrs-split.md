@@ -1,10 +1,11 @@
 ---
 title: "Windhand / Satan’s Satyrs split"
+edited: false
 date: "2018-02-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy"
   - "metal"

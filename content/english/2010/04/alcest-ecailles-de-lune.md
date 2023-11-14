@@ -1,11 +1,12 @@
 ---
 title: "Alcest - Écailles de lune"
+edited: false
 date: "2010-04-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alcest"
   - "france"
   - "gothic-metal"

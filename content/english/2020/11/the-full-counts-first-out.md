@@ -1,7 +1,8 @@
 ---
 title: "The Full Counts - First Out"
+edited: false
 date: "2020-11-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

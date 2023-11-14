@@ -1,10 +1,11 @@
 ---
 title: "King Heavy – Guardian Demons"
+edited: false
 date: "2018-06-20"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doom-metal"
   - "heavy-metal"

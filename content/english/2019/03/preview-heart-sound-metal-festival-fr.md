@@ -1,9 +1,10 @@
 ---
 title: "PREVIEW: Heart Sound Metal Festival, FR"
+edited: false
 date: "2019-03-28"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "charity"
   - "france"
   - "leprous"
@@ -23,13 +24,13 @@ Video: [https://www.facebook.com/leprousband/videos/479138149526664/?t=0](https:
 
 ## Heart Sound Metal Fest
 
-**Date:** Saturday, 6th April 2019, 3.00 PM – 11.30 PM  
-**Venue:** Espace Jean-Marie Poirier, Esplanade du 18 juin 1940, 94370 SUCY-EN-BRIE, FRANCE  
+**Date:** Saturday, 6th April 2019, 3.00 PM – 11.30 PM
+**Venue:** Espace Jean-Marie Poirier, Esplanade du 18 juin 1940, 94370 SUCY-EN-BRIE, FRANCE
 **Tickets:** 35€ in presale online, 38€ on site
 
 **Line-up:** Leprous | Humanity's Last Breath | Smash Hit Combo | VOLA The Dali Thundering Concept | Stömb | Promethean
 
-**Official event:** [www.facebook.com/events/258894284981001](http://www.facebook.com/events/258894284981001)  
+**Official event:** [www.facebook.com/events/258894284981001](http://www.facebook.com/events/258894284981001)
 
 ### Metal versus Leukemia
 

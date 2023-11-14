@@ -1,12 +1,13 @@
 ---
 title: "Alice In Chains - Dirt 30th Anniversary 2LP Reissue"
+edited: false
 date: "2023-03-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "2lp"
   - "30th-anniversary"
   - "alice-in-chains"

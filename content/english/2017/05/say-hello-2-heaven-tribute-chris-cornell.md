@@ -1,9 +1,10 @@
 ---
 title: "Say Hello 2 Heaven - A Tribute to Chris Cornell"
+edited: false
 date: "2017-05-21"
-categories: 
+categories:
   - "features"
-tags: 
+tags:
   - "audioslave"
   - "chris-cornell"
   - "in-memoriam"

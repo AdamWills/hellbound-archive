@@ -1,10 +1,11 @@
 ---
 title: "Asteroid – III"
+edited: false
 date: "2016-10-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "asteroid"
   - "heavy-rock"
   - "review"

@@ -1,11 +1,12 @@
 ---
 title: "Fozzy – Chasing the Grail"
+edited: false
 date: "2010-02-08"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "chris-jericho"
   - "fozzy"

@@ -1,11 +1,12 @@
 ---
 title: "Cynic/ Intronaut/ Dysrhythmia @ The Opera House, Toronto ON, August 2, 2010"
+edited: false
 date: "2010-08-09"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "century-media"
   - "cynic"

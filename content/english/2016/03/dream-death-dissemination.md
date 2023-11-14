@@ -1,10 +1,11 @@
 ---
 title: "Dream Death – Dissemination"
+edited: false
 date: "2016-03-03"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "dream-death"
   - "metal"

@@ -1,10 +1,11 @@
 ---
 title: "Horrendous: Live in Toronto, Saturday August 1st, 2015"
+edited: false
 date: "2015-10-28"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "death-metal"
   - "live"
   - "pennsylvania"

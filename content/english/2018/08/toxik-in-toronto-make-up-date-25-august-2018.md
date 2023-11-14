@@ -1,9 +1,10 @@
 ---
 title: "TOXIK in Toronto – make-up date: 25 August 2018"
+edited: false
 date: "2018-08-20"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "coaltion"
   - "coaltion-t-o"
   - "concert"

@@ -1,9 +1,10 @@
 ---
 title: "Shardborne – Living Bridges"
+edited: false
 date: "2015-09-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "metal"
   - "shardborne"

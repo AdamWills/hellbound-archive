@@ -1,10 +1,11 @@
 ---
 title: "Spell – For None and All"
+edited: false
 date: "2016-06-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian-metal"
   - "for-none-and-all"
   - "review"

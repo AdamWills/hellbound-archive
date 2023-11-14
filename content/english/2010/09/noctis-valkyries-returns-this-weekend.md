@@ -1,11 +1,12 @@
 ---
 title: "Noctis Valkyries Returns This Weekend!"
+edited: false
 date: "2010-09-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "calgary"
   - "incantation"
   - "manegarm"

@@ -1,11 +1,12 @@
 ---
 title: "Metalion : The Slayer Mag Diaries"
+edited: false
 date: "2011-11-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-books"
-tags: 
+tags:
   - "bathory"
   - "bazillion-points"
   - "bolt-thrower"

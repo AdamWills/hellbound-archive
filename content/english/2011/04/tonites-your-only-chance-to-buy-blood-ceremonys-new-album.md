@@ -1,11 +1,12 @@
 ---
 title: "Tonite's your only chance to buy Blood Ceremony's new album..."
+edited: false
 date: "2011-04-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "blood-ceremony"
   - "ghost"
   - "gruesome-greg"

@@ -1,9 +1,10 @@
 ---
 title: "OFF! – Wasted Years"
+edited: false
 date: "2014-04-22"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "ground-control-mag"
   - "hardcore"

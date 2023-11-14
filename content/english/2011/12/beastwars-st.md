@@ -1,11 +1,12 @@
 ---
 title: "Beastwars-S/T"
+edited: false
 date: "2011-12-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "beastwars"
   - "black-sabbath"
   - "craig-haze"

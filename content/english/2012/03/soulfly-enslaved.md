@@ -1,11 +1,12 @@
 ---
 title: "Soulfly - Enslaved"
+edited: false
 date: "2012-03-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "agnostic-front"
   - "borknagar"
   - "cattle-decapitation"

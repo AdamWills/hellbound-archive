@@ -1,10 +1,11 @@
 ---
 title: "Beastmaker – Inside the Skull"
+edited: false
 date: "2017-05-16"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "beastmaker"
   - "doom"
   - "doom-metal"

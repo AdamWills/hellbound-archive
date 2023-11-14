@@ -1,11 +1,12 @@
 ---
 title: "Steve Hackett @ Oakville Centre For the Arts, Oakville ON, October 8, 2013"
+edited: false
 date: "2013-10-11"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "dee-snider"
   - "genesis"

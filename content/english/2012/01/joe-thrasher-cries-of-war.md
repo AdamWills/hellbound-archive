@@ -1,11 +1,12 @@
 ---
 title: "Joe Thrasher - Cries of War"
+edited: false
 date: "2012-01-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "exciter"
   - "jason-wellwood"
   - "joe-thrasher"

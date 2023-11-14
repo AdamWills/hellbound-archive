@@ -1,10 +1,11 @@
 ---
 title: "Internal Bleeding: Interview with Chris Pervelis in Oakland CA, June 6, 2017"
+edited: false
 date: "2017-06-26"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "chris-pervelis"
   - "death-metal"
   - "internal-bleeding"

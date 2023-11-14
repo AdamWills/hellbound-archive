@@ -1,10 +1,11 @@
 ---
 title: "Blind Guardian in Toronto"
+edited: false
 date: "2015-12-02"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "blind-guardian"
   - "concert-photos"
   - "grave-digger"

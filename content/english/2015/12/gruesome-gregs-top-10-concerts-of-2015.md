@@ -1,7 +1,8 @@
 ---
 title: "GRUESOME GREG’S TOP 10 CONCERTS OF 2015"
+edited: false
 date: "2015-12-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

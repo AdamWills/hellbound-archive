@@ -1,9 +1,10 @@
 ---
 title: "Winterfylleth – The Dark Hereafter"
+edited: false
 date: "2016-11-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "atmospheric"
   - "black-metal"
   - "heathen-metal"

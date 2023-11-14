@@ -1,9 +1,10 @@
 ---
 title: "Flipper  – Generic Flipper (vinyl reissue)"
+edited: false
 date: "2018-02-08"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "alt-rock"
   - "flipper"
   - "grunge"

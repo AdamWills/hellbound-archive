@@ -1,9 +1,10 @@
 ---
 title: "Cardinal Wyrm – Black Hole Gods"
+edited: false
 date: "2014-09-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bay-area"
   - "california"
   - "cardinal-worm"

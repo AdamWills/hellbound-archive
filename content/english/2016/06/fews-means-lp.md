@@ -1,9 +1,10 @@
 ---
 title: "Fews – Means LP"
+edited: false
 date: "2016-06-30"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "fews"
   - "punk"
   - "review"

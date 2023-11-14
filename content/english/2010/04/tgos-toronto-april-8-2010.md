@@ -1,11 +1,12 @@
 ---
 title: "Photo gallery: The Gates Of Slumber @ Wreck Room, Toronto ON, April 8, 2010"
+edited: false
 date: "2010-04-28"
-categories: 
+categories:
   - "albert_mansour"
   - "blogs"
   - "featured"
-tags: 
+tags:
   - "albert-mansour"
   - "doom-metal"
   - "metal-blade"

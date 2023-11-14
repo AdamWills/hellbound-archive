@@ -1,10 +1,11 @@
 ---
 title: "Ancestors – Suspended in Reflections"
+edited: false
 date: "2018-06-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ancestors"
   - "doom"
   - "metal"

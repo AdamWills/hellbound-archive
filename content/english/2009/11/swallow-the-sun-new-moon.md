@@ -1,11 +1,12 @@
 ---
 title: "Swallow The Sun: New Moon"
+edited: false
 date: "2009-11-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom-metal"
   - "finland"
   - "spinefarm"

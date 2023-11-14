@@ -1,11 +1,12 @@
 ---
 title: "Exodus: Shovel Headed Tour Machine-Live At Wacken"
+edited: false
 date: "2010-01-22"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "bonded-by-blood"
   - "combat"
   - "documentary"

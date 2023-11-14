@@ -1,10 +1,11 @@
 ---
 title: "Nachtmystium / Zoroaster / Dark Castle / The Atlas Moth @ Lee’s Palace, Toronto ON, September 11th, 2010"
+edited: false
 date: "2010-09-16"
-categories: 
+categories:
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "black-metal"
   - "dark-castle"

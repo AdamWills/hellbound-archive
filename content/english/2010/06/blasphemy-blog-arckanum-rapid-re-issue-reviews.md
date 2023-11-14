@@ -1,12 +1,13 @@
 ---
 title: "Blasphemy Blog: Arckanum - Rapid Re-Issue Reviews"
+edited: false
 date: "2010-06-11"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "featured"
   - "features"
-tags: 
+tags:
   - "arckanum"
   - "black-metal"
   - "blasphemy-blog"

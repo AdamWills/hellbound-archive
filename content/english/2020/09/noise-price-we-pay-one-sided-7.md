@@ -1,7 +1,8 @@
 ---
 title: "Noi!se - Price We Pay (one-sided 7'')"
+edited: false
 date: "2020-09-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

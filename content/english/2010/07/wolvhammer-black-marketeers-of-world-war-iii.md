@@ -1,11 +1,12 @@
 ---
 title: "Wolvhammer - Black Marketeers of World War III"
+edited: false
 date: "2010-07-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "crust"
   - "init-records"

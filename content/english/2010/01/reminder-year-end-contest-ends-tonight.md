@@ -1,11 +1,12 @@
 ---
 title: "Reminder: Year End Contest Ends Tonight!"
+edited: false
 date: "2010-01-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "contest"
   - "e1-records"
   - "relapse"

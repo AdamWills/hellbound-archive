@@ -1,11 +1,12 @@
 ---
 title: "The Lion's Daughter & Indian Blanket – A Black Sea"
+edited: false
 date: "2014-02-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "across-tundras"
   - "album-review"
   - "doom"

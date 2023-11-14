@@ -1,11 +1,12 @@
 ---
 title: "The Shouldies - ;) LP"
+edited: false
 date: "2023-02-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "goth"
   - "graveface"
   - "lp"

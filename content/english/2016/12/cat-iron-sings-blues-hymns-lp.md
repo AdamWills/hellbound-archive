@@ -1,10 +1,11 @@
 ---
 title: "Cat-Iron – Sings Blues and Hymns LP"
+edited: false
 date: "2016-12-16"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "blues"
   - "cat-iron"
   - "classic"

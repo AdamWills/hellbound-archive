@@ -1,9 +1,10 @@
 ---
 title: "Amon Amarth - Live in Toronto - December 2022"
+edited: false
 date: "2023-04-25"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "2022"
   - "amon-amarth"
   - "carcass"

@@ -1,10 +1,11 @@
 ---
 title: "Black Sleep Of Kali - Our Slow Decay"
+edited: false
 date: "2010-09-15"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "black-sleep-of-kali"
   - "kyle-harcott"
   - "small-stone"

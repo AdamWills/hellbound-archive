@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: April 10, 2011 Playlist"
+edited: false
 date: "2011-04-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "albert-mansour"
   - "destruction"
   - "graf-orlock"

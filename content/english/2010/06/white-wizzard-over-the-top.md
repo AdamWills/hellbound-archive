@@ -1,11 +1,12 @@
 ---
 title: "White Wizzard - Over the Top"
+edited: false
 date: "2010-06-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "earache"
   - "heavy-metal"
   - "usa"

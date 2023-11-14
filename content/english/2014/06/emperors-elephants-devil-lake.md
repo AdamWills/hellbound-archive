@@ -1,9 +1,10 @@
 ---
 title: "Emperors and Elephants – Devil in the Lake"
+edited: false
 date: "2014-06-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "90s"
   - "emperors-and-elephants"
   - "ozzfest-music"

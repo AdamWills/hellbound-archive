@@ -1,11 +1,12 @@
 ---
 title: "Come to Grief / Fistula split &amp; -(16)- / Fistula split"
+edited: false
 date: "2017-12-27"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "16"
   - "come-to-grief"
   - "devo"

@@ -1,11 +1,12 @@
 ---
 title: "Pounding Metal: Cauldron Seeks Burning Fortune"
+edited: false
 date: "2011-02-09"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "cauldron"
   - "earache"
   - "earache-records"

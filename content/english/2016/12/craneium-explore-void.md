@@ -1,10 +1,11 @@
 ---
 title: "Craneium – Explore the Void"
+edited: false
 date: "2016-12-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "craneium"
   - "desert-rock"
   - "doom"

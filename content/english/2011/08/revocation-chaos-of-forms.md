@@ -1,11 +1,12 @@
 ---
 title: "Revocation - Chaos Of Forms"
+edited: false
 date: "2011-08-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "atheist"
   - "cynic"
   - "devin-townsend"

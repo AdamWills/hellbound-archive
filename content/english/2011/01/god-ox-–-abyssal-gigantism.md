@@ -1,10 +1,11 @@
 ---
 title: "God Ox – Abyssal Gigantism"
+edited: false
 date: "2011-01-24"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "auditory-essentials"
   - "gruesome-greg"
   - "nwobhm"

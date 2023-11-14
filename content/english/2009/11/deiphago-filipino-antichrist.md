@@ -1,11 +1,12 @@
 ---
 title: "Deiphago: Filipino Antichrist"
+edited: false
 date: "2009-11-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "costa-rica"
   - "deiphago"

@@ -1,7 +1,8 @@
 ---
 title: "Enter The Witchfinder General"
+edited: false
 date: "2012-01-07"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "witchfinder"

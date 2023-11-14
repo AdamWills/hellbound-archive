@@ -1,9 +1,10 @@
 ---
 title: "Abnormality – Mechanisms of Omniscience"
+edited: false
 date: "2016-05-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "abnormality"
   - "death-metal"
   - "review"

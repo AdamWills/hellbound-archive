@@ -1,11 +1,12 @@
 ---
 title: "If the world ends next Friday, I can't think of a better way to spend my last nite than at Lee's Palace with White Cowbell Oklahoma..."
+edited: false
 date: "2012-12-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "christmas"
   - "gruesome-greg"
   - "lees-palace"

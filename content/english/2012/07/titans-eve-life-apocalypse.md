@@ -1,11 +1,12 @@
 ---
 title: "Titans Eve – Life Apocalypse"
+edited: false
 date: "2012-07-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anvil"
   - "kill-devil-hill"
   - "matt-hinch"

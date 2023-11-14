@@ -1,9 +1,10 @@
 ---
 title: "Faith No More – Angel Dust"
+edited: false
 date: "2017-06-21"
-categories: 
+categories:
   - "reviews-classics"
-tags: 
+tags:
   - "alternative-metal"
   - "classic"
   - "experimental"

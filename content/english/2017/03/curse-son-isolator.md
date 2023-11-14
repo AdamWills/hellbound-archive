@@ -1,10 +1,11 @@
 ---
 title: "Curse the Son – Isolator"
+edited: false
 date: "2017-03-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "curse-the-son"
   - "doom"
   - "review"

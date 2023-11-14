@@ -1,9 +1,10 @@
 ---
 title: "Liturgy @ The Opera House, Toronto ON, 19 June 2015"
+edited: false
 date: "2015-07-07"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert-photography"
   - "concert-review"
   - "liturgy"

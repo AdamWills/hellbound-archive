@@ -1,11 +1,12 @@
 ---
 title: "My Dying Bride - The Manuscript EP"
+edited: false
 date: "2013-06-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cradle-of-filth"
   - "darkthrone"
   - "gallhammer"

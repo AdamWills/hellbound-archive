@@ -1,11 +1,12 @@
 ---
 title: "Helmet / Intronaut @ Lee's Palace, Toronto ON, Oct 17, 2010"
+edited: false
 date: "2010-10-21"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "dragonforce"
   - "helmet"
   - "intronaut"

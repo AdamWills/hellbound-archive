@@ -1,9 +1,10 @@
 ---
 title: "Myth and Magic in Heavy Metal Music"
+edited: false
 date: "2018-08-01"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "heavy-metal"

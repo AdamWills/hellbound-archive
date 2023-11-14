@@ -1,10 +1,11 @@
 ---
 title: "Witchers Creed – Awakened from the Tomb"
+edited: false
 date: "2019-01-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "occult"

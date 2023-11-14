@@ -1,9 +1,10 @@
 ---
 title: "Crusty Culprits, part six"
+edited: false
 date: "2016-11-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "crust"
   - "d-beat"
   - "hardcore"

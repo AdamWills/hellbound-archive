@@ -1,9 +1,10 @@
 ---
 title: "John Garcia – John Garcia"
+edited: false
 date: "2014-10-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "danko-jones"
   - "desert-rock"

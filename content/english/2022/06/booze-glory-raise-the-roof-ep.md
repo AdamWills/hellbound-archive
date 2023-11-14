@@ -1,10 +1,11 @@
 ---
 title: "Booze & Glory - Raising The Roof 12'' EP"
+edited: false
 date: "2022-06-11"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "booze-glory"
   - "ep"
   - "pirates"

@@ -1,10 +1,11 @@
 ---
 title: "High On Fire – Electric Messiah"
+edited: false
 date: "2018-10-12"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "doom"
   - "heavy"

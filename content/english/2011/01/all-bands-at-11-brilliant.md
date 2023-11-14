@@ -1,11 +1,12 @@
 ---
 title: "All Bands At 11?  Brilliant!"
+edited: false
 date: "2011-01-15"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "four-corners"
   - "gruesome-greg"
   - "lullabye-arkestra"

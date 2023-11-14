@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Staff Interrogations #13: Natalie Zed"
+edited: false
 date: "2011-06-17"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "agalloch"
   - "between-the-buried-and-me"
   - "blind-guardian"

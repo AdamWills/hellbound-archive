@@ -1,9 +1,10 @@
 ---
 title: "The Chemical Brothers – Born In The Echoes (2LP reissue)"
+edited: false
 date: "2017-08-24"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "chemical-brothers"
   - "dance-music"
   - "electronic-music"

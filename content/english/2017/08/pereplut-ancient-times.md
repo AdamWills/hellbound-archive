@@ -1,9 +1,10 @@
 ---
 title: "Pereplut – At The Ancient Times"
+edited: false
 date: "2017-08-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "folk-metal"
   - "pagan-metal"
   - "pereplut"

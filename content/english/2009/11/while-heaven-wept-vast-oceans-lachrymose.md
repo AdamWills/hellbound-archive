@@ -1,11 +1,12 @@
 ---
 title: "While Heaven Wept: Vast Oceans Lachrymose"
+edited: false
 date: "2009-11-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cruz-del-sur"
   - "doom"
   - "fates-warning"

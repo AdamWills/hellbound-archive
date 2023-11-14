@@ -1,9 +1,10 @@
 ---
 title: "Periphery – Select Difficulty"
+edited: false
 date: "2016-07-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "djent"
   - "periphery"
   - "prog"

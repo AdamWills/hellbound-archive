@@ -1,12 +1,13 @@
 ---
 title: "Live to Win: Motörhead Revisited"
+edited: false
 date: "2011-02-04"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "reviews-audio"
-tags: 
+tags:
   - "rainbow"
   - "ace-of-spades"
   - "adrien-begrand"

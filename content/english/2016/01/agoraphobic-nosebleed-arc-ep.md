@@ -1,10 +1,11 @@
 ---
 title: "Agoraphobic Nosebleed – Arc EP"
+edited: false
 date: "2016-01-13"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "agoraphobic-nosebleed"
   - "grindcore"
   - "review"

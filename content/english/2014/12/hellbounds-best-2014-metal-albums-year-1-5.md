@@ -1,10 +1,11 @@
 ---
 title: "Hellbound's best of 2014: metal albums of the year (#1-5)"
+edited: false
 date: "2014-12-31"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "behemoth"
   - "best-metal-of-2014"
   - "best-of-2014"

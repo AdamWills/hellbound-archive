@@ -1,11 +1,12 @@
 ---
 title: "Mob Rules: Radical Peace"
+edited: false
 date: "2010-01-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "afm-records"
   - "armored-saint"
   - "germany"

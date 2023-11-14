@@ -1,10 +1,11 @@
 ---
 title: "Steak – No God to Save"
+edited: false
 date: "2017-04-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom-rock"
   - "heavy-rock"
   - "metal"

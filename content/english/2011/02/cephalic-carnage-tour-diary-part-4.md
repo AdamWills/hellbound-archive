@@ -1,12 +1,13 @@
 ---
 title: "Cephalic Carnage Tour Diary: Part 4"
+edited: false
 date: "2011-02-17"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "all-shall-perish"
   - "cephalic-carnage"
   - "decapitated"

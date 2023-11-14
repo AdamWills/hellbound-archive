@@ -1,11 +1,12 @@
 ---
 title: "Neurosis – Honor Found in Decay"
+edited: false
 date: "2012-10-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "earth"
   - "gruesome-greg"
   - "neurosis"

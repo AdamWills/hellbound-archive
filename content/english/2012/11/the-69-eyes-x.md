@@ -1,11 +1,12 @@
 ---
 title: "The 69 Eyes - X"
+edited: false
 date: "2012-11-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "finland"
   - "goth"
   - "johnny-cash"

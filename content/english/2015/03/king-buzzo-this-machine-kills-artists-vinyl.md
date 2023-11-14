@@ -1,9 +1,10 @@
 ---
 title: "King Buzzo – This Machine Kills Artists (vinyl)"
+edited: false
 date: "2015-03-12"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "album-review"
   - "king-buzzo"
   - "the-melvins"

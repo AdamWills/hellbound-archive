@@ -1,9 +1,10 @@
 ---
 title: "Mammoth Weed Wizard Bastard – Noeth Ac Anoeth and Y Proffwyd Dwyll"
+edited: false
 date: "2017-03-01"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "heavy-metal"
   - "heavy-psych"

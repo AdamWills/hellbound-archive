@@ -1,12 +1,13 @@
 ---
 title: "Blasphemous Meals #8:  Canucks a la Cuisine - headbanging over hot plates."
+edited: false
 date: "2013-06-26"
-categories: 
+categories:
   - "articles"
   - "blasphemyblog"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "3574"
   - "bastardator"
   - "bazillion-points"

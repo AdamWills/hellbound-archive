@@ -1,11 +1,12 @@
 ---
 title: "Korpiklaani: Karkelo"
+edited: false
 date: "2009-08-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "finland"
   - "folk-metal"
   - "korpiklaani"

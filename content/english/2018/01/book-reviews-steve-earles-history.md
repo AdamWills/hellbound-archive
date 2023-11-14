@@ -1,9 +1,10 @@
 ---
 title: "Book reviews by Steve Earles: HISTORY"
+edited: false
 date: "2018-01-04"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "churchill"
   - "easter-rising"

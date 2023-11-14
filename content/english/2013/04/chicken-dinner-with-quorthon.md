@@ -1,13 +1,14 @@
 ---
 title: "Chicken Dinner with Quorthon"
+edited: false
 date: "2013-04-15"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "features"
   - "headline"
   - "editors_blog"
-tags: 
+tags:
   - "bathory"
   - "black-metal"
   - "celtic-frost"

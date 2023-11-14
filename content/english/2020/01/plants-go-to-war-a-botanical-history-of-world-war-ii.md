@@ -1,9 +1,10 @@
 ---
 title: "Plants Go To War: A Botanical History of World War II"
+edited: false
 date: "2020-01-20"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "history"

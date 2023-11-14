@@ -1,11 +1,12 @@
 ---
 title: "Eluveitie – The Early Years"
+edited: false
 date: "2012-10-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "eluveitie"
   - "folk-metal"
   - "heavy-metal"

@@ -1,9 +1,10 @@
 ---
 title: "Stoneburner – Life Drawing"
+edited: false
 date: "2014-05-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "neurot-recordings"
   - "portland"

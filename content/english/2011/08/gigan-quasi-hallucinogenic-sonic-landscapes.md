@@ -1,11 +1,12 @@
 ---
 title: "Gigan – Quasi-Hallucinogenic Sonic Landscapes"
+edited: false
 date: "2011-08-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "craig-haze"
   - "florida"
   - "gigan"

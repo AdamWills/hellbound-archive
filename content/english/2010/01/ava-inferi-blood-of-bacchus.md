@@ -1,11 +1,12 @@
 ---
 title: "Ava Inferi: Blood Of Bacchus"
+edited: false
 date: "2010-01-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ava-inferi"
   - "doom-metal"
   - "gothic-metal"

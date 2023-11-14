@@ -1,11 +1,12 @@
 ---
 title: "Of course, it just HAD to snow on Record Store Day..."
+edited: false
 date: "2013-04-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "detroit"
   - "dust"
   - "fu-manchu"

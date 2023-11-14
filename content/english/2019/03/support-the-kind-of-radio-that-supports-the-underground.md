@@ -1,10 +1,11 @@
 ---
 title: "Support the kind of radio that supports the underground"
+edited: false
 date: "2019-03-04"
-categories: 
+categories:
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "campus-radio"
   - "cfmu"
   - "community-radio"

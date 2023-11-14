@@ -1,9 +1,10 @@
 ---
 title: "Life Of Agony in Birmingham, October 2019"
+edited: false
 date: "2019-11-11"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "live"
   - "metal"
   - "review"
@@ -16,25 +17,25 @@ When Life of Agony announced their European tour there were another two bands on
 The band's frontman Alex Story was somewhat irritating though. I mean, there are only so many tracks one can introduce as "love song you can dance to." Three, four songs into the set and the phrase has completely lost its effect.
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Doyle.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Doyle01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Doyle02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Doyle03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Doyle04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Doyle05.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Doyle06.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Doyle07.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Doyle08.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Doyle09.jpg)
-    
+
 
 * * *
 
@@ -45,7 +46,7 @@ Now, 26 years later the band has released a sequel, _The Sound of Scars_, which 
 The band's front woman Mina Caputo, with her charismatic presence, was commanding the crowd alongside bassist Alan Robert, guitarist Joey Z. and drummer Veronica Bellino. And their efforts were rewarded by loud cheers from the crowd and the evening ended with the band thanking fans for the 26 years of support.
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony06.jpg)
-    
+
 
 Setlist:
 
@@ -69,27 +70,27 @@ Setlist:
 * * *
 
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony01.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony02.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony03.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony04.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony07.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony08.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony09.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony10.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony11.jpg)
-    
+
 - ![](https://www.hellbound.ca/wp-content/uploads/2019/11/Life-Of-Agony12.jpg)
-    
+
 
 [www.lifeofagony.com](http://www.lifeofagony.com)
 

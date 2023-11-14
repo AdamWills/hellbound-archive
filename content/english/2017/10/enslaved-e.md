@@ -1,10 +1,11 @@
 ---
 title: "Enslaved - E"
+edited: false
 date: "2017-10-06"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "2017"
   - "enslaved"
   - "metal"

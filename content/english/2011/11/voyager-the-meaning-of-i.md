@@ -1,11 +1,12 @@
 ---
 title: "Voyager - The Meaning of I"
+edited: false
 date: "2011-11-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "nevermore"
   - "pagans-mind"

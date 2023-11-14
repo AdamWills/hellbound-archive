@@ -1,9 +1,10 @@
 ---
 title: "King Hitter – self-titled"
+edited: false
 date: "2015-03-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "corrosion-of-conformity"
   - "karl-agell"

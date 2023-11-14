@@ -1,11 +1,12 @@
 ---
 title: "Megadeth – Rust In Peace Live"
+edited: false
 date: "2010-09-30"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "ace-of-spades"
   - "anvil"
   - "dave-ellefson"

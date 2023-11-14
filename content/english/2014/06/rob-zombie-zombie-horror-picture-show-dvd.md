@@ -1,9 +1,10 @@
 ---
 title: "Rob Zombie – The Zombie Horror Picture Show DVD"
+edited: false
 date: "2014-06-26"
-categories: 
+categories:
   - "reviews-visual"
-tags: 
+tags:
   - "concert-dvd"
   - "dvd-review"
   - "live-dvd"

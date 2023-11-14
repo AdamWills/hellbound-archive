@@ -1,10 +1,11 @@
 ---
 title: "Year of the Cobra – …in the Shadows Below"
+edited: false
 date: "2016-11-15"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

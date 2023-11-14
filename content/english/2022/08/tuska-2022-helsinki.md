@@ -1,7 +1,8 @@
 ---
 title: "POST-COVID @ TUSKA OPEN AIR 2022 IN HELSINKI"
+edited: false
 date: "2022-08-13"
-categories: 
+categories:
   - "reviews-live"
 ---
 

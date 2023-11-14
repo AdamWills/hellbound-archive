@@ -1,9 +1,10 @@
 ---
 title: "Wacken Metal Battle Canada continues – semi-finals updates"
+edited: false
 date: "2014-04-25"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "death-toll-rising"
   - "wacken-metal-battle-canada"
 ---

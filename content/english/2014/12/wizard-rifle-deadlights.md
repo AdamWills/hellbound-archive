@@ -1,9 +1,10 @@
 ---
 title: "Wizard Rifle – Here in the Deadlights"
+edited: false
 date: "2014-12-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doom"
   - "noise-rock"

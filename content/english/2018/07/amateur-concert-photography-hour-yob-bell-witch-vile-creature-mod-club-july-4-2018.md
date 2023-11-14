@@ -1,7 +1,8 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: YOB/Bell Witch/Vile Creature @ Mod Club, July 4, 2018"
+edited: false
 date: "2018-07-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

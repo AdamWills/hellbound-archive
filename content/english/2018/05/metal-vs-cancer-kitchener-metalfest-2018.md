@@ -1,9 +1,10 @@
 ---
 title: "Metal vs cancer: Kitchener Metalfest 2018"
+edited: false
 date: "2018-05-19"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "cancer"
   - "donate"
   - "fundraiser"

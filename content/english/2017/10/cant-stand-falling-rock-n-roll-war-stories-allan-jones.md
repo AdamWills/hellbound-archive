@@ -1,7 +1,8 @@
 ---
 title: "‘Can’t Stand Up For Falling Down: Rock ‘N’ Roll War Stories’ by Allan Jones"
+edited: false
 date: "2017-10-19"
-categories: 
+categories:
   - "reviews-books"
 ---
 

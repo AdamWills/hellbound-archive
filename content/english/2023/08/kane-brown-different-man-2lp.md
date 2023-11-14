@@ -1,10 +1,11 @@
 ---
 title: "Kane Brown - Different Man 2LP"
+edited: false
 date: "2023-08-10"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "2lp"
   - "country"
   - "kane-brown"

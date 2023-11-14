@@ -1,9 +1,10 @@
 ---
 title: "Peaceville Life – by Paul Hammy Henshaw"
+edited: false
 date: "2018-05-01"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "darkthrone"
   - "fenriz"

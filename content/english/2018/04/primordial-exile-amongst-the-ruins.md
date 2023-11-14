@@ -1,9 +1,10 @@
 ---
 title: "Primordial – Exile Amongst the Ruins"
+edited: false
 date: "2018-04-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "extreme-metal"
   - "heavy-metal"

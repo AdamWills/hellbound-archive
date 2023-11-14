@@ -1,11 +1,12 @@
 ---
 title: "Dying Fetus/Beneath The Massacre/Suffokate @ Mod Club, Toronto, ON, November 24, 2009"
+edited: false
 date: "2009-11-27"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "beneath-the-massacre"
   - "canada"
   - "death-metal"

@@ -1,11 +1,12 @@
 ---
 title: "Untimely Demise - City of Steel"
+edited: false
 date: "2011-09-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "glen-drover"
   - "jason-wellwood"
   - "megadeth"

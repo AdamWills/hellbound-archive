@@ -1,10 +1,11 @@
 ---
 title: "Canuck Metal You Don't Wanna Miss: the best Canadian metal of 2015"
+edited: false
 date: "2016-02-06"
-categories: 
+categories:
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "best-canadian-metal"
   - "best-of-2015"
 ---

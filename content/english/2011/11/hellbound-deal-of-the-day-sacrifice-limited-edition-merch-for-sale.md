@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Deal of the Day: SACRIFICE limited edition merch for sale!"
+edited: false
 date: "2011-11-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "sacrifice"
   - "thrash"
 ---

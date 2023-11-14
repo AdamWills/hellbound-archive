@@ -1,11 +1,12 @@
 ---
 title: "Månegarm: Nattväsen"
+edited: false
 date: "2009-12-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "folk-metal"
   - "manegarm"
   - "pagan-metal"

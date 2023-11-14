@@ -1,11 +1,12 @@
 ---
 title: "Merrimack: Gray Rigorism"
+edited: false
 date: "2009-11-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "france"
   - "merrimack"

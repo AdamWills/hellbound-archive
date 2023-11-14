@@ -1,10 +1,11 @@
 ---
 title: "The Lumberjack Feedback – Blackened Visions"
+edited: false
 date: "2015-12-24"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "the-lumberjack-feedback"
 ---

@@ -1,11 +1,12 @@
 ---
 title: "In Conversation With… Kataklysm’s J-F Dagenais"
+edited: false
 date: "2010-09-22"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "canada"
   - "death-metal"
   - "j-f-dagenais"

@@ -1,9 +1,10 @@
 ---
 title: "Wo Fat – The Conjuring"
+edited: false
 date: "2014-07-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "blues"
   - "desert-rock"
   - "doom"

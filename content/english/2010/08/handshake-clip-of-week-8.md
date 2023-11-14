@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Handshake Clip Of The Week: Brutal Truth Documentary Clip"
+edited: false
 date: "2010-08-14"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
-tags: 
+tags:
   - "brutal-truth"
   - "handshake-inc-hellbound-video-of-the-week"
   - "handshake-inc"

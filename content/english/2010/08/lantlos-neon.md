@@ -1,11 +1,12 @@
 ---
 title: "Lantlôs - .neon"
+edited: false
 date: "2010-08-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "alcest"
   - "amesoeurs"
   - "black-metal"

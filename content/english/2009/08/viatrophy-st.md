@@ -1,11 +1,12 @@
 ---
 title: "Viatrophy: s/t"
+edited: false
 date: "2009-08-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "candlelight-usa"
   - "death-metal"
   - "england"

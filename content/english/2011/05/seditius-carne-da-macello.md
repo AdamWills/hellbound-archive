@@ -1,11 +1,12 @@
 ---
 title: "Seditius – Carne da Macello"
+edited: false
 date: "2011-05-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "fu-manchu"
   - "gruesome-greg"
   - "nashville-pussy"

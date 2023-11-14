@@ -1,9 +1,10 @@
 ---
 title: "Vektor – Pillars of Sand"
+edited: false
 date: "2016-05-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
   - "review"
   - "speed"

@@ -1,10 +1,11 @@
 ---
 title: "Getaway Van – self-titled"
+edited: false
 date: "2019-03-11"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-rock"
   - "review"
   - "stoner-rock"

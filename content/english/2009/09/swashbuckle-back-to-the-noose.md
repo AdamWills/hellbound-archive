@@ -1,11 +1,12 @@
 ---
 title: "Swashbuckle: Back To The Noose"
+edited: false
 date: "2009-09-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "nuclear-blast"
   - "pirate-metal"
   - "swashbucke"

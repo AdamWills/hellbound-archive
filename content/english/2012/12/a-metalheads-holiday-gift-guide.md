@@ -1,11 +1,12 @@
 ---
 title: "A Metalhead’s Holiday Gift Guide"
+edited: false
 date: "2012-12-06"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "abbath"
   - "adam-wills"
   - "banger-films"

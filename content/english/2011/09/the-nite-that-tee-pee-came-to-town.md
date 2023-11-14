@@ -1,11 +1,12 @@
 ---
 title: "The nite that Tee Pee came to town"
+edited: false
 date: "2011-09-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "concert"
   - "earthless"
   - "elks"

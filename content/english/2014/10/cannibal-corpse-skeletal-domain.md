@@ -1,9 +1,10 @@
 ---
 title: "Cannibal Corpse – Skeletal Domain"
+edited: false
 date: "2014-10-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "cannibal-corpse"
   - "death-metal"

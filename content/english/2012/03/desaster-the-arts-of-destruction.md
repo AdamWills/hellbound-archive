@@ -1,11 +1,12 @@
 ---
 title: "Desaster - The Arts of Destruction"
+edited: false
 date: "2012-03-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "aura-noir"
   - "black-metal"
   - "craig-haze"

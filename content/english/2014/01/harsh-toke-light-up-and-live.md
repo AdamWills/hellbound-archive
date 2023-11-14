@@ -1,11 +1,12 @@
 ---
 title: "Harsh Toke - Light Up and Live"
+edited: false
 date: "2014-01-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "acid-rock"
   - "earthless"
   - "harsh-toke"

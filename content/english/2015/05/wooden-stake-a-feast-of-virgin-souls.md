@@ -1,9 +1,10 @@
 ---
 title: "Wooden Stake – A Feast of Virgin Souls"
+edited: false
 date: "2015-05-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "dark-wave"

@@ -1,13 +1,14 @@
 ---
 title: "Philip H. Anselmo is a true original, raw and at his core"
+edited: false
 date: "2013-08-10"
-categories: 
+categories:
   - "articles"
   - "blasphemyblog"
   - "featured"
   - "features"
   - "headline"
-tags: 
+tags:
   - "blackened-death-metal"
   - "down"
   - "hellbound-ca"

@@ -1,11 +1,12 @@
 ---
 title: "Gojira: Death Metal From the Soul"
+edited: false
 date: "2009-07-10"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "death-metal"
   - "france"
   - "gojira"

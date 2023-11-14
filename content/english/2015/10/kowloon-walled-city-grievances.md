@@ -1,9 +1,10 @@
 ---
 title: "Kowloon Walled City – Grievances"
+edited: false
 date: "2015-10-02"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "neurosis"
   - "neurot-recordings"

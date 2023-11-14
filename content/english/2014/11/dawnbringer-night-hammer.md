@@ -1,9 +1,10 @@
 ---
 title: "Dawnbringer – Night of the Hammer"
+edited: false
 date: "2014-11-18"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "dawnbringer"
   - "doom"

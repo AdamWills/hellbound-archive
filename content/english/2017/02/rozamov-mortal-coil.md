@@ -1,10 +1,11 @@
 ---
 title: "Rozamov – This Mortal Coil"
+edited: false
 date: "2017-02-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "review"

@@ -1,11 +1,12 @@
 ---
 title: "Harsh Toke / Joy / Sacri Monti – Burnout!"
+edited: false
 date: "2017-05-31"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "blues"
   - "heavy-psych"
   - "metal"

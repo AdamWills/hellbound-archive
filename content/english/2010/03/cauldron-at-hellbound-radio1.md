@@ -1,12 +1,13 @@
 ---
 title: "VIDEO INTERVIEW: Cauldron at Hellbound Radio (Part 1)"
+edited: false
 date: "2010-03-03"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "albert-mansour"
   - "cauldron"

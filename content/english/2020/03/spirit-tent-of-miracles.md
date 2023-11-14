@@ -1,7 +1,8 @@
 ---
 title: "Spirit - Tent of Miracles"
+edited: false
 date: "2020-03-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

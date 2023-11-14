@@ -1,11 +1,12 @@
 ---
 title: "Thy Flesh Consumed: Unrepentant"
+edited: false
 date: "2010-01-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "diminished-fifth"
   - "metal"

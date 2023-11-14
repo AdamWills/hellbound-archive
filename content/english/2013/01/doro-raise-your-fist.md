@@ -1,11 +1,12 @@
 ---
 title: "Doro – Raise Your Fist"
+edited: false
 date: "2013-01-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "accept"
   - "doro"
   - "doro-pesch"

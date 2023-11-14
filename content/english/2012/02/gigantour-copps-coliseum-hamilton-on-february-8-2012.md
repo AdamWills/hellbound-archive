@@ -1,11 +1,12 @@
 ---
 title: "Gigantour @ Copps Coliseum, Hamilton ON, February 8, 2012"
+edited: false
 date: "2012-02-20"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "chris-broderick"
   - "dave-mustaine"

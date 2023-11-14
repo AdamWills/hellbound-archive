@@ -1,7 +1,8 @@
 ---
 title: "Naked Giants - The Shadow"
+edited: false
 date: "2020-10-29"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

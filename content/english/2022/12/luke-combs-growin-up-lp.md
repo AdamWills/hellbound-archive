@@ -1,10 +1,11 @@
 ---
 title: "Luke Combs - Growin' Up LP"
+edited: false
 date: "2022-12-05"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "combs"
   - "country"
   - "growin"

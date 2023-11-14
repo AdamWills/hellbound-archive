@@ -1,9 +1,10 @@
 ---
 title: "Toxic live in Toronto, August 2018"
+edited: false
 date: "2018-09-10"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "droid"
   - "live"

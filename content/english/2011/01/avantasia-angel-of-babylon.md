@@ -1,11 +1,12 @@
 ---
 title: "Avantasia – Angel of Babylon"
+edited: false
 date: "2011-01-10"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "avantasia"
   - "jason-wellwood"
   - "nuclear-blast"

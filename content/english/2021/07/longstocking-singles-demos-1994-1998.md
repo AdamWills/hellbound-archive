@@ -1,9 +1,10 @@
 ---
 title: "Longstocking - Singles & Demos 1994 - 1998"
+edited: false
 date: "2021-07-15"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "compilation"
   - "demos"
   - "jealous-butcher"

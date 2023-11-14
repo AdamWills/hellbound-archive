@@ -1,11 +1,12 @@
 ---
 title: "Subrosa - More Constant Than The Gods"
+edited: false
 date: "2013-09-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "doomy"
   - "flute"

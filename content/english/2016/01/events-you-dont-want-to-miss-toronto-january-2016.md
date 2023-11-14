@@ -1,12 +1,13 @@
 ---
 title: "Events You Don't Want to Miss, Toronto - January 2016"
+edited: false
 date: "2016-01-08"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "events"
   - "live"
   - "toronto"

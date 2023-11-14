@@ -1,12 +1,13 @@
 ---
 title: "Emperor – Live Inferno"
+edited: false
 date: "2010-02-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "reviews-visual"
-tags: 
+tags:
   - "black-metal"
   - "boxed-set"
   - "candlelight-usa"

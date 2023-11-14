@@ -1,9 +1,10 @@
 ---
 title: "Unshine – Astrala"
+edited: false
 date: "2018-05-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "folk-metal"
   - "metal"
   - "review"

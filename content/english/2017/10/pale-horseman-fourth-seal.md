@@ -1,10 +1,11 @@
 ---
 title: "Pale Horseman – The Fourth Seal"
+edited: false
 date: "2017-10-19"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death"
   - "doom"
   - "metal"

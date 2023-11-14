@@ -1,11 +1,12 @@
 ---
 title: "Torche - Songs For Singles"
+edited: false
 date: "2010-11-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dinosaur-jr"
   - "hydra-head"
   - "kyle-harcott"

@@ -1,10 +1,11 @@
 ---
 title: "Corrosion of Conformity – No Cross, No Crown"
+edited: false
 date: "2017-12-13"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "corrosion-of-conformity"
   - "metal"
   - "review"

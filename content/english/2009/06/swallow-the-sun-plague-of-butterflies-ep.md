@@ -1,10 +1,11 @@
 ---
 title: "Swallow The Sun: Plague of Butterflies EP"
+edited: false
 date: "2009-06-04"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "finland"
   - "spinefarm"

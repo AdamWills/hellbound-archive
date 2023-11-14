@@ -1,11 +1,12 @@
 ---
 title: "Waingro – III"
+edited: false
 date: "2019-07-22"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hardcore"
   - "punk"
   - "review"

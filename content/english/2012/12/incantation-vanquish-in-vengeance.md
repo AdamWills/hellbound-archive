@@ -1,11 +1,12 @@
 ---
 title: "Incantation - Vanquish in Vengeance"
+edited: false
 date: "2012-12-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "incantation"
   - "listenable-records"

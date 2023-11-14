@@ -1,11 +1,12 @@
 ---
 title: "Mayan - Quarterpast"
+edited: false
 date: "2011-07-18"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "after-forever"
   - "amanda-somerville"
   - "epica"

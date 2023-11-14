@@ -1,10 +1,11 @@
 ---
 title: "Void King – There is Nothing"
+edited: false
 date: "2016-08-25"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "epic-doom"
   - "review"

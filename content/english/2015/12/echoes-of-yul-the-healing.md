@@ -1,9 +1,10 @@
 ---
 title: "ECHOES OF YUL - THE HEALING"
+edited: false
 date: "2015-12-30"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "drone"
   - "echoes-of-yul"

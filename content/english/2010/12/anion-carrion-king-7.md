@@ -1,11 +1,12 @@
 ---
 title: "Anion - Carrion King 7\""
+edited: false
 date: "2010-12-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "anion"
   - "kyle-harcott"
   - "unsane"

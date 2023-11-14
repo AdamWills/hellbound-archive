@@ -1,12 +1,13 @@
 ---
 title: "Hellbound Interviews : TRIBUNAL - January 15, 2023"
+edited: false
 date: "2023-01-19"
-categories: 
+categories:
   - "canadian-metal"
   - "features"
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "20-buck-spin"
   - "2023"
   - "canadian-metal"

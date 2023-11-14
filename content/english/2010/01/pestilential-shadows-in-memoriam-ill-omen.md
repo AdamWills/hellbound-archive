@@ -1,11 +1,12 @@
 ---
 title: "Pestilential Shadows: In Memoriam, Ill Omen"
+edited: false
 date: "2010-01-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "australia"
   - "black-metal"
   - "pestilential-shadows"

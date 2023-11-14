@@ -1,9 +1,10 @@
 ---
 title: "Xaemora - Kingdom Venom I"
+edited: false
 date: "2015-11-25"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "black-metal"
   - "xaemora"

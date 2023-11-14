@@ -1,9 +1,10 @@
 ---
 title: "Opeth – Pale Communion"
+edited: false
 date: "2014-09-26"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "hard-rock"
   - "martin-axenrot"

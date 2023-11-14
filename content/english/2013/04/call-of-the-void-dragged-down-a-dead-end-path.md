@@ -1,11 +1,12 @@
 ---
 title: "Call Of The Void - Dragged Down a Dead End Path"
+edited: false
 date: "2013-04-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "call-of-the-void"
   - "converge"
   - "grindcore"

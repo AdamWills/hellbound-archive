@@ -1,11 +1,12 @@
 ---
 title: "The Wounded Kings – Consolamentum"
+edited: false
 date: "2014-03-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "death-doom"
   - "demon-lung"

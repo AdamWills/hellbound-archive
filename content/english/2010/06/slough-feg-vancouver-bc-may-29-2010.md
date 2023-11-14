@@ -1,12 +1,13 @@
 ---
 title: "Slough Feg/ Funeral Circle @ Red Room, Vancouver BC, May 29 2010"
+edited: false
 date: "2010-06-02"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "canada"
   - "cruz-del-sur-music"
   - "doom"

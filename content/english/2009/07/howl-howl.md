@@ -1,11 +1,12 @@
 ---
 title: "Howl: Howl"
+edited: false
 date: "2009-07-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "high-on-fire"
   - "howl"
   - "mastodon"

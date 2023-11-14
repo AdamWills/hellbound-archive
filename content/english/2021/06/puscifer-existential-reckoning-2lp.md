@@ -1,9 +1,10 @@
 ---
 title: "Puscifer - Existential Reckoning 2LP"
+edited: false
 date: "2021-06-29"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "a-perfect-circle"
   - "existential-reckoning"
   - "maynard-james-keenan"

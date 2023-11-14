@@ -1,11 +1,12 @@
 ---
 title: "This Tour Cancellation is Brought to You by Nik Turner"
+edited: false
 date: "2013-10-06"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-sabbath"
   - "gruesome-greg"
   - "hawkwind"

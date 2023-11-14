@@ -1,9 +1,10 @@
 ---
 title: "Agalloch Record Release Show, Portland OR, May 16, 2014"
+edited: false
 date: "2014-06-02"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "2014"
   - "agalloch"
   - "lasher-keen"

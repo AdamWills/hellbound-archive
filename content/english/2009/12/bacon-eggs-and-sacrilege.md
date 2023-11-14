@@ -1,11 +1,12 @@
 ---
 title: "Bacon, Eggs and Sacrilege: Toronto’s Most Blasphemous Brunch"
+edited: false
 date: "2009-12-18"
-categories: 
+categories:
   - "blasphemyblog"
   - "blogs"
   - "headline"
-tags: 
+tags:
   - "black-metal"
   - "black-metal-brunch"
   - "blasphemous-blog"

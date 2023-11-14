@@ -1,11 +1,12 @@
 ---
 title: "Cokegoat – Vessel"
+edited: false
 date: "2014-02-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "bongzilla"
   - "coffins"

@@ -1,12 +1,13 @@
 ---
 title: "HELLBOUND RADIO: October 17th, 2010 Playlist"
+edited: false
 date: "2010-10-24"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "albert-mansour"
   - "cephalic-carnage"
   - "dawnbringer"

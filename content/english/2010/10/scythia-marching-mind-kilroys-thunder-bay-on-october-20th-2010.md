@@ -1,11 +1,12 @@
 ---
 title: "Scythia / Marching Mind @ Kilroys, Thunder Bay ON, October 20th, 2010"
+edited: false
 date: "2010-10-29"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "david-kahn"
   - "folk-metal"
   - "jason-wellwood"

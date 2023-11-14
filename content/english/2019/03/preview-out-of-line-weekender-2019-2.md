@@ -1,9 +1,10 @@
 ---
 title: "PREVIEW: Out Of Line Weekender 2019"
+edited: false
 date: "2019-03-09"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "festival"
   - "germany"
   - "metal"

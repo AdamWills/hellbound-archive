@@ -1,11 +1,12 @@
 ---
 title: "Mean Gene’s favorite movie releases of 2019"
+edited: false
 date: "2019-12-31"
-categories: 
+categories:
   - "features"
   - "reviews-visual"
   - "staff_picks"
-tags: 
+tags:
   - "cinema"
   - "films"
   - "movies"

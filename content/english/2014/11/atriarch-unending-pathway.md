@@ -1,9 +1,10 @@
 ---
 title: "Atriarch – An Unending Pathway"
+edited: false
 date: "2014-11-27"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "atriarch"
   - "bauhaus"
   - "billy-anderson"

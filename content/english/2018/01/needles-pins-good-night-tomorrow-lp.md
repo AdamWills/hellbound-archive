@@ -1,9 +1,10 @@
 ---
 title: "NEEDLES//PINS – Good Night, Tomorrow LP"
+edited: false
 date: "2018-01-25"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "needles-pins"
   - "power-thrash"
   - "punk"

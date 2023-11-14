@@ -1,9 +1,10 @@
 ---
 title: "Pigs – Wronger"
+edited: false
 date: "2015-10-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "high-on-fire"
   - "noisy-sludge"
   - "sludge"

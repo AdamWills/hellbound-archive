@@ -1,9 +1,10 @@
 ---
 title: "The Mystery of Edwin Drood by Pete Orford"
+edited: false
 date: "2019-09-04"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-reviews"
   - "history"
   - "literature"

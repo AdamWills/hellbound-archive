@@ -1,11 +1,12 @@
 ---
 title: "KEVI METAL'S RIMSHOTS v.2 #3"
+edited: false
 date: "2010-04-12"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "agonia"
   - "black-metal"
   - "brown-jenkins"

@@ -1,11 +1,12 @@
 ---
 title: "Aenaon – Phenomenon"
+edited: false
 date: "2010-02-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "aenaon"
   - "blackened-death-metal"
   - "bleak-art-records"

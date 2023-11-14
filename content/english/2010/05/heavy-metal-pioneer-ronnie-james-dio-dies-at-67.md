@@ -1,11 +1,12 @@
 ---
 title: "Heavy metal pioneer Ronnie James Dio dies at 67"
+edited: false
 date: "2010-05-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "elf"
   - "heaven-hell"
   - "rainbow"

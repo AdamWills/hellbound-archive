@@ -1,11 +1,12 @@
 ---
 title: "Thin Lizzy: Are You Ready? DVD"
+edited: false
 date: "2009-11-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "dvd"
   - "eagle-vision"
   - "germany"

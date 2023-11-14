@@ -1,11 +1,12 @@
 ---
 title: "Ruins: Cauldron"
+edited: false
 date: "2009-09-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "australia"
   - "black-metal"
   - "moribund"

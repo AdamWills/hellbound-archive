@@ -1,10 +1,11 @@
 ---
 title: "3 Inches Of Blood: True Canuck Metal Warriors"
+edited: false
 date: "2009-10-19"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "canada"
   - "century-media"

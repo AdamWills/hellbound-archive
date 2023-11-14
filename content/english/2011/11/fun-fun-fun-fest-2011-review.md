@@ -1,11 +1,12 @@
 ---
 title: "Fun Fun Fun Fest 2011 @ Auditorium Shores and Red 7, Austin, Texas, November 4-6, 2011"
+edited: false
 date: "2011-11-23"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "black-dahlia-murder"
   - "cannibal-corpse-henry-rollins"
   - "cave-in"

@@ -1,7 +1,8 @@
 ---
 title: "The Full Counts - Next Up"
+edited: false
 date: "2020-11-21"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

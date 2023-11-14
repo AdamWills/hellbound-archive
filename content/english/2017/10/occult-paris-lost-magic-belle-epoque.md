@@ -1,7 +1,8 @@
 ---
 title: "Occult Paris: The Lost Magic of the Belle Epoque"
+edited: false
 date: "2017-10-31"
-categories: 
+categories:
   - "reviews-books"
 ---
 

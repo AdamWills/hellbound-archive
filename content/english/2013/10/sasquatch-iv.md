@@ -1,11 +1,12 @@
 ---
 title: "Sasquatch – IV"
+edited: false
 date: "2013-10-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "fu-manchu"
   - "gruesome-greg"

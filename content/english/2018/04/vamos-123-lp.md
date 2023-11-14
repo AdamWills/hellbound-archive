@@ -1,9 +1,10 @@
 ---
 title: "Vamos – 1,2,3 LP"
+edited: false
 date: "2018-04-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "punk"
   - "punk-rock"
   - "review"

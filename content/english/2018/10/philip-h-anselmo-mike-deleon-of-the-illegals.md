@@ -1,10 +1,11 @@
 ---
 title: "Philip H. Anselmo & Mike DeLeon of The Illegals"
+edited: false
 date: "2018-10-08"
-categories: 
+categories:
   - "features"
   - "interviews"
-tags: 
+tags:
   - "flesh-hoarder"
   - "heavy-metal"
   - "hexripper"

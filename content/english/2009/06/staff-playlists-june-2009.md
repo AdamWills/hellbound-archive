@@ -1,7 +1,8 @@
 ---
 title: "STAFF PLAYLISTS - June 2009"
+edited: false
 date: "2009-06-03"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "staff_playlists"

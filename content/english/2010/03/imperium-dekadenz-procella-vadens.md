@@ -1,11 +1,12 @@
 ---
 title: "Imperium Dekadenz - Procella Vadens"
+edited: false
 date: "2010-03-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "germany"
   - "imperium-dekadenz"

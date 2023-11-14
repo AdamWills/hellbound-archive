@@ -1,11 +1,12 @@
 ---
 title: "Blackguard: Profugus Mortis"
+edited: false
 date: "2009-07-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blackguard"
   - "canada"
   - "nuclear-blast"

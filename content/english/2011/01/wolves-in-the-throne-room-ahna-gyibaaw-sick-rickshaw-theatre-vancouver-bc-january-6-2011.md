@@ -1,11 +1,12 @@
 ---
 title: "Wolves in the Throne Room / Ahna / Gyibaaw / Sick @ Rickshaw Theatre, Vancouver BC, January 6, 2011"
+edited: false
 date: "2011-01-14"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "ahna"
   - "gyibaaw"
   - "kyle-harcott"

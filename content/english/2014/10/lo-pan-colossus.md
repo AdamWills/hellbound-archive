@@ -1,9 +1,10 @@
 ---
 title: "Lo-Pan – Colossus"
+edited: false
 date: "2014-10-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "alt-rock"
   - "lo-pan"
   - "post-grunge"

@@ -1,11 +1,12 @@
 ---
 title: "HELLBOUND RADIO: November 7, 2010 Playlist"
+edited: false
 date: "2010-11-09"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "heaven-hell"
   - "albert-mansour"
   - "cannibal-corpse"

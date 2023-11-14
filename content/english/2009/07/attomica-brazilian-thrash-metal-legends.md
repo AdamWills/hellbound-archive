@@ -1,10 +1,11 @@
 ---
 title: "Attomica: Brazilian Thrash Metal Legends"
+edited: false
 date: "2009-07-19"
-categories: 
+categories:
   - "albert_mansour"
   - "featured"
-tags: 
+tags:
   - "atomica"
   - "attomica"
   - "blog"

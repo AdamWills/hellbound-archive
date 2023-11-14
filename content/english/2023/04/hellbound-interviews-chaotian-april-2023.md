@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Interviews : CHAOTIAN - April 2023"
+edited: false
 date: "2023-04-27"
-categories: 
+categories:
   - "features"
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "2023"
   - "brutal-death-metal"
   - "chaotian"

@@ -1,9 +1,10 @@
 ---
 title: "The Clancy Brothers & Tommy Makem – four-album collection (1963-1967)"
+edited: false
 date: "2019-05-08"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "music"
   - "review"
 ---

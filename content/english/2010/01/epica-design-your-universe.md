@@ -1,11 +1,12 @@
 ---
 title: "Epica: Design Your Universe"
+edited: false
 date: "2010-01-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "epica"
   - "holland"
   - "nuclear-blast"

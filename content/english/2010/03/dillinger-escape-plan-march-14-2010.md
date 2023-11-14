@@ -1,11 +1,12 @@
 ---
 title: "Dillinger Escape Plan / Darkest Hour / IWrestledABearOnce @ The Opera House, Toronto ON, March 14, 2010"
+edited: false
 date: "2010-03-19"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "canada"
   - "century-media"
   - "darkest-hour"

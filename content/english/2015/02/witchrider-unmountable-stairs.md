@@ -1,9 +1,10 @@
 ---
 title: "Witchrider – Unmountable Stairs"
+edited: false
 date: "2015-02-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "austrian"
   - "fuzzorama-records"

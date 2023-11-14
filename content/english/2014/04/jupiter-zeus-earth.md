@@ -1,9 +1,10 @@
 ---
 title: "Jupiter Zeus – On Earth"
+edited: false
 date: "2014-04-24"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hawkwind"
   - "jupiter-zeus"
   - "magnetic-eye-records"

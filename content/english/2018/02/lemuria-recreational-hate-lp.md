@@ -1,10 +1,11 @@
 ---
 title: "Lemuria – Recreational Hate LP"
+edited: false
 date: "2018-02-27"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "indie"
   - "lemuria"
   - "lp"

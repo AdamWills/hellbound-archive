@@ -1,11 +1,12 @@
 ---
 title: "Napalm Death - Utilitarian"
+edited: false
 date: "2012-05-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "barney-greenway"
   - "century-media"
   - "fields-of-the-nephilium"

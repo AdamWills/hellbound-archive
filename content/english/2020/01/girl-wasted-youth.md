@@ -1,9 +1,10 @@
 ---
 title: "Girl – Wasted Youth"
+edited: false
 date: "2020-01-21"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "hard-rock"
   - "heavy-rock"
   - "review"

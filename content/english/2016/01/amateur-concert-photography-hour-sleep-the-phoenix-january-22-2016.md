@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: SLEEP @ The Phoenix, January 22, 2016"
+edited: false
 date: "2016-01-23"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "al-cisneros"
   - "dopesmoker"
   - "matt-pike"

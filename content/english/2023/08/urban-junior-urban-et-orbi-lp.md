@@ -1,10 +1,11 @@
 ---
 title: "Urban Junior - Urban et Orbi LP"
+edited: false
 date: "2023-08-20"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "et"
   - "junior"
   - "orbi"

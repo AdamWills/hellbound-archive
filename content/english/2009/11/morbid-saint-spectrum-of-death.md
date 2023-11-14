@@ -1,11 +1,12 @@
 ---
 title: "Morbid Saint: Spectrum Of Death"
+edited: false
 date: "2009-11-02"
-categories: 
+categories:
   - "featured"
   - "features"
   - "reviews-audio"
-tags: 
+tags:
   - "dark-angel"
   - "kreator"
   - "morbid-saint"

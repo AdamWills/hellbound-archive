@@ -1,10 +1,11 @@
 ---
 title: "Staff playlists: the May two-four edition (2014)"
+edited: false
 date: "2014-05-16"
-categories: 
+categories:
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "long-weekend"
   - "may-two-four"
   - "metal"

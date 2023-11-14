@@ -1,12 +1,13 @@
 ---
 title: "The Wrecking Ball! Scream UnFestival event @ Hard Luck Bar, Toronto ON, July 9, 2011"
+edited: false
 date: "2011-07-22"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "black-metal"
   - "ein-traum"

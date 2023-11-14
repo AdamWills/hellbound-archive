@@ -1,9 +1,10 @@
 ---
 title: "Fidlar – Too (LP)"
+edited: false
 date: "2016-11-21"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "fidlar"
   - "punk"
   - "review"

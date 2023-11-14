@@ -1,11 +1,12 @@
 ---
 title: "Kylesa - From The Vaults Vol 1"
+edited: false
 date: "2013-10-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "buzzov-en"
   - "kylesa"
   - "matt-hinch"

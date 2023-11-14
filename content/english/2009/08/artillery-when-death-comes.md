@@ -1,11 +1,12 @@
 ---
 title: "Artillery: When Death Comes"
+edited: false
 date: "2009-08-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "artillery"
   - "denmark"
   - "metal-mind"

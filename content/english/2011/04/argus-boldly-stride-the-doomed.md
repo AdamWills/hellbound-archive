@@ -1,11 +1,12 @@
 ---
 title: "Argus – Boldly Stride the Doomed"
+edited: false
 date: "2011-04-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "argus"
   - "candlemass"
   - "dio"

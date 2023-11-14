@@ -1,11 +1,12 @@
 ---
 title: "Municipal Waste: Massive Aggressive"
+edited: false
 date: "2009-07-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "earache"
   - "municipal-waste"
   - "thrash"

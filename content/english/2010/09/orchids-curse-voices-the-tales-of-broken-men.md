@@ -1,11 +1,12 @@
 ---
 title: "Orchid’s Curse – Voices: The Tales of Broken Men"
+edited: false
 date: "2010-09-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "diminished-fifth"
   - "jason-wellwood"

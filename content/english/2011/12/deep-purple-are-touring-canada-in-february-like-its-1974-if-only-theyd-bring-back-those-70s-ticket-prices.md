@@ -1,11 +1,12 @@
 ---
 title: "Deep Purple is touring Canada in February like it's 1974.  If only they'd bring back those '70s ticket prices!"
+edited: false
 date: "2011-12-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "acdc"
   - "canada"
   - "concert"

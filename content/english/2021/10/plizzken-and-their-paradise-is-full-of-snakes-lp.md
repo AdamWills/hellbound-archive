@@ -1,9 +1,10 @@
 ---
 title: "Plizzken - ...And Their Paradise Is Full Of Snakes LP"
+edited: false
 date: "2021-10-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "pirates-press"
   - "plizzken"
   - "punk"

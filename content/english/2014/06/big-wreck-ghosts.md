@@ -1,9 +1,10 @@
 ---
 title: "Big Wreck – Ghosts"
+edited: false
 date: "2014-06-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "big-wreck"
   - "hard-rock"

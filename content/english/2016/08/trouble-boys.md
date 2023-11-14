@@ -1,9 +1,10 @@
 ---
 title: "Trouble Boys"
+edited: false
 date: "2016-08-03"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book-review"
   - "the-replacements"
 ---

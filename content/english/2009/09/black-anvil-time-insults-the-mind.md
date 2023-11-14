@@ -1,11 +1,12 @@
 ---
 title: "Black Anvil: Time Insults The Mind"
+edited: false
 date: "2009-09-04"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-anvil"
   - "black-metal"
   - "punk"

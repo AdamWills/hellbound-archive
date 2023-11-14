@@ -1,9 +1,10 @@
 ---
 title: "Full Metal Parenting #6: Mike Scheidt Interview"
+edited: false
 date: "2014-09-16"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "acdc"
   - "drugs"
   - "full-metal-parenting"

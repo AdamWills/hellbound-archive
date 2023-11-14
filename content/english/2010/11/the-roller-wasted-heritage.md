@@ -1,11 +1,12 @@
 ---
 title: "The Roller - Wasted Heritage"
+edited: false
 date: "2010-11-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "cyclopean-records"
   - "eyehategod"
   - "kyle-harcott"

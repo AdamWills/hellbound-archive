@@ -1,9 +1,10 @@
 ---
 title: "Headstones @ Maxwell's, Waterloo ON, July 10th 2015"
+edited: false
 date: "2015-08-17"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert-photos"
   - "concert-review"
   - "headstones"

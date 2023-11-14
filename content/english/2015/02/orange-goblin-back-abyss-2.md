@@ -1,9 +1,10 @@
 ---
 title: "Orange Goblin – Back From The Abyss"
+edited: false
 date: "2015-02-09"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "1000-tons-of-metal"
   - "album-review"
   - "candlelight"

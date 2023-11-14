@@ -1,10 +1,11 @@
 ---
 title: "Guest Directors - Interference Patterns LP"
+edited: false
 date: "2023-11-12"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "guest-directors"
   - "interference-patterns"
   - "snappy-little-numbers"

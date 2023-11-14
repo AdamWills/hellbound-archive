@@ -1,11 +1,12 @@
 ---
 title: "Staff Playlists - September 2019"
+edited: false
 date: "2019-09-30"
-categories: 
+categories:
   - "features"
   - "staff_picks"
   - "staff_playlists"
-tags: 
+tags:
   - "metal"
   - "staff-picks"
   - "staff-playlists"

@@ -1,10 +1,11 @@
 ---
 title: "Howling Giant – Black Hole Space Wizard (Part 1)"
+edited: false
 date: "2016-08-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "heavy-rock"
   - "howling-giant"

@@ -1,11 +1,12 @@
 ---
 title: "Dirty Words With Mark Evans: Former AC/DC bassist's autobiography speaks on life inside the superstar act"
+edited: false
 date: "2012-02-13"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "acdc"
   - "angus-young"
   - "bazillion-points"

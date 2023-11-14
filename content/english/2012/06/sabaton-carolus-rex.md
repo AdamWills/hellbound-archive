@@ -1,11 +1,12 @@
 ---
 title: "Sabaton - Carolus Rex"
+edited: false
 date: "2012-06-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hammerfall"
   - "jason-wellwood"
   - "nuclear-blast"

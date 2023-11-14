@@ -1,9 +1,10 @@
 ---
 title: "JD McPherson – Undivided Heart & Soul LP"
+edited: false
 date: "2018-01-03"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "jd-mcpherson"
   - "pop"
   - "psychedelic-rock"

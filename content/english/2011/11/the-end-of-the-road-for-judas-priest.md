@@ -1,11 +1,12 @@
 ---
 title: "The end of the road for Judas Priest?"
+edited: false
 date: "2011-11-19"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-label-society"
   - "concert"
   - "gruesome-greg"

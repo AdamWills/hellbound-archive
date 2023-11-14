@@ -1,9 +1,10 @@
 ---
 title: "Godflesh + Malhavoc in Toronto, 21 August 2018"
+edited: false
 date: "2018-08-29"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "godflesh"
   - "live"

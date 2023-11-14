@@ -1,10 +1,11 @@
 ---
 title: "Opeth, Enslaved @ The Sound Academy, Toronto ON, May 4, 2009"
+edited: false
 date: "2009-06-05"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "enslaved"
   - "norway"
   - "nuclear-blast"

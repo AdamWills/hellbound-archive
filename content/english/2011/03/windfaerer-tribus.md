@@ -1,11 +1,12 @@
 ---
 title: "Windfaerer - Tribus"
+edited: false
 date: "2011-03-07"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "folk-metal"
   - "jonathan-smith"
   - "killswitch-engage"

@@ -1,11 +1,12 @@
 ---
 title: "Monster Truck - Furiosity"
+edited: false
 date: "2013-06-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bill-adams"
   - "dine-alone"
   - "led-zeppelin"

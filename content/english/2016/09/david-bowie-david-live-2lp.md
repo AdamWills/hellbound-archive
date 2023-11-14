@@ -1,10 +1,11 @@
 ---
 title: "David Bowie – David Live 2LP"
+edited: false
 date: "2016-09-20"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "david-bowie"
   - "review"
   - "rock"

@@ -1,9 +1,10 @@
 ---
 title: "Book reviews: World War I – history, military, politics"
+edited: false
 date: "2017-01-13"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "books"
   - "great-war"
   - "review"

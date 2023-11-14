@@ -1,11 +1,12 @@
 ---
 title: "Hirax - El Rostro De La Muerte"
+edited: false
 date: "2010-03-15"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "hirax"
   - "season-of-mist"
   - "thrash-corner"

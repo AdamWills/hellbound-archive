@@ -1,11 +1,12 @@
 ---
 title: "YOB, Dark Castle and OTIS--Oh my!"
+edited: false
 date: "2011-07-16"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "courthouse"
   - "dark-castle"
   - "doom"

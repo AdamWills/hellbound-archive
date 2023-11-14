@@ -1,7 +1,8 @@
 ---
 title: "Staff Playlists - August 2020"
+edited: false
 date: "2020-09-03"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"
@@ -12,15 +13,15 @@ Another month goes by and we give you another month’s worth of staff picks and
 
 ## Steve Earles
 
-**Listening to:** _Born Again,_ Deluxe Edition by Black Sabbath. Bill  
-Ward, Tony Iommi and Geezer Butler are joined on this fine platter of  
-metal by no less than Deep Purple legend Ian Gillan. It's my favourite  
-Sabbath album and _Zero The Hero_ is one great metal song. On  
-this splendid edition there is an unreleased track called _The_  
-_Fallen,_ which is splendid, and a very good live show from the Reading  
-Festival. To accompany it I am reading a very good book by Martin  
-Popoff called _Born Again! Black Sabbath In The Eighties And_  
-_Nineties_, which I highly recommend. A great antidote to the isolated  
+**Listening to:** _Born Again,_ Deluxe Edition by Black Sabbath. Bill
+Ward, Tony Iommi and Geezer Butler are joined on this fine platter of
+metal by no less than Deep Purple legend Ian Gillan. It's my favourite
+Sabbath album and _Zero The Hero_ is one great metal song. On
+this splendid edition there is an unreleased track called _The_
+_Fallen,_ which is splendid, and a very good live show from the Reading
+Festival. To accompany it I am reading a very good book by Martin
+Popoff called _Born Again! Black Sabbath In The Eighties And_
+_Nineties_, which I highly recommend. A great antidote to the isolated
 times we find ourselves "living" in.
 
 ## Arta Gailuma

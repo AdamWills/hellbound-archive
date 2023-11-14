@@ -1,11 +1,12 @@
 ---
 title: "Various Artists – Texas Metal Archives Volume 1"
+edited: false
 date: "2010-12-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "brainticket-records"
   - "john-perez"
   - "solitude-aeturnus"

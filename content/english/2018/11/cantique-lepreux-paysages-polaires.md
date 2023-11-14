@@ -1,10 +1,11 @@
 ---
 title: "Cantique Lepreux – Paysages Polaires"
+edited: false
 date: "2018-11-30"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "canadian-metal"
   - "cantique-lepreux"

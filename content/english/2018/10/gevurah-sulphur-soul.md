@@ -1,10 +1,11 @@
 ---
 title: "Gevurah – Sulphur Soul"
+edited: false
 date: "2018-10-03"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "canadian-metal"
   - "extreme-metal"

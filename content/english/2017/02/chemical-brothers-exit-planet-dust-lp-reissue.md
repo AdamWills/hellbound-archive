@@ -1,9 +1,10 @@
 ---
 title: "The Chemical Brothers – Exit Planet Dust LP (reissue)"
+edited: false
 date: "2017-02-14"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "chemical-brothers"
   - "reissue"
   - "review"

@@ -1,10 +1,11 @@
 ---
 title: "Black Shape of Nexus – Carrier"
+edited: false
 date: "2016-03-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-shape-of-nexus"
   - "blackened-sludge"
   - "hardcore"

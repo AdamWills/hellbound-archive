@@ -1,11 +1,12 @@
 ---
 title: "Ophthalamia: A Journey in Darkness (reissue)"
+edited: false
 date: "2009-08-31"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "abruptum"
   - "dissection"
   - "doom-metal"

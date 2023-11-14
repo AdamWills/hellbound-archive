@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: BRANT BJORK/Ecstatic Vision/Ian Blurton's Future Now @ Lee's Palace, September 25, 2019"
+edited: false
 date: "2019-09-27"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "brant-bjork"
   - "concert-photography"
   - "concert-photos"

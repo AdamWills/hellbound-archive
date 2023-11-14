@@ -1,11 +1,12 @@
 ---
 title: "Sweat - Gotta Give It Up LP"
+edited: false
 date: "2022-05-17"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "gotta-give-it-up"
   - "hardcore"
   - "lp"

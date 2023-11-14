@@ -1,10 +1,11 @@
 ---
 title: "Tomb Mold - Planetary Clairvoyance"
+edited: false
 date: "2019-07-31"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews-audio"
-tags: 
+tags:
   - "20-buck-spin"
   - "2019"
   - "canadian-metal"

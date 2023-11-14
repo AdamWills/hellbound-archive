@@ -1,9 +1,10 @@
 ---
 title: "Blooodbath – Grand Morbid Funeral"
+edited: false
 date: "2015-01-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bloodbath"
   - "paradise-lost"
   - "peaceville"

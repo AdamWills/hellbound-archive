@@ -1,11 +1,12 @@
 ---
 title: "\"Happy Valentine's Day--I think we should see other psych bands!\""
+edited: false
 date: "2013-02-02"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "comedy"
   - "gruesome-greg"
   - "horseshoe-tavern"

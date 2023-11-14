@@ -1,10 +1,11 @@
 ---
 title: "Clinic – Wheeltappers and Shunters LP"
+edited: false
 date: "2019-08-02"
-categories: 
+categories:
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "review"
 ---
 

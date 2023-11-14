@@ -1,10 +1,11 @@
 ---
 title: "Solace – The Brink"
+edited: false
 date: "2019-12-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal"
 ---
 

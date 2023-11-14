@@ -1,11 +1,12 @@
 ---
 title: "Lacuna Coil @ Annex Wreckroom, Toronto, ON, November 20th 2009"
+edited: false
 date: "2009-12-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "canada"
   - "century-media"
   - "conflicted"

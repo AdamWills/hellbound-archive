@@ -1,10 +1,11 @@
 ---
 title: "Scott Kelly of Neurosis: The Hellbound Interview"
+edited: false
 date: "2010-09-24"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "alternative-tentacles"
   - "interview"
   - "jello-biafra"

@@ -1,11 +1,12 @@
 ---
 title: "Mike Muir of Suicidal Tendencies: The Hellbound interview"
+edited: false
 date: "2010-02-19"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "fontana-distribution"
   - "hardcore"
   - "interview"

@@ -1,9 +1,10 @@
 ---
 title: "FURIA – Nocel"
+edited: false
 date: "2015-03-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "blackened-thrash"
   - "furia"

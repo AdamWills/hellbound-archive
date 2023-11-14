@@ -1,10 +1,11 @@
 ---
 title: "Opeth / High On Fire: Centennial Hall, London ON September 21"
+edited: false
 date: "2009-05-27"
-categories: 
+categories:
   - "featured"
   - "reviews-live"
-tags: 
+tags:
   - "california"
   - "death-metal"
   - "live"

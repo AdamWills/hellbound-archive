@@ -1,9 +1,10 @@
 ---
 title: "The New Jacobin Club – Soldiers of the Mark"
+edited: false
 date: "2014-09-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "canadian"
   - "danzig"
   - "horror-rock"

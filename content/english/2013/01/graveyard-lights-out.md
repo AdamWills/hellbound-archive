@@ -1,11 +1,12 @@
 ---
 title: "Graveyard – Lights Out"
+edited: false
 date: "2013-01-14"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "gothenburg"
   - "graveyard"
   - "nuclear-blast"

@@ -1,11 +1,12 @@
 ---
 title: "Indian – From All Purity"
+edited: false
 date: "2014-01-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "chicago"
   - "gruesome-greg"

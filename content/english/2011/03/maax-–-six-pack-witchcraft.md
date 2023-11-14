@@ -1,10 +1,11 @@
 ---
 title: "MAAX – Six Pack Witchcraft"
+edited: false
 date: "2011-03-22"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "abyss-records"
   - "black-metal"
   - "blackened-thrash"

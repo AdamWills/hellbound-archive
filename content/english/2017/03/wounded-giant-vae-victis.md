@@ -1,10 +1,11 @@
 ---
 title: "Wounded Giant – Vae Victis"
+edited: false
 date: "2017-03-08"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "noise-rock"
   - "review"

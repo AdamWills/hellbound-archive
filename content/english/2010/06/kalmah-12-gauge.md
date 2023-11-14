@@ -1,11 +1,12 @@
 ---
 title: "Kalmah – 12 Gauge"
+edited: false
 date: "2010-06-21"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "finland"
   - "kalmah"
   - "spine"

@@ -1,11 +1,12 @@
 ---
 title: "Headhunter D.C. - God's Spreading Cancer"
+edited: false
 date: "2010-02-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "brazil"
   - "carcass"
   - "cogumelo-records"

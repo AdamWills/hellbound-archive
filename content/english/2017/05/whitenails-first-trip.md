@@ -1,10 +1,11 @@
 ---
 title: "WhiteNails – First Trip"
+edited: false
 date: "2017-05-12"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canadian-metal"
   - "psychedelic"
   - "quebec-city"

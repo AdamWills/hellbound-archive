@@ -1,9 +1,10 @@
 ---
 title: "Metal events you don't wanna miss – spring 2018"
+edited: false
 date: "2018-03-24"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "black-metal"
   - "concerts"
   - "death-metal"

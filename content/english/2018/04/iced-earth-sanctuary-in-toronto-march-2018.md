@@ -1,9 +1,10 @@
 ---
 title: "Iced Earth / Sanctuary in Toronto, March 2018"
+edited: false
 date: "2018-04-12"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "iced-earth"
   - "live"

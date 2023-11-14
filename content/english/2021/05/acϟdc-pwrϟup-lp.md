@@ -1,10 +1,11 @@
 ---
 title: "AC/DC - PWR/UP LP"
+edited: false
 date: "2021-05-15"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "acdc"
   - "columbia"
   - "power"

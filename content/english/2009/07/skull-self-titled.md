@@ -1,10 +1,11 @@
 ---
 title: "Skull: Self-titled"
+edited: false
 date: "2009-07-17"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "doom"
   - "skull"

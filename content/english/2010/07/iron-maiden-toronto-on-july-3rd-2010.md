@@ -1,12 +1,13 @@
 ---
 title: "Iron Maiden @ Molson Canadian Amphitheatre, Toronto ON, July 3rd 2010"
+edited: false
 date: "2010-07-07"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "reviews-live"
-tags: 
+tags:
   - "dream-theater"
   - "iron-maiden"
   - "live-review"

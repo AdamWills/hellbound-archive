@@ -1,12 +1,13 @@
 ---
 title: "Hellbound @ Hellfest 2011: The Preview"
+edited: false
 date: "2011-06-14"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adam-wills"
   - "anathema"
   - "apocalyptica"

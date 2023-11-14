@@ -1,7 +1,8 @@
 ---
 title: "Firebreather – self-titled EP"
+edited: false
 date: "2017-08-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
 ---

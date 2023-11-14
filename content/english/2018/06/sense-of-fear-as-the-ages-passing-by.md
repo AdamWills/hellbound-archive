@@ -1,9 +1,10 @@
 ---
 title: "Sense of Fear – As The Ages Passing By…"
+edited: false
 date: "2018-06-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "heavy-metal"
   - "metal"
   - "review"

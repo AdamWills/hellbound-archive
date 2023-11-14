@@ -1,11 +1,12 @@
 ---
 title: "Woods Of Ypres - W4: The Green Album"
+edited: false
 date: "2010-04-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "canada"
   - "doom-metal"
   - "metal"

@@ -1,11 +1,12 @@
 ---
 title: "Dragged Into Sunlight - Hatred For Mankind"
+edited: false
 date: "2011-03-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "billy-anderson"
   - "dragged-into-sunlight"
   - "kyle-harcott"

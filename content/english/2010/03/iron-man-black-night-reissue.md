@@ -1,11 +1,12 @@
 ---
 title: "Iron Man - Black Night (reissue)"
+edited: false
 date: "2010-03-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "anvil"
   - "black-sabbath"
   - "clutch"

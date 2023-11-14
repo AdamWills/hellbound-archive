@@ -1,7 +1,8 @@
 ---
 title: "Irish Service Women In The Great War: From Western Front to Roaring Twenties by Barbara Walsh"
+edited: false
 date: "2020-06-10"
-categories: 
+categories:
   - "reviews-books"
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: "Clutch / Orange Goblin / Lionize / Scorpion Child @ Sound Academy, Toronto ON, April 18, 2013"
+edited: false
 date: "2013-05-01"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "albert-mansour"
   - "clutch"
   - "graveyard"

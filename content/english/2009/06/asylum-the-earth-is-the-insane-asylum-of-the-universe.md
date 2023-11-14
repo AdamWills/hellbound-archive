@@ -1,10 +1,11 @@
 ---
 title: "Asylum: The Earth is the Insane Asylum of the Universe"
+edited: false
 date: "2009-06-10"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "angel-witch"
   - "asylum"
   - "diamond-head"

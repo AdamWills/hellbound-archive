@@ -1,13 +1,14 @@
 ---
 title: "Staff/Guest Picks: Favourite Rush Song of All-Time"
+edited: false
 date: "2010-07-01"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "reviews"
   - "reviews-audio"
   - "staff_picks"
-tags: 
+tags:
   - "canada-day"
   - "favourite-rush-song"
   - "rush"

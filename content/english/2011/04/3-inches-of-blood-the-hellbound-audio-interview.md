@@ -1,11 +1,12 @@
 ---
 title: "3 INCHES OF BLOOD: The Hellbound Audio Interview"
+edited: false
 date: "2011-04-21"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "3-inches-of-blood"
   - "audio-in"
   - "cam-pipes"

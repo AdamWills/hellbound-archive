@@ -1,11 +1,12 @@
 ---
 title: "Altar of Plagues - Mammal"
+edited: false
 date: "2011-10-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "altar-of-plagues"
   - "ireland"
   - "jonathan-smith"

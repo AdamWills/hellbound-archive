@@ -1,11 +1,12 @@
 ---
 title: "Vista Chino – Peace"
+edited: false
 date: "2013-08-19"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "brant-bjork"
   - "gruesome-greg"

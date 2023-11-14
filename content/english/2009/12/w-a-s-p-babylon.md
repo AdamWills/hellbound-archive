@@ -1,11 +1,12 @@
 ---
 title: "W.A.S.P.: Babylon"
+edited: false
 date: "2009-12-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "demolition-records"
   - "heavy-metal"
   - "usa"

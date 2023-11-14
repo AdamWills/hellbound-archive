@@ -1,12 +1,13 @@
 ---
 title: "CONTEST: Win IN FLAMES: Siren Charms limited vinyl boxed set!"
+edited: false
 date: "2014-09-29"
-categories: 
+categories:
   - "blogs"
   - "contests"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "contest"
   - "hellbound-ca"
   - "in-flames"

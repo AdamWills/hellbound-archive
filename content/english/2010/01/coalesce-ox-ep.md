@@ -1,11 +1,12 @@
 ---
 title: "Coalesce: OX EP"
+edited: false
 date: "2010-01-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "coalesce"
   - "hardcore"
   - "metalcore"

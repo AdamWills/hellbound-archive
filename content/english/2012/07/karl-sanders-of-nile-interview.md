@@ -1,11 +1,12 @@
 ---
 title: "Karl Sanders of Nile: The Hellbound Interview"
+edited: false
 date: "2012-07-06"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "david-vincent"
   - "death-metal"
   - "karl-sanders"

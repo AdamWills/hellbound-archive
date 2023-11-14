@@ -1,9 +1,10 @@
 ---
 title: "Mastodon – White Walker (12'' picture disc)"
+edited: false
 date: "2016-03-17"
-categories: 
+categories:
   - "reviews-vinyl"
-tags: 
+tags:
   - "mastodon"
   - "review"
   - "vinyl"

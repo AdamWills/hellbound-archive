@@ -1,9 +1,10 @@
 ---
 title: "Dö – Den EP"
+edited: false
 date: "2015-01-23"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doom-metal"
   - "do"

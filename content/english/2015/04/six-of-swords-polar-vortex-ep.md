@@ -1,9 +1,10 @@
 ---
 title: "Six of Swords – Polar Vortex EP"
+edited: false
 date: "2015-04-10"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "bandcamp"
   - "brutal-death"
   - "death-metal"

@@ -1,10 +1,11 @@
 ---
 title: "Empress – Reminiscence"
+edited: false
 date: "2018-02-02"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "empress"
   - "metal"

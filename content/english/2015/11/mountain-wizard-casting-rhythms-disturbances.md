@@ -1,10 +1,11 @@
 ---
 title: "Mountain of Wizard – Casting Rhythms and Disturbances"
+edited: false
 date: "2015-11-30"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "heavy-rock"
   - "instrumental"

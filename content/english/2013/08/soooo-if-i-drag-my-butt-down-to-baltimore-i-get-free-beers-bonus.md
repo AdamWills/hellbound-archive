@@ -1,11 +1,12 @@
 ---
 title: "Soooo, if I drag my butt down to Baltimore, I get free beers?  Bonus!"
+edited: false
 date: "2013-08-05"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "agnostic-front"
   - "baltimore"
   - "cro-mags"

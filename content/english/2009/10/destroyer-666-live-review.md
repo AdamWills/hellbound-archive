@@ -1,11 +1,12 @@
 ---
 title: "Destroyer 666/Vital Remains/Baphomet's Horns/Revocation @ Club Hell, Providence, RI, September 29, 2009"
+edited: false
 date: "2009-10-09"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "australia"
   - "baphomets-horns"
   - "century-media"

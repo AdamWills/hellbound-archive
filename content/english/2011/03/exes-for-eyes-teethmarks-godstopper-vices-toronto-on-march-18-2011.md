@@ -1,11 +1,12 @@
 ---
 title: "Exes for Eyes / Teethmarks / Godstopper / Vices @ the Hard Luck Bar, Toronto, ON, March 18th, 2011"
+edited: false
 date: "2011-03-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "annihilator"
   - "godstopper"
   - "hard-luck-bar"

@@ -1,12 +1,13 @@
 ---
 title: "Hellbound.ca INDIVIDUAL TOP 10 ALBUMS OF 2011"
+edited: false
 date: "2012-01-03"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
   - "reviews"
-tags: 
+tags:
   - "40-watt-sun"
   - "absu"
   - "adrien-begrand"

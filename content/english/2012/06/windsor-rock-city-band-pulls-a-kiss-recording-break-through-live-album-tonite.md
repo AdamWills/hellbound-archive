@@ -1,11 +1,12 @@
 ---
 title: "Windsor Rock City band pulls a KISS, recording break-through(?) live album tonite..."
+edited: false
 date: "2012-06-30"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "coach-and-horses"
   - "detroit"
   - "gruesome-greg"

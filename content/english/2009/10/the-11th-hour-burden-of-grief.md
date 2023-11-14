@@ -1,11 +1,12 @@
 ---
 title: "The 11th Hour: Burden Of Grief"
+edited: false
 date: "2009-10-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "holland"
   - "napalm"

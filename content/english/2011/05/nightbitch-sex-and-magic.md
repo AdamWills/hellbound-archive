@@ -1,11 +1,12 @@
 ---
 title: "Nightbitch – Sex and Magic"
+edited: false
 date: "2011-05-31"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "cyclopean-records"
   - "hour-of-13"
   - "judas-priest"

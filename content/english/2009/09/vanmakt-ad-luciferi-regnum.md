@@ -1,11 +1,12 @@
 ---
 title: "Vanmakt: Ad Luciferi Regnum"
+edited: false
 date: "2009-09-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "death-metal"
   - "pulverised"

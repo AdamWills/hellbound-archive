@@ -1,9 +1,10 @@
 ---
 title: "Twin Lords – Devastating Planetary Shift"
+edited: false
 date: "2015-10-16"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "groove"
   - "noise-rock"

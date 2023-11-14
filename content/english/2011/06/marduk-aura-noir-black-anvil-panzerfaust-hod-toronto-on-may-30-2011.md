@@ -1,11 +1,12 @@
 ---
 title: "Marduk / Aura Noir / Black Anvil / Panzerfaust / HOD @ the Wreckroom, Toronto ON, May 30, 2011"
+edited: false
 date: "2011-06-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "annex-wreckroom"
   - "aura-noir"
   - "black-anvil"

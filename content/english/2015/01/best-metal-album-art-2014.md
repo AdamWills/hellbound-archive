@@ -1,10 +1,11 @@
 ---
 title: "Best metal album art of 2014"
+edited: false
 date: "2015-01-07"
-categories: 
+categories:
   - "features"
   - "staff_picks"
-tags: 
+tags:
   - "40-watt-sun"
   - "album-review"
   - "artificial-brain"

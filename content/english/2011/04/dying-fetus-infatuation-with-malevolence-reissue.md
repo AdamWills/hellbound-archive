@@ -1,11 +1,12 @@
 ---
 title: "Dying Fetus - Infatuation With Malevolence (reissue)"
+edited: false
 date: "2011-04-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "dying-fetus"
   - "matt-lewis"
   - "relapse-records"

@@ -1,12 +1,13 @@
 ---
 title: "This Week In Metal (Nov 27-Dec 3)"
+edited: false
 date: "2010-12-06"
-categories: 
+categories:
   - "adam_wills"
   - "blogs"
   - "featured"
   - "editors_blog"
-tags: 
+tags:
   - "agalloch"
   - "devin-townsend"
   - "megadeth"

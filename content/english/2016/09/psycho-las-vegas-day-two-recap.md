@@ -1,11 +1,12 @@
 ---
 title: "PSYCHO LAS VEGAS Day Two Recap"
+edited: false
 date: "2016-09-03"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "acid-king"
   - "bongripper"
   - "boris"

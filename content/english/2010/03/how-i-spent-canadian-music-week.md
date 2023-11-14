@@ -1,7 +1,8 @@
 ---
 title: "How I spent Canadian Music Week..."
+edited: false
 date: "2010-03-21"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"

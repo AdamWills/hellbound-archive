@@ -1,13 +1,14 @@
 ---
 title: "Jay H. Gorania’s SXSW 2012 - Part 1"
+edited: false
 date: "2012-03-24"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "a-perfect-circle"
   - "ash-avildsen"
   - "champ-morgan"

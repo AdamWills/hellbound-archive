@@ -1,11 +1,12 @@
 ---
 title: "Stu Block of Iced Earth: The Hellbound Audio Interview"
+edited: false
 date: "2011-12-16"
-categories: 
+categories:
   - "articles"
   - "features"
   - "headline"
-tags: 
+tags:
   - "audio-interview"
   - "century-media"
   - "iced-earth"

@@ -1,10 +1,11 @@
 ---
 title: "Wanna Meet ANVIL in Toronto tonight?"
+edited: false
 date: "2009-10-28"
-categories: 
+categories:
   - "blogs"
   - "editors_blog"
-tags: 
+tags:
   - "anvil"
   - "live"
   - "toronto"

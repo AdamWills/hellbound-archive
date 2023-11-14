@@ -1,9 +1,10 @@
 ---
 title: "Madrost – The Essence of Time Matches No Flesh"
+edited: false
 date: "2017-09-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "madrost"
   - "metal"

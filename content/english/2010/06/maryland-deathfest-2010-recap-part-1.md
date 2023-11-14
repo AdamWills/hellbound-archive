@@ -1,11 +1,12 @@
 ---
 title: "Maryland Deathfest 2010 Recap Part 1"
+edited: false
 date: "2010-06-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "baltimore"
   - "beer-city-records"
   - "birdflesh"

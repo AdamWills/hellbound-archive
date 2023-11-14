@@ -1,12 +1,13 @@
 ---
 title: "Suicidal Tendencies/ Poison Idea/ Crutches @ the Showbox, Seattle WA Oct. 17, 2010"
+edited: false
 date: "2010-10-27"
-categories: 
+categories:
   - "features"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "cara-cross"
   - "jello-biafra"
   - "live-review"

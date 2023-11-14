@@ -1,9 +1,10 @@
 ---
 title: "Asphalt Graves – The New Primitive"
+edited: false
 date: "2016-07-20"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "all-that-remains"
   - "asphalt-graves"

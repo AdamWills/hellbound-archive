@@ -1,11 +1,12 @@
 ---
 title: "Immolation - Majesty And Decay"
+edited: false
 date: "2010-02-05"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "century-media"
   - "death-metal"
   - "immolation"

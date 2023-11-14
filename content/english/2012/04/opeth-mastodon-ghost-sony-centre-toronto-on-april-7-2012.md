@@ -1,11 +1,12 @@
 ---
 title: "Opeth / Mastodon / Ghost @ Sony Centre, Toronto ON, April 7, 2012"
+edited: false
 date: "2012-04-10"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "ghost"
   - "gruesome-greg"

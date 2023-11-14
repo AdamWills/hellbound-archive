@@ -1,11 +1,12 @@
 ---
 title: "Dragonforce / Crimson Shadows @ The Opera House, Toronto ON, October 20, 2011"
+edited: false
 date: "2011-10-28"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "crimson-shadows"
   - "dragonforce"
   - "guitar-hero"

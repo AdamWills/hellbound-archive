@@ -1,9 +1,10 @@
 ---
 title: "Municipal Waste – Slime & Punishment"
+edited: false
 date: "2017-10-04"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "crossover"
   - "heavy-metal"
   - "metal"

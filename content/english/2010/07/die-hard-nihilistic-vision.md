@@ -1,11 +1,12 @@
 ---
 title: "Die Hard – Nihilistic Vision"
+edited: false
 date: "2010-07-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "agonia"
   - "blackened-thrash"
   - "die-hard"

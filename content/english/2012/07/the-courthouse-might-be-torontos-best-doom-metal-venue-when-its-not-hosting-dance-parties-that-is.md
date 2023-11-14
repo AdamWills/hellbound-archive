@@ -1,11 +1,12 @@
 ---
 title: "The Courthouse might be Toronto's best doom metal venue--when it's not hosting dance parties, that is..."
+edited: false
 date: "2012-07-28"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "candlemass"
   - "castle"
   - "concert"

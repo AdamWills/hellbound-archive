@@ -1,9 +1,10 @@
 ---
 title: "White Willow – Future Hopes"
+edited: false
 date: "2017-04-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "progressive-rock"
   - "review"
   - "white-willow"

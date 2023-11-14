@@ -1,11 +1,12 @@
 ---
 title: "Behemoth: Evangelion"
+edited: false
 date: "2009-07-24"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "behemoth"
   - "death-metal"
   - "metal-blade"

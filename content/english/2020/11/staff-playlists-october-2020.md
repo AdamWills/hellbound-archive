@@ -1,7 +1,8 @@
 ---
 title: "Staff Playlists - October 2020"
+edited: false
 date: "2020-11-04"
-categories: 
+categories:
   - "featured"
   - "features"
   - "staff_picks"
@@ -26,7 +27,7 @@ Welcome to Hellbound’s latest collection of staff picks and playlists. Enjoy t
 
 **Listening to:** Mastodon - _Medium Rarities._ Excellent collection! Next, they need to do a proper vinyl release of the _Jonah Hex_ soundtrack, one of the best things they have ever done, and criminally unknown. Floyd meets Voivod. 
 
-**Slaughter season:** It has to be something from John Carpenter, Halloween,  
+**Slaughter season:** It has to be something from John Carpenter, Halloween,
 The Fog, and especially Prince of Darkness.
 
 ### Ioan Eofor

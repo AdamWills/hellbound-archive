@@ -1,11 +1,12 @@
 ---
 title: "Old Wainds: Death Nord Kult"
+edited: false
 date: "2009-09-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "moribund"
   - "old-wainds"

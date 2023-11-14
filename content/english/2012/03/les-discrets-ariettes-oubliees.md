@@ -1,11 +1,12 @@
 ---
 title: "Les Discrets - Ariettes Oubliées…"
+edited: false
 date: "2012-03-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "jonathan-smith"
   - "les-discrets"
   - "prophecy-productions"

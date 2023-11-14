@@ -1,11 +1,12 @@
 ---
 title: "BXI: Boris & Ian Astbury"
+edited: false
 date: "2010-08-16"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "boris"
   - "bxi"
   - "england"

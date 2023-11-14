@@ -1,12 +1,13 @@
 ---
 title: "Mares of Thrace / Vilipend / Enabler / Godstopper @ The Shop, Toronto ON, August 12, 2011"
+edited: false
 date: "2011-08-17"
-categories: 
+categories:
   - "featured"
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "godstopper"
   - "live-review"

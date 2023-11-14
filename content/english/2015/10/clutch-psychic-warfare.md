@@ -1,9 +1,10 @@
 ---
 title: "Clutch – Psychic Warfare"
+edited: false
 date: "2015-10-29"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "motorhead"
   - "orange-goblin"
   - "riff-rock"

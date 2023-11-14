@@ -1,11 +1,12 @@
 ---
 title: "Gorguts / Origin / Nero Di Marte / Fragile Existence @ Annex Wreckroom, Toronto ON, December 17, 2013"
+edited: false
 date: "2013-12-23"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "annex-wreckroom"
   - "danielle-griscti"
   - "death-metal"

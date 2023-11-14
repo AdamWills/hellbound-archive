@@ -1,11 +1,12 @@
 ---
 title: "Hypocrisy - End of Disclosure"
+edited: false
 date: "2013-05-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "hellbound-ca"
   - "hypocrisy"

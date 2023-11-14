@@ -1,9 +1,10 @@
 ---
 title: "Judas Priest: one new recruit meets four heavy metal veterans"
+edited: false
 date: "2014-10-29"
-categories: 
+categories:
   - "interviews"
-tags: 
+tags:
   - "glenn-tipton"
   - "heavy-metal"
   - "interview"

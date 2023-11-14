@@ -1,12 +1,13 @@
 ---
 title: "Contest: AUGURY Autographed CD giveaway!"
+edited: false
 date: "2009-08-20"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "augury"
   - "autograph"
   - "content"

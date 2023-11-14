@@ -1,10 +1,11 @@
 ---
 title: "Lordi - Babez for Breakfast"
+edited: false
 date: "2010-09-14"
-categories: 
+categories:
   - "featured"
   - "reviews-audio"
-tags: 
+tags:
   - "gwar"
   - "jason-wellwood"
   - "lordi"

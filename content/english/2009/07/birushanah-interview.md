@@ -1,10 +1,11 @@
 ---
 title: "Birushanah: Taking Japanese Culture To New Extremes"
+edited: false
 date: "2009-07-20"
-categories: 
+categories:
   - "articles"
   - "headline"
-tags: 
+tags:
   - "birushanah"
   - "industrial"
   - "japan"

@@ -1,9 +1,10 @@
 ---
 title: "Stick Men + Sonar @ The Garrison, Toronto, 27 August 2017"
+edited: false
 date: "2017-09-15"
-categories: 
+categories:
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "jazz"
   - "king-crimson"

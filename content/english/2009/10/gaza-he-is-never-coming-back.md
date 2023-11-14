@@ -1,11 +1,12 @@
 ---
 title: "Gaza: He Is Never Coming Back"
+edited: false
 date: "2009-10-26"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "experimental"
   - "gaza"
   - "metal-blade"

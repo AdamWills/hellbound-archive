@@ -1,11 +1,12 @@
 ---
 title: "Misery Index – Heirs To Thievery"
+edited: false
 date: "2010-05-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "misery-index"
   - "relapse"

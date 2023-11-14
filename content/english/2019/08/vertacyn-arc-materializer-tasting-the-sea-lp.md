@@ -1,10 +1,11 @@
 ---
 title: "Vertacyn Arc Materializer –Tasting The Sea LP"
+edited: false
 date: "2019-08-07"
-categories: 
+categories:
   - "reviews"
   - "reviews-vinyl"
-tags: 
+tags:
   - "alternative"
   - "music"
   - "punk"

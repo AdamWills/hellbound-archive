@@ -1,7 +1,8 @@
 ---
 title: "Aleister Crowley In India"
+edited: false
 date: "2020-01-13"
-categories: 
+categories:
   - "reviews-books"
 ---
 

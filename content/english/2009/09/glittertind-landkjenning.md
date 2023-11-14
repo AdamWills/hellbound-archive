@@ -1,11 +1,12 @@
 ---
 title: "Glittertind: Landkjenning"
+edited: false
 date: "2009-09-03"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "folk-metal"
   - "glittertind"
   - "napalm"

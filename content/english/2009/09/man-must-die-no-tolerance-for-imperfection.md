@@ -1,11 +1,12 @@
 ---
 title: "Man Must Die: No Tolerance For Imperfection"
+edited: false
 date: "2009-09-11"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "death-metal"
   - "man-must-die"
   - "relapse"

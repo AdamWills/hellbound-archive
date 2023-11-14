@@ -1,11 +1,12 @@
 ---
 title: "Mayhem/ Keep of Kalessin/ Hate/ Abigail Williams/ Woe @ The Opera House, Toronto ON, November 10th 2011"
+edited: false
 date: "2011-11-22"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "abigail-williams"
   - "hate"
   - "keep-of-kalessin"

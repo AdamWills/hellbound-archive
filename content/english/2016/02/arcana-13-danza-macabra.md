@@ -1,10 +1,11 @@
 ---
 title: "Arcana 13 - Danza Macabra"
+edited: false
 date: "2016-02-01"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "arcana"
 ---

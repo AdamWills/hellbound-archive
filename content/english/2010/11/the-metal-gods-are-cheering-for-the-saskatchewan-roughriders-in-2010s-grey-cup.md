@@ -1,11 +1,12 @@
 ---
 title: "The metal gods are cheering for the Saskatchewan Roughriders in 2010's Grey Cup"
+edited: false
 date: "2010-11-28"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "jay_gorania"
-tags: 
+tags:
   - "adrien-begrand"
   - "hellbound"
   - "saskatchewan-roughriders"

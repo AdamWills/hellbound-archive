@@ -1,11 +1,12 @@
 ---
 title: "Weapon - From The Devil’s Tomb"
+edited: false
 date: "2011-09-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "ajna-offensive"
   - "black-metal"
   - "jason-wellwood"

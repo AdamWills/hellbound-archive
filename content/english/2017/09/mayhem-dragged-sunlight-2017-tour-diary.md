@@ -1,10 +1,11 @@
 ---
 title: "Mayhem & Dragged Into Sunlight (2017 tour diary)"
+edited: false
 date: "2017-09-22"
-categories: 
+categories:
   - "features"
   - "jay_gorania"
-tags: 
+tags:
   - "aborym"
   - "asphyx"
   - "birushanah"

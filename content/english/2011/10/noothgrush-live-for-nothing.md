@@ -1,11 +1,12 @@
 ---
 title: "Noothgrush – Live For Nothing"
+edited: false
 date: "2011-10-13"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metal"
   - "eyehategod"
   - "gruesome-greg"

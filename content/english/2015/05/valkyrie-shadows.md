@@ -1,9 +1,10 @@
 ---
 title: "Valkyrie – Shadows"
+edited: false
 date: "2015-05-13"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "baroness"
   - "doom"

@@ -1,11 +1,12 @@
 ---
 title: "AMATEUR CONCERT PHOTOGRAPHY HOUR: TOP 10 CONCERTS OF 2016"
+edited: false
 date: "2016-12-22"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "black-sabbath"
   - "boris"
   - "brujeria"

@@ -1,9 +1,10 @@
 ---
 title: "History of Terror: Armenian Genocide"
+edited: false
 date: "2019-09-07"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "book-review"
   - "history"

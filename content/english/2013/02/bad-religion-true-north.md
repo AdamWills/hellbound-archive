@@ -1,11 +1,12 @@
 ---
 title: "Bad Religion - True North"
+edited: false
 date: "2013-02-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "bad-religion"
   - "bill-adams"
   - "epitaph"

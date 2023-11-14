@@ -1,11 +1,12 @@
 ---
 title: "Ride the dragon to the Sled Island..."
+edited: false
 date: "2011-06-04"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "calgary"
   - "dead-meadow"
   - "earache"

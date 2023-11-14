@@ -1,9 +1,10 @@
 ---
 title: "Canadian Metal - New Release Round-Up: February 2016, part 2"
+edited: false
 date: "2016-02-26"
-categories: 
+categories:
   - "psa"
-tags: 
+tags:
   - "canadian-metal"
   - "canuck-metal"
   - "new-metal"
@@ -16,7 +17,7 @@ As I mentioned in the first of these posts, Adam Wills and I are always seeking 
 
 * * *
 
-**Flood** _Flood_ Release date: 14 February 2016 
+**Flood** _Flood_ Release date: 14 February 2016
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3303612691/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://floodmontreal.bandcamp.com/album/flood">Flood by Flood</a></iframe>
 
@@ -24,7 +25,7 @@ As I mentioned in the first of these posts, Adam Wills and I are always seeking 
 
 https://www.youtube.com/watch?v=T0rclXyCpm4
 
-**Divine Realm** _Tectum Argenti_ Release date: 23 February 2016 
+**Divine Realm** _Tectum Argenti_ Release date: 23 February 2016
 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1658632130/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" width="300" height="150" seamless=""><a href="http://divinerealm.bandcamp.com/album/tectum-argenti">Tectum Argenti by Divine Realm</a></iframe>
 
@@ -42,6 +43,6 @@ https://www.youtube.com/watch?v=W6Jf5l5xspc
 
 **Nash The Slash** _Dreams & Nightmares_ (including Bedside Companion) Artoffact Records Release date: 15 January 2016 [www.stormingthebase.com/nash-the-slash-reissue-super-collector-pack-all-cds-all-the-vinyl](http://www.stormingthebase.com/nash-the-slash-reissue-super-collector-pack-all-cds-all-the-vinyl/) [exclaim.ca/music/article/nash\_slash\_honoured\_with\_reissue\_series](http://exclaim.ca/music/article/nash_slash_honoured_with_reissue_series)
 
-**e** _Idol Time_ (preview single) Artoffact Records Release date: 8 February 2016 
+**e** _Idol Time_ (preview single) Artoffact Records Release date: 8 February 2016
 
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246169779&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%" height="56" frameborder="no" scrolling="no"></iframe>

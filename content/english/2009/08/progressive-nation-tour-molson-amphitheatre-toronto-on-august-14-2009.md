@@ -1,11 +1,12 @@
 ---
 title: "Progressive Nation tour @ Molson Amphitheatre, Toronto ON, August 14, 2009"
+edited: false
 date: "2009-08-17"
-categories: 
+categories:
   - "headline"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "adam-wills"
   - "big-elf"
   - "dream-theater"

@@ -1,11 +1,12 @@
 ---
 title: "Therion - Sitra Ahra"
+edited: false
 date: "2010-11-01"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "allan-grusie"
   - "candlemass"
   - "led-zeppelin"

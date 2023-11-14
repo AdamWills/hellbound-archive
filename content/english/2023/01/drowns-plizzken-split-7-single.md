@@ -1,10 +1,11 @@
 ---
 title: "Drowns & Plizzken - Split 7'' Single"
+edited: false
 date: "2023-01-15"
-categories: 
+categories:
   - "reviews-audio"
   - "reviews-vinyl"
-tags: 
+tags:
   - "7"
   - "pirates"
   - "plizzken"

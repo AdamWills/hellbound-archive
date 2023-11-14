@@ -1,11 +1,12 @@
 ---
 title: "Metal events you don't want to miss in Toronto - March Madness Edition"
+edited: false
 date: "2015-03-02"
-categories: 
+categories:
   - "blogs"
   - "psa"
   - "staff_picks"
-tags: 
+tags:
   - "concerts"
   - "enslaved"
   - "fuck-the-facts"

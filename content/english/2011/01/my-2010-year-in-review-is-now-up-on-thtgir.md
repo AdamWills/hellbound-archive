@@ -1,11 +1,12 @@
 ---
 title: "My 2010 Year in Review is now up on THTGIR..."
+edited: false
 date: "2011-01-01"
-categories: 
+categories:
   - "blogs"
   - "featured"
   - "gruesome_greg"
-tags: 
+tags:
   - "gruesome-greg"
   - "thtgir"
   - "year-in-review"

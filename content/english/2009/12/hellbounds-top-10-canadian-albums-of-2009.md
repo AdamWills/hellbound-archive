@@ -1,13 +1,14 @@
 ---
 title: "HELLBOUND's TOP 10 CANADIAN METAL ALBUMS OF 2009"
+edited: false
 date: "2009-12-29"
-categories: 
+categories:
   - "featured"
   - "features"
   - "headline"
   - "reviews-audio"
   - "editors_blog"
-tags: 
+tags:
   - "2009"
   - "3-inches-of-blood"
   - "augury"

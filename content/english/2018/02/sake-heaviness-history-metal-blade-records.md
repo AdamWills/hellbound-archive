@@ -1,10 +1,11 @@
 ---
 title: "The History of Metal Blade Records"
+edited: false
 date: "2018-02-02"
-categories: 
+categories:
   - "featured"
   - "reviews-books"
-tags: 
+tags:
   - "books"
   - "brian-slagel"
   - "for-the-sake-of-heaviness"

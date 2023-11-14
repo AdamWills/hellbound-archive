@@ -1,7 +1,8 @@
 ---
 title: "Interview with Soulfly's Max Cavalera in Petaluma, CA"
+edited: false
 date: "2019-03-06"
-categories: 
+categories:
   - "features"
   - "interviews"
 ---

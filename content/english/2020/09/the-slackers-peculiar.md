@@ -1,7 +1,8 @@
 ---
 title: "The Slackers - Peculiar"
+edited: false
 date: "2020-09-04"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
   - "reviews-vinyl"

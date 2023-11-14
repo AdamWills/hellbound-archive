@@ -1,10 +1,11 @@
 ---
 title: "Serpent Crown – Incantations of Vengeance"
+edited: false
 date: "2016-09-26"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blackened-sludge"
   - "metal"
   - "review"

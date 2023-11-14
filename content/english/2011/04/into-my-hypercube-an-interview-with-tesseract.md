@@ -1,12 +1,13 @@
 ---
 title: "Into My Hypercube: An Interview With TesseracT"
+edited: false
 date: "2011-04-22"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
   - "headline"
-tags: 
+tags:
   - "adrien-begrand"
   - "century-media"
   - "devin-townsend-project"

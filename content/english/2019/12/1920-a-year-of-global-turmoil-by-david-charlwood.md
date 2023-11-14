@@ -1,9 +1,10 @@
 ---
 title: "1920: A Year Of Global Turmoil by David Charlwood"
+edited: false
 date: "2019-12-15"
-categories: 
+categories:
   - "reviews-books"
-tags: 
+tags:
   - "book"
   - "history"
   - "review"

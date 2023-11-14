@@ -1,10 +1,11 @@
 ---
 title: "PREVIEW: Final line-up for Tech-Fest 2019"
+edited: false
 date: "2019-05-20"
-categories: 
+categories:
   - "features"
   - "psa"
-tags: 
+tags:
   - "djent"
   - "festival"
   - "preview"
@@ -20,9 +21,9 @@ The festival's 2019 edition will take place on **4-8 July** at [Newark Showgroun
 
 **Line up:**
 
-Friday Headliner: **Dying Fetus**  
-Saturday Headliner: **Monuments**  
-Sunday Headliner: **Leprous** (UK summer exclusive) co-headlined with **Vildhjarta** (UK exclusive)  
+Friday Headliner: **Dying Fetus**
+Saturday Headliner: **Monuments**
+Sunday Headliner: **Leprous** (UK summer exclusive) co-headlined with **Vildhjarta** (UK exclusive)
 Thursday Early Bird Headliner: **Jon Gomm**
 
 - **Psycroptic** UK exclusive

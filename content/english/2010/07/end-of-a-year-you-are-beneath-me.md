@@ -1,11 +1,12 @@
 ---
 title: "End Of A Year - You Are Beneath Me"
+edited: false
 date: "2010-07-12"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "deathwish-inc"
   - "end-of-a-year"
   - "hardcore"

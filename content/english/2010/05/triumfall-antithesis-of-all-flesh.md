@@ -1,11 +1,12 @@
 ---
 title: "Triumfall – Antithesis of All Flesh"
+edited: false
 date: "2010-05-20"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "black-metalm-serbia"
   - "dimmu-borgir"
   - "emperor"

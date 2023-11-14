@@ -1,11 +1,12 @@
 ---
 title: "DYING FETUS interview: Trey Williams in San Jose, March 2018"
+edited: false
 date: "2018-04-06"
-categories: 
+categories:
   - "features"
   - "headline"
   - "interviews"
-tags: 
+tags:
   - "california"
   - "death-metal"
   - "dying-fetus"

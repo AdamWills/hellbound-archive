@@ -1,10 +1,11 @@
 ---
 title: "Forming the Void – Relic"
+edited: false
 date: "2017-02-16"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "sludge"

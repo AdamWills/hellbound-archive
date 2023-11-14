@@ -1,9 +1,10 @@
 ---
 title: "The Steve Howe Trio – New Frontier"
+edited: false
 date: "2019-12-17"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "progressive"
   - "review"
   - "rock"

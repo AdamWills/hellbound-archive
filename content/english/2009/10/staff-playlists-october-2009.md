@@ -1,11 +1,12 @@
 ---
 title: "STAFF PLAYLISTS: October 2009"
+edited: false
 date: "2009-10-13"
-categories: 
+categories:
   - "features"
   - "headline"
   - "staff_playlists"
-tags: 
+tags:
   - "england"
   - "gothic-metal"
   - "grind"

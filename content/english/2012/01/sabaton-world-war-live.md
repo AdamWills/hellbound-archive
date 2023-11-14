@@ -1,11 +1,12 @@
 ---
 title: "Sabaton - World War Live: The Battle For The Baltic Sea"
+edited: false
 date: "2012-01-06"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "blind-guardian"
   - "jason-wellwood"
   - "nuclear-blast"

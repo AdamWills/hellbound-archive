@@ -1,11 +1,12 @@
 ---
 title: "Twisted Sister - Double Live DVD"
+edited: false
 date: "2011-08-04"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-visual"
-tags: 
+tags:
   - "dee-snider"
   - "dvd-review"
   - "eagle-vision"

@@ -1,10 +1,11 @@
 ---
 title: "Wacken Metal Battle Canada thunders on"
+edited: false
 date: "2015-03-31"
-categories: 
+categories:
   - "psa"
   - "editors_blog"
-tags: 
+tags:
   - "wacken-metal-battle-canada"
 ---
 

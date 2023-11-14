@@ -1,9 +1,10 @@
 ---
 title: "Harvestman – Music For Megaliths"
+edited: false
 date: "2017-06-07"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "harvestman"
   - "neurosis"
   - "psychedelic"

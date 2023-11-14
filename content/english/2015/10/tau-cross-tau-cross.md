@@ -1,9 +1,10 @@
 ---
 title: "Tau Cross – Tau Cross"
+edited: false
 date: "2015-10-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "album-review"
   - "amebix"
   - "metal"

@@ -1,13 +1,14 @@
 ---
 title: "Cephalic Carnage Tour Diary: Part 3"
+edited: false
 date: "2011-02-14"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "featured"
   - "features"
   - "jay_gorania"
-tags: 
+tags:
   - "carnifex"
   - "cephalic-carnage"
   - "decrepit-birth"

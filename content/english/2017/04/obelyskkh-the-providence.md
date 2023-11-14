@@ -1,10 +1,11 @@
 ---
 title: "Obelyskkh – The Providence"
+edited: false
 date: "2017-04-17"
-categories: 
+categories:
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "metal"
   - "obelyskkh"

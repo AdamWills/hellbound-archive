@@ -1,12 +1,13 @@
 ---
 title: "Cephalic Carnage Tour Diary: Part 1"
+edited: false
 date: "2010-09-10"
-categories: 
+categories:
   - "articles"
   - "blogs"
   - "headline"
   - "jay_gorania"
-tags: 
+tags:
   - "cephalic-carnage"
   - "grind"
   - "jay-h-gorania"

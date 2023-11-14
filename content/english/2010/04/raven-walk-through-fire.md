@@ -1,11 +1,12 @@
 ---
 title: "Raven – Walk through Fire"
+edited: false
 date: "2010-04-02"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "metal-blade"
   - "nwobhm"
   - "raven"

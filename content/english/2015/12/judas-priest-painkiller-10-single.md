@@ -1,10 +1,11 @@
 ---
 title: "Judas Priest – Painkiller 10'' single"
+edited: false
 date: "2015-12-07"
-categories: 
+categories:
   - "reviews-classics"
   - "reviews-vinyl"
-tags: 
+tags:
   - "heavy-metal"
   - "judas-priest"
   - "review"

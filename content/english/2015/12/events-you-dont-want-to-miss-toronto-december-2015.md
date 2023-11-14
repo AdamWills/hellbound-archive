@@ -1,11 +1,12 @@
 ---
 title: "Events You Don't Want to Miss - Toronto December 2015"
+edited: false
 date: "2015-12-04"
-categories: 
+categories:
   - "blogs"
   - "features"
   - "psa"
-tags: 
+tags:
   - "events"
   - "live"
   - "toronto"

@@ -1,7 +1,8 @@
 ---
 title: "Full Metal Parenting #9: Tom Campagna interview"
+edited: false
 date: "2015-08-07"
-categories: 
+categories:
   - "interviews"
 ---
 

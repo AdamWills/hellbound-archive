@@ -1,9 +1,10 @@
 ---
 title: "Witch Mountain – Witch Mountain"
+edited: false
 date: "2018-08-03"
-categories: 
+categories:
   - "reviews-audio"
-tags: 
+tags:
   - "doom"
   - "doom-metal"
   - "heavy"

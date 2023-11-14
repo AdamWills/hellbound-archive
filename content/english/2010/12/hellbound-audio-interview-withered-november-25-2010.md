@@ -1,11 +1,12 @@
 ---
 title: "Hellbound Audio Interview: Withered on November 25, 2010"
+edited: false
 date: "2010-12-02"
-categories: 
+categories:
   - "articles"
   - "featured"
   - "features"
-tags: 
+tags:
   - "danzig"
   - "kevin-stewart-panko"
   - "landmine-marathon"

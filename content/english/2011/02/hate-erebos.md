@@ -1,11 +1,12 @@
 ---
 title: "Hate - Erebos"
+edited: false
 date: "2011-02-17"
-categories: 
+categories:
   - "featured"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "behemoth"
   - "hate"
   - "listenable-records"

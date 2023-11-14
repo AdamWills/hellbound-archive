@@ -1,11 +1,12 @@
 ---
 title: "Opeth / The Sword @ Massey Hall, Toronto ON, October 5, 2016"
+edited: false
 date: "2016-10-08"
-categories: 
+categories:
   - "features"
   - "reviews"
   - "reviews-live"
-tags: 
+tags:
   - "concert"
   - "jethro-tull"
   - "kiss"

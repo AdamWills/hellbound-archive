@@ -1,11 +1,12 @@
 ---
 title: "Ian Blurton – Signals Through the Flames"
+edited: false
 date: "2019-07-05"
-categories: 
+categories:
   - "canadian-metal"
   - "reviews"
   - "reviews-audio"
-tags: 
+tags:
   - "heavy"
   - "review"
   - "rock"
