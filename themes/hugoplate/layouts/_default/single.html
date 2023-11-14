@@ -1,0 +1,36 @@
+{{ define "main" }}
+  <article class="">
+    <header class="text-center">
+      <h1 class="uppercase text-5xl font-black">{{ .Title | title }}</h1>
+      <p class="mt-4">Originally published on {{ .Params.date.Format "January 2, 2006" }}
+
+        {{ if .Params.author }} by <a
+                href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
+            {{ .Params.author }}
+          {{ end }}
+        </a>
+      </p>
+      <div class=""><img class="mx-auto" src="{{ .Params.coverImage }}"></div>
+    </header>
+
+    <div class="prose prose-xl max-w-prose mx-auto mt-16">
+      {{ .Content }}
+    </div>
+
+    <footer class="text-base max-w-prose mx-auto mt-16">
+
+      <ul class="text-center">
+        {{ $tags:= .Params.tags }}
+        {{ range $i,$p:= $tags }}
+          <li class="inline-block text-center font-mono bg-black text-white px-2 py-1 my-2 uppercase">
+            <a
+          class=""
+          href="{{ `tags/` | relLangURL }}{{ . | urlize | lower }}/">
+          #{{ . | humanize }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </footer>
+  </article>
+{{ end }}
